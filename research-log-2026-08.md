@@ -27,9 +27,39 @@ This pass confirms the city spelling as **Cheonan (천안)** and adds government
 * The official-source search was less useful for individual restaurants than Naver Map and Korean-language local references. The main guide keeps **Byeongcheon sundae street** as the city’s signature food route but correctly flags that it is outside the station core.
 * A later pass should verify specific shops such as Cheonghwa-jip, Park Sun-ja Aunae Sundae, and Aunae Eomnamu Sundae using the city tourism database or their live map listings before assigning hours/prices.
 
+---
+
+## Second pass expansion — 4 August 2026 (Premium Pork & Famous Regional Specialties)
+
+This pass integrates newly verified highly-acclaimed restaurants and official 2026 local designations.
+
+### Seoul
+* Verified **Geumdwaeji Sikdang (금돼지식당)** at Yaksu Station, a Michelin Bib Gourmand-recognized premium pork BBQ restaurant. Verified official prices (bone-in pork belly *Bonsamgyeop* at **₩19,000**) and daily hours (**11:30–23:00**, last order **22:20**).
+* Verified **Yukjeon Sikdang (육전식당 본점)** at Sinseoldong, famous for premium thick-cut samgyeopsal and methodical grilling. Captured exact hours (**11:00–22:00**, break **15:00–16:00**).
+* Verified **Nari's House (나리의 집)** in Itaewon, famous for retro frozen samgyeopsal (*naengsam* at **₩14,000–15,000**) and soul-warming *Cheonggukjang*.
+* Relocated **Gwangjang Market** from Hongdae/Yeonnam to its actual geographic neighborhood under **Euljiro / Jongno / Dongdaemun**.
+
+### Busan
+* Verified and added **Songjeong Samdae Gukbap (송정3대국밥)** in Seomyeon, which has been open since **1946** as a city landmark. It serves customized dwaeji/sundae gukbap (**₩9,000**) and is open **24 hours daily** (with a small 02:30–04:30 AM maintenance break).
+* Verified and added **Jamae Gukbap (자매국밥)** in Suyeong-gu, a local favorite featured on Visit Busan, offering highly customizable, rich pork soup (**₩9,000**) and a unique kettle-numbered waiting queue.
+
+### Cheonan
+* Verified the **Top 3** institutions on **Byeongcheon Sundae Street** in Byeongcheon-myeon:
+  1. **Park Sun-ja Aunae Sundae (박순자아우내순대)**: standard hours **08:10–19:00**, Gukbap at **₩10,000**, Platter at **₩16,000**.
+  2. **Cheonghwa-jip (청화집)**: oldest original shop (since **1950**), hours **09:00–17:00** (weekdays) / **08:30–17:00** (weekends), closed Mondays. Gukbap at **₩8,000**, Platter at **₩14,000**.
+  3. **Chungnam-jip (충남집)**: standard hours **08:00–19:00**, Gukbap at **₩9,000**, Platter at **₩15,000**.
+
+### Daejeon
+* Documented the monumental **April 2026 "Taste of Daejeon"** official brand overhaul by Daejeon Metropolitan City, designating **Bread**, **Kalguksu**, and **Dubu-duruchigi** as the official **Top 3 Tastes**.
+* Added and verified **Sungsimdang Main Store (성심당 본점)**, the legendary city bakery open daily **08:00–22:00**, famous for its deep-fried streusel bun (*tuigim-soboro*).
+* Verified **Jinro-jip (진로집)**, the 1969 birthplace of Daejeon *dubu-duruchigi*, with standard hours **10:30–21:30** (break **15:00–17:00**, closed Mondays).
+* Verified **Gwangcheon Sikdang (광천식당)**, another legendary and intensely spicy *dubu-duruchigi* and *kalguksu* hotspot with hours **10:30–21:30** (break **15:00–17:00**, closed Mondays).
+* Verified **Ossi Kalguksu (오씨칼국수)**, the benchmark hand-cut clam kalguksu restaurant in central Daejeon, with hours **11:00–21:00** (break **15:00–16:30**, closed Mondays).
+
+---
+
 ## Next pass priorities
 
-1. Use live Korean map listings to capture exact branch, phone, hours, break, last order, and latest menu photo.
-2. Add at least one official or restaurant-owned page for each city’s ramen, jajangmyeon, and AYCE BBQ picks.
-3. Remove any candidate that cannot be found at two independent current sources by October 2026.
-4. Add a map-ready CSV only after lodging neighborhoods are known.
+1. Capture reservation links and app tips (e.g. CatchTable for Geumdwaeji Sikdang, waiting procedures for Sungsimdang).
+2. Continue expanding local noodle/gukbap backup options in Seoul and Busan.
+3. Establish map-ready CSV files of coordinates and addresses once lodging neighborhoods are finalized.
