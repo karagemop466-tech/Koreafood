@@ -23,9 +23,11 @@ Prices and hours are **research snapshots**; `RECHECK` means confirm on the link
 | AYCE KBBQ | [Budnamujip](https://map.naver.com/p/search/%EB%B2%84%EB%93%9C%EB%82%98%EB%AC%B4%EC%A7%91%20%EB%A7%88%ED%8F%AC) | pork BBQ; roughly ₩15,000–25,000 per person (estimate; confirm AYCE/menu) | RECHECK | [Naver listing](https://map.naver.com/p/search/%EB%B2%84%EB%93%9C%EB%82%98%EB%AC%B4%EC%A7%91%20%EB%A7%88%ED%8F%AC) |
 | Korean | [Mapo Jeong Daepo](https://map.naver.com/p/search/%EB%A7%88%ED%8F%AC%20%EC%A0%95%EB%8C%80%ED%8F%AC) | charcoal pork; ₩18,000–25,000 per portion estimate | RECHECK | Naver listing |
 
-## Yongsan / Itaewon
+## Jongno / Insadong / Yongsan
 
 | Type | Spot | What to order / price | Hours | Links |
+|---|---|---|---|---|
+| Korean / vegan | [Osegyehyang (오세계향)](https://english.visitseoul.net/tours/Seoul-Recommended-Halal-Restaurants_/23599) | vegetarian jajangmyeon and vegan BBQ; price RECHECK | RECHECK current hours | [Visit Seoul official](https://english.visitseoul.net/tours/Seoul-Recommended-Halal-Restaurants_/23599) |
 |---|---|---|---|---|
 | Korean | [Tosokchon Samgyetang](https://www.tosokchon.com/) | ginseng chicken; ₩20,000–30,000 estimate | Official site/listing; RECHECK holidays | [Official site](https://www.tosokchon.com/) |
 | Ramen | [Ramen Jiro Seoul](https://map.naver.com/p/search/%EB%9D%BC%EB%A9%98%20%EC%A7%80%EB%A1%9C%20%EC%84%9C%EC%9A%B8) | large pork ramen; roughly ₩10,000–15,000 estimate | RECHECK; closed/limited days common | Naver listing |
