@@ -1,6 +1,7 @@
 City,Category,Spot Name (English),Spot Name (Korean),Neighborhood,Price Tier,Naver Map Link
 Seoul,Ramen,Oreno Ramen Main Store,오레노라멘 본점,Hapjeong (near Hongdae),Budget-to-Mid,https://map.naver.com/p/search/%EC%98%A4%EB%A0%88%EB%85%B8%EB%9D%BC%EB%A9%98%20%EB%B3%B8%EC%A0%90
 Seoul,Ramen,Oreno Ramen Insadong,오레노라멘 인사동점,Jongno / Anguk,Budget-to-Mid,https://map.naver.com/p/search/%EC%98%A4%EB%A0%88%EB%85%B8%EB%9D%BC%EB%A9%98%20%EC%9D%B8%EC%82%AC%EB%8F%99
+Seoul,Ramen,Menten,멘텐,Myeongdong / Chungmuro,Budget-to-Mid,https://map.naver.com/p/search/%EB%A9%98%ED%85%90
 Seoul,Ramen,Ramen Jiro Seoul,라멘 지로 서울,Yongsan / Sookmyung Women's Univ.,Budget,https://map.naver.com/p/search/%EB%9D%BC%EB%A9%98%20%EC%A7%80%EB%A1%9C%20%EC%84%9C%EC%9A%B8
 Seoul,Jajangmyeon,Hong Kong Banjum 0410,홍콩반점0410,Hongdae / Myeongdong / National Chain,Budget,https://map.naver.com/p/search/%ED%99%8D%EC%BD%A9%EB%B0%98%EC%A0%90
 Seoul,Jajangmyeon,Sinseonggak,신성각,Gongdeok / Mapo,Budget,https://map.naver.com/p/search/%EC%8B%A0%EC%84%B1%EA%B0%81%20%EA%B3%B5%EB%8D%95
@@ -8,6 +9,8 @@ Seoul,Jajangmyeon,Osegyehyang,오세계향,Insadong,Budget-to-Mid,https://englis
 Seoul,AYCE BBQ,Myeongnyun Jinsa Galbi,명륜진사갈비,Huam (Seoul Station) / Dongmyo / Sinchon,Budget-to-Mid,https://map.naver.com/p/search/%EB%AA%85%EB%A5%9C%EC%A7%84%EC%82%AC%EA%B0%88%EB%B9%84
 Seoul,AYCE BBQ,Budnamujip,버드나무집 마포,Mapo / Gongdeok,Budget-to-Mid,https://map.naver.com/p/search/%EB%B2%84%EB%93%9C%EB%82%98%EB%AC%B4%EC%A7%91%20%EB%A7%88%ED%8F%AC
 Seoul,Classic Korean,Myeongdong Kyoja,명동교자 본점,Myeongdong / Jung-gu,Budget-to-Mid,https://map.naver.com/p/search/%EB%AA%85%EB%8F%99%EA%B5%90%EC%9E%90%20%EB%B3%B8%EC%A0%90
+Seoul,Classic Korean,Hadongkwan Main Store,하동관 본점,Myeongdong / Jung-gu,Budget-to-Mid,https://map.naver.com/p/search/%ED%95%98%EB%8F%99%EA%B4%80%20%EB%AA%85%EB%8F%99
+Seoul,Classic Korean,Chanyang-jip,찬양집,Jongno 3-ga / Ikseon-dong,Budget,https://map.naver.com/p/search/%EC%B0%AC%EC%96%91%EC%A7%91%20%EC%A2%85%EB%A1%9C
 Seoul,Classic Korean,Imun Seolleongtang,이문설농탕,Jongno / Insadong,Budget-to-Mid,https://map.naver.com/p/search/%EC%9D%B4%EB%AC%B8%EC%84%A4%EB%86%8D%ED%83%95
 Seoul,Classic Korean,Gwangjang Market,광장시장,Jongno 5-ga,Budget,https://english.visitseoul.net/attractions/Gwangjang-Market_/285
 Seoul,Classic Korean,Jongno 3-ga Grilled-Fish Alley,종로 3가 생선구이골목,Jongno 3-ga,Budget,https://english.visitseoul.net/attractions/Jongno-3-ga-Fish-Grill-Alley_/285
@@ -23,8 +26,10 @@ Busan,Ramen,Tetsuya,테츠야 라멘,Haeundae,Budget-to-Mid,https://map.naver.co
 Busan,Jajangmyeon,Hwaguk Banjeom,화국반점,Jung-gu / Nampo,Budget,https://www.visitbusan.net/index.do?menuCd=DOM_000000302003001000&uc_seq=2098&lang_cd=en
 Busan,Jajangmyeon,Hong Kong Banjum 0410,홍콩반점0410,Seomyeon / Busan Station,Budget,https://map.naver.com/p/search/%ED%99%8D%EC%BD%A9%EB%B0%98%EC%A0%90%20%EB%B6%80%EC%82%B0
 Busan,AYCE BBQ,Myeongnyun Jinsa Galbi Seomyeon,명륜진사갈비 서면점,Seomyeon,Budget-to-Mid,https://map.naver.com/p/search/%EB%AA%85%EB%A5%9C%EC%A7%84%EC%82%AC%EA%B0%88%EB%B9%84%20%EC%84%9C%EB%A9%B4
+Busan,Classic Korean,Hapcheon Ilryu Gukbap,합천일류돼지국밥,Sasang (Terminal Area),Budget,https://map.naver.com/p/search/%ED%95%A9%EC%B2%9C%EC%9D%BC%EB%A5%98%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5
 Busan,Classic Korean,Shinbalwon,신발원,Chinatown (Busan Station),Budget,https://map.naver.com/p/search/%EC%8B%A0%EB%B0%9C%EC%9B%90
-Busan,Classic Korean,Choryang Milmyeon,초량밀면,Dong-gu (Busan Station),Budget,https://map.naver.com/p/search/%EC%B4%89%EB%82%A8%EC%A7%91%20%EC%B2%9C%EC%95%88
+Busan,Classic Korean,Maga Mandu,마가만두,Chinatown (Busan Station),Budget,https://map.naver.com/p/search/%EB%A7%88%EA%B0%80%EB%A7%8C%EB%91%90
+Busan,Classic Korean,Choryang Milmyeon,초량밀면,Dong-gu (Busan Station),Budget,https://map.naver.com/p/search/%EC%B4%88%EB%9F%89%EB%B0%80%EB%A9%B4
 Busan,Classic Korean,Gijang Sonkalguksu,기장손칼국수,Seomyeon Market,Budget,https://map.naver.com/p/search/%EA%B8%B0%EC%9E%A5%EC%86%90%EC%B9%BC%EA%B5%AD%EC%88%98
 Busan,Classic Korean,Songjeong Samdae Gukbap,송정3대국밥,Seomyeon,Budget,https://map.naver.com/p/search/%EC%86%A1%EC%A0%953%EB%8C%80%EA%B5%AD%EB%B0%A5
 Busan,Classic Korean,Jamae Gukbap,자매국밥,Suyeong-gu / Gwangan,Budget,https://map.naver.com/p/search/%EC%9E%90%EB%A7%A4%EA%B5%AD%EB%B0%A5
@@ -43,7 +48,7 @@ Cheonan,Classic Korean,Hakhwa Halmoni Hodu-gwaja,학화할머니호두과자 천
 Cheonan,Classic Korean,Park Sun-ja Aunae Sundae,박순자아우내순대,Byeongcheon-myeon (Sundae Street),Budget-to-Mid,https://map.naver.com/p/search/%EB%B0%95%EC%88%9C%EC%9E%90%EC%95%84%EC%9A%B0%EB%82%B4%EC%88%9C%EB%8C%80
 Cheonan,Classic Korean,Cheonghwa-jip,청화집,Byeongcheon-myeon (Sundae Street),Budget,https://map.naver.com/p/search/%EC%B2%AD%ED%99%94%EC%A7%91%20%EC%B2%9C%EC%95%88
 Cheonan,Classic Korean,Chungnam-jip,충남집,Byeongcheon-myeon (Sundae Street),Budget-to-Mid,https://map.naver.com/p/search/%EC%B4%89%EB%82%A8%EC%A7%91%20%EC%B2%9C%EC%95%88
-Cheonan,Cafe,Toujours Dolgama Village,뚜쥬루 과자점 빵돌가마마을,Guryong-dong (South Cheonan),Budget,https://map.naver.com/p/search/%EB%9A%9C%EC%A5%AC%EB%A3%A8%20%EB%B9%B5%EB%8F%8C%EA%B0%80%EB%A7%88%EB%A7%88%EC%9D%84
+Cheonan,Cafe,Toujours Dolgama Village,뚜쥬루 과자점 빵돌가마마을,Guryong-dong (South Cheonan),Budget,https://map.naver.com/p/search/%EB%9A%9C%EC%A5%AC%EB%A3%A8%20%EB%B9%B5%EB%8F%8C%EA%B0%80%EB%A7%88%EB%A7%8C%EC%9D%94
 Daejeon,Ramen,Subarashi Ramen Main Store,스바라시라멘,Yuseong (Bongmyeong-dong),Budget-to-Mid,https://map.naver.com/p/search/%EC%8A%A4%EB%B0%94%EB%9D%BC%EC%8B%9C%20%EC%9C%A0%EC%84%B1
 Daejeon,Ramen,Subarashi Ramen Dunsan,스바라시라멘 시청점,Dunsan-dong (City Hall),Budget-to-Mid,https://map.naver.com/p/search/%EC%8A%A4%EB%B0%94%EB%9D%BC%EC%8B%9C%20%EB%91%94%EC%82%B0
 Daejeon,Ramen,Menji,멘지 대전점,Yuseong,Budget-to-Mid,https://map.naver.com/p/search/%EB%A9%98%EC%A7%80%20%EB%8C%80%EC%A0%84
