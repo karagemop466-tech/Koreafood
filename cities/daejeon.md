@@ -4,7 +4,7 @@
 
 | Type | Spot | What to order / price | Hours | Links |
 |---|---|---|---|---|
-| Korean | [Ossi Kalguksu (오씨칼국수)](https://map.naver.com/p/search/%EC%98%A4%EC%94%A8%EC%B9%BC%EA%B5%AD%EC%88%98%20%EB%8C%80%EC%A0%84) | clam kalguksu and seafood; roughly ₩9,000–13,000 estimate | RECHECK; queue and sold-out risk | Naver listing |
+| Korean | [Ossi Kalguksu (오씨칼국수)](https://map.naver.com/p/search/%EC%98%A4%EC%94%A8%EC%B9%BC%EA%B5%AD%EC%88%98%20%EB%8C%80%EC%A0%84) | clam kalguksu and seafood; roughly ₩9,000–13,000 estimate | RECHECK; queue and sold-out risk | [Daejeon official noodle travel guide](https://www.daejeontour.co.kr/ko/festival/festivalView.do?festv_id=23&festv_nm=%EB%8C%80%EC%A0%84%20%EC%B9%BC%EA%B5%AD%EC%88%98%20%EC%97%AC%ED%96%89) · Naver listing |
 | Jajangmyeon | [Tae Hwa Ru (태화루)](https://map.naver.com/p/search/%EB%8C%80%EC%A0%84%20%ED%83%9C%ED%99%94%EB%A3%A8) | jajangmyeon/jjamppong; roughly ₩7,000–12,000 estimate | RECHECK | Naver listing |
 
 ## Yuseong

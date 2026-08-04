@@ -14,7 +14,7 @@ Prices and hours are **research snapshots**; `RECHECK` means confirm on the link
 | Type | Spot | What to order / price | Hours | Links |
 |---|---|---|---|---|
 | Korean | [Jongno 3-ga grilled-fish alley](https://english.visitseoul.net/attractions/Jongno-3-ga-Fish-Grill-Alley_/285) | grilled fish + rice, roughly ₩10,000–20,000 (estimate) | Individual stalls vary; RECHECK | [Visit Seoul](https://english.visitseoul.net/) |
-| Jajangmyeon | [Sinseonggak (신성각)](https://map.naver.com/p/search/%EC%8B%A0%EC%84%B1%EA%B0%81%20%EA%B3%B5%EB%8D%95) | handmade jajangmyeon; roughly ₩8,000–12,000 (estimate) | RECHECK; limited daytime service / possible sold-out | [Naver business listing](https://map.naver.com/p/search/%EC%8B%A0%EC%84%B1%EA%B0%81%20%EA%B3%B5%EB%8D%95) |
+| Jajangmyeon | [Sinseonggak (신성각)](https://map.naver.com/p/search/%EC%8B%A0%EC%84%B1%EA%B0%81%20%EA%B3%B5%EB%8D%95) | handmade jajangmyeon; roughly ₩8,000–12,000 (estimate) | RECHECK; limited daytime service / possible sold-out | [Visit Seoul official profile](https://english.visitseoul.net/restaurants/Sinseonggak_/4674) · [Naver listing](https://map.naver.com/p/search/%EC%8B%A0%EC%84%B1%EA%B0%81%20%EA%B3%B5%EB%8D%95) |
 
 ## Mapo / Gongdeok
 

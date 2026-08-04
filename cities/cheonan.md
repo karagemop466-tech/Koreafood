@@ -6,7 +6,7 @@ Cheonan is the better choice for a compact, local-feeling food stop. Exact resta
 
 | Type | Spot | What to order / price | Hours | Links |
 |---|---|---|---|---|
-| Korean specialty | **Cheonan Sundae Street (천안 병천순대거리)** | Cheonan-style sundae gukbap; roughly ₩9,000–12,000 estimate | Individual shops generally lunch–evening; closed days vary | [Korea Tourism Organization search](https://english.visitkorea.or.kr/) |
+| Korean specialty | [Shin Eunsu Cham Byeongcheon Sundae](https://www.cheonan.go.kr/prog/hotFood/tour/sub03_08/view.do?pageIndex=4&cntNo=7) | Cheonan-style sundae gukbap, sundae platter; price RECHECK | Individual shops generally lunch–evening; closed days vary; phone 041-561-0151 | [Cheonan City official listing](https://www.cheonan.go.kr/prog/hotFood/tour/sub03_08/view.do?pageIndex=4&cntNo=7) · [Sundae Street official](https://www.cheonan.go.kr/prog/tursmCn/tour/sub01_03_05/view.do?pageIndex=5&cntno=15) |
 | Korean | [Cheonan Samgeori Park](https://map.naver.com/p/search/%EC%B2%9C%EC%95%88%20%EC%82%BC%EA%B1%B0%EB%A6%AC%20%EA%B3%B5%EC%9B%90) area | local dishes/stalls; price varies | Park open access; businesses vary | Naver map |
 
 ## Sinbu-dong
