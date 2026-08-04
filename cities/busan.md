@@ -1,34 +1,45 @@
-# Busan
+# Busan Ultimate Food Guide
 
-## Nampo / Jung-gu
+This comprehensive guide focuses on **cost efficiency, quality, and community reviews** for our trip. Logistics and day-by-day transit can be planned once this master list is approved.
 
-| Type | Spot | What to order / price | Hours | Links |
-|---|---|---|---|---|
-| Jajangmyeon | [Hwaguk Banjeom (화국반점)](https://www.visitbusan.net/index.do?menuCd=DOM_000000302003001000&uc_seq=2098&lang_cd=en) | ganjajang (dry jajang), jajangmyeon, tangsuyuk; price RECHECK | **Daily 11:30–21:30; break 15:30–17:00; closed 1st & 3rd Monday** (official Visit Busan listing) | [Visit Busan official](https://www.visitbusan.net/index.do?menuCd=DOM_000000302003001000&uc_seq=2098&lang_cd=en) |
-| Korean | [Jagalchi Market](https://www.visitbusan.net/index.do?menuCd=DOM_000000302001001000&uc_seq=82&lang_cd=en) | seafood meals; market pricing varies, roughly ₩15,000–40,000+ | Market/restaurant hours vary; RECHECK | [Visit Busan](https://www.visitbusan.net/index.do?menuCd=DOM_000000302001001000&uc_seq=82&lang_cd=en) |
+---
 
-## Seomyeon / Bujeon
+## 🍜 Ramen (Japanese Ramen & Local Noodles)
 
-| Type | Spot | What to order / price | Hours | Links |
-|---|---|---|---|---|
-| Noodles | [Gukje Milmyeon Main Branch](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=95) | mul or bibim milmyeon **₩9,000** (official listing) | RECHECK current hours/closures | [Visit Busan official](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=95) |
-| Korean specialty | [Songjeong Samdae Gukbap (송정3대국밥)](https://map.naver.com/p/search/%EC%86%A1%EC%A0%953%EB%8C%80%EA%B5%AD%EB%B0%A5) | Dwaeji gukbap, Sundae gukbap **₩9,000** (official price); Suyuk Baekban ₩11,000 | **Open 24 hours daily** (maintenance break 02:30–04:30 AM) | [Naver listing](https://map.naver.com/p/search/%EC%86%A1%EC%A0%953%EB%8C%80%EA%B5%AD%EB%B0%A5) · [Visit Korea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=216936) |
-| Korean | [Bujeon Market](https://www.visitbusan.net/index.do?menuCd=DOM_000000302002001000&uc_seq=82&lang_cd=en) / Yeongja Myeonok | jajangmyeon, kalguksu, jajangbap; **₩3,000–5,000 reported by Visit Busan** | Stall hours vary; go daytime; RECHECK | [Visit Busan food itinerary](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302011001000&uc_seq=2111) |
-| AYCE KBBQ | [Myeongnyun Jinsa Galbi Seomyeon](https://map.naver.com/p/search/%EB%AA%85%EB%A5%9C%EC%A7%84%EC%82%AC%EA%B0%88%EB%B9%84%20%EC%84%9C%EB%A9%B4) | AYCE marinated pork; usually roughly ₩18,000–22,000 adult (estimate) | RECHECK; branch hours/menu vary | Naver branch listing |
+| Spot Name (Korean) | Neighborhood | Est. Price Range | Quality & Review Highlights | Hours & Closures | Links |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Nagahama Mangetsu** (나가하마만게츠) | Haeundae (Haeridan-gil) | **₩10,000–₩11,000** per bowl | 🌟 **Michelin Bib Gourmand (Busan 2026)**. Acclaimed as the absolute best Fukuoka-style Tonkotsu Ramen in Busan. Boasts an incredibly rich, 36-hour slow-cooked pork bone broth. Diners select noodle firmness (from hard 6-second dunk to soft). Extreme quality for the price. | **Daily 11:00–20:30** (CatchTable app highly recommended to manage the long lines) | [Naver Map](https://map.naver.com/p/search/%EB%82%98%EA%B0%80%ED%95%98%EB%A7%88%EB%A7%8C%EA%B2%8C%EC%B8%A0) |
+| **Tetsuya** (테츠야 라멘) | Haeundae | **₩10,000–₩15,000** per bowl | 🌟 Highly rated, cosy independent shop serving authentic, deeply flavored Japanese pork-bone ramen. Limited seating with a very quiet, local-friendly atmosphere. | **Daily 11:30–21:00** (RECHECK branch listing) | [Naver Map](https://map.naver.com/p/search/%ED%85%8C%EC%B8%A0%EC%95%BC%20%EB%9D%BC%EB%A9%98%20%EB%B6%80%EC%82%B0) |
 
-## Suyeong / Gwangan (Millak)
+---
 
-| Type | Spot | What to order / price | Hours | Links |
-|---|---|---|---|---|
-| Korean specialty | [Jamae Gukbap (자매국밥)](https://map.naver.com/p/search/%EC%9E%90%EB%A7%A4%EA%B5%AD%EB%B0%A5) | Pork soup, Sundae soup **₩9,000** (official price); Suyuk Rice Set ₩12,000 | **Mon–Sat 10:00–21:00 (Closed Sundays/Holidays)** | [Naver listing](https://map.naver.com/p/search/%EC%9E%90%EB%A7%A4%EA%B5%AD%EB%B0%A5) · [Visit Busan](https://www.visitbusan.net/) |
+## 🥢 Jajangmyeon (Korean Chinese Black Bean Noodles)
 
-## Haeundae
+| Spot Name (Korean) | Neighborhood | Est. Price Range | Quality & Review Highlights | Hours & Closures | Links |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Hwaguk Banjeom** (화국반점) | Jung-gu / Nampo | Jajangmyeon: **₩7,000**<br>Ganjajang: **₩8,000** | 🌟 **Busan's most iconic retro Chinese restaurant.** Famous for its dry black bean noodles (*Ganjajang*) topped with a perfect fried egg, and crispy *Tangsuyuk*. Frequently featured as a movie set due to its beautiful 1960s-style interior. Outstanding reviews. | **Daily 11:30–21:30** (Break 15:30–17:00, Closed on the 1st and 3rd Monday of the month) | [Visit Busan Official](https://www.visitbusan.net/index.do?menuCd=DOM_000000302003001000&uc_seq=2098&lang_cd=en) |
+| **Hong Kong Banjum 0410** (홍콩반점0410) | Seomyeon / Busan Station | Jajangmyeon: **₩6,500**<br>Tangsuyuk (S): **₩15,000** | 🌟 Chef Baek Jong-won's budget chain. Offers exceptional value, speed, and consistency for classic jajangmyeon, spicy jjamppong, and crispy sweet-and-sour pork. | **Daily 11:00–21:30** (Varies slightly by branch) | [Naver Map](https://map.naver.com/p/search/%ED%99%8D%EC%BD%A9%EB%B0%98%EC%A0%90%20%EB%B6%80%EC%82%B0) |
 
-| Type | Spot | What to order / price | Hours | Links |
-|---|---|---|---|---|
-| Noodles | [Gaya Milmyeon](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=102) | milmyeon/bibim milmyeon; price RECHECK | **Open 365 days** per Visit Busan; daily hours RECHECK | [Visit Busan official](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=102) |
-|---|---|---|---|---|
-| Korean | [Haeundae Traditional Market](https://www.visitbusan.net/index.do?menuCd=DOM_000000302001001000&uc_seq=63&lang_cd=en) | milmyeon, grilled seafood, snacks; ₩5,000–30,000 estimate | Vendors vary; RECHECK | [Visit Busan](https://www.visitbusan.net/) |
-| Ramen | [Tetsuya](https://map.naver.com/p/search/%ED%85%8C%EC%B8%A0%EC%95%BC%20%EB%9D%BC%EB%A9%98%20%EB%B6%80%EC%82%B0) | Japanese ramen; roughly ₩10,000–15,000 estimate | RECHECK; limited seats | Naver listing |
+---
 
-**Busan note:** For historical pork soup, **Songjeong Samdae Gukbap** has been a Seomyeon landmark since 1946, open 24 hours. For Gwangan/Millak area, **Jamae Gukbap** is famous for its rich pork broth and custom order options (e.g. lean-only broth). Hwaguk Banjeom remains the top choice for ganjajang.
+## 🥩 AYCE Korean BBQ (All-You-Can-Eat)
+
+| Spot Name (Korean) | Neighborhood | Est. Price Range | Quality & Review Highlights | Hours & Closures | Links |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Myeongnyun Jinsa Galbi** (명륜진사갈비 서면점) | Seomyeon | **₩19,900** per adult | 🌟 Excellent central branch of the national AYCE franchise. Unlimited seasoned pork ribs, thick samgyeopsal, charcoal chicken, soft drinks, and self-service side buffet. Outstanding cost-to-meat ratio. | **Daily 11:30–22:30** (Time limit 120 mins weekdays, 100 mins weekends) | [Naver Map](https://map.naver.com/p/search/%EB%AA%85%EB%A5%9C%EC%A7%84%EC%82%AC%EA%B0%88%EB%B9%84%20%EC%84%9C%EB%A9%B4) |
+
+---
+
+## 🍲 Classic Korean & Specialty Dining
+
+| Spot Name (Korean) | Neighborhood | Est. Price Range | Quality & Review Highlights | Hours & Closures | Links |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Choryang Milmyeon** (초량밀면) | Dong-gu (Busan Station) | Milmyeon (S): **₩6,500**<br>Wangmandu: **₩6,500** | 🌟 **One of Busan's "Top 3 Milmyeon" spots.** Serves cold wheat noodles in a sweet, cinnamon-tinged beef-and-pork icy broth. **Best Value**: The massive steamed "King" Dumplings (*Wangmandu* - 6 pieces for ₩6,500) are widely considered the best and most filling in the city. Outstanding reviews. | **Daily 10:00–22:00** (Last order 21:00 or 21:30; closed Lunar New Year & Chuseok) | [Naver Map](https://map.naver.com/p/search/%EC%B4%88%EB%9F%89%EB%B0%80%EB%A9%B4) |
+| **Gijang Sonkalguksu** (기장손칼국수) | Seomyeon Market | Kalguksu: **₩7,000**<br>Gimbap: **₩2,000–₩3,000** | 🌟 **Featured on Baek Jong-won's Top 3 Chefs.** Famous for hand-rolled, wood-roller-kneaded chewy wheat noodles served in a hot, clear anchovy-garlic broth topped with mugwort and sesame. Unbelievable cost-efficiency and rustic quality. | **Daily 09:00–21:00** (Closed on major holidays) | [Naver Map](https://map.naver.com/p/search/%EA%B8%B0%EC%9E%A5%EC%86%90%EC%B9%BC%EA%B5%AD%EC%88%98) · [Visit Korea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=54208) |
+| **Songjeong Samdae Gukbap** (송정3대국밥) | Seomyeon | Gukbap: **₩9,000**<br>Suyuk Baekban: **₩11,000** | 🌟 **Operating since 1946 (over 80 years!)**. One of Busan's oldest and most respected pork soup (*Dwaeji Gukbap*) spots. Broth is simmered from pork bones for a deep, comforting, non-gamey taste. Diners can customize their meat cuts (pork, sundae, or offal). | **Open 24 hours daily** (Daily maintenance break from 02:30 to 04:30 AM) | [Naver Map](https://map.naver.com/p/search/%EC%86%A1%EC%A0%953%EB%8C%80%EA%B5%AD%EB%B0%A5) · [Visit Korea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=216936) |
+| **Jamae Gukbap** (자매국밥) | Suyeong-gu / Gwangan | Gukbap: **₩9,000**<br>Suyuk Set: **₩12,000** | 🌟 **Famous local favorite loved by BTS**. Highly praised for its extremely rich, flavorful pork bone broth, soft meat slices, and optional spicy chili paste. Features a unique, nostalgic waiting queue where diners are handed numbered brass kettles. | **Mon–Sat 10:00–21:00** (Closed Sundays and public holidays) | [Naver Map](https://map.naver.com/p/search/%EC%9E%90%EB%A7%A4%EA%B5%AD%EB%B0%A5) |
+| **Gukje Milmyeon Main Branch** | Yeonje-gu | Milmyeon: **₩9,000** | 🌟 Officially listed by Visit Busan. Famous for its elastic, chewy noodles, savory cold broth, and delicious spicy mixed version (*Bibim Milmyeon*). | **Daily 10:00–20:30** (Varies seasonally; RECHECK) | [Visit Busan Official](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=95) |
+| **Bujeon Market** (부전시장) / Yeongja Myeonok | Bujeon | Jajangmyeon/Kalguksu: **₩3,000–₩5,000** | 🌟 **Incredible budget market eating.** Stalls like Yeongja Myeonok serve incredibly cheap bowls of noodles and rice dishes. Go daytime for maximum selection. | Stall hours vary; typically active **09:00–18:00** | [Visit Busan Itinerary](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302011001000&uc_seq=2111) |
+| **Jagalchi Market** (자갈치시장) | Jung-gu / Nampo | Seafood sets: **₩15,000–₩40,000+** | 🌟 **Korea's largest seafood market.** Diners buy raw seafood downstairs and pay a small cooking fee (~₩5,000) to eat upstairs. Extreme variety and freshness. | Market open **05:00–22:00** (Closed on the 1st and 3rd Tuesday of the month) | [Visit Busan Official](https://www.visitbusan.net/index.do?menuCd=DOM_000000302001001000&uc_seq=82&lang_cd=en) |
+| **Gaya Milmyeon** (가야밀면) | Jung-gu / Nampo | Milmyeon: **₩8,000–₩9,000** | 🌟 Famous milmyeon shop in central Jung-gu. Listed by Visit Busan as **open 365 days a year**. Refreshing broth and perfect chewy noodles. | **Daily 10:00–21:00** (RECHECK local listings) | [Visit Busan Official](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=102) |
+| **Haeundae Traditional Market** | Haeundae | Snacks/Meals: **₩5,000–₩30,000** | 🌟 Traditional market street right by Haeundae Beach. Famous for grilled sea eels, hotteok, fish cakes, and street tteokbokki. High reviews for clean, lively stalls. | **Daily 09:00–22:00** (Varies by vendor) | [Visit Busan](https://www.visitbusan.net/) |
