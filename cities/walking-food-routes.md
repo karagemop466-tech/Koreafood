@@ -34,9 +34,10 @@ These drafted food routes are designed for **normal vacation days**. They natura
   * *Signature Order (Myeongdong Kyoja)*: Hand-cut Kalguksu noodles (₩11,000) and a plate of juicy Mandu pork dumplings (₩12,000).
 * **1:30 PM–5:30 PM - Activity**: Get lost in the **Myeongdong Shopping Street** (skincare shops, apparel, flagship brands) and visit the magnificent **Shinsegae & Lotte Department Store Main Branches**.
 * **5:30 PM–6:30 PM - Pre-dinner Walk**: Stroll through Myeongdong's vibrant **Street Food Alley** (active from late afternoon). Grab a quick street dessert like *Hotteok* (sweet pancake) or grilled cheese tteokbokki.
-* **7:00 PM - Dinner**: **Menten (멘텐)**
-  * *Signature Order*: Precise, Michelin-level *Shoyu Ramen* (₩11,500) or spicy *Tantanmen* (₩12,000).
-  * *The Vibe*: A highly exclusive, precise one-chef Japanese ramen bar. The perfect reward after a busy shopping day.
+* **7:00 PM - Dinner**: **Menten (멘텐)** or **Yoogane Dakgalbi (유가네닭갈비명동)**
+  * *Signature Order (Menten)*: Precise, Michelin-level *Shoyu Ramen* (₩11,500) or spicy *Tantanmen* (₩12,000).
+  * *Signature Order (Yoogane)*: *Cheese Pongdak* (₩28,500 for two)—spicy stir-fried chicken surrounded by a ring of rich, melted mozzarella cheese.
+  * *The Vibe*: Delicious, highly interactive table-side cooking. The perfect reward after a busy shopping day.
 
 ---
 
@@ -48,9 +49,9 @@ These drafted food routes are designed for **normal vacation days**. They natura
   * *The Vibe*: Michelin Bib Gourmand creamy ramen. Easy electronic kiosk ordering.
 * **1:15 PM–4:00 PM - Activity**: Walk along the trendy tree-lined **Yeonnam-dong Gyeongui Line Forest Park** (known as "Yeontral Park") and explore the quirky accessory and stationery shops in the Yeonnam alleyways.
 * **4:00 PM–6:30 PM - Activity**: Head to **Hongdae Shopping Street**. Browse indie fashion stores, check out street buskers, or visit local visual art flagships.
-* **6:30 PM - Dinner**: **Hong Kong Banjum 0410 (홍콩반점0410)**
-  * *Signature Order*: Cheap Jajangmyeon (₩6,500) and sharing chewy Tangsuyuk (₩15,000).
-  * *The Vibe*: Chef Baek Jong-won's budget chain. Offers exceptional value, speed, and consistency.
+* **6:30 PM - Dinner**: **Manjok Ohyang Jokbal (만족오향족발 홍대점)** or **Hong Kong Banjum 0410 (홍콩반점0410)**
+  * *Signature Order (Manjok)*: Soft five-spice braised pig's trotters (*Jokbal* - ₩38,000/M for sharing), including a **FREE** piping-hot pot of rice-cake dumpling soup table-side.
+  * *Signature Order (Hong Kong Banjum)*: Cheap Jajangmyeon (₩6,500) and sharing chewy Tangsuyuk (₩15,000).
 
 ---
 
@@ -103,7 +104,7 @@ These drafted food routes are designed for **normal vacation days**. They natura
 * **12:00 PM - Lunch**: **Woo Lae Oak (우래옥)**
   * *Signature Order*: Premium beef-broth *Pyeongyang Naengmyeon* (₩16,000) and sweet marinated bulgogi.
   * *The Vibe*: Michelin Bib Gourmand landmark since 1946. Unmatched local reputation for beef naengmyeon.
-* **1:30 PM–5:30 PM - Activity**: Get lost in the hip retro alleyways of **Euljiro (Hipjiro)**, visit vintage tool/hardware shops turned into modern cafes, and browse cool indie graphic studios.
+* **1:30 PM–5:30 PM - Activity**: Get lost in the retro tool and printing alleyways of **Euljiro (Hipjiro)**, visit vintage tool shops turned into modern cafes, and browse cool indie graphic studios.
 * **6:30 PM - Dinner**: **Chanyang-jip (찬양집)** or **Myeongnyun Jinsa Galbi (명륜진사갈비 - Sinchon/Dongmyo)**
   * *Transit Note*: Jongno 3-ga is highly accessible (just a 10-minute walk from Euljiro 4-ga).
 
@@ -123,9 +124,9 @@ These drafted food routes are designed for **normal vacation days**. They natura
   * *The Vibe*: Located inside a majestic, over 100-year-old brick hospital building built in 1922. Unmatched historic atmosphere.
 * **1:30 PM–4:30 PM - Activity**: Walk/shop through the endless, lively alleys of **Gukje Market** and **Bupyeong Kkangtong Market**.
 * **4:30 PM–6:30 PM - Activity**: Explore the sea decks of the sprawling **Jagalchi Seafood Market** and BIFF Square.
-* **6:30 PM - Dinner**: **Hwaguk Banjeom (화국반점)** or **Choryang Milmyeon (초량밀면)**
-  * *Signature Order (Hwaguk)*: Dry Black Bean Noodles (*Ganjajang* - ₩8,000) topped with a fried egg.
-  * *Signature Order (Choryang)*: Refreshing, sweet, icy cold Mul-milmyeon cold wheat noodles (₩6,500).
+* **6:30 PM - Dinner**: **Busan Jokbal (부산족발)** or **Halmae Gaya Milmyeon (할매가야밀면)**
+  * *Signature Order (Busan Jokbal)*: Legendary sweet-sour cold pig's trotters salad (*Naengsam Jokbal* - ₩35,000).
+  * *Signature Order (Halmae Gaya)*: 1974 traditional cold milmyeon (₩7,000) and jumbo dumplings (₩4,000).
 
 ---
 
@@ -153,7 +154,7 @@ These drafted food routes are designed for **normal vacation days**. They natura
   * *The Vibe*: Outstanding local landmark alleys (since 1946 and 1980s respectively).
 * **1:15 PM–5:30 PM - Activity**: Shop through the massive **Seomyeon Underground Shopping Mall** (excellent for budget apparel, socks, and accessories), browse **NC Department Store**, and wander the independent designer alleys of **Jeonpo Cafe Street**.
 * **5:30 PM - Noodle Break / Alternative**: **Seomyeon Gaegeum Milmyeon (서면개금밀면)**
-  * *Signature Order*: Chewy sweet-potato-starch cold Milmyeon (₩9,000) in a medicinal beef bone broth.
+  * *Signature Order*: Chewy sweet-potato-starch cold Milmyeon (₩9,000) in a 1966-legacy medicinal beef bone broth.
 * **6:30 PM - Dinner**: **Myeongnyun Jinsa Galbi Seomyeon (명륜진사갈비 서면점)**
   * *Signature Order*: All-You-Can-Eat marinated pork ribs (₩19,900).
 
@@ -172,7 +173,7 @@ These drafted food routes are designed for **normal vacation days**. They natura
 
 ---
 
-### 🐟 Busan Route 5: Yeongdo Old Port & Fishcake Bakery Walk
+### 🐟 Busan Route 5: Yeongdo Harbor & Old Fishcake Bakery Walk
 *Explore Busan's beautiful coastal island, Yeongdo, combining old shipyards, steep cliff seaside views, and the country's oldest fishcake bakery.*
 
 * **12:00 PM - Lunch**: **Jagalchi Market (자갈치시장)** or **Hwaguk Banjeom (화국반점)**
@@ -210,7 +211,7 @@ These drafted food routes are designed for **normal vacation days**. They natura
   * *Signature Order (Jinro-jip)*: Silky *Dubu-duruchigi* (₩13,000–18,000) finished by tossing in boiled Kalguksu noodles (₩2,000).
   * *Signature Order (Boksu Bunsik)*: Spicy egg-scrambled *Eolkeun Kalguksu* (₩8,000) and firm tofu duruchigi (₩16,000).
 * **1:30 PM–4:00 PM - Activity**: Stroll through **Eunhaeng-dong's Underground Shopping Mall** and explore the trendy clothing boutiques and lifestyle stores of **Jungang-ro**.
-* **4:00 PM - Bakery Stop**: **Sungsimdang Main Store (성심당 본점)** & **Cake Boutique (성심당 케익부띠끄)**
+* **4:00 PM - Bakery Stop**: **Sungsimdang Main Store & Cake Boutique**
   * *Signature Order*: Crispy, deep-fried *tuigim-soboro* (₩1,700–2,000) at the main store, or elegant fruit tarts and roll cakes next door at the Cake Boutique.
   * *The Vibe*: Daejeon's proudest landmark. Expect fast-moving, high-energy queues.
 * **6:30 PM - Dinner**: **Ossi Kalguksu (오씨칼국수)**
@@ -226,9 +227,9 @@ These drafted food routes are designed for **normal vacation days**. They natura
   * *Signature Order*: Pyongyang-style cold buckwheat noodles in chicken-buckwheat broth (*Mul-naengmyeon* - ₩10,000) and large dumplings (₩7,000).
   * *The Vibe*: Selected as a national 100-Year Heritage Shop. Extremely clean, light, and deeply refreshing legacy flavors.
 * **1:30 PM–4:30 PM - Activity**: Walk around the beautiful **Yuseong Hot Springs Park** and soak your feet in the free public outdoor natural hot spring foot baths (*족욕체험장*). Shop at nearby Yuseong downtown avenues.
-* **5:00 PM - Dinner / Alternative**: **Subarashi Ramen Main Store (스바라시라멘)** (Yuseong Branch) or **Menji (멘지 대전점)**
-  * *Signature Order (Subarashi)*: Creamy & spicy *Subarashi Ramen* (₩11,000).
-  * *The Vibe*: Daejeon's highest-rated ramen institution with massive local reviews.
+* **5:00 PM - Pre-dinner Appetizer / Main**: **Taepyung Sogukbap (태평소국밥)** (Yuseong Branch)
+  * *Signature Order*: Beef soup (*Sogukbap* - ₩8,500) and a plate of fresh Hanwoo raw beef sashimi (*Yuksashimi* - ₩11,000).
+  * *The Vibe*: Daejeon's most famous and beloved 24-hour beef soup house, located steps from the hot springs.
 
 ---
 
@@ -260,17 +261,22 @@ These drafted food routes are designed for **normal vacation days**. They natura
 ### 🍲 Classic Korean & Soup Alternates
 * **Seoul - Myeongdong Kyoja (명동교자 본점)**: Legendary 1966 garlicky Kalguksu and juicy Mandu dumplings (Michelin Bib Gourmand).
 * **Seoul - Hadongkwan Main Store (하동관 본점)**: Historic 1939 Hanwoo Beef bone Gomtang soup.
+* **Seoul - Yoogane Dakgalbi (유가네닭갈비)**: Famous interactive cheese-ring spicy chicken galbi in Myeongdong and Hongdae.
 * **Seoul - Chanyang-jip (찬양집)**: 1970 seafood kalguksu with free refills.
 * **Seoul - Buchon Yukhoe (부촌육회 본점)**: Gwangjang market's 7-year consecutive Michelin Bib raw beef tartare.
 * **Seoul - Jin Ok-hwa Halmae Original Chicken (진옥화할매)**: Famous 1978 garlic whole chicken hot pot.
 * **Seoul - Imun Seolleongtang (이문설농탕)** *(Jongno)*: Clean ox bone soup since 1907. Swap into any Jongno cultural walk.
 * **Seoul - Tosokchon Samgyetang (토속촌 삼계탕)** *(Gyeongbokgung)*: Thick, luxurious medicinal ginseng chicken soup. Swap into **Seoul Route 1**.
+* **Seoul - Manjok Ohyang Jokbal (만족오향족발)**: Michelin五香Jokbal served with a free pot of dumpling soup at City Hall and Hongdae.
 * **Busan - Songjeong Samdae Gukbap (송정3대국밥)** *(Seomyeon)*: Historic 1946 dwaeji gukbap, open 24 hours. Swap into **Busan Route 3**.
 * **Busan - Jamae Gukbap (자매국밥)** *(Gwangan)*: BTS-approved rich pork soup with a unique kettle queue. Swap into any coastal walk.
 * **Busan - Gijang Sonkalguksu (기장손칼국수)** *(Seomyeon Market)*: Hand-rolled, chewy kalguksu for only ₩7,000. Swap into **Busan Route 3**.
 * **Busan - Shinbalwon (신발원)** & **Maga Mandu (마가만두)**: Legendary Chinatown hand-pleated fried and steamed dumplings near Busan Station.
 * **Busan - Hapcheon Ilryu Gukbap (합천일류돼지국밥)**: Busan's most celebrated rich, garlicky gukbap in Sasang.
+* **Busan - Busan Jokbal (부산족발)**: Nampo-dong's legendary Cold Naengchae Jokbal pioneer.
+* **Busan - Halmae Gaya Milmyeon (할매가야밀면)**: 1974 legendary cold milmyeon and hand-made jumbo dumplings in Nampo.
 * **Daejeon - Boksu Bunsik (복수분식 본점)**: Legendary spicy Eolkeun-i Kalguksu and dubu-duruchigi.
+* **Daejeon - Taepyung Sogukbap (태평소국밥)**: Cult-status 24h beef soup and Hanwoo raw beef sashimi.
 
 ### ☕ Dessert & Cafe Alternates
 * **Seoul - Fritz Coffee Company Dohwa (프릳츠 도화점)** *(Mapo)*: Converting vintage hanok cafe with award-winning house roasts.
