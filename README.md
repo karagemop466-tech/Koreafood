@@ -1,5 +1,7 @@
 # Korea 2026 food map 🇰🇷
 
+> **New here? Start with [START-HERE.md](START-HERE.md).** It explains the trip, the four cities, how to choose a restaurant, and what the labels mean.
+
 A practical, two-person food plan for **Seoul + Busan**, with **Cheonan (천안)** and **Daejeon (대전)** as the flex-city shortlist. Trip: **31 October–22 November 2026**.
 
 > **Status:** research-first working guide, not a reservation list. Hours and prices change frequently in Korea. Every restaurant has a map/business link and a source link; entries marked `RECHECK` should be checked again 2–4 weeks before travel and on the day. Prices are in KRW and are generally per serving unless stated otherwise.
