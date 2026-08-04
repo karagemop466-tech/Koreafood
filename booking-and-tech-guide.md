@@ -49,3 +49,27 @@ Korea is a highly cashless society, but travelers must keep a few rules in mind:
 * **T-Money Transit Cards**: You need a physical T-Money card for subways and buses.
   * You can buy them at any convenience store (CU, GS25, 7-Eleven).
   * **Crucial Note**: T-Money cards **can only be reloaded with physical CASH** at subway station kiosks or convenience stores. Credit cards cannot be used to reload transit cards.
+
+---
+
+## 🥢 4. Essential Korean Dining Etiquette
+
+To blend in like a local and avoid common table mishaps, keep these traditional and modern Korean dining customs in mind:
+
+### 🛎️ Calling the Server (The Table Bell)
+* **How it works**: Most modern Korean restaurants do not have servers hovering around your table. Instead, look for a small plastic button (the **Table Bell**) mounted on the side of your table or napkin box. Press it once to call your server.
+* **If there is no bell**: Do not wait silently! Call out politely: *"여기요!"* (Yeo-gi-yo! - "Over here, please!") or *"이모님!"* (I-mo-nim! - "Auntie!", used respectfully for female servers).
+
+### 🍴 Utensils & Napkins (The Hidden Drawer)
+* **Where to find them**: If your table is empty when you sit down, **do not panic or ask the server**. Look under the rim of your table—there is almost always a slide-out drawer containing chopsticks, spoons, napkins, and sometimes wet wipes.
+* **The Table Custom**: Spoons are used for rice and soup; chopsticks are used for side dishes (*banchan*). Set them down on a napkin or utensil holder, never stick your chopsticks upright into a bowl of rice (which resembles ancestral funeral offerings).
+
+### 🍚 Eating Rice & Soup (Keep the Bowl on the Table)
+* **Custom**: Unlike in Japan or China, it is considered impolite in Korea to lift your rice or soup bowl off the table to eat. Keep the bowl resting on the table and use your spoon to lift the rice or broth to your mouth.
+
+### 🥩 Sharing Grill Duties (KBBQ Protocol)
+* **Who cooks?**: At premium places like *Geumdwaeji Sikdang* or *Yukjeon Sikdang*, the staff cooks for you. At budget or AYCE places like *Myeongnyun Jinsa Galbi*, you are expected to grill yourselves.
+* **Sharing**: Cut meats into bite-sized pieces with the provided kitchen scissors. Use the metal tongs to rotate meats constantly to prevent burning over charcoal.
+
+### 💸 The Bill & Paying (The Table Clipboard)
+* **Payment**: In almost all Korean restaurants, you do not pay at your table. Look for a plastic clipboard containing your order slip resting on your table. Take this clipboard to the front cash register near the entrance on your way out to settle the bill.
