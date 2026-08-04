@@ -29,9 +29,9 @@ These drafted food routes are designed for **normal vacation days**. They natura
 ### 🛍️ Seoul Route 2: Myeongdong Shopping & Central Street Food Route
 *This route combines high-density shopping, cosmetics hunting, and department store browsing in Seoul's busiest central hub.*
 
-* **12:30 PM - Lunch**: **Myeongdong Kyoja (명동교자 본점)** or **Hadongkwan Main Store (하동관 본점)**
-  * *Signature Order (Myeongdong Kyoja)*: Hand-cut Kalguksu noodles (₩11,000) and a plate of juicy Mandu pork dumplings (₩12,000).
+* **12:30 PM - Lunch**: **Hadongkwan Main Store (하동관 본점)** or **Myeongdong Kyoja (명동교자 본점)**
   * *Signature Order (Hadongkwan)*: Clean Hanwoo beef bone soup (*Gomtang* - ordinary ₩15,000, special ₩18,000) in traditional brass bowls.
+  * *Signature Order (Myeongdong Kyoja)*: Hand-cut Kalguksu noodles (₩11,000) and a plate of juicy Mandu pork dumplings (₩12,000).
 * **1:30 PM–5:30 PM - Activity**: Get lost in the **Myeongdong Shopping Street** (skincare shops, apparel, flagship brands) and visit the magnificent **Shinsegae & Lotte Department Store Main Branches**.
 * **5:30 PM–6:30 PM - Pre-dinner Walk**: Stroll through Myeongdong's vibrant **Street Food Alley** (active from late afternoon). Grab a quick street dessert like *Hotteok* (sweet pancake) or grilled cheese tteokbokki.
 * **7:00 PM - Dinner**: **Menten (멘텐)**
@@ -84,6 +84,31 @@ These drafted food routes are designed for **normal vacation days**. They natura
 
 ---
 
+### 🐔 Seoul Route 6: Gwangjang & Dongdaemun Food Heritage Walk
+*Immerse yourselves in Seoul's oldest market culinary secrets, from Michelin-rated raw beef to the famous One Chicken alley.*
+
+* **12:00 PM - Lunch**: **Buchon Yukhoe (부촌육회 본점)** (inside Gwangjang Market)
+  * *Signature Order*: Fresh, nutty Hanwoo raw beef tartare plate (*Yukhoe* - ₩21,000) and a bowl of *Yukhoe Bibimbap* (₩10,000) to share.
+  * *The Vibe*: Michelin Bib Gourmand recipient for 7+ consecutive years. Outstandingly fresh, fast, and cost-efficient.
+* **1:15 PM–5:30 PM - Activity**: Stroll through **Gwangjang Market** (admire the bustling food stalls), walk along the **Cheonggyecheon Stream**, and explore the massive multi-building **Dongdaemun Shopping District**.
+* **6:30 PM - Dinner**: **Jin Ok-hwa Halmae Original Chicken (진옥화할매원조닭한마리)**
+  * *Signature Order*: A whole, tender young chicken boiled in garlic broth table-side (*Dakhanmari* - ₩28,000), paired with handmade rice cakes and noodles.
+  * *The Vibe*: Founded in 1978. Cult-status garlic-broth chicken alley. Highly delicious, nutritious, and cost-efficient.
+
+---
+
+### 🏛️ Seoul Route 7: Euljiro Alleys & Pyongyang Buckwheat Walk
+*Discover the old-school retro industrial alleyways of Euljiro, combined with the most historic buckwheat noodle house in Korea.*
+
+* **12:00 PM - Lunch**: **Woo Lae Oak (우래옥)**
+  * *Signature Order*: Premium beef-broth *Pyeongyang Naengmyeon* (₩16,000) and sweet marinated bulgogi.
+  * *The Vibe*: Michelin Bib Gourmand landmark since 1946. Unmatched local reputation for beef naengmyeon.
+* **1:30 PM–5:30 PM - Activity**: Get lost in the hip retro alleyways of **Euljiro (Hipjiro)**, visit vintage tool/hardware shops turned into modern cafes, and browse cool indie graphic studios.
+* **6:30 PM - Dinner**: **Chanyang-jip (찬양집)** or **Myeongnyun Jinsa Galbi (명륜진사갈비 - Sinchon/Dongmyo)**
+  * *Transit Note*: Jongno 3-ga is highly accessible (just a 10-minute walk from Euljiro 4-ga).
+
+---
+
 ### 🗺️ Busan Neighborhood Food Routes
 
 ### ⚓ Busan Route 1: Busan Station Chinatown & Historic Market Walk
@@ -127,9 +152,10 @@ These drafted food routes are designed for **normal vacation days**. They natura
   * *Signature Order (Gijang)*: Chewy, hand-cut garlicky Kalguksu (₩7,000) and Gimbap.
   * *The Vibe*: Outstanding local landmark alleys (since 1946 and 1980s respectively).
 * **1:15 PM–5:30 PM - Activity**: Shop through the massive **Seomyeon Underground Shopping Mall** (excellent for budget apparel, socks, and accessories), browse **NC Department Store**, and wander the independent designer alleys of **Jeonpo Cafe Street**.
+* **5:30 PM - Noodle Break / Alternative**: **Seomyeon Gaegeum Milmyeon (서면개금밀면)**
+  * *Signature Order*: Chewy sweet-potato-starch cold Milmyeon (₩9,000) in a medicinal beef bone broth.
 * **6:30 PM - Dinner**: **Myeongnyun Jinsa Galbi Seomyeon (명륜진사갈비 서면점)**
   * *Signature Order*: All-You-Can-Eat marinated pork ribs (₩19,900).
-  * *The Vibe*: Vibrant, bustling central Seomyeon BBQ house to end the day with unlimited grilled meats and local beer.
 
 ---
 
@@ -143,6 +169,19 @@ These drafted food routes are designed for **normal vacation days**. They natura
 * **5:00 PM - Pre-transit Dinner**: **Hong Kong Banjum 0410 (홍콩반점)** (Sasang Branch)
   * *Signature Order*: Jjamppong (₩7,500) and crispy fried dumplings.
   * *Transit Note*: Extremely convenient for heading straight to Gimhae International Airport via the light rail (just a 10-minute transit).
+
+---
+
+### 🐟 Busan Route 5: Yeongdo Old Port & Fishcake Bakery Walk
+*Explore Busan's beautiful coastal island, Yeongdo, combining old shipyards, steep cliff seaside views, and the country's oldest fishcake bakery.*
+
+* **12:00 PM - Lunch**: **Jagalchi Market (자갈치시장)** or **Hwaguk Banjeom (화국반점)**
+  * *Signature Order (Jagalchi)*: Freshly grilled or sliced fish sets (₩15,000–30,000).
+* **1:30 PM–3:00 PM - Activity**: Walk across the historic **Yeongdo Bridge** (Busan's first drawbridge) and browse local port side boutiques and shipyard galleries.
+* **3:00 PM - Cafe & Snack Stop**: **Samjin Amook Main Store (삼진어묵 본점)**
+  * *Signature Order*: Fresh, hot fried fishcake croquettes (*amook-goroke* - ₩1,000–3,000) selected with trays and tongs.
+  * *The Vibe*: Founded in 1953 (Busan's oldest!). Beautifully designed "fishcake bakery" and museum.
+* **4:30 PM–7:30 PM - Activity**: Take a taxi/bus along Yeongdo's cliffs to walk the ocean tracks of **Taejongdae Park** or the beautiful **Huinnyeoul Culture Village** (resembling a Greek seaside village on cliff edges).
 
 ---
 
@@ -167,10 +206,9 @@ These drafted food routes are designed for **normal vacation days**. They natura
 ### 🍞 Daejeon Route 1: Old Downtown "Taste of Daejeon" Overhaul Walk
 *Experience Daejeon's certified Top 3 Tastes (Bread, Kalguksu, and Dubu-duruchigi) in a single, high-density old downtown walking loop.*
 
-* **12:00 PM - Lunch**: **Jinro-jip (진로집)** or **Gwangcheon Sikdang (광천식당)**
+* **12:00 PM - Lunch**: **Jinro-jip (진로집)**, **Gwangcheon Sikdang (광천식당)**, or **Boksu Bunsik (복수분식 본점)**
   * *Signature Order (Jinro-jip)*: Silky *Dubu-duruchigi* (₩13,000–18,000) finished by tossing in boiled Kalguksu noodles (₩2,000).
-  * *Signature Order (Gwangcheon)*: Famously fiery, firm tofu duruchigi (₩16,000).
-  * *The Vibe*: Vintage, 50-year-old local institutions.
+  * *Signature Order (Boksu Bunsik)*: Spicy egg-scrambled *Eolkeun Kalguksu* (₩8,000) and firm tofu duruchigi (₩16,000).
 * **1:30 PM–4:00 PM - Activity**: Stroll through **Eunhaeng-dong's Underground Shopping Mall** and explore the trendy clothing boutiques and lifestyle stores of **Jungang-ro**.
 * **4:00 PM - Bakery Stop**: **Sungsimdang Main Store (성심당 본점)** & **Cake Boutique (성심당 케익부띠끄)**
   * *Signature Order*: Crispy, deep-fried *tuigim-soboro* (₩1,700–2,000) at the main store, or elegant fruit tarts and roll cakes next door at the Cake Boutique.
@@ -181,15 +219,31 @@ These drafted food routes are designed for **normal vacation days**. They natura
 
 ---
 
+### 🌾 Daejeon Route 2: Yuseong Hot Springs & Buckwheat Heritage Walk
+*Combine a relaxing foot bath at Yuseong hot spring park with a 70-year-old North Korean heritage noodle house.*
+
+* **12:00 PM - Lunch**: **Sutgol Won Naengmyeon (숯골원냉면 본점)**
+  * *Signature Order*: Pyongyang-style cold buckwheat noodles in chicken-buckwheat broth (*Mul-naengmyeon* - ₩10,000) and large dumplings (₩7,000).
+  * *The Vibe*: Selected as a national 100-Year Heritage Shop. Extremely clean, light, and deeply refreshing legacy flavors.
+* **1:30 PM–4:30 PM - Activity**: Walk around the beautiful **Yuseong Hot Springs Park** and soak your feet in the free public outdoor natural hot spring foot baths (*족욕체험장*). Shop at nearby Yuseong downtown avenues.
+* **5:00 PM - Dinner / Alternative**: **Subarashi Ramen Main Store (스바라시라멘)** (Yuseong Branch) or **Menji (멘지 대전점)**
+  * *Signature Order (Subarashi)*: Creamy & spicy *Subarashi Ramen* (₩11,000).
+  * *The Vibe*: Daejeon's highest-rated ramen institution with massive local reviews.
+
+---
+
 ## 🔄 Part 2: Modular Customization & Alternate Stops Pool
 *Use this pool to swap out lunch, dinner, or cafe stops on any route depending on your daily shopping plans, budget, or cravings. This modular system ensures you have more than enough verified options to cover a full 20-day trip.*
 
 ### 🍜 Ramen & Noodle Alternates
 * **Seoul - Oreno Ramen Insadong (오레노라멘 인사동점)** *(Jongno)*: Swap into **Seoul Route 1 (Insadong)** as a lunch alternative. Same Michelin Tori Paitan with free refills, located right near Gyeongbokgung.
+* **Seoul - Menten (멘텐)** *(Myeongdong)*: Precise, single-chef Michelin Shoyu Ramen and Tantanmen. Swap into **Seoul Route 2**.
 * **Seoul - Ramen Jiro Seoul (라멘 지로 서울)** *(Yongsan)*: Swap into any Yongsan/Itaewon shopping route for extreme cost-efficiency and massive portions.
 * **Busan - Tetsuya (테츠야 라멘)** *(Haeundae)*: Swap into **Busan Route 2 (Haeundae)** as a cozy, quiet dinner alternative.
 * **Busan - Gukje Milmyeon Main Branch (국제밀면 본점)** *(Yeonje-gu)*: Swap into any central Busan route for award-winning, refreshing cold wheat noodles.
+* **Busan - Seomyeon Gaegeum Milmyeon (서면개금밀면)**: 1966 landmark chewy milmyeon with deep herbal-beef bone broth. Swap into **Busan Route 3**.
 * **Daejeon - Subarashi Ramen Dunsan (스바라시라멘 시청점)** *(Dunsan-dong)*: Swap into any Dunsan-dong shopping day. Cozy counter seats with free self-service rice.
+* **Daejeon - Sutgol Won Naengmyeon (숯골원냉면)** *(Yuseong)*: 70-year old Pyeongyang chicken-buckwheat noodles.
 
 ### 🥢 Jajangmyeon & Chinese Alternates
 * **Seoul - Sinseonggak (신성각)** *(Gongdeok)*: Swap into any Mapo/Yongsan shopping day for completely organic, hand-pulled black bean noodles (since 1981).
@@ -204,14 +258,23 @@ These drafted food routes are designed for **normal vacation days**. They natura
 * **Busan - Myeongnyun Jinsa Galbi Seomyeon (명륜진사갈비 서면점)**: Swap into any Busan shopping route for unbeatable unlimited pork ribs.
 
 ### 🍲 Classic Korean & Soup Alternates
+* **Seoul - Myeongdong Kyoja (명동교자 본점)**: Legendary 1966 garlicky Kalguksu and juicy Mandu dumplings (Michelin Bib Gourmand).
+* **Seoul - Hadongkwan Main Store (하동관 본점)**: Historic 1939 Hanwoo Beef bone Gomtang soup.
+* **Seoul - Chanyang-jip (찬양집)**: 1970 seafood kalguksu with free refills.
+* **Seoul - Buchon Yukhoe (부촌육회 본점)**: Gwangjang market's 7-year consecutive Michelin Bib raw beef tartare.
+* **Seoul - Jin Ok-hwa Halmae Original Chicken (진옥화할매)**: Famous 1978 garlic whole chicken hot pot.
 * **Seoul - Imun Seolleongtang (이문설농탕)** *(Jongno)*: Clean ox bone soup since 1907. Swap into any Jongno cultural walk.
 * **Seoul - Tosokchon Samgyetang (토속촌 삼계탕)** *(Gyeongbokgung)*: Thick, luxurious medicinal ginseng chicken soup. Swap into **Seoul Route 1**.
 * **Busan - Songjeong Samdae Gukbap (송정3대국밥)** *(Seomyeon)*: Historic 1946 dwaeji gukbap, open 24 hours. Swap into **Busan Route 3**.
 * **Busan - Jamae Gukbap (자매국밥)** *(Gwangan)*: BTS-approved rich pork soup with a unique kettle queue. Swap into any coastal walk.
 * **Busan - Gijang Sonkalguksu (기장손칼국수)** *(Seomyeon Market)*: Hand-rolled, chewy kalguksu for only ₩7,000. Swap into **Busan Route 3**.
+* **Busan - Shinbalwon (신발원)** & **Maga Mandu (마가만두)**: Legendary Chinatown hand-pleated fried and steamed dumplings near Busan Station.
+* **Busan - Hapcheon Ilryu Gukbap (합천일류돼지국밥)**: Busan's most celebrated rich, garlicky gukbap in Sasang.
+* **Daejeon - Boksu Bunsik (복수분식 본점)**: Legendary spicy Eolkeun-i Kalguksu and dubu-duruchigi.
 
 ### ☕ Dessert & Cafe Alternates
 * **Seoul - Fritz Coffee Company Dohwa (프릳츠 도화점)** *(Mapo)*: Converting vintage hanok cafe with award-winning house roasts.
 * **Busan - Brown Hands Baekje (브라운핸즈백제)** *(Busan Station)*: Majestic 1922 brick hospital cafe. Swap into any central Busan market day.
+* **Busan - Samjin Amook Main Store (삼진어묵 본점)**: Busan's oldest and most famous 1953 fishcake bakery & museum.
 * **Cheonan - Toujours Dolgama Village (뚜쥬루 빵돌가마마을)**: Converted fairytale hobbit village. A must-visit dessert landmark.
 * **Daejeon - Sungsimdang Cake Boutique (성심당 케익부띠끄)**: Elegant tarts and fresh cream rolls next to the main store.
