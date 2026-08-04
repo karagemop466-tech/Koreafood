@@ -50,7 +50,7 @@ This pass integrates newly verified highly-acclaimed restaurants and official 20
   3. **Chungnam-jip (충남집)**: standard hours **08:00–19:00**, Gukbap at **₩9,000**, Platter at **₩15,000**.
 
 ### Daejeon
-* Documented the monumental **April 2026 "Taste of Daejeon"** official brand overhaul by Daejeon Metropolitan City, designating **Bread**, **Kalguksu**, and **Dubu-duruchigi** as the official **Top 3 Tastes**.
+* Documented the monumental **April 2026 "Taste of Daejeon"** official brand overhaul by Daejeon Metropolitan City, designating **Bread**, **Kalguksu**, and **Deep-Fried / Sweet Tofus** as the official **Top 3 Tastes**.
 * Added and verified **Sungsimdang Main Store (성심당 본점)**, the legendary city bakery open daily **08:00–22:00**, famous for its deep-fried streusel bun (*tuigim-soboro*).
 * Verified **Jinro-jip (진로집)**, the 1969 birthplace of Daejeon *dubu-duruchigi*, with standard hours **10:30–21:30** (break **15:00–17:00**, closed Mondays).
 * Verified **Gwangcheon Sikdang (광천식당)**, another legendary and intensely spicy *dubu-duruchigi* and *kalguksu* hotspot with hours **10:30–21:30** (break **15:00–17:00**, closed Mondays).
@@ -58,8 +58,23 @@ This pass integrates newly verified highly-acclaimed restaurants and official 20
 
 ---
 
+## Third pass expansion — 4 August 2026 (Tech Guide, Bookmarks, and Dessert Cafes)
+
+This pass delivers verified tech-usage guidelines, a shareable Naver bookmarking index, and iconic regional cafes/dessert spots.
+
+### Tech & Bookmarks
+* Created **`booking-and-tech-guide.md`** explaining how to navigate on **Naver Map**, utilize **CatchTable Global** with foreign phone numbers, use on-site kiosk tablets, and manage cashless payments / cash reloads for transit cards.
+* Generated a full **`restaurants-bookmarks.csv`** containing all 44 verified eateries mapped with their exact English/Korean names, neighborhoods, price tiers, and direct Naver Map links.
+
+### Cafes & Dessert Boutiques
+* **Seoul**: Added **Shin Old Tea House (신옛찻집)**, a 130-year-old hanok tea house in Insadong, and **Fritz Coffee Company Dohwa (프릳츠 도화점)**, a high-quality roastery/bakery inside a rustic retro hanok in Mapo.
+* **Busan**: Added **Brown Hands Baekje (브라운핸즈백제)**, a majestic cafe occupying the beautifully preserved red-brick halls of a former hospital built in **1922** (over 100 years old!).
+* **Cheonan**: Added **Toujours Dolgama Village (뚜쥬루 과자점 빵돌가마마을)**, an incredibly famous bread theme village resembling a fairytale Hobbit Shire, known for slow-fermented, buttery *Turtle Bread*.
+* **Daejeon**: Added **Sungsimdang Cake Boutique (성심당 케익부띠끄)**, a luxurious cake and tart salon situated right next to the main store in Eunhaeng-dong.
+
+---
+
 ## Next pass priorities
 
-1. Capture reservation links and app tips (e.g. CatchTable for Geumdwaeji Sikdang, waiting procedures for Sungsimdang).
-2. Continue expanding local noodle/gukbap backup options in Seoul and Busan.
-3. Establish map-ready CSV files of coordinates and addresses once lodging neighborhoods are finalized.
+1. Map each choice against hotel locations once lodging is booked.
+2. Complete specific walking route drafts linking adjacent bakeries, noodle shops, and markets.

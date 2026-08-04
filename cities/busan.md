@@ -43,3 +43,11 @@ This comprehensive guide focuses on **cost efficiency, quality, and community re
 | **Jagalchi Market** (자갈치시장) | Jung-gu / Nampo | Seafood sets: **₩15,000–₩40,000+** | 🌟 **Korea's largest seafood market.** Diners buy raw seafood downstairs and pay a small cooking fee (~₩5,000) to eat upstairs. Extreme variety and freshness. | Market open **05:00–22:00** (Closed on the 1st and 3rd Tuesday of the month) | [Visit Busan Jagalchi Theme](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302002001000&uc_seq=860&lang_cd=en) |
 | **Gaya Milmyeon** (가야밀면) | Jung-gu / Nampo | Milmyeon: **₩8,000–₩9,000** | 🌟 Famous milmyeon shop in central Jung-gu. Listed by Visit Busan as **open 365 days a year**. Refreshing broth and perfect chewy noodles. | **Daily 10:00–21:00** (RECHECK local listings) | [Visit Busan Official](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=102) |
 | **Haeundae Traditional Market** | Haeundae | Snacks/Meals: **₩5,000–₩30,000** | 🌟 Traditional market street right by Haeundae Beach. Famous for grilled sea eels, hotteok, fish cakes, and street tteokbokki. High reviews for clean, lively stalls. | **Daily 09:00–22:00** (Varies by vendor) | [Visit Busan](https://www.visitbusan.net/) |
+
+---
+
+## ☕ Dessert Cafes & Historic Cafes
+
+| Spot Name (Korean) | Neighborhood | Est. Price Range | Quality & Review Highlights | Hours & Closures | Links |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Brown Hands Baekje** (브라운핸즈백제) | Dong-gu (near Busan Station) | Coffee/Teas: **₩5,000–₩6,500** | 🌟 **Housed inside Busan's first western-style modern hospital building (built in 1922!)**, which is over 100 years old. Carefully renovated to preserve the historic exposed red-brick arches, vintage wood, and majestic architecture. Outstanding local reviews and atmosphere. | **Daily 10:00–21:30** (Last order 21:20; open year-round) | [Naver Map](https://map.naver.com/p/search/%EB%B8%8C%EB%9D%BC%EC%9A%B4%ED%95%B8%EC%A6%88%EB%B0%B1%EC%A0%9C) · [Historic Profile](https://www.busannavi.net/en/food_town/10472) |
