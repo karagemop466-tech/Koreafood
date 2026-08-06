@@ -13,7 +13,7 @@ Welcome! This guide is for **two travelers from the United States** visiting Kor
 
 1. Open the city guide below.
 2. Pick the neighborhood you are already visiting.
-3. Choose a meal category: ramen, jajangmyeon, AYCE Korean BBQ, or Korean food.
+3. Choose a meal category: ramen, jajangmyeon, AYCE Korean BBQ, Korean food, or dessert cafe.
 4. Open the restaurant link and save the Korean name.
 5. Before going, check the current hours, break time, last order, price, and closure day.
 6. Keep one backup restaurant nearby.
@@ -23,9 +23,9 @@ Welcome! This guide is for **two travelers from the United States** visiting Kor
 | City | Guide | Best for |
 |---|---|---|
 | Seoul | [Open Seoul guide](cities/seoul.md) | The widest selection and easiest neighborhood-hopping |
-| Busan | [Open Busan guide](cities/busan.md) | Milmyeon, jajangmyeon, seafood, and markets |
-| Cheonan | [Open Cheonan guide](cities/cheonan.md) | Byeongcheon sundae and a quieter local stop |
-| Daejeon | [Open Daejeon guide](cities/daejeon.md) | KTX convenience, kalguksu, and downtown food |
+| Busan | [Open Busan guide](cities/busan.md) | Milmyeon, jajangmyeon, seafood, markets, and ocean-view cafes |
+| Cheonan | [Open Cheonan guide](cities/cheonan.md) | Byeongcheon sundae, Toujours bread village, and a quieter local stop |
+| Daejeon | [Open Daejeon guide](cities/daejeon.md) | KTX convenience, kalguksu, dubu-duruchigi, and Sungsimdang cakes |
 
 ## What the labels mean
 
@@ -38,10 +38,16 @@ Welcome! This guide is for **two travelers from the United States** visiting Kor
 
 Very roughly, for two people:
 
-* Budget noodles or gukbap: **₩15,000–30,000 total**
+* Budget noodles, gukbap, or dessert cafes: **₩15,000–30,000 total**
 * Ordinary Korean meal: **₩25,000–60,000 total**
 * AYCE BBQ: **₩40,000–70,000 total before drinks**
 * Premium BBQ or seafood: **₩70,000+ total**
+
+## Travel tools & Bookmarks
+
+* **[Draft Walking Food Routes](cities/walking-food-routes.md)** — beautifully organized neighborhood food walks combining lunch, shopping, cafes, and dinner in Seoul and Busan.
+* **[Tech & Booking Guide](booking-and-tech-guide.md)** — essential mobile apps, on-site queue instructions, and payment/cash strategy in Korea.
+* **[Naver Map Bookmarks CSV](restaurants-bookmarks.csv)** — a clean, structured table of all 535 verified restaurants with English/Korean names, addresses, and Naver Search links for instant pre-trip planning.
 
 ## Research status
 
