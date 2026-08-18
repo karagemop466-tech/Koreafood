@@ -6,8 +6,9 @@ Welcome! This guide is for **two travelers from the United States** visiting Kor
 
 1. **Seoul** — main base and biggest variety
 2. **Busan** — coastal city, milmyeon, seafood, and local food
-3. **Cheonan** — flex city; Byeongcheon (Aunae) sundae street, about 40 minutes east of Cheonan Station
-4. **Daejeon** — flex city with easy KTX access and noodle culture
+3. **Suwon** — day trip from Seoul; wanggalbi and Chicken Street at Hwaseong
+4. **Cheonan** — flex city; Byeongcheon (Aunae) sundae street, about 40 minutes east of Cheonan Station
+5. **Daejeon** — flex city with easy KTX access and noodle culture
 
 ## How to find a meal
 
@@ -24,12 +25,13 @@ Welcome! This guide is for **two travelers from the United States** visiting Kor
 |---|---|---|
 | Seoul | [Open Seoul guide](cities/seoul.md) | The widest selection and easiest neighborhood-hopping |
 | Busan | [Open Busan guide](cities/busan.md) | Milmyeon, dwaeji-gukbap, Korean-Chinese, seafood markets |
+| Suwon | [Open Suwon guide](cities/suwon.md) | Wanggalbi and Suwon Chicken Street |
 | Cheonan | [Open Cheonan guide](cities/cheonan.md) | Byeongcheon (Aunae) sundae street — the national reference point for sundae-gukbap |
 | Daejeon | [Open Daejeon guide](cities/daejeon.md) | KTX convenience, kalguksu, naengmyeon, and Sungsimdang |
 
 ## What made it into this guide
 
-**35 restaurants.** Seoul 11 · Busan 14 · Daejeon 5 · Cheonan 5.
+**126 restaurants.** Seoul 66 · Busan 33 · Suwon 7 · Daejeon 15 · Cheonan 5.
 
 That is a small number on purpose. Every entry's address and opening hours come from an **official source** — the restaurant's own site, a government tourism portal (VisitKorea, Visit Seoul, Visit Busan), or the MICHELIN Guide. If hours could not be confirmed that way, the entry was **removed entirely** rather than kept with a guess. Each city guide ends with a table explaining what was dropped and why.
 
@@ -37,7 +39,7 @@ Earlier versions of this repo listed hundreds of restaurants. Most were not real
 
 ## What the labels mean
 
-* **Bib Gourmand 2026** — in the current MICHELIN Guide Seoul & Busan Bib Gourmand selection (announced 26 Feb 2026). Only one entry in this guide qualifies (**Geumdwaeji Sikdang**, Seoul). Buchon Yukhoe held a Bib in the **2025** guide but is **not** in the 2026 selection — see the correction in [sources-and-notes.md](sources-and-notes.md). **MICHELIN covers Seoul and Busan only** — there is no Michelin in Daejeon or Cheonan.
+* **Bib Gourmand 2026** — in the current MICHELIN Guide Seoul & Busan Bib Gourmand selection. Three Seoul entries qualify (**Geumdwaeji Sikdang**, **Hwangsaengga Kalguksu**, **Pildong Myeonok**). VisitKorea records **Buchon Yukhoe** as a 2020 MICHELIN restaurant; it is not in the 2026 Seoul Bib list of 51. **MICHELIN covers Seoul and Busan only.**
 * **Selected** — in the MICHELIN Guide but without a star or Bib.
 * ***None*** — not in the MICHELIN Guide. This is not a criticism; most of the best food in Korea is not in the Guide.
 * **RECHECK** — verify shortly before visiting. Do this for every meal regardless of label.
@@ -48,13 +50,13 @@ Earlier versions of this repo listed hundreds of restaurants. Most were not real
 
 The earlier "rough planning frame" budget ranges have also been removed. They were our own guesswork, not sourced from anywhere, and a made-up number in a guide that otherwise cites its sources is exactly the kind of thing that gets trusted by mistake.
 
-**Prices are not gone for good — they are parked.** `prices-review.md` lists all 35 restaurants with a blank price field, the source rules, and instructions for filling it in. Prices can be added there whenever a real source is found, without disturbing the verified entries in the city guides.
+**Prices are not gone for good — they are parked.** `prices-review.md` lists all 126 restaurants with a blank price field, the source rules, and instructions for filling it in. Prices can be added there whenever a real source is found, without disturbing the verified entries in the city guides.
 
 ## Travel tools & Bookmarks
 
-* **[Walking Food Routes](cities/walking-food-routes.md)** — 12 neighborhood walks across all four cities, sequenced so the opening hours line up.
+* **[Walking Food Routes](cities/walking-food-routes.md)** — neighborhood walks sequenced so the opening hours line up.
 * **[Tech & Booking Guide](booking-and-tech-guide.md)** — essential mobile apps, on-site queue instructions, and payment/cash strategy in Korea.
-* **[Bookmarks CSV](restaurants-bookmarks.csv)** — all **35 verified restaurants** with English/Korean names, neighborhood, Michelin status, and an official source URL for each. Import or copy the Korean names straight into Naver Map.
+* **[Bookmarks CSV](restaurants-bookmarks.csv)** — all **106 verified restaurants** with English/Korean names, neighborhood, Michelin status, and an official source URL for each. Import or copy the Korean names straight into Naver Map.
 
 ## Research status
 

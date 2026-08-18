@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Korea 2026 Food Guide — Verified restaurants</title>
+  <meta name="description" content="126 officially verified restaurants for Seoul, Busan, Suwon, Daejeon, and Cheonan. Hours and addresses from VisitKorea, Visit Seoul, Visit Busan, or MICHELIN." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <p class="eyebrow">Korea · 31 Oct – 22 Nov 2026</p>
+    <h1>Verified food map</h1>
+    <p class="lede">
+      Only restaurants whose <strong>address and hours</strong> appear on an official page
+      (VisitKorea, Visit Seoul, Visit Busan, MICHELIN, or the restaurant’s own site).
+      Recheck every listing in October 2026 before you go.
+    </p>
+    <p class="links">
+      <a href="https://github.com/karagemop466-tech/Koreafood">GitHub repo</a>
+      <a href="https://karagemop466-tech.github.io/Koreafood/">This page</a>
+    </p>
+  </header>
+
+  <section class="stats" aria-label="Counts by city">
+    <h2>How many are verified</h2>
+    <div id="chart" class="chart"></div>
+  </section>
+
+  <section class="controls" aria-label="Filters">
+    <div class="cities" id="city-filters"></div>
+    <div class="toolbar">
+      <label class="search">
+        <span>Search</span>
+        <input id="q" type="search" placeholder="Name, neighborhood, dish…" autocomplete="off" />
+      </label>
+      <label>
+        <span>Sort</span>
+        <select id="sort">
+          <option value="name">Name A–Z</option>
+          <option value="hours">Hours</option>
+          <option value="category">Category</option>
+          <option value="address">Address</option>
+        </select>
+      </label>
+    </div>
+    <p class="count" id="count"></p>
+  </section>
+
+  <main>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Restaurant</th>
+            <th>City / area</th>
+            <th>Hours</th>
+            <th>What they serve</th>
+            <th>Official links</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer>
+    <p>No menu prices on this page. Michelin ₩ bands are the restaurant’s Guide listing, not a quote. Sources lag — confirm the morning you go.</p>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
