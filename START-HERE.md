@@ -44,9 +44,11 @@ Earlier versions of this repo listed hundreds of restaurants. Most were not real
 
 ## Prices
 
-**This guide does not list prices.** The figures in earlier versions were not sourced from the restaurants and have been removed. Where MICHELIN publishes its own ₩/₩₩ band, that band is shown.
+**This guide does not list prices.** The figures in earlier versions were not sourced from the restaurants and have been removed. Where MICHELIN publishes its own ₩/₩₩ band, that band is shown — that band is MICHELIN's own published figure, not an estimate of ours.
 
-As a rough planning frame for two people: budget noodle and gukbap meals run well under ₩30,000 total, a sit-down Korean meal ₩30,000–60,000, and premium Hanu barbecue or seafood considerably more. Treat that as orientation, not a quote.
+The earlier "rough planning frame" budget ranges have also been removed. They were our own guesswork, not sourced from anywhere, and a made-up number in a guide that otherwise cites its sources is exactly the kind of thing that gets trusted by mistake.
+
+**Prices are not gone for good — they are parked.** `prices-review.md` lists all 35 restaurants with a blank price field, the source rules, and instructions for filling it in. Prices can be added there whenever a real source is found, without disturbing the verified entries in the city guides.
 
 ## Travel tools & Bookmarks
 

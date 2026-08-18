@@ -23,7 +23,7 @@ Every restaurant named below survived the August 2026 verification pass: address
 ## 🛠️ How to use this guide
 
 * **35 verified restaurants**, not 535. Seoul 11 · Busan 14 · Daejeon 5 · Cheonan 5. Earlier versions of this repo advertised hundreds of "verified" spots; most of those entries were placeholders that did not correspond to real businesses, and they have been deleted.
-* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them.
+* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 35 restaurants, the sourcing rules, and the leads worth chasing.
 * **12 neighborhood walks:** **[cities/walking-food-routes.md](cities/walking-food-routes.md)** sequences the verified entries into routes where the opening hours actually line up.
 * **Navigation & booking:** **[booking-and-tech-guide.md](booking-and-tech-guide.md)** — set up Naver Map and CatchTable Global before you depart.
 * **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 35 rows, each with an official source URL. The generic Naver *search* links that used to fill this column were not evidence of anything and have been replaced.

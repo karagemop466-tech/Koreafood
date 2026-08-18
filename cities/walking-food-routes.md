@@ -4,7 +4,7 @@
 
 This file has been rebuilt from the ground up. It now contains **only restaurants that survived verification** against an official source — VisitKorea, Visit Seoul, Visit Busan, MICHELIN, or the restaurant's own site. The full verified set across all four cities is **35 entries**: 11 in Seoul, 14 in Busan, 5 in Daejeon, 5 in Cheonan. That is the honest number, and it is what these routes are built from.
 
-**No prices appear anywhere in this repo.** Where the old file quoted a figure like "₩8,000," it was invented.
+**No prices appear anywhere in this repo.** Where the old file quoted a figure like "₩8,000," it was invented. To add sourced prices later, see [prices-review.md](../prices-review.md).
 
 **Non-food stops** (parks, markets as sights, museums, cafes without verified hours) are named below as *context* — walk past them, decide for yourself. They are not presented as verified recommendations.
 

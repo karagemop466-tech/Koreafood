@@ -5,6 +5,8 @@
 > The three passes dated **4 August 2026** below are retained as a record of how this project went wrong. **Do not use them as a source.** They repeatedly use the word "Verified" for facts that had not been checked against any official page, and a later audit found many of them to be false — wrong hours, invented break times, invented prices, invented founding years, and restaurants promoted on the strength of blog posts.
 >
 > The **18 August 2026 verification pass** at the bottom of this file supersedes everything above it. Where the two disagree, the later pass is correct and is the one reflected in the city guides.
+>
+> **Price figures in this file have been redacted**, marked `[price redacted — see prices-review.md]`. They were presented as "verified official prices" but no official source publishes them, and several belong to restaurants that did not survive verification. The surrounding sentences are left intact so the record of what was claimed is preserved. To add real prices later, use `prices-review.md`.
 
 ---
 
@@ -22,7 +24,7 @@ This pass confirms the city spelling as **Cheonan (천안)** and adds government
 
 ### Busan
 
-* Visit Busan lists **Gukje Milmyeon Main Branch** with mul milmyeon and bibim milmyeon at **₩9,000** in the listing, with address 23-6 Jungang-daero 1235beon-gil, Yeonje-gu.
+* Visit Busan lists **Gukje Milmyeon Main Branch** with mul milmyeon and bibim milmyeon [price redacted — see `prices-review.md`] in the listing, with address 23-6 Jungang-daero 1235beon-gil, Yeonje-gu.
 * Visit Busan lists **Gaya Milmyeon** at 56-14 Gwangbok-ro, Jung-gu, and says it is open 365 days; current daily hours still need confirmation.
 * Visit Busan lists **Hwaguk Banjeom** with daily hours 11:30–21:30, break 15:30–17:00, and closure on the first and third Monday. Its page recommends ganjajang and tangsuyuk.
 * These official entries are stronger than generic “best of” blogs and are now in `cities/busan.md`.
@@ -44,20 +46,20 @@ This pass confirms the city spelling as **Cheonan (천안)** and adds government
 This pass integrates newly verified highly-acclaimed restaurants and official 2026 local designations.
 
 ### Seoul
-* Verified **Geumdwaeji Sikdang (금돼지식당)** at Yaksu Station, a Michelin Bib Gourmand-recognized premium pork BBQ restaurant. Verified official prices (bone-in pork belly *Bonsamgyeop* at **₩19,000**) and daily hours (**11:30–23:00**, last order **22:20**).
+* Verified **Geumdwaeji Sikdang (금돼지식당)** at Yaksu Station, a Michelin Bib Gourmand-recognized premium pork BBQ restaurant. Claimed "verified official prices" (bone-in pork belly *Bonsamgyeop*) [price redacted — see `prices-review.md`] and daily hours (**11:30–23:00**, last order **22:20**).
 * Verified **Yukjeon Sikdang (육전식당 본점)** at Sinseoldong, famous for premium thick-cut samgyeopsal and methodical grilling. Captured exact hours (**11:00–22:00**, break **15:00–16:00**).
-* Verified **Nari's House (나리의 집)** in Itaewon, famous for retro frozen samgyeopsal (*naengsam* at **₩14,000–15,000**) and soul-warming *Cheonggukjang*.
+* Verified **Nari's House (나리의 집)** in Itaewon, famous for retro frozen samgyeopsal (*naengsam*) [price redacted — see `prices-review.md`] and soul-warming *Cheonggukjang*.
 * Relocated **Gwangjang Market** from Hongdae/Yeonnam to its actual geographic neighborhood under **Euljiro / Jongno / Dongdaemun**.
 
 ### Busan
-* Verified and added **Songjeong Samdae Gukbap (송정3대국밥)** in Seomyeon, which has been open since **1946** as a city landmark. It serves customized dwaeji/sundae gukbap (**₩9,000**) and is open **24 hours daily** (with a small 02:30–04:30 AM maintenance break).
-* Verified and added **Jamae Gukbap (자매국밥)** in Suyeong-gu, a local favorite featured on Visit Busan, offering highly customizable, rich pork soup (**₩9,000**) and a unique kettle-numbered waiting queue.
+* Verified and added **Songjeong Samdae Gukbap (송정3대국밥)** in Seomyeon, which has been open since **1946** as a city landmark. It serves customized dwaeji/sundae gukbap [price redacted — see `prices-review.md`] and is open **24 hours daily** (with a small 02:30–04:30 AM maintenance break).
+* Verified and added **Jamae Gukbap (자매국밥)** in Suyeong-gu, a local favorite featured on Visit Busan, offering highly customizable, rich pork soup [price redacted — see `prices-review.md`] and a unique kettle-numbered waiting queue.
 
 ### Cheonan
 * Verified the **Top 3** institutions on **Byeongcheon Sundae Street** in Byeongcheon-myeon:
-  1. **Park Sun-ja Aunae Sundae (박순자아우내순대)**: standard hours **08:10–19:00**, Gukbap at **₩10,000**, Platter at **₩16,000**.
-  2. **Cheonghwa-jip (청화집)**: oldest original shop (since **1950**), hours **09:00–17:00** (weekdays) / **08:30–17:00** (weekends), closed Mondays. Gukbap at **₩8,000**, Platter at **₩14,000**.
-  3. **Chungnam-jip (충남집)**: standard hours **08:00–19:00**, Gukbap at **₩9,000**, Platter at **₩15,000**.
+  1. **Park Sun-ja Aunae Sundae (박순자아우내순대)**: standard hours **08:10–19:00**. [Prices redacted — see `prices-review.md`]
+  2. **Cheonghwa-jip (청화집)**: oldest original shop (since **1950**), hours **09:00–17:00** (weekdays) / **08:30–17:00** (weekends), closed Mondays. [Prices redacted — see `prices-review.md`]
+  3. **Chungnam-jip (충남집)**: standard hours **08:00–19:00**. [Prices redacted — see `prices-review.md`]
 
 ### Daejeon
 * Documented the monumental **April 2026 "Taste of Daejeon"** official brand overhaul by Daejeon Metropolitan City, designating **Bread**, **Kalguksu**, and **Deep-Fried / Sweet Tofus** as the official **Top 3 Tastes**.

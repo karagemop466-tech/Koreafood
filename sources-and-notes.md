@@ -97,6 +97,10 @@ Recorded because they cost real time:
 
 **This repo lists no prices.** Every price previously shown was unsourced. The only monetary information retained is MICHELIN's own **₩ / ₩₩** band, where MICHELIN publishes it.
 
+This is a reversible decision, not a permanent one. **[prices-review.md](prices-review.md)** carries a blank price row for each of the 35 restaurants, the rules for what counts as a usable price source, and the known leads — the most promising being Visit Busan, which publishes menu prices for some of its listings. Prices can be reintroduced there incrementally without touching the verified city guides.
+
+Two price claims were removed beyond the city guides: the invented budget-planning ranges in `START-HERE.md`, and the figures in `research-log-2026-08.md` that were labelled "verified official prices" but matched no official source. The latter are redacted in place, with the surrounding sentences preserved so the record of the claim survives.
+
 ---
 
 ## Before committing to a restaurant
