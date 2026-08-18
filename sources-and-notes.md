@@ -55,11 +55,26 @@ Cheonan is the one city that **gained** entries: its guide previously held a sin
 
 The MICHELIN Guide's Korean selection is **Seoul & Busan only**. There is no Michelin coverage of Daejeon or Cheonan, so any Michelin claim about a restaurant in those cities is false by construction. Earlier drafts contained several.
 
-The **2026 Bib Gourmand** selection (announced 26 February 2026) comprises **51 Seoul + 20 Busan restaurants**. Only three entries in this guide hold one:
+The **2026 Bib Gourmand** selection (announced 26 February 2026) comprises **51 Seoul + 20 Busan restaurants**. Exactly **one** entry in this guide holds one:
 
 * **Geumdwaeji Sikdang** (금돼지식당) — Seoul, barbecue
-* **Buchon Yukhoe** (부촌육회) — Seoul, yukhoe
 * — and *none in Busan*. The full 20-restaurant Busan Bib list is reproduced in [cities/busan.md](cities/busan.md) so any claim can be checked at a glance.
+
+### Correction: Buchon Yukhoe is **not** a 2026 Bib Gourmand
+
+Earlier drafts of this guide labelled **Buchon Yukhoe** (부촌육회) a "Bib Gourmand 2026" and sourced the entry to `guide.michelin.com/.../restaurant/buchon-yukhoe`. Both are wrong, and the error was only caught on a second verification pass. The evidence:
+
+1. **The Michelin page no longer exists.** The cited slug returns "restaurant not found" in all three locales — `/us/en/`, `/en/` and, decisively, `/kr/ko/`. A control fetch of `myeongdong-kyoja` on the same `/en/` locale resolves normally, so this is a real delisting rather than a regional-scoping artifact. **Michelin deletes the pages of delisted restaurants outright, so a 404 on a slug a guide cites is itself a signal.**
+2. **The official 2026 Bib roster does not contain it.** The published list of 51 Seoul Bib Gourmands was read name by name; 부촌육회 is absent.
+3. **The correct historical badge is 2025.** A cached Michelin snippet still in search results describes the restaurant as "a Bib Gourmand … in the 2025 MICHELIN Guide South Korea", and VisitKorea's own listing calls it a "2020 MICHELIN Guide restaurant". So the recognition was real but has lapsed.
+
+**Do not use ViaMichelin to check a badge.** Its mirror of the Michelin database still shows Buchon Yukhoe as a current Bib Gourmand, months after the source page was removed.
+
+The entry has been kept — it is a genuine, officially listed restaurant — but re-sourced onto [VisitKorea `vcontsId=67578`](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=67578). Three consequences follow:
+
+* **The hours changed.** The dead Michelin page was the origin of "Daily 10:00–21:00". VisitKorea gives **Mon–Sat 09:00–22:00 (LO 20:30) / Sun 09:00–22:00 (LO 19:30)** — an earlier opening and a later close than this guide previously printed.
+* **"Opened 1965" is dropped.** It rested solely on the deleted Michelin page. VisitKorea says only "three generations".
+* **"No reservations" is dropped** for the same reason. No official source states a reservation policy.
 
 Badges that earlier drafts asserted and that verification could not support — on Chanyang-jip, Shinbalwon, Menten and others — have been stripped.
 

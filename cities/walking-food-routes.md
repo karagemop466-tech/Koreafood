@@ -32,7 +32,7 @@ Each route is a real geographic loop in one neighbourhood, sequenced so the **ho
 ### Route S2 — Jongno & Gwangjang Market
 *The densest verified cluster in the city.*
 
-- **Lunch — Buchon Yukhoe** (부촌육회), Gwangjang Market raw-beef alley. **Bib Gourmand 2026.** Opened 1965. **Daily 10:00–21:00, no break, no reservations.**
+- **Lunch — Buchon Yukhoe** (부촌육회), Gwangjang Market raw-beef alley. **Bib Gourmand 2025 — not in the 2026 selection.** Yukhoe and sliced raw beef. **Mon–Sat 09:00–22:00 (LO 20:30) / Sun 09:00–22:00 (LO 19:30).**
 - **Walk** — Gwangjang Market itself, then west along Jong-ro toward Jongno 3-ga.
 - **Dinner — Imun Seolnongtang** (이문설농탕), Jongno-gu. The first restaurant officially registered in Seoul, 1907. **Mon–Sat 08:00–21:00, Sun to 20:00, break 15:00–16:30.**
 - **Alternative dinner — Chanyang-jip** (찬양집), Jongno 3-ga. Clam kalguksu. **10:00–21:00, closed Sun and public holidays.**

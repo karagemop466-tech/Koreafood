@@ -22,7 +22,7 @@
 | Spot Name (Korean) | Neighborhood | Michelin | Notes | Hours & Closures | Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Hwaguk Banjeom** (화국반점) | 3 Baeksan-gil, Jung-gu | *None* | Korean-Chinese kitchen that Visit Busan credits with 43 years of history; known for ganjjajang and tangsuyuk, and used as a filming location for *New World* and *Nameless Gangster*. **Note the mid-afternoon break** — earlier drafts listed it as open straight through. ☎ 051-245-5305 | **11:30–15:30 / 17:00–21:30. Closed the 1st & 3rd Monday of each month.** | [Visit Busan](https://www.visitbusan.net/index.do?menuCd=DOM_000000201002001000&uc_seq=1227&lang_cd=ko) |
-| **Shinbalwon** (신발원) | 62 Daeyeong-ro 243beon-gil, Dong-gu (Chinatown, Busan Station) | *None* | One of the two big dumpling houses in Busan's Chinatown, specialising in Chinese breads and mandu — thick, pillowy wrappers around juicy pork. Expect a line at any hour. **This guide previously called it "Michelin-recognized" — that was wrong**; it is not in the MICHELIN Guide. The "founded 1951" claim is also unsourced. ☎ 051-467-0177 | **11:00–21:00. Closed Tuesdays.** | [Visit Busan](https://www.visitbusan.net/kr/index.do?menuCd=DOM_000000201002001000&uc_seq=242&lang_cd=ko) |
+| **Shinbalwon** (신발원) | 62 Daeyeong-ro 243beon-gil, Dong-gu (Chinatown, Busan Station) | *None* | One of the two big dumpling houses in Busan's Chinatown, specialising in Chinese breads and mandu — thick, pillowy wrappers around juicy pork. Expect a line at any hour. **This guide previously called it "Michelin-recognized" — that was wrong**; it is not in the MICHELIN Guide. The "founded 1951" claim is also unsourced. ☎ 051-467-0177 | **11:00–21:00. Closed Tuesdays.** | [Visit Busan](https://www.visitbusan.net/index.do?menuCd=DOM_000000201002001000&uc_seq=242&lang_cd=ko) |
 
 ## Grilled Meat & Jokbal
 
@@ -45,7 +45,7 @@
 | Spot Name (Korean) | Neighborhood | Michelin | Notes | Hours & Closures | Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Samjin Eomuk Main Store** (삼진어묵 본점) | 36 Taejong-ro 99beon-gil, Yeongdo-gu | *None* | Korea's best-known fish-cake brand, run by the same family **since 1953** (three generations) — this is the original Yeongdo store. There is a fish-cake making workshop on the 2nd floor. Parking available. ☎ 051-715-5865 · samjinfood.com | **Daily 09:00–19:00. Open year-round.** | [Visit Busan](https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201002001000&uc_seq=1065) |
-| **Brown Hands Baekje** (브라운핸즈 백제) | 16 Jungang-daero 209beon-gil, Dong-gu (near Busan Station) | *None* | A cafe inside Busan's first modern Western-style hospital building, a registered cultural property; the interior deliberately preserves the age of the structure. Espresso and americano are the house drinks. The "1922" build date in earlier drafts is not in the official listing. ☎ 051-464-0332 | **Daily 10:00–22:00** | [Visit Busan](https://www.visitbusan.net/kr/index.do?menuCd=DOM_000000201002001000&uc_seq=231&lang_cd=ko) |
+| **Brown Hands Baekje** (브라운핸즈 백제) | 16 Jungang-daero 209beon-gil, Dong-gu (near Busan Station) | *None* | A cafe inside Busan's first modern Western-style hospital building, a registered cultural property; the interior deliberately preserves the age of the structure. Espresso and americano are the house drinks. The "1922" build date in earlier drafts is not in the official listing. ☎ 051-464-0332 | **Daily 10:00–22:00** | [Visit Busan](https://www.visitbusan.net/index.do?menuCd=DOM_000000201002001000&uc_seq=231&lang_cd=ko) |
 
 ---
 

@@ -37,7 +37,7 @@ Earlier versions of this repo listed hundreds of restaurants. Most were not real
 
 ## What the labels mean
 
-* **Bib Gourmand 2026** — in the current MICHELIN Guide Seoul & Busan Bib Gourmand selection (announced 26 Feb 2026). Only three entries in this guide qualify. **MICHELIN covers Seoul and Busan only** — there is no Michelin in Daejeon or Cheonan.
+* **Bib Gourmand 2026** — in the current MICHELIN Guide Seoul & Busan Bib Gourmand selection (announced 26 Feb 2026). Only one entry in this guide qualifies (**Geumdwaeji Sikdang**, Seoul). Buchon Yukhoe held a Bib in the **2025** guide but is **not** in the 2026 selection — see the correction in [sources-and-notes.md](sources-and-notes.md). **MICHELIN covers Seoul and Busan only** — there is no Michelin in Daejeon or Cheonan.
 * **Selected** — in the MICHELIN Guide but without a star or Bib.
 * ***None*** — not in the MICHELIN Guide. This is not a criticism; most of the best food in Korea is not in the Guide.
 * **RECHECK** — verify shortly before visiting. Do this for every meal regardless of label.
