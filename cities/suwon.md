@@ -43,5 +43,7 @@
 
 | Entry | Reason |
 | :--- | :--- |
-| Individual Chicken Street shops (Maehyang, Yongseong, Jinmi) | Named on the street page; **no official hours per shop**. |
+| Individual Chicken Street shops (Maehyang, Yongseong, Jinmi) | Named on the street page; **no official hours per shop**. Rechecked 18 Aug 2026: the Suwon city tourism page that once printed per-shop addresses and hours (`suwon.go.kr/web/visitsuwon/tour05/pages.do?seqNo=147`) now returns **404** on the rebuilt VISIT SUWON site, and the current site has no restaurant directory. Search-engine copies of the dead page were **not** treated as a source. |
+| Cheongchun Haejangguk (청춘해장국, Jangan-gu) | Real VisitKorea listing, but `contentsView.do?vcontsId=54585` returned **HTTP 400** on every attempt this pass, so the hours could not be read at source. Retry next pass. |
+| Hwacheong Galbi · Sambuja Galbi Woncheon | Named in VisitKorea's Suwon wanggalbi feature (`vcontsId=221253`) with address, phone and menu prices — but that feature prints **no opening hours** for any restaurant, so neither clears the bar. |
 | Sobok Galbi / Gowon Galbi | VisitKorea listings exist, but this pass did not confirm they are in **Suwon** before adding. |

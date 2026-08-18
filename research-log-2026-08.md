@@ -382,3 +382,49 @@ Official pages fetched in full. **Added 20.**
 * Joaru still conflicting streets; Jeju Bokguk / Sikdang Samseon / Dongbaekseom Visit Busan empty; TODAi VisitKorea 400.
 
 **Roster now: 126.** Seoul 66 · Busan 33 · Suwon 7 · Daejeon 15 · Cheonan 5.
+
+---
+
+# Tenth expansion pass — 18 August 2026
+
+Brief: expand the roster, Seoul/Myeongdong, Suwon and Busan first, then the other cities. Same standard as before — **every address and every opening-hours line below was read off the official page itself in this session**, not off a search-result snippet. Search engines were used only to find candidate page IDs. **Added 22.** Roster: **148** (Seoul 77 · Busan 43 · Suwon 7 · Daejeon 16 · Cheonan 5).
+
+**Added — Seoul (11)**
+* Deogwon Kkorigomtang Bangchitang — Visit Seoul `ENP013807` (edited 4 Jun 2026); weekday/weekend split; Korean page confirms 덕원꼬리곰탕방치탕.
+* Hamheung Naengmyeon — VisitKorea 51072; 11:00–22:00, year-round; since 1967.
+* Haeju Naengmyeon — VisitKorea 47610; 11:30–21:00 LO 20:30; closed Sundays.
+* Neungrado Myeongdong Branch — Visit Seoul `ENP5biuc6`, published/edited 12 Aug 2026 (newest entry in this repo); 3F address; Korean page confirms 능라도 명동점.
+* Samwon Garden — VisitKorea 100105; day-by-day hours plus 15:00–17:00 break; page states MICHELIN Guide Seoul **2023** — recorded as a 2023 listing, **not** as a 2026 Bib.
+* Joseonok — Visit Seoul `ENP006970` (edited 3 Jun 2026); Mon–Sat two services, closed Sundays.
+* Daepyeong Galbi — VisitKorea 46584; 11:30–21:30. **No closing-day field on the page** — flagged in the row rather than filled in.
+* Gwanghwamun Gukbap — VisitKorea 191554; 11:00–21:40, break 14:30–17:30, closed Sundays. VisitKorea prints no Michelin note, so none is claimed.
+* Tongdwaeji Duruchigi — VisitKorea 60056; 10:00–22:00; no closing-day field — flagged.
+* Myeongdong Busanjib — Visit Seoul `ENPf6pbif` (edited 30 Jun 2026); halal; 11:00–22:00 LO 21:20.
+* Myeongdong Chaeum Hanjongshik — Visit Seoul `ENPlvokp2` (edited 30 Jun 2026); halal; B2 address; 11:00–22:00 LO 21:00.
+
+**Added — Busan (10)**
+* Haeundae Gaya Milmyeon — VisitKorea rgn 187036; 10:00–20:50, no closing day; founded May 1998. Distinct from the two existing Gaya/Halmae milmyeon entries.
+* 1969 Buwondong Kalguksu 부산본점 — Visit Busan `uc_seq=2345`; 11:00–19:30, but the portal itself says stock usually runs out around 18:00.
+* Pyeongan-do Jokbal — Visit Busan `uc_seq=201`; 12:00–24:00; closed traditional holidays.
+* Gwangalli Eonyang Bulgogi Busanjip — Visit Busan `uc_seq=950`; 11:00–21:30, open every day. **The official English page prints no Korean name**, so the Korean field is left empty rather than guessed.
+* Hapcheon Gukbapjip — `uc_seq=1511`; 09:00–14:00 / 14:30–20:00; closed public holidays.
+* Sinchang Gukbap — `uc_seq=198`; 09:00–21:00; closed Sundays; est. 1969.
+* Gayapocha Seonjigukbap 본점 — `uc_seq=2326`; 24 hours; closed two days at the holidays.
+* Pohang Dwaeji Gukbap — VisitKorea 60053; 05:00–21:40, year-round.
+* Geumsubokguk Haeundae Branch — `uc_seq=146`; **two floors, two different schedules** — recorded as printed.
+* Jeju Bokguk — `uc_seq=1457`; 10:00–15:00 / 17:00–20:30; closed public holidays.
+
+**Added — Daejeon (1)**
+* Hanmaeum Naengmyeon — VisitKorea 190013; 10:00–19:30; November–February closed 1st & 3rd Wednesday.
+
+**Improved, not added**
+* Byeongcheon Sundae Street (Cheonan) — second official source added: Chungnam Tourism `trsrcnNo=988` prints a street window of 08:00–20:30. VisitKorea still says "varies by shop"; both are shown, and neither is presented as a single shop's hours.
+
+**Checked and rejected**
+* **Suwon, nothing added.** The Suwon city tourism page that used to carry per-shop Chicken Street addresses and hours (`suwon.go.kr/web/visitsuwon/tour05/pages.do?seqNo=147`) now returns 404 on the rebuilt VISIT SUWON site; only search-engine copies survive, which is not a source. VisitKorea's Suwon wanggalbi feature (221253) gives addresses, phones and prices for Yeonpo, Hwacheong, Bonsuwon and Sambuja but **no hours at all**. Cheongchun Haejangguk (54585) returned HTTP 400 on every attempt.
+* Myeongdong Budae Jjigae (Visit Seoul `ENP012430`) — **duplicate**: it is the existing entry Yennal Myeongdong Budaejjigae, same address, same phone.
+* Hyeongje Jeontong Dwaeji Gukbap (VisitKorea 186383) — hours present but the page carries **no address at all**, and the holiday field says "Open 24 hr" against 06:00–20:00 hours. Rejected on both counts.
+* Daejeon galbijip (VisitKorea 190237) — still prints an English street (Daeheung-ro 175beon-gil) that does not match the Korean street (대전천서로 419-8). Unchanged from the previous pass; still rejected.
+* Gang Ho Dong Baekjeong Myeongdong, Chireuchireu, Bongchu Jjimdak, Bobae Banjum — national franchises; per the standing rule, branch pages are not treated as a single verifiable restaurant unless the branch itself is the entry.
+* VisitKorea `contentsView` IDs 57664, 46783, 48192, 54585 — repeated **HTTP 400** across the pass. Not added on the strength of a search snippet; queued for a retry.
+* Suwon Chicken Street Festival is 16–18 October 2026 (suwon.go.kr) — **before** this trip's 31 Oct arrival. Noted so nobody plans around it.

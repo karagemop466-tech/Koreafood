@@ -14,9 +14,9 @@ Every restaurant named below survived the August 2026 verification pass: address
 
 | Category | Seoul | Busan | Suwon | Cheonan | Daejeon |
 |---|---|---|---|---|---|
-| **Noodles** | **Myeongdong Kyoja** (Selected) <br> **Hwangsaengga Kalguksu** (**Bib 2026**) <br> **Chanyang-jip** | **Halmae Gaya** · **Dongnae Milmyeon** <br> **Samseong** · **Daeyeon** · **Gaya Halmae** | — | — | **Sutgol Won Naengmyeon** <br> **OC Kalguksu** |
+| **Noodles** | **Myeongdong Kyoja** (Selected) <br> **Hwangsaengga Kalguksu** (**Bib 2026**) <br> **Chanyang-jip** · **Neungrado Myeongdong** | **Halmae Gaya** · **Dongnae Milmyeon** <br> **Samseong** · **Daeyeon** · **Gaya Halmae** | — | — | **Sutgol Won Naengmyeon** <br> **OC Kalguksu** |
 | **Korean-Chinese** | **Sinseonggak** · **Ohsaegyehyang** | **Hwaguk Banjeom** | — | **Dongsunwon** (jjamppong, 1960) | — |
-| **Grilled meat** | **Geumdwaeji Sikdang** (**Bib 2026**) <br> **Budnamujip** | **Haeundae Amso Galbijip** · **Busan Jokbal** | **Bonsuwon** · **Yeonpo** · **Kabojung** | — | — |
+| **Grilled meat** | **Geumdwaeji Sikdang** (**Bib 2026**) <br> **Budnamujip** · **Joseonok** · **Samwon Garden** | **Haeundae Amso Galbijip** · **Busan Jokbal** | **Bonsuwon** · **Yeonpo** · **Kabojung** | — | — |
 | **Classic & specialty** | **Imun** · **Hadongkwan** · **Buchon Yukhoe** · **Jin Ok-hwa** · **Myeongdongjeong** · **Eomeonijip** · **Yeongyang Center** · **Chungmu Gimbap** | **Songjeong Samdae Gukbap** · **Dongnae Halmae Pajeon** · markets | **Suwon Chicken Street** (area) | **Cheonghwa-jip** · **Chungnam-jip** · **Aunae Jangteo** | **Sariwon Myeonok** · **Taepyeong Sogukbap** |
 | **Dessert & cafe** | — | **Brown Hands Baekje** · **Samjin Eomuk** | — | — | **Sungsimdang** |
 
@@ -24,11 +24,11 @@ Every restaurant named below survived the August 2026 verification pass: address
 
 ## 🛠️ How to use this guide
 
-* **126 verified restaurants.** Seoul 66 · Busan 33 · Suwon 7 · Daejeon 15 · Cheonan 5.
-* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 126 restaurants, the sourcing rules, and the leads worth chasing.
+* **148 verified restaurants.** Seoul 77 · Busan 43 · Suwon 7 · Daejeon 16 · Cheonan 5. (The tenth expansion pass, 18 August 2026, added 22 — Seoul 11, Busan 10, Daejeon 1.)
+* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 148 restaurants, the sourcing rules, and the leads worth chasing.
 * **Neighborhood walks:** **[cities/walking-food-routes.md](cities/walking-food-routes.md)** sequences verified entries into routes where the opening hours actually line up.
 * **Navigation & booking:** **[booking-and-tech-guide.md](booking-and-tech-guide.md)** — set up Naver Map and CatchTable Global before you depart.
-* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 126 rows, each with an official source URL.
+* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 148 rows, each with an official source URL.
 
 ---
 
