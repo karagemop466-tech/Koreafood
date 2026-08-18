@@ -1,303 +1,154 @@
-# South Korea 200+ Walking Food Itinerary Matrix
+# Walking Food Routes — Built Only From Verified Entries
 
-Welcome to the ultimate **Walking Food Itinerary Matrix**. This guide is structured to provide **over 200+ distinct, highly convenient, and cost-efficient daily walking tour options** across Seoul, Busan, Cheonan, and Daejeon.
+**Read this first.** The earlier version of this file advertised "535 verified spots," "40 Core Neighborhood Base Routes" and "over 1,000+ unique daily food walks." **None of those numbers were real.** The routes were padded with placeholder names that did not correspond to any restaurant (`Seoul Local Cafe 5`, `Busan Harbour Ramen 2`, `Cheonan Hub Jajangmyeon 2`, and so on), with prices that had no source, and with a permutation count that multiplied fabricated options together. Routes S11–S20 and B6–B15 were referenced but never written.
 
-To prevent overwhelming text bloat while delivering maximum choice, we have organized our 535 verified spots into **40 Core Neighborhood Base Routes**. Each route is categorized by its primary strength (**Value**, **Convenience**, or **Premium Quality**) and features a modular combination grid. 
+This file has been rebuilt from the ground up. It now contains **only restaurants that survived verification** against an official source — VisitKorea, Visit Seoul, Visit Busan, MICHELIN, or the restaurant's own site. The full verified set across all four cities is **35 entries**: 11 in Seoul, 14 in Busan, 5 in Daejeon, 5 in Cheonan. That is the honest number, and it is what these routes are built from.
 
-By choosing different combinations of **Lunch + Cafe + Dinner** within a single neighborhood grid, you can custom-build **over 1,000+ unique daily food walks**!
+**No prices appear anywhere in this repo.** Where the old file quoted a figure like "₩8,000," it was invented. To add sourced prices later, see [prices-review.md](../prices-review.md).
 
----
-
-## 🧭 Part 1: Route Category Definitions
-
-Our walking tours are organized into three distinct categories based on your daily pacing:
-
-1. **🏷️ Category 1: The 'Maximum Value' Budget Routes**
-   * *Focus*: Traditional markets, budget noodles, gukbaps, local diners, and cost-efficient AYCE chains (all meals under ₩10,000–15,000).
-2. **🚇 Category 2: The 'Extreme Convenience' Subway-Adjacent Routes**
-   * *Focus*: Establishments located strictly within a **2–5 minute walk** of major Subway or KTX stations. Perfect for rainy, cold, or low-walking days.
-3. **🌟 Category 3: The 'Premium Quality' Gourmet Routes**
-   * *Focus*: Michelin Bib Gourmands, 100-Year Heritage Shops (*Baeknyeon Gage*), and top-tier premium Hanwoo beef or staff-grilled pork BBQ.
+**Non-food stops** (parks, markets as sights, museums, cafes without verified hours) are named below as *context* — walk past them, decide for yourself. They are not presented as verified recommendations.
 
 ---
 
-## 🗺️ Part 2: Day-by-Day Walking Itinerary Matrix
+## How to use these routes
 
-Below are the 40 base routes. Simply choose **one Option A/B/C** from each column to build your daily food walk!
+Each route is a real geographic loop in one neighbourhood, sequenced so the **hours actually line up**. That constraint matters more than it sounds: Sinseonggak closes at 15:00 and sells out before that, Hadongkwan shuts at 16:00 or when the soup runs out, and half of Byeongcheon's sundae houses are shut on Mondays. A route that ignores opening hours is a route that ends in a closed shutter.
 
----
-
-## 🏢 SEOUL (20 Base Alleys = 400+ Permutations)
-
-### 1. 🏷️ Route S1: Insadong & Bukchon Alleys (Value)
-*Explore the traditional hanok lanes of Bukchon, shopping at Ssamziegil.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Osegyehyang* (Vegan Jajangmyeon, ₩10,000)
-  * **B**: *Jinja Ramen 1* (Spicy Ramen, ₩8,000)
-* **Afternoon Cafe Stop** (Pick 1):
-  * **A**: *Shin Old Tea House* (Traditional Jujube Tea, ₩9,000)
-  * **B**: *Blue Bottle Samcheong* (Nola Float, ₩7,200)
-* **Dinner Options** (Pick 1):
-  * **A**: *Myeongnyun Jinsa Galbi* (AYCE Pork ribs, ₩19,900)
-  * **B**: *Seoul Local Classic Korean 5* (Sundae Gukbap, ₩9,500)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
-
-### 2. 🌟 Route S2: Gyeongbokgung & Seochon (Premium Quality)
-*Stroll through the royal palaces and the artistic cafes of Seochon.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Tosokchon Samgyetang* (Ginseng Chicken Soup, ₩20,000)
-  * **B**: *Oreno Ramen Insadong* (Michelin Tori Paitan, ₩11,000)
-* **Afternoon Cafe Stop** (Pick 1):
-  * **A**: *Cafe Onion Anguk* (Pandoro Pastry, ₩6,000)
-  * **B**: *Fritz Coffee Company Anguk* (Cold Brew, ₩5,500)
-* **Dinner Options** (Pick 1):
-  * **A**: *Woo Lae Oak* (Michelin Pyeongyang Naengmyeon & Bulgogi, ₩16,000)
-  * **B**: *Seoul Local Classic Korean 6* (Mandu Soup, ₩11,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
-
-### 3. 🚇 Route S3: Myeongdong Shopping Core (Convenience)
-*High-intensity cosmetics and fashion shopping in central Seoul, feet away from the subway.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Myeongdong Kyoja* (Michelin Kalguksu & Mandu, ₩11,000)
-  * **B**: *Hadongkwan Main Store* (Michelin Hanwoo Gomtang, ₩15,000)
-* **Afternoon Cafe Stop** (Pick 1):
-  * **A**: *Halmeoni Guksu Myeongdong* (Tofu Guksu snack, ₩6,500)
-  * **B**: *Seoul Local Cafe 5* (Aesthetic espresso, ₩5,000)
-* **Dinner Options** (Pick 1):
-  * **A**: *Menten* (Michelin Shoyu Ramen, ₩11,500)
-  * **B**: *Yoogane Dakgalbi Myeongdong* (Spicy chicken & cheese ring, ₩12,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
-
-### 4. 🏷️ Route S4: Gwangjang & Dongdaemun Markets (Value)
-*Dive into the food stalls, textiles, and wholesale fashion centers of eastern Seoul.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Buchon Yukhoe* (Michelin raw beef tartare, ₩21,000)
-  * **B**: *Jongno Grilled-Fish Alley* (Charcoal grilled fish set, ₩10,000)
-* **Afternoon Snack/Cafe Stop** (Pick 1):
-  * **A**: *Gwangjang Market Stalls* (Bindaetteok, ₩5,000)
-  * **B**: *Seoul Local Cafe 10* (Euljiro drip coffee, ₩4,500)
-* **Dinner Options** (Pick 1):
-  * **A**: *Jin Ok-hwa Halmae Original Chicken* (Dakhanmari, ₩28,000 for two)
-  * **B**: *Hong Kong Banjum 0410 Dongmyo* (Jajangmyeon, ₩6,500)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
-
-### 5. 🌟 Route S5: Seongsu-dong Industrial Chic (Premium Quality)
-*Shop at Dior Seongsu and local designer showrooms in Korea's trendiest neighborhood.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Somunnan Seongsu Gamjatang* (Undisputed #1 Gamjatang, ₩12,000)
-  * **B**: *Seoul Local Ramen 10* (Jinja Ramen, ₩10,000)
-* **Afternoon Cafe Stop** (Pick 1):
-  * **A**: *Ongeundal* (Croissant & pool garden, ₩4,500)
-  * **B**: *Seoul Angmusae* (Cinnamon roll, ₩5,500)
-* **Dinner Options** (Pick 1):
-  * **A**: *Daedo Sikdang Wangsimni* (60y Hanwoo sirloin, ₩42,000)
-  * **B**: *Seoul Local AYCE BBQ 8* (Ungteori pork belly, ₩16,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
-
-### 6. 🏷️ Route S6: Hongdae & Yeonnam Forest Path (Value)
-*Walk along 'Yeontral Park' and shop at independent youth boutiques.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Oreno Ramen Main Store* (Michelin Tori Paitan, ₩11,000)
-  * **B**: *Butanchu Hongdae* (Tonkotsu Ramen, ₩9,500)
-* **Afternoon Cafe Stop** (Pick 1):
-  * **A**: *Sinleedoga* (Modern hanok with fireplace, ₩5,000)
-  * **B**: *Seoul Local Cafe 8* (Yeonnam drip coffee, ₩5,000)
-* **Dinner Options** (Pick 1):
-  * **A**: *Hong Kong Banjum 0410* (Jajangmyeon & Tangsuyuk, ₩11,000)
-  * **B**: *Saemaul Sikdang Hongdae* (Spicy pork bulgogi, ₩11,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
-
-### 7. 🚇 Route S7: Mapo & Gongdeok Meat Alley (Convenience)
-*Feast in the legendary pork rib and salt-grill alleys of Mapo, steps from Gongdeok station.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Sinseonggak* (Historic handmade Jajangmyeon since 1981, ₩8,000)
-  * **B**: *Seoul Local Jajangmyeon 5* (Ganjajang, ₩7,000)
-* **Afternoon Cafe Stop** (Pick 1):
-  * **A**: *Fritz Coffee Company Dohwa* (Vintage hanok roastery, ₩5,000)
-  * **B**: *Seoul Local Cafe 2* (Aesthetic espresso, ₩5,000)
-* **Dinner Options** (Pick 1):
-  * **A**: *Mapo Jeong Daepo* (Charcoal pork skirt & egg rim, ₩18,000)
-  * **B**: *Budnamujip* (Local pork BBQ ribs, ₩18,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
-
-### 8. 🌟 Route S8: Itaewon & Hannam-dong Design Row (Premium Quality)
-*Browse premium local designer labels (Mardi Mercredi, MSMR) and luxury vintage shops.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Ramen Jiro Seoul* (Massive garlic-pork Jiro ramen, ₩12,000)
-  * **B**: *Seoul Local Ramen 4* (Premium Tonkotsu, ₩10,000)
-* **Afternoon Cafe Stop** (Pick 1):
-  * **A**: *Fritz Coffee Company Wonseo* (Modern glass hanok, ₩5,500)
-  * **B**: *Seoul Local Cafe 4* (Espresso, ₩5,000)
-* **Dinner Options** (Pick 1):
-  * **A**: *Nari's House* (Legendary retro frozen pork belly & Cheonggukjang, ₩14,000)
-  * **B**: *Seoul Local AYCE BBQ 6* (Premium Moksal pork neck, ₩15,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
-
-### 9. 🚇 Route S9: Yaksu & Sindang Meat Loop (Convenience)
-*Feast on premium Michelin-starred pork and local market tteokbokki directly off Line 3.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Seoul Local Classic Korean 7* (Seolleongtang, ₩10,000)
-  * **B**: *Seoul Local Jajangmyeon 6* (Ganjajang, ₩7,500)
-* **Afternoon Snack/Cafe Stop** (Pick 1):
-  * **A**: *Seoul Local Cafe 7* (Espresso, ₩5,000)
-  * **B**: *Seoul Local Cafe 1* (Drip coffee, ₩4,500)
-* **Dinner Options** (Pick 1):
-  * **A**: *Geumdwaeji Sikdang* (Michelin Bib Gourmand bone-in pork belly, ₩19,000)
-  * **B**: *Seoul Local AYCE BBQ 9* (AYCE Pork ribs, ₩19,900)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
-
-### 10. 🏷️ Route S10: Sinchon College Street (Value)
-*Shop at local boutiques and dine at budget-friendly university student restaurants.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Bokseong-gak* (Innovative yellow/red Jajangmyeon, ₩9,000)
-  * **B**: *Seoul Local Jajangmyeon 10* (Jajangmyeon, ₩7,000)
-* **Afternoon Cafe Stop** (Pick 1):
-  * **A**: *Seoul Local Cafe 6* (Espresso, ₩5,000)
-  * **B**: *Seoul Local Cafe 9* (Drip coffee, ₩4,500)
-* **Dinner Options** (Pick 1):
-  * **A**: *Myeongnyun Jinsa Galbi Sinchon* (AYCE pork ribs, ₩19,900)
-  * **B**: *Seoul Local AYCE BBQ 10* (Pork belly, ₩15,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
-
-*(Seoul Routes S11 to S20 follow the same mathematical modular structure, utilizing the remainder of the 200 Seoul verified restaurants, providing **over 160+ unique Day Tour combinations in Seoul alone!**)*
+⚠️ **Before every single meal, check the day of the week against the closure column.** The Korean restaurant week is not the American one.
 
 ---
 
-## 🌊 BUSAN (15 Base Alleys = 120+ Permutations)
+# 🏢 SEOUL — 5 verified routes
 
-### 11. 🏷️ Route B1: Busan Station Chinatown (Value)
-*Discover historic Chinatown alleys right outside the main KTX station, packed with dumpling legends.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Shinbalwon* (Michelin-recognized 1951 crispy fried dumplings, ₩6,000)
-  * **B**: *Maga Mandu* (Local favorite Chinatown steamed dumplings, ₩8,000)
-* **Afternoon Cafe Stop** (Pick 1):
-  * **A**: *Brown Hands Baekje* (Fabulous 1922 brick hospital cafe, ₩6,000)
-  * **B**: *Busan Harbour Cafe 2* (Café Latte, ₩5,500)
-* **Dinner Options** (Pick 1):
-  * **A**: *Choryang Milmyeon* (Sweet cinnamon cold milmyeon & king dumplings, ₩6,500)
-  * **B**: *Choryang Bulgogi* (Spicy pan-fried marinated pork bulgogi set, ₩10,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
+### Route S1 — Myeongdong Core
+*Two of Seoul's oldest soup houses, four minutes apart, both in the MICHELIN Guide's Selected list.*
 
-### 12. 🌟 Route B2: Haeundae Beach & Haeridan-gil (Premium Quality)
-*Stroll Haeundae beach boardwalk and shop at Haeridan-gil's converted residential boutiques.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Haeundae Traditional Market* (Grilled sea eels or local milmyeon, ₩10,000)
-  * **B**: *Busan Harbour Ramen 2* (Premium Tonkotsu Ramen, ₩9,500)
-* **Afternoon Cafe Stop** (Pick 1):
-  * **A**: *Cafe Yoon* (Minimalist clifftop sea-view coffee, ₩6,000)
-  * **B**: *Busan Harbour Cafe 6* (Matcha Latte, ₩5,500)
-* **Dinner Options** (Pick 1):
-  * **A**: *Haeundae Somunnan Amso Galbi-jip* (60y beef rib legend, ₩45,000)
-  * **B**: *Nagahama Mangetsu* (Michelin Fukuoka-style 36h Tonkotsu, ₩10,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
+- **Early lunch — Hadongkwan** (하동관 본점), 12 Myeongdong 9-gil. Gomtang since 1939. **Mon–Sat 07:00–16:00, closed Sun.** Go before 11:30 or risk the sold-out sign.
+- **Walk** — Myeongdong shopping streets, ten minutes on foot in any direction. Myeongdong Cathedral at the eastern end.
+- **Late lunch or early dinner — Myeongdong Kyoja** (명동교자 본점). Kalguksu and mandu. **Daily 10:30–21:00.**
 
-### 13. 🚇 Route B3: Seomyeon Market Food Alley (Convenience)
-*High-density shopping at Seomyeon Underground Mall, feet away from Busan's oldest food spots.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Songjeong Samdae Gukbap* (Historic 1946 dwaeji gukbap, ₩9,000)
-  * **B**: *Gijang Sonkalguksu* (Chewy hand-rolled kalguksu in garlic broth, ₩7,000)
-* **Afternoon Cafe/Dessert Stop** (Pick 1):
-  * **A**: *Werk Coffee Roasters* (Jeonpo award-winning roastery, ₩5,000)
-  * **B**: *Landmark 9* (Massive luxury bakery & greenhouse cafe, ₩6,500)
-* **Dinner Options** (Pick 1):
-  * **A**: *Myeongnyun Jinsa Galbi Seomyeon* (AYCE Pork ribs, ₩19,900)
-  * **B**: *Seomyeon Gaegeum Milmyeon* (1966 medicinal cold milmyeon, ₩9,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
+**Sequencing note:** these two are close enough to do in one day, but they are both noodle-and-broth restaurants. If you only want one, Hadongkwan is the harder reservation to replicate elsewhere.
 
-### 14. 🏷️ Route B4: Nampo-dong & Gukje Market (Value)
-*Wander BIFF Square, Gukje Market, and Jagalchi Seafood docks.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Halmae Gaya Milmyeon* (Legendary 1974 cold milmyeon near BIFF, ₩7,000)
-  * **B**: *Hwaguk Banjeom* (Retro 1960s movie-set Ganjajang with fried egg, ₩8,000)
-* **Afternoon Snack/Cafe Stop** (Pick 1):
-  * **A**: *Samjin Amook Yeongdo Store* (oldest 1953 fishcake bakery croquettes, ₩2,500)
-  * **B**: *Sinki Yeoul* (Sleek white cliffside sea-view cafe, ₩5,500)
-* **Dinner Options** (Pick 1):
-  * **A**: *Busan Jokbal* (Original Naengchae Jokbal cold trotter salad, ₩35,000)
-  * **B**: *Geoin Tongdak* (Gigantic curry double-fried crispy chicken, ₩24,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
+### Route S2 — Jongno & Gwangjang Market
+*The densest verified cluster in the city.*
 
-### 15. 🚇 Route B5: Sasang West Hub Loop (Convenience)
-*Perfect western Nakdong River walk, highly convenient for airport light-rail transfers.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Hapcheon Ilryu Gukbap* (Busan's #1 garlicky dwaeji gukbap, ₩8,500)
-  * **B**: *Busan Harbour Classic Korean 11* (Mild clean gukbap, ₩8,000)
-* **Afternoon Cafe Stop** (Pick 1):
-  * **A**: *Terarosa Suyeong* (Industrial wire-factory art space F1963, ₩6,000)
-  * **B**: *Busan Harbour Cafe 7* (Matching drip coffee, ₩5,500)
-* **Dinner Options** (Pick 1):
-  * **A**: *Hong Kong Banjum Sasang* (Jjampong & fried mandu, ₩11,000)
-  * **B**: *Sasang Galbi* (Highly soft, sweet marinated pork ribs, ₩12,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
+- **Lunch — Buchon Yukhoe** (부촌육회), Gwangjang Market raw-beef alley. **Bib Gourmand 2025 — not in the 2026 selection.** Yukhoe and sliced raw beef. **Mon–Sat 09:00–22:00 (LO 20:30) / Sun 09:00–22:00 (LO 19:30).**
+- **Walk** — Gwangjang Market itself, then west along Jong-ro toward Jongno 3-ga.
+- **Dinner — Imun Seolnongtang** (이문설농탕), Jongno-gu. The first restaurant officially registered in Seoul, 1907. **Mon–Sat 08:00–21:00, Sun to 20:00, break 15:00–16:30.**
+- **Alternative dinner — Chanyang-jip** (찬양집), Jongno 3-ga. Clam kalguksu. **10:00–21:00, closed Sun and public holidays.**
 
-*(Busan Routes B6 to B15 follow the same mathematical modular structure, utilizing the remainder of the 200 Busan verified restaurants, providing **over 120+ unique Day Tour combinations in Busan!**)*
+### Route S3 — Insadong & Anguk
+*Hanok lanes, and the one verified vegan kitchen in this guide.*
+
+- **Lunch or dinner — Ohsaegyehyang** (오세계향), 14-5 Insadong 12-gil. Vegan Korean-Chinese, including vegan jajangmyeon. **11:30–16:00 / 17:00–21:00, closed Thursdays.**
+- **Walk** — Insadong-gil and Ssamziegil, then north into Bukchon Hanok Village.
+
+**⚠️ Thursday closure.** This is the single easiest mistake to make in Insadong.
+
+### Route S4 — Yaksu / Sindang
+*One stop, and it is worth building a day around.*
+
+- **Dinner — Geumdwaeji Sikdang** (금돼지식당), 149 Dasan-ro, Jung-gu. **Bib Gourmand 2026** — one of only two Bib Gourmand barbecue restaurants in Seoul. Bone-in samgyeopsal. **Daily 11:30–23:00, last order 22:20.**
+- **Expect a long wait.** Numbers are taken in person, not online. Put your name down, then walk Sindang-dong or the Seoul Central Market and come back.
+
+### Route S5 — Dongdaemun Chicken Alley
+- **Dinner — Jin Ok-hwa Halmae Wonjo Dakhanmari** (진옥화할매원조닭한마리), founded 1978. Whole poached chicken, then kalguksu in the broth. **Daily 10:30–01:00, last order 23:30.**
+- The latest-running verified option in Seoul — the fallback for a night when everything else has closed.
+
+### Verified Seoul entries not on a route
+
+**Sinseonggak** (신성각, Gongdeok, Mapo-gu) — jajangmyeon, **11:35–15:00 until sold out, closed Sun and holidays**. A narrow lunch window on the wrong side of the river from everything else here; treat it as a destination, not a stop.
+**Budnamujip** (버드나무집, 434 Hyoryeong-ro, Seocho-gu) — beef barbecue since 1977, MICHELIN Selected ₩₩, **daily 11:00–21:30**. Seocho is out on its own.
+**Goryeo Samgyetang** (고려삼계탕 본점, City Hall) — **daily 10:30–21:00**. Michelin Guide Seoul 2023, not in the current selection.
 
 ---
 
-## 🌰 CHEONAN & DAEJEON FLEX (10 Base Alleys = 80+ Permutations)
+# 🌊 BUSAN — 4 verified routes
 
-### 16. 🏷️ Route C1: Cheonan Station & Walnut Legacy (Value)
-*Discover Cheonan's oldest public market, combined with the original walnut cookie dynasty.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Daecheon Banjeom* (Market Chinese node, Jajangmyeon for ₩5,000)
-  * **B**: *Cheonan Hub Jajangmyeon 2* (Smoky Ganjajang, ₩7,000)
-* **Afternoon Snack/Cafe Stop** (Pick 1):
-  * **A**: *Hakhwa Halmoni Hodu-gwaja Cheonan Stn* (Original 1934 walnut cookies, ₩5,000)
-  * **B**: *Cafe de Cheonan* (Retro industrial station cafe, ₩4,500)
-* **Dinner Options** (Pick 1):
-  * **A**: *Cheonan Hub Classic Korean 5* (Traditional Gukbap, ₩8,500)
-  * **B**: *Cheonan Hub AYCE BBQ 9* (Charcoal Pork belly, ₩13,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
+### Route B1 — Nampo-dong, Jagalchi & BIFF Square
+*The best-connected verified cluster in Korea; everything below is walkable from everything else.*
 
-### 17. 🌟 Route C2: Cheonan Pastry Shire (Premium Quality)
-*Walk around the fairytale Hobbit Shire theme park, featuring stone-oven bakeries.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Dongsunwon Seongwan* (Historic 1960 Chinese, Jjamppong ₩7,000)
-  * **B**: *Cheonan Hub Jajangmyeon 5* (Wok-fired Ganjajang, ₩8,000)
-* **Afternoon Cafe/Pastry Stop** (Pick 1):
-  * **A**: *Toujours Dolgama Village* (Fairytale Shire, slow-fermented Turtle Bread, ₩3,000)
-  * **B**: *Abyssinia Coffee* (Award-winning roastery Flat White, ₩5,000)
-* **Dinner Options** (Pick 1):
-  * **A**: *Menya Matsuri Ssangyong Main Store* (Sizzling 300°C stone-pot Volcano Ramen, ₩12,000)
-  * **B**: *Cheonan Hub Ramen 10* (Industrial Japanese ramen, ₩10,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
+- **Lunch — Halmae Gaya Milmyeon** (할매가야밀면), 56-14 Gwangbok-ro. Milmyeon, ~40 years, 140 seats so the queue moves. **Daily 10:30–21:30, year-round.**
+- **Walk** — BIFF Square, then Gukje Market, then down to the water.
+- **Afternoon — Jagalchi Market** (자갈치시장), 52 Jagalchihaean-ro. Korea's largest seafood market: buy downstairs, eat upstairs. **05:00–22:00, closed the 1st and 3rd Tuesday of each month.**
+- **Dinner — Busan Jokbal** (부산족발), 13 Gwangbok-ro, Jokbal Alley. Naengchae jokbal — cold trotter with jellyfish and mustard. **Daily 10:30–01:00.**
+- **Or dinner — Hwaguk Banjeom** (화국반점), 3 Baeksan-gil. Ganjjajang and tangsuyuk; 43 years; filming location for *New World*. **11:30–15:30 / 17:00–21:30, closed 1st & 3rd Monday.**
 
-### 18. 🌟 Route D1: Old Downtown "Taste of Daejeon" Overhaul Walk (Premium Quality)
-*Experience Daejeon's certified Top 3 Tastes (Bread, Kalguksu, and Dubu-duruchigi) in a single downtown loop.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Jinro-jip* (1969 dubu-duruchigi silky tofu, ₩13,000)
-  * **B**: *Gwangcheon Sikdang Tofu* (SBS 3 Emperors firm fiery tofu duruchigi, ₩16,000)
-* **Afternoon Bakery Stop** (Pick 1):
-  * **A**: *Sungsimdang Main Store & Cake Boutique* (Fried streusel buns & rolls, ₩1,700–6,500)
-  * **B**: *Daeheung-dong Cafe street* (Cosy independent cafe tarts, ₩6,000)
-* **Dinner Options** (Pick 1):
-  * **A**: *Ossi Kalguksu* (Certified Taste #3 surf clam Dongjuk Kalguksu, ₩8,500)
-  * **B**: *Boksu Bunsik* (Highly soft, egg-scrambled Eolkeun-i Kalguksu, ₩8,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
+### Route B2 — Busan Station & Chinatown
+*Straight off the KTX.*
 
-### 19. 🚇 Route D2: Yuseong Hot Springs & Buckwheat Heritage Walk (Convenience)
-*Soak your feet in free natural outdoor hot spring baths, paired with 70-year-old cold noodles.*
-* **Lunch Options** (Pick 1):
-  * **A**: *Sutgol Won Naengmyeon* (100y Heritage 1954 Pyeongyang chicken-buckwheat noodles, ₩10,000)
-  * **B**: *Subarashi Ramen Main Store* (Daejeon's #1 spicy tonkotsu, ₩11,000)
-* **Afternoon Activity / Cafe Stop** (Pick 1):
-  * **A**: *Yuseong Hot Springs Park Foot Bath* (Soak feet & walk parks, ₩0) followed by *Green Coffee* ( match latte, ₩5,000)
-  * **B**: *Brown Hands Daejeon* (Converted vehicle warehouse industrial cafe, ₩6,000)
-* **Dinner Options** (Pick 1):
-  * **A**: *Taepyung Sogukbap Yuseong* (Daejeon's #1 24h beef soup & Hanwoo raw sashimis, ₩8,500)
-  * **B**: *Sariwon Myeonok Main Store* (1951 legendary sweet bulgogi, ₩15,000)
-* **Total Route Combinations**: $2 \times 2 \times 2 = \mathbf{8}$ unique day tours.
+- **Lunch — Shinbalwon** (신발원), 62 Daeyeong-ro 243beon-gil, Dong-gu. Chinatown mandu and Chinese breads. **11:00–21:00, closed Tuesdays.** ⚠️ This guide previously called it "Michelin-recognized 1951" — **both halves of that were false.**
+- **Coffee — Brown Hands Baekje** (브라운핸즈 백제), 16 Jungang-daero 209beon-gil. A cafe inside Busan's first modern Western-style hospital, a registered cultural property. **Daily 10:00–22:00.**
+
+### Route B3 — Seomyeon
+*Busan's transit centre; four verified entries within a few blocks.*
+
+- **Any hour — Songjeong Samdae Gukbap** (송정3대국밥), 33 Seomyeon-ro 68beon-gil. Dwaeji gukbap and suyuk baekban. **Open 24 hours, year-round.** No on-site parking.
+- **Lunch — Gijang Sonkalguksu** (기장손칼국수), 56 Seomyeon-ro, inside Seomyeon Market. Hand-cut noodles with gimbap. **Daily 09:00–21:00.**
+- **Or — Seo-myeon Gaegeum Milmyeon** (서면개금밀면), 39 Seomyeon-ro 68beon-gil. Milmyeon in herbal beef-bone broth. **Summer 09:00–22:00 / winter 09:30–21:00.**
+- **Morning — Bujeon Market** (부전시장), 23 Jungang-daero 783beon-gil. Busan's largest traditional market, best early. **Daily 07:00–19:00, varies by shop.**
+
+### Route B4 — Dongnae & Haeundae
+*Not walkable end to end — take the subway between them.*
+
+- **Lunch — Dongnae Halmae Pajeon** (동래할매파전), 43-10 Myeongryun-ro 94beon-gil, Dongnae-gu. Four generations of Dongnae-style seafood-and-spring-onion pancake. **11:30–15:00 / 17:00–21:30, closed Mondays.**
+- **Dinner — Haeundae Amso Galbijip** (해운대암소갈비집), 32-10 Jungdong 2-ro 10beon-gil. Opened 1964; Hanu saenggalbi on the house's iron pan, gamja guksu to finish. **11:30–22:00, weekend break 15:15–16:30.** ⚠️ Earlier drafts called this "Haeundae Somunnan Amso Galbi-jip" — wrong name.
+
+### Verified Busan entry not on a route
+**Samjin Eomuk Main Store** (삼진어묵 본점), 36 Taejong-ro 99beon-gil, Yeongdo-gu. Same family since 1953; fish-cake workshop on the 2nd floor. **Daily 09:00–19:00.** Yeongdo needs its own half-day.
+
+### ⚠️ Michelin, in Busan
+**Not one of the 14 verified Busan entries above holds a Bib Gourmand.** The 2026 Busan Bib list runs to 20 restaurants and none of them are here — the full list is in `busan.md`. The old version of this file called Shinbalwon "Michelin-recognized" and Nagahama Mangetsu a route stop; Nagahama Mangetsu genuinely *is* a Bib Gourmand but was dropped from this guide because no official source publishes its hours.
 
 ---
 
-## 🔄 Part 3: Customization Pool & Mathematical Permutation Summary
+# 🌰 DAEJEON — 2 verified routes
 
-By modularly mixing and matching our **535 fully verified physical restaurants** across these 40 core neighborhood base routes, you have **over 1,000+ distinct Daily Walking Food Tour Permutations** at your disposal! 
+### Route D1 — Old Downtown (Jung-gu)
+- **Lunch — Sariwon Myeonok Main Store** (사리원면옥 본점), 62 Junggyo-ro. Pyeongyang naengmyeon, galbitang, Hanwoo bulgogi. **11:00–21:30.** ⚠️ The old routes file filed this under jajangmyeon and called it "1951 legendary sweet bulgogi" — wrong category, unsourced year.
+- **Bakery — Sungsimdang Main Store** (성심당 본점), 15 Daejong-ro 480beon-gil. Founded 1956 selling jjinbbang near Daejeon Station; ~400 varieties now. Queue for **twigim soboro** and pantalong leek bread. **Daily 08:00–22:00, year-round.**
+- **Dinner — OC Kalguksu / Ossi Kalguksu** (오씨칼국수), 1F, 13 Yetsintanjin-ro, **Dong-gu** — a short ride east, not a walk. **11:00–21:00, closed Mondays.**
 
-### 📊 Mathematical Permutation Breakdown:
-* **Seoul (20 Base Alleys)**: $20 \text{ alleys} \times 8 \text{ permutations/alley} = \mathbf{160}$ distinct daily food walks.
-* **Busan (15 Base Alleys)**: $15 \text{ alleys} \times 8 \text{ permutations/alley} = \mathbf{120}$ distinct daily food walks.
-* **Daejeon (5 Base Alleys)**: $5 \text{ alleys} \times 8 \text{ permutations/alley} = \mathbf{40}$ distinct daily food walks.
-* **Cheonan (5 Base Alleys)**: $5 \text{ alleys} \times 8 \text{ permutations/alley} = \mathbf{40}$ distinct daily food walks.
+### Route D2 — Yuseong
+- **Lunch — Sutgol Won Naengmyeon** (숯골원냉면), 173 Hyeonchungwon-ro. Four generations; dongchimi-and-chicken broth, Pyeongchang buckwheat. **11:00–20:00, break 15:30–16:30.**
+- **Walk** — Yuseong Hot Springs Park and its free outdoor foot bath.
+- **Any hour — Taepyeong Sogukbap** (태평소국밥), 50 Oncheondong-ro 65beon-gil. Beef-and-radish soup, yuksashimi, someori suyuk. **Open 24 hours.**
 
-**Total Available Daily Tour Options**: **360+ Fully Categorized, Neighborhood-Specific Day Walks!**
+**Dropped from the old D1/D2 routes:** Boksu Bunsik and Kingdom Buffet (no official source), plus Jinro-jip, Gwangcheon Sikdang, Subarashi Ramen, Brown Hands Daejeon and the Sungsimdang Cake Boutique — none of which were ever verified. The "certified Top 3 Tastes of Daejeon" framing had no traceable source either.
+
+**No Michelin in Daejeon.** The Guide's Korean selection covers Seoul and Busan only.
+
+---
+
+# 🌰 CHEONAN — 1 verified route
+
+### Route C1 — Byeongcheon (Aunae) Sundae Street
+*The reason to come to Cheonan, and effectively the whole trip. Roughly 40 minutes by bus east of Cheonan Station — budget half a day.*
+
+Byeongcheon sundae uses **small intestine** rather than large, so it is far less funky than sundae elsewhere, and is stuffed with vegetables and seonji instead of glass noodles. About **20 specialists** sit within a few hundred metres.
+
+- **Lunch — Cheonghwa-jip** (청화집), 1749 Chungjeol-ro. The origin house, and a *Baeknyeon Gage* 100-year shop. Opened in the early 1950s at Aunae Market with no signboard; the name was assigned by a county official for the tax registration. Now fourth-generation. **Weekdays 09:00–17:00 / weekends 08:30–17:00, closed Mondays.**
+- **Or — Chungnam-jip Sundae** (충남집순대), 1748 Chungjeol-ro — literally across the road, and the *other* house VisitKorea credits as an originator. **08:00–19:00, open year-round.** This is your Monday answer.
+- **Or — Aunae Jangteo Sundae** (아우내 장터순대), 40 Aunae-sundae-gil. Opened 1994, the TV-famous one, big car park, closest to Mokcheon IC. **09:00–20:00, year-round.**
+- **Walk** — the **Yu Gwan-sun Memorial** and the Aunae March 1st Independence Movement park, about 1 km away. This street is where she handed out flags in 1919. Do this part; it is the point of Byeongcheon.
+
+⚠️ **Mondays:** Cheonghwa-jip is shut. Chungnam-jip and Aunae Jangteo are not.
+
+### Verified Cheonan entry not on a route
+**Dongsunwon Seonghwan Main Branch** (동순원 성환본점), 33 Seonghwan-jungang-ro, **Seobuk-gu**, by Seonghwan Station. Open since 1960; the house dish is **jjamppong**, not jajangmyeon. **11:00–20:00, closed Mondays.** No parking. Seonghwan is a separate town in the north of the city — only worth it if you are already passing through on the Line 1 train.
+
+**Dropped from the old C1/C2 routes:** Daecheon Banjeom, Cafe de Cheonan, Menya Matsuri, Abyssinia Coffee, and Toujours Dolgama Village — the last of these has an official page, but that page publishes no hours and was last updated in 2023.
+
+---
+
+## Honest totals
+
+| City | Verified entries | Routes built |
+| :--- | ---: | ---: |
+| Seoul | 11 | 5 |
+| Busan | 14 | 4 |
+| Daejeon | 5 | 2 |
+| Cheonan | 5 | 1 |
+| **Total** | **35** | **12** |
+
+There is no permutation matrix, because a permutation matrix built on 35 restaurants across four cities would be arithmetic dressed up as research. Twelve routes, thirty-five restaurants, every one of them real, every hour traceable to an official source. **Check hours the morning you go** — official portals lag, and Korean restaurants close on holidays this file cannot predict.

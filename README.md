@@ -6,34 +6,36 @@ A highly practical, meticulously verified two-person food plan for **Seoul + Bus
 
 ---
 
-## 🏆 Quick choices (The Culinary Highlights)
+## 🏆 Quick choices — verified entries only
+
+Every restaurant named below survived the August 2026 verification pass: address and opening hours traceable to an official source (VisitKorea, Visit Seoul, Visit Busan, MICHELIN, or the restaurant's own site). **Anything that could not be verified has been removed from this repo entirely** — see each city guide's "Removed from this guide, and why" table.
 
 | Category | Seoul | Busan | Cheonan | Daejeon |
 |---|---|---|---|---|
-| **Ramen & Noodles** | **Oreno Ramen** (Michelin, free refills) <br> **Menten** (Michelin, precise Shoyu) | **Nagahama Mangetsu** (Michelin, 36h Tonkotsu) | **Menya Matsuri** (Blue Ribbon x6, 300°C stone-pot) | **Subarashi Ramen** (Daejeon's #1 spicy tonkotsu) |
-| **Jajangmyeon** | **Sinseonggak** (Gongdeok, hand-pulled) <br> **Hong Kong Banjum** (Baek Jong-won's budget) | **Hwaguk Banjeom** (Nampo, 1960s movie-set Ganjajang) | **Daecheon Banjeom** (Market node, Jajang for ₩5,000) | **Tae Hwa Ru** (Yongjeon-dong, green-chili Ganjajang) |
-| **AYCE & Hanwoo BBQ** | **Myeongnyun Jinsa Galbi** (AYCE BBQ king) <br> **Daedo Sikdang** (Wangsimni Hanwoo pioneer since 1964) | **Myeongnyun Jinsa Galbi** (Seomyeon AYCE) <br> **Haeundae Amso Galbi-jip** (Haeundae legend since 1964) | **Myeongnyun Jinsa Galbi** (Sinbu-dong/Dujeong AYCE) | **Myeongnyun Jinsa Galbi** (Dunsan-dong AYCE) |
-| **Classic & Specialty** | **Imun Seolleongtang** (Oldest restaurant, since 1907) <br> **Myeongdong Kyoja** (Michelin Kalguksu since 1966) | **Songjeong Samdae** (Gukbap since 1946) <br> **Hapcheon Ilryu** (#1 garlicky dwaeji gukbap) | **Byeongcheon Sundae Street** (Park Sun-ja, Cheonghwa-jip) | **Jinro-jip** (Birthplace of Dubu-duruchigi since 1969) |
-| **Dessert & Cafe** | **Shin Old Tea House** (130y hanok) <br> **Fritz Coffee Company** (Vintage roastery) | **Brown Hands Baekje** (1922 brick hospital) <br> **Samjin Amook** (Oldest 1953 fishcake bakery) | **Toujours Dolgama Village** (Fairytale Hobbit Shire bread village) | **Sungsimdang Main & Cake Boutique** (10m visitors/year landmark) |
+| **Noodles** | **Myeongdong Kyoja** (kalguksu, MICHELIN Selected) <br> **Chanyang-jip** (clam kalguksu) | **Halmae Gaya Milmyeon** (Nampo) <br> **Seo-myeon Gaegeum Milmyeon** <br> **Gijang Sonkalguksu** | — | **Sutgol Won Naengmyeon** (4 generations) <br> **OC Kalguksu** (오씨칼국수) |
+| **Korean-Chinese** | **Sinseonggak** (Gongdeok, lunch only) <br> **Ohsaegyehyang** (vegan jajangmyeon) | **Hwaguk Banjeom** (ganjjajang) <br> **Shinbalwon** (Chinatown mandu) | **Dongsunwon** (since 1960 — jjamppong, not jajangmyeon) | — |
+| **Grilled meat** | **Geumdwaeji Sikdang** (**Bib Gourmand 2026**) <br> **Budnamujip** (beef, Seocho, since 1977) | **Haeundae Amso Galbijip** (Hanu, since 1964) <br> **Busan Jokbal** (naengchae jokbal) | — | — |
+| **Classic & specialty** | **Imun Seolnongtang** (Seoul's first registered restaurant, 1907) <br> **Hadongkwan** (gomtang, 1939) <br> **Buchon Yukhoe** (yukhoe; **Bib Gourmand 2025**, not in the 2026 selection) <br> **Jin Ok-hwa** (dakhanmari, 1978) | **Songjeong Samdae Gukbap** (24h) <br> **Dongnae Halmae Pajeon** <br> **Jagalchi** & **Bujeon** markets | **Cheonghwa-jip** (origin house of Byeongcheon sundae) <br> **Chungnam-jip** · **Aunae Jangteo Sundae** | **Sariwon Myeonok** (Pyeongyang naengmyeon) <br> **Taepyeong Sogukbap** (24h) |
+| **Dessert & cafe** | **Goryeo Samgyetang** is the only other Seoul keep — no verified dessert stop | **Brown Hands Baekje** (cafe in a heritage hospital) <br> **Samjin Eomuk** (fish cake, since 1953) | — | **Sungsimdang** (since 1956; twigim soboro) |
 
 ---
 
 ## 🛠️ How to use this guide
 
-* **Cost Efficiency & Quality First:** This plan groups **57 highly verified physical restaurants and cafes** with clear prices, highlighting free refills (Oreno Ramen, Chanyang-jip, Myeongdong Kyoja), budget staples, and Michelin-recognized culinary anchors.
-* **16 Curated Neighborhood Walks:** To save time, use **[cities/walking-food-routes.md](cities/walking-food-routes.md)**, which features 16 complete, day-by-day food walking itineraries combining local shopping and sightseeing with lunch, cafe, and dinner stops.
-* **The Customization Pool:** Want to swap a meal? Go to Part 2 of the walking routes document and modularly substitute lunch or dinner with nearby alternatives.
-* **Navigation & Booking Tech:** Use **[booking-and-tech-guide.md](booking-and-tech-guide.md)** to set up Naver Map and CatchTable Global (which supports foreign numbers) before you depart.
-* **Pre-Trip Booking:** All 60 physical outlets are cataloged with direct Naver Map search URLs in **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** for instant bookmarking.
+* **35 verified restaurants**, not 535. Seoul 11 · Busan 14 · Daejeon 5 · Cheonan 5. Earlier versions of this repo advertised hundreds of "verified" spots; most of those entries were placeholders that did not correspond to real businesses, and they have been deleted.
+* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 35 restaurants, the sourcing rules, and the leads worth chasing.
+* **12 neighborhood walks:** **[cities/walking-food-routes.md](cities/walking-food-routes.md)** sequences the verified entries into routes where the opening hours actually line up.
+* **Navigation & booking:** **[booking-and-tech-guide.md](booking-and-tech-guide.md)** — set up Naver Map and CatchTable Global before you depart.
+* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 35 rows, each with an official source URL. The generic Naver *search* links that used to fill this column were not evidence of anything and have been replaced.
 
 ---
 
 ## 🌆 City guides
 
-* **[Seoul Guide](cities/seoul.md)** — neighborhoods: Myeongdong, Jongno/Insadong, Mapo/Gongdeok, Yeonnam/Hapjeong, Yongsan/Itaewon, Yaksu/Sindang, Seongsu-dong
-* **[Busan Guide](cities/busan.md)** — neighborhoods: Nampo/Jung-gu, Seomyeon, Haeundae, Suyeong/Gwangan, Sasang, Yeongdo Island
-* **[Cheonan Guide](cities/cheonan.md)** — neighborhoods: Sinbu-dong, Cheonan Station, Dujeong, Byeongcheon-myeon
-* **[Daejeon Guide](cities/daejeon.md)** — neighborhoods: Eunhaeng-dong/Downtown, Daeheung-dong, Yuseong/Hot Springs, Dunsan-dong
+* **[Seoul Guide](cities/seoul.md)** — neighborhoods: Myeongdong, Jongno/Insadong, Gwangjang Market, Mapo/Gongdeok, Yaksu/Sindang, Seocho
+* **[Busan Guide](cities/busan.md)** — neighborhoods: Nampo/Jung-gu, Busan Station/Chinatown, Seomyeon, Dongnae, Haeundae, Yeongdo
+* **[Cheonan Guide](cities/cheonan.md)** — Byeongcheon-myeon (Aunae sundae street) and Seonghwan
+* **[Daejeon Guide](cities/daejeon.md)** — neighborhoods: Jung-gu/Old Downtown, Yuseong, Dong-gu
 
 ---
 
@@ -46,4 +48,10 @@ A highly practical, meticulously verified two-person food plan for **Seoul + Bus
 
 ## 🌟 Research standard
 
-`Official` means the restaurant/group or a government tourism site. `Trusted listing` means Naver/Kakao Maps or Visit Korea/Visit Seoul/Visit Busan. We do not present review-site hours as definitive. Where a price is not published by an official source, it is explicitly labeled an estimate and should not be treated as a quote. See [sources-and-notes.md](sources-and-notes.md).
+**One standard: official sources only.** A restaurant stays in this repo if — and only if — its address and opening hours come from the restaurant's own site, a government tourism portal (VisitKorea, Visit Seoul, Visit Busan), or the MICHELIN Guide. Review sites and aggregators (Naver, Kakao, DiningCode, Tripadvisor) were used to *find* candidates, never to verify them.
+
+If hours could not be confirmed from an official source, **the whole entry was dropped** rather than kept with a blank field. That is why several genuinely famous restaurants — including a real 2026 Bib Gourmand, Nagahama Mangetsu in Busan — are absent. MICHELIN publishes neither hours nor prices, so a Bib Gourmand badge alone was never enough.
+
+**Michelin coverage in Korea is Seoul and Busan only.** Any Michelin claim about a Daejeon or Cheonan restaurant is false by definition. Several such claims existed in earlier drafts and have been corrected.
+
+Still recheck everything against the linked page in **October 2026**. Official portals lag, and a listing is not a promise that a restaurant will still be open. See [sources-and-notes.md](sources-and-notes.md).

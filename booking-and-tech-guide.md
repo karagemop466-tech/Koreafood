@@ -1,75 +1,130 @@
-# South Korea 2026 Tech & Booking Guide
+# Booking & Tech Guide — Korea, Autumn 2026
 
-To experience the best food in Korea without friction, you need to set up a few essential apps and understand the local queueing systems. This guide explains how to navigate like a local.
+Verified 18 August 2026. Facts below are marked with where they come from. Anything that could not be traced to an official source is labelled **[convention]** — reliable in practice, but not something this repo will assert as verified.
 
----
-
-## 📱 1. Essential Mobile Apps
-
-Before you depart, download and set up these apps on your smartphone:
-
-### 🗺️ Navigation: Naver Map (네이버 지도)
-* **Why**: Google Maps **does not work** for walking or driving directions in Korea due to national security regulations. Naver Map is the gold standard.
-* **Setup**:
-  1. Change the app language to English in settings.
-  2. Create a free Naver account. This allows you to save and sync favorite restaurants into custom folders.
-  3. Keep the Korean names of restaurants handy; searching in English sometimes yields fewer results than searching the exact Korean name (e.g., search `오씨칼국수` instead of `Ossi Kalguksu`).
-
-### 📱 Navigation Backup: Kakao Map (카카오맵)
-* **Why**: An excellent alternative to Naver. Some users prefer its cleaner UI and quicker bus-arrival indicators.
-
-### 🍽️ Queueing: CatchTable Global (캐치테이블)
-* **Why**: The absolute savior for premium and popular restaurants (like **Geumdwaeji Sikdang** or **Nagahama Mangetsu**).
-* **Setup**:
-  1. Download **CatchTable Global** (designed specifically for international travelers).
-  2. Unlike the domestic version, CatchTable Global **supports foreign phone numbers** (USA +1) and does not require a Korean social security/resident number.
-  3. You can pre-book reservations or join "live walk-in waitlists" remotely when you are within a certain distance of the restaurant.
+Trip dates: **31 Oct – 22 Nov 2026**.
 
 ---
 
-## 🎟️ 2. How to Handle Walk-In Waitlists on Site
+## 1. Maps
 
-Many famous local joints do not take remote reservations and use an on-site tablet waitlist system (usually powered by CatchTable or Tableling):
+**Naver Map (네이버 지도)** is the primary tool; **Kakao Map (카카오맵)** is the backup. Google Maps does not provide walking or driving navigation in Korea — Korean law restricts the export of high-precision map data, and Google processes maps on overseas servers. **[convention — widely reported, no official statement located]**
 
-1. **Scan the Tablet**: There will be a tablet stand near the entrance.
-2. **Input Details**:
-   * If using **CatchTable Global**, you can scan the QR code to queue via the app.
-   * If using the physical tablet at the door, it may ask for a Korean phone number. If you do not have one, look for a tab that says **"Foreigner / Email"** or **"SNS (Kakao/Whatsapp)"**.
-   * If it only accepts Korean numbers, kindly tell the host/staff: *"웨이팅 등록하고 싶어요. 외국인이라 번호가 없어요"* (I want to join the waitlist, but I am a foreigner and don't have a Korean number). The staff will gladly input your name manually and call you.
-3. **Keep an Eye on the Queue**: Do not wander too far; once your number is called, you usually have 3–5 minutes to present yourself before your slot is forfeited.
+Practical points:
 
----
+* Set the app language to English in settings.
+* **Search the Korean name, not the English one.** This matters more than any other tip in this file. Search `오씨칼국수`, not "Ossi Kalguksu." The Korean name for every entry in this guide is in [restaurants-bookmarks.csv](restaurants-bookmarks.csv) — copy and paste from there.
+* Google Maps is still useful for one thing: finding the Korean name of a place to paste into Naver.
+* A Naver account lets you save places into folders, but is not required to search.
 
-## 💳 3. Payments & Cash Strategy
-
-Korea is a highly cashless society, but travelers must keep a few rules in mind:
-
-* **Credit Cards**: Visa and Mastercard are accepted at 99% of established restaurants, cafes, and bakeries. Keep two different cards on you in case one is blocked by your home bank for fraud protection.
-* **Market Stalls (Cash is King)**: At street markets like **Gwangjang Market** or **Haeundae Traditional Market**, small food stalls prefer cash. Some accept bank transfers, which is difficult for foreigners, so keeping **₩50,000–₩100,000 in physical cash** is highly recommended for street food.
-* **T-Money Transit Cards**: You need a physical T-Money card for subways and buses.
-  * You can buy them at any convenience store (CU, GS25, 7-Eleven).
-  * **Crucial Note**: T-Money cards **can only be reloaded with physical CASH** at subway station kiosks or convenience stores. Credit cards cannot be used to reload transit cards.
+VisitKorea also runs its own embedded Naver-based map in English at `english.visitkorea.or.kr/vkmap/gis_od.kto`, which is easier than Naver's desktop site if you are planning from a laptop.
 
 ---
 
-## 🥢 4. Essential Korean Dining Etiquette
+## 2. Reservations and waitlists — CatchTable Global
 
-To blend in like a local and avoid common table mishaps, keep these traditional and modern Korean dining customs in mind:
+**Source: [VisitKorea, "Catchtable Global"](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=205615&menuSn=219) (23 Sep 2024).**
 
-### 🛎️ Calling the Server (The Table Bell)
-* **How it works**: Most modern Korean restaurants do not have servers hovering around your table. Instead, look for a small plastic button (the **Table Bell**) mounted on the side of your table or napkin box. Press it once to call your server.
-* **If there is no bell**: Do not wait silently! Call out politely: *"여기요!"* (Yeo-gi-yo! - "Over here, please!") or *"이모님!"* (I-mo-nim! - "Auntie!", used respectfully for female servers).
+Many Korean restaurants now run reservations or digital queues, and some no longer take walk-ins at all. Most of those systems require a Korean phone number to register, or reject foreign credit cards. **Catchtable Global** exists specifically to solve this, and VisitKorea confirms:
 
-### 🍴 Utensils & Napkins (The Hidden Drawer)
-* **Where to find them**: If your table is empty when you sit down, **do not panic or ask the server**. Look under the rim of your table—there is almost always a slide-out drawer containing chopsticks, spoons, napkins, and sometimes wet wipes.
-* **The Table Custom**: Spoons are used for rice and soup; chopsticks are used for side dishes (*banchan*). Set them down on a napkin or utensil holder, never stick your chopsticks upright into a bowl of rice (which resembles ancestral funeral offerings).
+* You can create an account with **Google or Apple — no Korean phone number needed**.
+* You can pay with **foreign-issued credit cards**.
+* Interface in English, Japanese, Simplified and Traditional Chinese.
 
-### 🍚 Eating Rice & Soup (Keep the Bowl on the Table)
-* **Custom**: Unlike in Japan or China, it is considered impolite in Korea to lift your rice or soup bowl off the table to eat. Keep the bowl resting on the table and use your spoon to lift the rice or broth to your mouth.
+Three things it does, and how to tell them apart on a restaurant's page in the app:
 
-### 🥩 Sharing Grill Duties (KBBQ Protocol)
-* **Who cooks?**: At premium places like *Geumdwaeji Sikdang* or *Yukjeon Sikdang*, the staff cooks for you. At budget or AYCE places like *Myeongnyun Jinsa Galbi*, you are expected to grill yourselves.
-* **Sharing**: Cut meats into bite-sized pieces with the provided kitchen scissors. Use the metal tongs to rotate meats constantly to prevent burning over charcoal.
+| Button you see | What it means |
+| :--- | :--- |
+| **Reserve** | Takes bookings; pick a time slot |
+| **Join Remote Waitlist** | Queue from where you are; shows the live number of teams waiting |
+| *No button* | On-site waiting only — the page explains how to join in person |
 
-### 💸 The Bill & Paying (The Table Clipboard)
-* **Payment**: In almost all Korean restaurants, you do not pay at your table. Look for a plastic clipboard containing your order slip resting on your table. Take this clipboard to the front cash register near the entrance on your way out to settle the bill.
+Deposits: reservation-only restaurants often charge one to prevent no-shows, and **in Catchtable Global a deposit can only be paid with a foreign-issued card**. Waiting — remote or on-site — never requires a deposit. Watch your notification emails or the in-app status for your place in line.
+
+**Download the app named "Catchtable Global," not "CatchTable."** The domestic Korean app has a nearly identical icon and does require Korean ID verification. **[convention]**
+
+### Reality check for this trip
+
+Almost nothing in this guide needs a reservation. These are old noodle houses, gukbap counters, market stalls and a bakery — you queue, or you go at an off hour. The two entries where booking or remote queueing is genuinely worth checking are **Geumdwaeji Sikdang** (Seoul, Bib Gourmand, consistently long waits) and **Haeundae Amso Galbijip** (Busan, premium Hanu). Everything else: turn up.
+
+Also note that many owner-run Korean restaurants are not on any app and take phone bookings in Korean only. If a place is not in Catchtable Global, that is usually why — not an error.
+
+### If a door tablet asks for a Korean number
+
+* Look for a **QR code** — scanning it with Catchtable Global adds you to the queue without a Korean number. VisitKorea documents this flow.
+* Look for a tab marked for foreigners or email/SNS entry.
+* Otherwise, say to the host: **"웨이팅 등록하고 싶어요. 외국인이라 번호가 없어요"** — *I'd like to join the waitlist; I'm a foreigner and don't have a Korean number.* Staff will normally enter you manually. **[convention]**
+* Stay within earshot. Called numbers are forfeited quickly. **[convention]**
+
+Note: **Tabling (테이블링)** is the other common queue system and has **no global version**. At some restaurants its door tablet accepts a foreign number for the walk-in queue, but you cannot book ahead. **[convention]**
+
+---
+
+## 3. Transit cards
+
+**Source: [VisitKorea, "Transportation Cards"](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663).** All figures below are from that page.
+
+| Card | Price | Buy at | Notes |
+| :--- | :--- | :--- | :--- |
+| **Tmoney** | ₩3,000–5,000 | Convenience stores nationwide (GS25, CU, 7-Eleven); Seoul subway Information Centers, Lines 1–8 | Largest affiliate network. Reload at subway ticket vending machines, max balance ₩500,000. Works nationwide — **Seoul, Busan, Daejeon and Cheonan on one card** |
+| **EZL** | from ₩4,000 | Convenience stores nationwide | Refunds under ₩20,000 at convenience stores |
+| **WOWPASS** | ₩5,000, **passport required** | Kiosks at airports, major subway stations, hotels (300+ locations), or via the app | Prepaid card + currency exchange in one. Load KRW, USD, JPY, CNY and others at the kiosk |
+| **Mpass** (foreigner-only Tmoney) | 1-day ₩15,000 · 2-day ₩23,000 · 3-day ₩30,500 · 5-day ₩47,500 · 7-day ₩64,500 | Tmoney Town, Seoul Station Exit 10 | Up to 20 rides/day on Seoul subway, city buses and AREX (excl. express). **Cash (KRW) only.** Valid 30 days from issue; buy after 17:00 for ₩3,000 off |
+
+**Refunds:** a Tmoney balance over ₩50,000 can only be refunded at Tmoney Town, Seoul Station Exit 10 (110 Huam-ro, Jung-gu). Spend it down before you fly.
+
+### ⚠️ Climate Card — changed on 1 October 2026
+
+Relevant because your trip starts 31 October. Per VisitKorea: **as of 1 October 2026 only Climate Card Short-Term Passes remain available.** Postpaid and 30-day Climate Cards have been discontinued. Short-term passes: physical card ₩3,000 from Seoul Metro Information Centers and some nearby convenience stores, then loaded at subway vending machines — 1-day ₩5,000 · 2-day ₩8,000 · 3-day ₩10,000 · 5-day ₩15,000 · 7-day ₩20,000. Unlimited Seoul buses and subway, **excluding the Sinbundang Line and GTX**. Once loaded it activates and cannot be changed or reloaded until it expires, so buy it against your actual itinerary.
+
+**Climate Card is Seoul-only.** For a four-city trip, Tmoney is the sensible default; consider a Climate Card only for a dense block of Seoul days.
+
+### Reloading — carry cash
+
+An earlier version of this file stated flatly that transit cards "can only be reloaded with physical CASH." **That is no longer reliably true, and it was never sourced.** Reports through 2026 describe new Seoul Metro kiosks accepting international cards, and mobile Tmoney top-ups with foreign cards, but no official Tmoney or VisitKorea page confirming this could be retrieved. VisitKorea's own page describes reloading at convenience stores and subway ticket vending machines without specifying payment method.
+
+**Plan on cash.** Convenience-store counter reloads are cash-only in every account we found, and Mpass is explicitly cash-only per VisitKorea. If a kiosk takes your card, that is a bonus.
+
+---
+
+## 4. Payments
+
+* Foreign Visa and Mastercard are accepted very widely at established restaurants, cafés, bakeries and department stores. The old "99%" figure here was invented and has been removed. **[convention]**
+* Carry two cards from different issuers. Foreign-transaction fraud blocks are common. **[convention]**
+* **Carry cash for markets.** This is the one place it genuinely matters, and it directly affects three entries in this guide: **Jagalchi Market** and **Bujeon Market** in Busan, and the **Byeongcheon (Aunae) sundae street** in Cheonan. Individual stalls may take cards or Korean bank transfer, but assume they do not. **[convention]**
+* Tipping is not practised in Korea and can cause confusion. **[convention]**
+
+---
+
+## 5. Dining conventions
+
+Everything in this section is **[convention]** — observed practice, not verified against an official source. Nobody will mind if you get it wrong.
+
+**Calling the server.** Look for a small button on the table edge or beside the napkin box; press it once. With no button, say **"여기요"** (*yeogiyo* — over here, please). **"이모님"** (*imonim* — auntie) is common and warm toward older female staff, but stick with *yeogiyo* until you have a feel for the room.
+
+**Utensils.** If the table looks bare, check for a **drawer under the table rim** — chopsticks, spoons and napkins live there. Koreans usually lay a napkin down and set their own utensils on it.
+
+**Spoon vs chopsticks.** Spoon for rice and soup; chopsticks for banchan and meat — the reverse of Japan. **Keep the rice bowl on the table**; lifting it to your mouth is normal in Japan and China but not here. **Never stand chopsticks upright in rice** — it echoes an ancestral memorial offering, and it is the one gesture that genuinely lands badly.
+
+**Banchan** are free and refillable: **"반찬 좀 더 주세요"** (*banchan jom deo juseyo*). Some places have a self-service station instead. Take only what you'll eat.
+
+**Water** is often self-service — look for a dispenser or a sign reading **셀프**.
+
+**Grilling.** At most places you grill your own: cut with the provided scissors, turn often over charcoal. At the pricier houses staff will do it for you and it's best to let them.
+
+**Minimum portions.** BBQ sets, stews and hot pots are frequently **2-person minimum** — not an issue for two of you, but it rules out a solo scouting visit.
+
+**Paying.** You usually **do not pay at the table**. An order slip sits on or near your table; carry it to the register by the door on your way out.
+
+**Leftovers.** **"포장해 주세요"** (*pojang hae juseyo*) — please pack it to go. Normal and common, though soups with bones may be refused.
+
+---
+
+## 6. Pre-departure checklist
+
+1. Install **Naver Map**, **Kakao Map**, **Catchtable Global**, **Papago**, and **KakaoTalk** (some booking confirmations arrive there) — before you fly, on home Wi-Fi.
+2. Set Naver Map to English and save a handful of key locations.
+3. Copy the Korean names from [restaurants-bookmarks.csv](restaurants-bookmarks.csv) into a note on your phone. Offline access to them is worth more than any app.
+4. Tell both card issuers your travel dates.
+5. Buy a Tmoney card at the airport convenience store on arrival and load ₩30,000–50,000 in cash to start.
+6. **Re-check opening hours in late October.** Every hour in this repo was verified in August 2026 and will have had two months to drift.
