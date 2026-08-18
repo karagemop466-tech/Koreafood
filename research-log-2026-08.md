@@ -136,3 +136,249 @@ This reversed a decision: **Cheonghwa-jip had been marked for deletion** as unso
 1. Re-check every entry in **October 2026**, shortly before departure. Official portals lag.
 2. Map choices against hotel locations once lodging is booked.
 3. `booking-and-tech-guide.md` has **not yet been verified** — app names, CatchTable Global's foreign-number support, and payment guidance are all unchecked.
+
+---
+
+# ✅ Re-verification pass — 18 August 2026 (same day, second check)
+
+Every remaining official URL was fetched again. **Hours and addresses that matched official pages were kept.** Changes:
+
+* **Shinbalwon removed.** Visit Busan `uc_seq=242` = 11:00–21:00; Visit Busan `uc_seq=1617` = 11:00–20:00. Official sources conflict → dropped.
+* **Buchon Yukhoe:** current `guide.michelin.com` English page is *Restaurant not found*. VisitKorea still says 2020 MICHELIN Guide. The “Bib Gourmand 2025” label is **not used** until MICHELIN’s own current page confirms it.
+* **Goryeo Samgyetang:** working official URL is `rgnContentsView.do?vcontsId=99774` (the `contentsView` URL returned an empty page).
+* **Jin Ok-hwa:** official address is **18 Jong-ro 40ga-gil, Jongno-gu** (not Jung-gu).
+* **Cheonghwa-jip:** *Baeknyeon Gage* is not on the VisitKorea print listing → removed. Hours confirmed on [print view](https://korean.visitkorea.or.kr/detail/ms_detail_print.do?cotid=06b2df94-881f-4bb2-995e-95cd1f456b6f).
+* **Byeongcheon street:** unofficial “busiest 11:00–15:00 / shut by 20:00” line removed. Official hours remain “varies by shop.”
+
+**Roster after conflict pass: 34.** Seoul 11 · Busan 13 · Daejeon 5 · Cheonan 5.
+
+---
+
+# Expansion pass — 18 August 2026 (Seoul / Myeong-dong, Suwon, Busan)
+
+Official-source search only. Added **13** entries whose address **and** hours appear on VisitKorea, Visit Seoul, Visit Busan, or MICHELIN (hours always from a tourism portal or the restaurant page, never from Michelin alone except where Michelin prints a timetable).
+
+**Added — Seoul (5)**
+* Hwangsaengga Kalguksu — VisitKorea hours 11:00–21:30; MICHELIN page live with Bib icon; address 78 Bukchon-ro 5-gil.
+* Myeongdongjeong — VisitKorea 11:30–21:30, break 15:00–17:00.
+* Myeongdong Eomeonijip — Visit Seoul 10:00–24:00 (edited 13 Nov 2024).
+* Yeongyang Center — Visit Seoul 10:30–22:30 (edited 5 Jun 2026).
+* Myeongdong Chungmu Gimbap — Visit Seoul weekdays 09:30–22:00 / weekends 09:00–22:00 (edited 30 Jun 2026). Visit Seoul prints a menu price; **not copied** into city guides.
+
+**Added — Suwon (4)** — new city file `cities/suwon.md`
+* Bonsuwon Galbi, Yeonpo Galbi, Kabojung — VisitKorea hours confirmed.
+* Suwon Chicken Street — official **area** listing 24 hr; individual shop hours not published.
+
+**Added — Busan (4)**
+* Dongnae Milmyeon — Visit Busan 10:00–24:00.
+* Daeyeon Milmyeon — 11:00–17:00, closed Tue.
+* Samseong Milmyeon — 10:30–18:00, closed Tue.
+* Gaya Halmae Milmyeon (Yeonje) — 11:00–20:00, 365 days. **Not** the same shop as Halmae Gaya in Nampo.
+
+**Not added:** Chicken Street shop-level hours; VisitKorea 400 errors (Haeseon Hanubang, Choegojip dakgalbi); Manpo Milmyeon (empty Visit Busan page); hotel restaurants.
+
+**Roster after first expansion: 47.** Seoul 16 · Busan 17 · Suwon 4 · Daejeon 5 · Cheonan 5.
+
+---
+
+# Second expansion pass — 18 August 2026
+
+Official pages only.
+
+**Added — Seoul (3)**
+* Pildong Myeonok — Visit Seoul 11:00–15:00 / 17:00–20:20, closed Sun (edited 4 Jun 2026); MICHELIN Bib 2026, address 26 Seoae-ro.
+* Yennal Myeongdong Budaejjigae — Visit Seoul daily 10:00–22:00, closed Seollal/Chuseok (edited 8 Jun 2026).
+* Wonjo Namsan Wangdonkkaseu Myeongdong — VisitKorea 11:00–22:00.
+
+**Added — Suwon (1)**
+* Leenakyeong Songtan Budaejjigae — VisitKorea 11:00–22:00, break 16:00–17:00.
+
+**Added — Busan (2)**
+* Ilmi Milmyeon — Visit Busan Mon–Sat 11:00–19:00, closed Sun. Dated May 19–Jun 1 closure printed without year.
+* Jamae Gukbap — Visit Busan 10:00–21:00, closed Sun.
+
+**Added — Daejeon (2)**
+* Daeseon Kalguksu Dunsan — VisitKorea 11:30–22:00, founded 1954 on the listing.
+* Samdaejjae Jeontong Kalguksu — VisitKorea 09:00–20:30, closed Seollal/Chuseok.
+
+**Not added:** Hyeongje Jeontong Dwaeji Gukbap (Haeundae) — hours 06:00–20:00 on VisitKorea but **no street address** in the fetched listing; Halmae Gukbap Visit Busan stub empty; Cheonan names only in travel articles (Mukhyanggi, Seoksanjang), no restaurant hours pages this pass.
+
+**Roster after second expansion: 55.** Seoul 19 · Busan 19 · Suwon 5 · Daejeon 7 · Cheonan 5.
+
+---
+
+# Third expansion pass — 18 August 2026
+
+**Added — Seoul (3)**
+* Sadong Myeonok — Visit Seoul 10:00–21:00, closed Seollal/Chuseok (edited 9 Jun 2026).
+* Insadong Sujebi — Visit Seoul weekday/weekend split hours (edited 4 Jun 2026).
+* Gyeongin Misulgwan Jeontong Dawon — Visit Seoul 11:00–21:20 (edited 5 May 2026).
+
+**Added — Busan (1)**
+* Jaegi Dwaeji Gukbap — Visit Busan 08:00–21:00 or sold out, closed Mon.
+
+**Added — Suwon (1)**
+* Nostalgic Dalgona — VisitKorea 10:00–21:00, year-round.
+
+**Not added**
+* Gaeseong Mandu Koong / Gung — Visit Seoul hours ≠ MICHELIN printed hours.
+* Samdae Naju Gomtang Myeongdong — VisitKorea 400.
+* Yeongjin Dwaeji Gukbap — Visit Busan stub empty.
+* Palgakdo — Guro-gu franchise HQ, not the trip core.
+* Pungjeon Samgyetang Dunsan — page returned empty this pass.
+
+**Roster after third expansion: 60.** Seoul 22 · Busan 20 · Suwon 6 · Daejeon 7 · Cheonan 5.
+
+---
+
+# Fourth expansion pass — 18 August 2026
+
+**Added — Seoul (4)**
+* Yukdaejang Myeongdong — VisitKorea 09:00–23:30 LO 22:00 (this address only).
+* Myeongdong Hanubang — VisitKorea 10:30–23:30 LO 22:00, closed Sunday.
+* Seowon — VisitKorea Mon–Sat 07:00–17:00 / Sun 07:00–14:00, every other Wednesday.
+* Nwijo — Visit Seoul Tue–Fri / Sat–Sun split hours, closed Monday (edited 4 Jun 2026).
+
+**Added — Busan (2)**
+* Geodae Galbi — Visit Busan 11:30–15:00 / 17:00–22:00, 365 days.
+* 88 Dwaeji Galbi — Visit Busan 12:00–22:30, 365 days.
+
+**Added — Daejeon (1)**
+* Byeolcheonji Sikdang — VisitKorea 11:00–21:00, year-round (Dong-gu, not downtown).
+
+**Not added**
+* Jongno Eunhaengnamujip — Visit Seoul (edited 3 Aug 2026) says **Closed for Remodeling**.
+* Cheonan — still no new restaurant hours pages (articles only).
+
+**Roster after fourth expansion: 67.** Seoul 26 · Busan 22 · Suwon 6 · Daejeon 8 · Cheonan 5.
+
+---
+
+# Fifth expansion pass — 18 August 2026
+
+**Added — Seoul (5)**
+* Miseongok — VisitKorea 06:00–22:00 (listing: 1966; seolleongtang).
+* Myth Jokbal Myeongdong — VisitKorea 00:00–24:00 year-round.
+* Myeongdong Seoseo Galbi — VisitKorea 12:00–22:00 LO 20:30; standing only.
+* Jangsu Galbi — VisitKorea 11:00–22:00 LO 21:15 (listing: 1968).
+* Jongno Samgyetang — Visit Seoul Mon–Fri 11:00–21:00 break 15:00–17:00; Sat lunch only; closed Sun (edited 30 Jun 2026).
+
+**Not added**
+* Gaegeum milmyeon (Gaya-daero, Busanjin) — Visit Busan listing `uc_seq=1602` returned empty.
+* Suwon / Cheonan — no new shop-level hours pages.
+
+**Roster now: 72.** Seoul 31 · Busan 22 · Suwon 6 · Daejeon 8 · Cheonan 5.
+
+---
+
+# Sixth expansion pass — 18 August 2026
+
+Official pages fetched in full before adding. **Added 11.**
+
+**Added — Seoul (3)**
+* Myeongdong Hamheung Myeonok — Visit Seoul 11:00–20:00, closed Sun / Seollal / Chuseok (edited 29 Jul 2026).
+* Hanaro Hwaegwan — Visit Seoul 10:00–15:00 / 17:00–21:00, closed Sun (edited 28 Apr 2026).
+* Chung Ki Wa Town Main Branch — VisitKorea 11:30–22:00 last order 21:00; Yeongdeungpo, not Myeongdong.
+
+**Added — Busan (3)**
+* Yangpyeong Kalguksu — Visit Busan `uc_seq=1117`; Dadaepo; closed Sunday.
+* Banpin — Visit Busan `uc_seq=1482`; Taiwanese; last-order line on the page is flagged.
+* Ungcheonjip — Visit Busan `uc_seq=1279`; since 1964; street address printed without district.
+
+**Added — Suwon (1)**
+* Suwon Yeongdong Market — VisitKorea 10:00–20:00; closed 1st and 15th; market window, not shop-level.
+
+**Added — Daejeon (4)**
+* Sonamujip — VisitKorea rgn 216935; break and 1st/3rd Monday.
+* Gaecheon Sikdang — VisitKorea 190264; 11:00–20:30 year-round.
+* Baekcheonjip Sikdang — VisitKorea 190288; closed 2nd Sunday.
+* Gangnam Myeonok Dunsan Branch — VisitKorea rgn 190326; this address only.
+
+**Not added**
+* Myeongdong Haeseon Hanubang / Samdae Naju Gomtang / Palsaik / Gyodae Galbijip — VisitKorea **400**.
+* Uri Dwaejigukbap, Gonguk, Nampo Samgyetang, Dongbaekseom Hoejip — Visit Busan listing URL returned an empty body this pass.
+* Dohui Grilled Shellfish — page says 10:00–17:00 **and** “open until late” → conflict.
+* Daejeon galbijip — English street and Korean street on the same VisitKorea page do not match.
+* Restaurant DAM — Western kitchen, not added as Korean-trip core.
+* Rainbow Korean Restaurant Daejeon — VisitKorea 400.
+
+**Roster now: 83.** Seoul 34 · Busan 25 · Suwon 7 · Daejeon 12 · Cheonan 5.
+
+---
+
+# Seventh expansion pass — 18 August 2026
+
+Official pages fetched in full. **Added 12.**
+
+**Added — Seoul (11)**
+* Hamcho Ganjang Gejang — Visit Seoul 11:30–22:00 LO 21:30 (edited 15 Jun 2026).
+* Sanchon — Visit Seoul 11:30–21:00, closed Seollal/Chuseok (edited 5 May 2026).
+* Janganmun — VisitKorea 11:00–23:00 break 15:00–17:00 LO 21:50.
+* Jeonju Hoegwan — VisitKorea 08:30–22:30 year-round.
+* Jungsungbon Shabu Suki Kalguksu — VisitKorea 10:30–22:00 (holiday field = year-round).
+* Janggeumi Jeonjip — VisitKorea 11:30–02:00 LO 24:00.
+* Yonggeumok — VisitKorea 11:00–22:00; closed 2nd/4th/5th Sunday; founded 1932 on the page.
+* Nampo Myeonok — VisitKorea weekday/weekend hours; historic Michelin mention only, not 2026 Bib.
+* Hyundai Kalguksu — VisitKorea 09:00–21:00 / Sat to 19:00; closed Sun & national holidays.
+* Halmeoni Kalguksu — VisitKorea 11:00–20:00; closed Sun & national holidays.
+* Geumseonggwan Najugomtang — VisitKorea weekday 24h / Sat to 02:00 / Sun 08:00–21:00.
+
+**Added — Busan (1)**
+* Choryang Ondang — Visit Busan `uc_seq=1450`; 12:00–19:00; closed Sun & Mon. Prices on the portal not copied.
+
+**Not added**
+* ARP Visit Busan food-tour page `uc_seq=2183` returned empty this pass (Bib still listed in the Busan reference table).
+* Nampo Samgyetang — listing URL empty again.
+* Suwon Nammun Rodeo — hours “varies by shop.”
+* Pet-tour trio (Yangjijip / Odette / Roman Villa) — three businesses on one article, not added as individual restaurant pages.
+
+**Roster now: 95.** Seoul 45 · Busan 26 · Suwon 7 · Daejeon 12 · Cheonan 5.
+
+---
+
+# Eighth expansion pass — 18 August 2026
+
+Official pages fetched in full. **Added 12.**
+
+**Added — Seoul (8)**
+* Sikdang Jin — VisitKorea 11:00–20:30, closed Sunday (katsudon).
+* Minsokchon — VisitKorea 00:00–24:00 year-round.
+* Jongno Myeongtaedeokjang — VisitKorea 10:30–22:30 LO 21:00.
+* Nakji Wangguk — VisitKorea 10:00–22:00 LO 21:00, closed Sunday.
+* Gobong Samgyetang — VisitKorea 09:00–22:00 year-round; 2F 21 Myeongdong 7-gil.
+* Jeongwon Sutbulgalbi — VisitKorea 10:00–22:30 LO 21:00, closed Sunday.
+* Dongdaemun Bonga Gamasot Seolleongtang — VisitKorea 00:00–24:00 LO 22:00.
+
+**Added — Busan (3)**
+* Nampo Samgyetang — Visit Busan `uc_seq=1247` now renders; weekday break; last order 20:20.
+* Halmae Gukbap — Visit Busan `uc_seq=246`; 10:00–19:00, closed Sunday.
+* LAB XXIV by Kumuda — Visit Busan `uc_seq=1842`; French; closed Monday.
+
+**Added — Daejeon (1)**
+* Hanbat Sikdang — VisitKorea 190282; opened 1955; Mon–Sat / Sun split hours.
+
+**Not added**
+* Joaru Myeongdong — English street (Hoehyeon-dong 3-ga 1-8) ≠ Korean street (퇴계로 114-2) on the same VisitKorea page.
+* Haenam Kimchi Sikdang — Visit Busan `uc_seq=893` empty body this pass.
+
+**Roster now: 106.** Seoul 52 · Busan 29 · Suwon 7 · Daejeon 13 · Cheonan 5.
+
+---
+
+# Ninth expansion pass — 18 August 2026
+
+Official pages fetched in full. **Added 20.**
+
+**Added — Seoul (14)**
+* Neungnabapsang, RADOST, THE SIC-DDANG, Okcheon Maeun Jokbal, Masan Place (weekdays only), NOBIZIB, Namhae Gulgukbap, Hongsugye Jjimdak, Heukdonga Myeongdong (this B1 address), Jinju Hoegwan (kongguksu Mar–Nov; Sun closed Oct–Mar), Yennal Yeongil Naengmyeon, Jaembaeok, Gangseo Myeonok, Mirakjeong.
+
+**Added — Busan (4)**
+* Danggam Milmyeon `uc_seq=1108`; Samihun `uc_seq=87`; Yeongjin Sikdang `uc_seq=1514`; **Cor Pasta Bar** `uc_seq=1820` (**Bib Gourmand 2026** — first kept Busan Bib with official hours).
+
+**Added — Daejeon (2)**
+* Sindo Kalguksu 본점 (1961; irregular closures — call); Buchu Haemul Kalguksu (Daedeok-gu / Sintanjin).
+
+**Not added**
+* Joaru still conflicting streets; Jeju Bokguk / Sikdang Samseon / Dongbaekseom Visit Busan empty; TODAi VisitKorea 400.
+
+**Roster now: 126.** Seoul 66 · Busan 33 · Suwon 7 · Daejeon 15 · Cheonan 5.

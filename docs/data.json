@@ -1,0 +1,2298 @@
+[
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Myeongdong Kyoja (명동교자 본점)",
+    "nameEn": "Myeongdong Kyoja",
+    "nameKo": "명동교자 본점",
+    "address": "Myeongdong, Jung-gu",
+    "michelin": "Selected · ₩ · Kalguksu",
+    "notes": "Hand-cut noodle house. Michelin dates it to 1966; VisitKorea says 1970 — the two official sources conflict, so treat the founding year as uncertain. Not a Bib Gourmand.",
+    "hours": "Daily 10:30–21:00",
+    "phone": "",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=99925"
+      },
+      {
+        "label": "Michelin",
+        "url": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/myeongdong-kyoja"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Imun Seolnongtang (이문설농탕)",
+    "nameEn": "Imun Seolnongtang",
+    "nameKo": "이문설농탕",
+    "address": "Jongno-gu",
+    "michelin": "Selected · ₩ · Seolleongtang",
+    "notes": "The first restaurant officially registered in Seoul (1907). Beef leg bone simmered 17 hours into a clean, milky broth; suyuk and suyuk muchim are also specialties. Not a Bib Gourmand.",
+    "hours": "Mon–Sat 08:00–21:00, Sun 08:00–20:00. Break 15:00–16:30.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=100222"
+      },
+      {
+        "label": "Michelin",
+        "url": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/imun-seolnongtang"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Hadongkwan (하동관 본점)",
+    "nameEn": "Hadongkwan",
+    "nameKo": "하동관 본점",
+    "address": "12 Myeongdong 9-gil, Jung-gu",
+    "michelin": "Selected · ₩ · Gomtang",
+    "notes": "Established 1939. Clean but deeply savoury gomtang with brisket, offal and tripe, rice warmed in the broth, Seoul-style kkakdugi. Opens early and closes when the soup vats run dry — go early. Not a Bib Gourmand.",
+    "hours": "Mon–Sat 07:00–16:00 (or until sold out). Closed Sun.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192949"
+      },
+      {
+        "label": "Michelin",
+        "url": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hadongkwan"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Chanyang-jip (찬양집)",
+    "nameEn": "Chanyang-jip",
+    "nameKo": "찬양집",
+    "address": "5 Donhwamun-ro 11da-gil, Jongno-gu (Jongno 3-ga)",
+    "michelin": "None",
+    "notes": "Kalguksu with clams. VisitKorea dates it to the early 1970s. This guide previously claimed a Bib Gourmand — that was wrong. Michelin lists only two Bib Gourmand kalguksu restaurants in Seoul (Hwangsaengga and Limbyungjoo Sandong), and this is not one of them.",
+    "hours": "10:00–21:00. Closed Sun & public holidays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=100177"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Hwangsaengga Kalguksu (황생가칼국수)",
+    "nameEn": "Hwangsaengga Kalguksu",
+    "nameKo": "황생가칼국수",
+    "address": "78 Bukchon-ro 5-gil, Jongno-gu (Bukchon / Gyeongbokgung)",
+    "michelin": "Bib Gourmand 2026 · ₩ · Kalguksu",
+    "notes": "Beef-bone kalguksu, wang mandu, hanu suyuk. VisitKorea also records a 2023 Michelin listing. Michelin: long queues; open all day. ☎ +82-2-739-6334",
+    "hours": "Daily 11:00–21:30",
+    "phone": "+82-2-739-6334",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86236"
+      },
+      {
+        "label": "Michelin",
+        "url": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hwangsaengga-kalguksu"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Sinseonggak (신성각)",
+    "nameEn": "Sinseonggak",
+    "nameKo": "신성각",
+    "address": "55-1 Imjeong-ro, Mapo-gu (Gongdeok)",
+    "michelin": "None",
+    "notes": "Old-school Korean-Chinese jajangmyeon. Lunch only, and it closes as soon as it sells out.",
+    "hours": "11:35–15:00, until sold out. Closed Sun, New Year's Day, and the Seollal & Chuseok holidays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Sinseonggak_/4674"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Ohsaegyehyang (오세계향)",
+    "nameEn": "Ohsaegyehyang",
+    "nameKo": "오세계향",
+    "address": "14-5 Insadong 12-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Vegan Korean-Chinese, including vegan jajangmyeon. Note the mid-afternoon break and the Thursday closure.",
+    "hours": "11:30–16:00 / 17:00–21:00. Closed Thu.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Ohsaegyehyang/ENP001670"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Pildong Myeonok (필동면옥)",
+    "nameEn": "Pildong Myeonok",
+    "nameKo": "필동면옥",
+    "address": "26 Seoae-ro, Jung-gu (Pil-dong / Chungmuro)",
+    "michelin": "Bib Gourmand 2026 · ₩ · Naengmyeon",
+    "notes": "Pyeongyang-style mul naengmyeon; Visit Seoul: eat with Pyeongan-style mandu or jeyuk. Address matches MICHELIN. Visit Seoul last edited 4 Jun 2026. ☎ +82-2-2266-2611",
+    "hours": "11:00–15:00 / 17:00–20:20. Closed Sun, Seollal & Chuseok.",
+    "phone": "+82-2-2266-2611",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/eat/pildong-myeonok1/ENP013409"
+      },
+      {
+        "label": "Michelin",
+        "url": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/pildong-myeonok"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Sadong Myeonok (사동면옥)",
+    "nameEn": "Sadong Myeonok",
+    "nameKo": "사동면옥",
+    "address": "9 Insadong 8-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 9 Jun 2026): Hwanghae-style boiled fist-sized mandu; also doganitang, nokdujeon, pajeon. ☎ +82-2-725-1211",
+    "hours": "Daily 10:00–21:00. Closed Seollal & Chuseok.",
+    "phone": "+82-2-725-1211",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Sadong-Myeonok-E/ENP011974"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Insadong Sujebi (인사동수제비)",
+    "nameEn": "Insadong Sujebi",
+    "nameKo": "인사동수제비",
+    "address": "14-1 Insadong 8-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 4 Jun 2026): sujebi in earthenware; spicy oyster sujebi; haemul pajeon. ☎ +82-2-735-3361",
+    "hours": "Weekdays 11:30–14:50 / 17:00–20:40. Weekends & holidays 11:30–15:20 / 17:00–20:40. Closed public holidays.",
+    "phone": "+82-2-735-3361",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Insadong-Sujebi1/ENP014605"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Myeongdong Hamheung Myeonok (명동함흥면옥)",
+    "nameEn": "Myeongdong Hamheung Myeonok",
+    "nameKo": "명동함흥면옥",
+    "address": "35-19 Myeongdong 10-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 29 Jul 2026): Hamgyong-style hoe naengmyeon; opened in Myeongdong in the late 1970s; first-generation owners from Hwanghae. ☎ +82-2-776-8430",
+    "hours": "11:00–20:00. Closed Sundays, Seollal & Chuseok.",
+    "phone": "+82-2-776-8430",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Myeongdong-Hamheung-Myeonok_/5254"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Nampo Myeonok (남포면옥)",
+    "nameEn": "Nampo Myeonok",
+    "nameKo": "남포면옥",
+    "address": "24 Eulji-ro 3-gil, Jung-gu (City Hall / Cheonggyecheon)",
+    "michelin": "VisitKorea: Michelin listings “several times.” Not treated as 2026 Bib here.",
+    "notes": "VisitKorea: opened 1968; Pyeongyang naengmyeon; also galbitang, bulgogi, mandu soup, yukgaejang. ☎ +82-2-777-3131",
+    "hours": "Weekdays 11:30–22:00 / weekends 11:30–21:00. Closed Seollal day & Chuseok day.",
+    "phone": "+82-2-777-3131",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=99736"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Hyundai Kalguksu (현대칼국수)",
+    "nameEn": "Hyundai Kalguksu",
+    "nameKo": "현대칼국수",
+    "address": "76 Sejong-daero, Jung-gu (City Hall)",
+    "michelin": "None",
+    "notes": "VisitKorea: two generations since 1982; anchovy–pollack–kelp broth; extra rice/noodles free per the listing. ☎ +82-2-752-9504",
+    "hours": "09:00–21:00 / Sat 09:00–19:00. Closed Sundays and national holidays.",
+    "phone": "+82-2-752-9504",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=99750"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Halmeoni Kalguksu (할머니칼국수)",
+    "nameEn": "Halmeoni Kalguksu",
+    "nameKo": "할머니칼국수",
+    "address": "14-2 Donhwamun-ro 11da-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: noodle soup and dumpling soup. Same lane cluster as Chanyang-jip. ☎ +82-2-744-9548",
+    "hours": "11:00–20:00. Closed Sundays and national holidays.",
+    "phone": "+82-2-744-9548",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=44539"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Geumdwaeji Sikdang (금돼지식당)",
+    "nameEn": "Geumdwaeji Sikdang",
+    "nameKo": "금돼지식당",
+    "address": "149 Dasan-ro, Jung-gu (Yaksu / Sindang)",
+    "michelin": "Bib Gourmand 2026 · Barbecue",
+    "notes": "Bone-in pork samgyeopsal. One of only two Bib Gourmand barbecue restaurants in Seoul. Expect a long wait; take a number in person.",
+    "hours": "Daily 11:30–23:00 (last order 22:20)",
+    "phone": "",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=191564"
+      },
+      {
+        "label": "Michelin",
+        "url": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/geumdwaeji-sikdang"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Budnamujip (버드나무집)",
+    "nameEn": "Budnamujip",
+    "nameKo": "버드나무집",
+    "address": "434 Hyoryeong-ro, Seocho-gu",
+    "michelin": "Selected · ₩₩ · Barbecue",
+    "notes": "Open since 1977. Beef only — this is not a pork restaurant, and it is not in Mapo. An earlier draft of this guide listed it as \"Budnamujip Mapo\" serving pork ribs; that entry was wrong on location, meat and hours.",
+    "hours": "Daily 11:00–21:30",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Michelin",
+        "url": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/budnamujip"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Chung Ki Wa Town Main Branch (청기와타운 본점)",
+    "nameEn": "Chung Ki Wa Town Main Branch",
+    "nameKo": "청기와타운 본점",
+    "address": "32-4 Yeongjung-ro 10-gil, Yeongdeungpo-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: Korean barbecue; Suwon jumbo grilled galbi (from 2 servings) and LA galbi; aged meat on display; tojang jjigae. Not Myeongdong — Yeongdeungpo. ☎ +82-507-1316-1474",
+    "hours": "11:30–22:00 (last order 21:00)",
+    "phone": "+82-507-1316-1474",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=172390"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Janganmun (장안문)",
+    "nameEn": "Janganmun",
+    "nameKo": "장안문",
+    "address": "29 Eulji-ro 3-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: grilled beef brisket; also jumbo beef ribs and spareribs. Near Euljiro 1-ga. ☎ +82-2-755-0673",
+    "hours": "11:00–23:00. Break 15:00–17:00. Last order 21:50.",
+    "phone": "+82-2-755-0673",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=60442"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Buchon Yukhoe (부촌육회)",
+    "nameEn": "Buchon Yukhoe",
+    "nameKo": "부촌육회",
+    "address": "200-12 Jong-ro, Jongno-gu (Gwangjang Market)",
+    "michelin": "VisitKorea: 2020 MICHELIN Guide listing. Not in the 2026 Seoul Bib Gourmand (51). Current global MICHELIN page: Restaurant not found.",
+    "notes": "VisitKorea describes a three-generation restaurant. House dish: beef tartare; also sliced raw beef. Take-out available. ☎ +82-2-2267-1831 · bcyukhoe.modoo.at (Korean only). A 2025 Bib Gourmand label is not independently confirmed on the current MICHELIN site and is not used here.",
+    "hours": "Mon–Sat 09:00–22:00 (last order 20:30) / Sun 09:00–22:00 (last order 19:30)",
+    "phone": "+82-2-2267-1831",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=67578"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Jin Ok-hwa Halmae Wonjo Dakhanmari (진옥화할매원조닭한마리)",
+    "nameEn": "Jin Ok-hwa Halmae Wonjo Dakhanmari",
+    "nameKo": "진옥화할매원조닭한마리",
+    "address": "18 Jong-ro 40ga-gil, Jongno-gu (Dongdaemun chicken alley)",
+    "michelin": "None",
+    "notes": "Founded 1978. Whole chicken soup (dakhanmari); toppings include noodles. Address is Jongno-gu, not Jung-gu.",
+    "hours": "Daily 10:30–01:00 (next day). Last order 23:30.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86514"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Goryeo Samgyetang (고려삼계탕 본점)",
+    "nameEn": "Goryeo Samgyetang",
+    "nameKo": "고려삼계탕 본점",
+    "address": "1 Seosomun-ro 11-gil, Jung-gu (City Hall)",
+    "michelin": "VisitKorea: Michelin Guide Seoul 2023",
+    "notes": "Ginseng chicken soup. VisitKorea records a 2023 Michelin listing; it is not in the current Bib Gourmand selection. The \"first samgyetang restaurant in Korea, since 1960\" claim in earlier drafts could not be confirmed by any official source and has been removed.",
+    "hours": "Daily 10:30–21:00. Closed for the Seollal & Chuseok holidays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=99774"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Myeongdongjeong (명동정)",
+    "nameEn": "Myeongdongjeong",
+    "nameKo": "명동정",
+    "address": "1F, 299 Samil-daero, Jung-gu (Myeongdong)",
+    "michelin": "None",
+    "notes": "Korean table d'hôte (hanjeongsik). VisitKorea: myeongdong jeongsik (bulgogi set), weekday lunch youngran sang, gwibin sang. Break mid-afternoon. ☎ +82-2-3789-5130",
+    "hours": "11:30–21:30. Break 15:00–17:00. Closed Seollal & Chuseok holidays.",
+    "phone": "+82-2-3789-5130",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=58977"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Myeongdong Eomeonijip (명동어머니집)",
+    "nameEn": "Myeongdong Eomeonijip",
+    "nameKo": "명동어머니집",
+    "address": "11-6 Myeongdong 8-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "Haemultang / spicy baby-octopus hot pot. Visit Seoul last edited 13 Nov 2024. ☎ +82-2-776-3896",
+    "hours": "Daily 10:00–24:00. Open all year.",
+    "phone": "+82-2-776-3896",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/eat/myeongdong-eomeonijip1_/13573"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Yeongyang Center (영양센터)",
+    "nameEn": "Yeongyang Center",
+    "nameKo": "영양센터",
+    "address": "52 Myeongdong 2-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "Korean-style rotisserie whole chicken. Visit Seoul last edited 5 Jun 2026. ☎ +82-2-776-2015",
+    "hours": "Daily 10:30–22:30. Closed Seollal & Chuseok.",
+    "phone": "+82-2-776-2015",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Yeongyang-Center/ENP012371"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Myeongdong Chungmu Gimbap (명동충무김밥)",
+    "nameEn": "Myeongdong Chungmu Gimbap",
+    "nameKo": "명동충무김밥",
+    "address": "16 Myeongdong 10-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 30 Jun 2026): one dish — Chungmu gimbap set (gimbap, spicy squid, pickled radish); over 40 years in Myeongdong. No alcohol. ☎ +82-2-755-8488",
+    "hours": "Weekdays 09:30–22:00 / weekends 09:00–22:00. Closed Seollal & Chuseok.",
+    "phone": "+82-2-755-8488",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/MyeongdongChungmuGimbap/ENP7m82bh"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Yennal Myeongdong Budaejjigae (옛날명동부대찌개)",
+    "nameEn": "Yennal Myeongdong Budaejjigae",
+    "nameKo": "옛날명동부대찌개",
+    "address": "25-7 Myeongdong-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 8 Jun 2026): budae jjigae with pork, ham, sausage; also samgyeopsal. ☎ +82-2-752-6800",
+    "hours": "Daily 10:00–22:00. Closed Seollal & Chuseok.",
+    "phone": "+82-2-752-6800",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Myeongdong-Budae-Jjigae/ENP012430"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Wonjo Namsan Wangdonkkaseu Myeongdong (원조남산왕돈까스 명동)",
+    "nameEn": "Wonjo Namsan Wangdonkkaseu Myeongdong",
+    "nameKo": "원조남산왕돈까스 명동",
+    "address": "21 Myeongdong 7-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: jumbo pork cutlet / cheese pork cutlet. Holiday field says “Open 24/7” while hours are 11:00–22:00 — treat as open all year, not 24-hour. ☎ +82-2-319-0120",
+    "hours": "11:00–22:00",
+    "phone": "+82-2-319-0120",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=57489"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Yukdaejang Myeongdong (육대장 명동)",
+    "nameEn": "Yukdaejang Myeongdong",
+    "nameKo": "육대장 명동",
+    "address": "45 Myeongdong 8na-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea listing for this Myeongdong address (Yukdaejang is a national chain — these hours are only for this page). Spicy beef soup (yukgaejang). ☎ +82-2-775-7555",
+    "hours": "09:00–23:30 (last order 22:00)",
+    "phone": "+82-2-775-7555",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=59340"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Myeongdong Hanubang (명동한우방)",
+    "nameEn": "Myeongdong Hanubang",
+    "nameKo": "명동한우방",
+    "address": "37-5 Myeongdong 9-gil, Jung-gu (2F)",
+    "michelin": "None",
+    "notes": "VisitKorea: grilled thin skirt (Hanu BBQ). ☎ +82-2-2267-8132",
+    "hours": "10:30–23:30 (last order 22:00). Closed Sundays.",
+    "phone": "+82-2-2267-8132",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=60163"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Seowon (서원)",
+    "nameEn": "Seowon",
+    "nameKo": "서원",
+    "address": "B1, 141 Toegye-ro, Jung-gu (Myeongdong)",
+    "michelin": "None",
+    "notes": "VisitKorea: porridge house (abalone, chicken, shrimp juk); opens early. ☎ +82-2-776-0214 · seowonjuk.modoo.at",
+    "hours": "Mon–Sat 07:00–17:00 / Sun 07:00–14:00. Closed every other Wednesday.",
+    "phone": "+82-2-776-0214",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=59730"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Nwijo (뉘조)",
+    "nameEn": "Nwijo",
+    "nameKo": "뉘조",
+    "address": "27 Insadong 14-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 4 Jun 2026): medicinal / wild-vegetable kitchen (geunchaessam, bburi beombeok). ☎ +82-507-1497-9303",
+    "hours": "Tue–Fri 11:30–15:30 / 17:00–21:30. Sat–Sun 11:30–15:30 / 16:30–21:00. Closed Mondays.",
+    "phone": "+82-507-1497-9303",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Nwijo-EN/ENP006156"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Hanaro Hwaegwan (하나로회관)",
+    "nameEn": "Hanaro Hwaegwan",
+    "nameKo": "하나로회관",
+    "address": "25 Insadong 5-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 28 Apr 2026): traditional Korean kitchen; listing says 28 years in Insadong. Mid-afternoon break. ☎ +82-2-732-7451",
+    "hours": "10:00–15:00 / 17:00–21:00. Closed Sundays.",
+    "phone": "+82-2-732-7451",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/eat/Hanaro-Hwaegwan/ENP007430"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Sanchon (산촌)",
+    "nameEn": "Sanchon",
+    "nameKo": "산촌",
+    "address": "30-13 Insadong-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 5 May 2026): temple food by a former monk; vegetable/mountain-herb table, no meat. ☎ +82-2-735-0312 · sanchon.com",
+    "hours": "11:30–21:00. Closed Seollal & Chuseok.",
+    "phone": "+82-2-735-0312",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/sanchon-en/ENP014518"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Hamcho Ganjang Gejang (함초간장게장)",
+    "nameEn": "Hamcho Ganjang Gejang",
+    "nameKo": "함초간장게장",
+    "address": "27 Myeongdong 8ga-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 15 Jun 2026): soy-sauce marinated crab (ganjang-gejang) in fermented herb soy sauce; menus in EN/JP/CN. ☎ +82-2-318-1624 · hamchogejang.com",
+    "hours": "Daily 11:30–22:00 (last order 21:30).",
+    "phone": "+82-2-318-1624",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/eat/hamcho-ganjang-gejang_/30890"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Jeonju Hoegwan (전주회관)",
+    "nameEn": "Jeonju Hoegwan",
+    "nameKo": "전주회관",
+    "address": "32-1 Sejong-daero 14-gil, Jung-gu (Bukchang-dong)",
+    "michelin": "None",
+    "notes": "VisitKorea: more than 50 years; patented gopdol bibimbap; also yukhoe bibimbap, Jeonju kongnamul gukbap, galbitang, samgyetang. ☎ +82-2-778-6689 · jeonju6689.co.kr",
+    "hours": "08:30–22:30. Open year-round.",
+    "phone": "+82-2-778-6689",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=92943"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Jungsungbon Shabu Suki Kalguksu (정성본샤브수끼칼국수)",
+    "nameEn": "Jungsungbon Shabu Suki Kalguksu",
+    "nameKo": "정성본샤브수끼칼국수",
+    "address": "23-3 Myeongdong 4-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: shabu-shabu and yukhoe. Holiday field “Open 24/7” while hours are 10:30–22:00 — treat as open all year. ☎ +82-2-752-4800",
+    "hours": "10:30–22:00",
+    "phone": "+82-2-752-4800",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=58372"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Janggeumi Jeonjip (장금이전집)",
+    "nameEn": "Janggeumi Jeonjip",
+    "nameKo": "장금이전집",
+    "address": "147-9 Toegye-ro, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: stir-fried seafood and mung-bean pancake. Holiday field “Open 24/7” while hours run 11:30–02:00 — treat as open all year, not 24-hour. ☎ +82-2-771-5279",
+    "hours": "11:30–02:00 (next day). Last order 24:00.",
+    "phone": "+82-2-771-5279",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=58390"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Yonggeumok (용금옥)",
+    "nameEn": "Yonggeumok",
+    "nameKo": "용금옥",
+    "address": "24-2 Dadong-gil, Jung-gu (Da-dong)",
+    "michelin": "None",
+    "notes": "VisitKorea: established 1932; Seoul-style chutang (whole loach, not ground Namwon style); also pan-fried loach and grilled dried pollack. ☎ +82-2-777-1689",
+    "hours": "11:00–22:00. Closed the 2nd, 4th, and 5th Sunday of each month.",
+    "phone": "+82-2-777-1689",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=68242"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Geumseonggwan Najugomtang (금성관나주곰탕)",
+    "nameEn": "Geumseonggwan Najugomtang",
+    "nameKo": "금성관나주곰탕",
+    "address": "29 Namdaemun-ro, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: Naju-style gomtang and galbitang. ☎ +82-2-753-7898",
+    "hours": "Weekdays 00:00–24:00 / Sat 00:00–02:00 (last order 24:00) / Sun 08:00–21:00 (last order 19:00).",
+    "phone": "+82-2-753-7898",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=59900"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Sikdang Jin (식당진)",
+    "nameEn": "Sikdang Jin",
+    "nameKo": "식당진",
+    "address": "5 Toegye-ro 22-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: Japanese home-style; katsudon and sake don. Near Myeongdong Station. ☎ +82-2-755-7558",
+    "hours": "11:00–20:30. Closed Sundays.",
+    "phone": "+82-2-755-7558",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=46202"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Minsokchon (민속촌)",
+    "nameEn": "Minsokchon",
+    "nameKo": "민속촌",
+    "address": "33 Myeongdong 9-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: grilled strip loin and grilled beef ribs. Hours 00:00–24:00 and holiday “Open 24/7” — treat as open 24 hours, year-round. ☎ +82-2-779-8371",
+    "hours": "Open 24 hours, year-round",
+    "phone": "+82-2-779-8371",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=57201"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Jongno Myeongtaedeokjang (종로명태덕장)",
+    "nameEn": "Jongno Myeongtaedeokjang",
+    "nameKo": "종로명태덕장",
+    "address": "9 Supyo-ro 20-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: braised pollack and ray hot pot. Holiday field “Open 24/7” while hours are 10:30–22:30 — treat as open all year. ☎ +82-2-771-9201",
+    "hours": "10:30–22:30 (last order 21:00)",
+    "phone": "+82-2-771-9201",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=57530"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Nakji Wangguk (낙지왕국)",
+    "nameEn": "Nakji Wangguk",
+    "nameKo": "낙지왕국",
+    "address": "31 Donhwamun-ro 5ga-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: stir-fried octopus and octopus soup. ☎ +82-2-765-3119",
+    "hours": "10:00–22:00 (last order 21:00). Closed Sundays.",
+    "phone": "+82-2-765-3119",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=57451"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Gobong Samgyetang (고봉삼계탕)",
+    "nameEn": "Gobong Samgyetang",
+    "nameKo": "고봉삼계탕",
+    "address": "2F, 21 Myeongdong 7-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: samgyetang with Korean herbs; also dakjuk and jjimdak. Same building number as Wonjo Namsan Wangdonkkaseu (that shop is 1F). ☎ +82-2-756-2300",
+    "hours": "09:00–22:00. Open year-round.",
+    "phone": "+82-2-756-2300",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=60093"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Jeongwon Sutbulgalbi (정원숯불갈비)",
+    "nameEn": "Jeongwon Sutbulgalbi",
+    "nameKo": "정원숯불갈비",
+    "address": "8 Donhwamun-ro 9-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: marinated grilled beef ribs and boneless short rib. ☎ +82-2-765-1305",
+    "hours": "10:00–22:30 (last order 21:00). Closed Sundays.",
+    "phone": "+82-2-765-1305",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=57462"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Dongdaemun Bonga Gamasot Seolleongtang (동대문본가가마솥설렁탕)",
+    "nameEn": "Dongdaemun Bonga Gamasot Seolleongtang",
+    "nameKo": "동대문본가가마솥설렁탕",
+    "address": "299-1 Jong-ro, Jongno-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: seolleongtang boiled 24 hours in a cast-iron pot (visible from outside); also yennal bulgogi and yukhoe bibimbap. Near Dongdaemun Fashion Market. ☎ +82-2-741-1510",
+    "hours": "00:00–24:00 (last order 22:00). Open year-round.",
+    "phone": "+82-2-741-1510",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=60481"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Neungnabapsang (능라밥상)",
+    "nameEn": "Neungnabapsang",
+    "nameKo": "능라밥상",
+    "address": "42 Donhwamun-ro 5-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: North Korean kitchen (chef described as a defector); boiled meat platter and soy-sauce bibimbap. Holiday field “Open 24/7” while hours are 11:00–21:00 — treat as open all year. ☎ +82-2-733-9905",
+    "hours": "11:00–21:00 (last order 20:30)",
+    "phone": "+82-2-733-9905",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=57555"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "RADOST (라도스트)",
+    "nameEn": "RADOST",
+    "nameKo": "라도스트",
+    "address": "17 Ujeongguk-ro 2-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: deep-fried then braised boneless chicken; also barbecue. Holiday field “Open 24/7” while hours are 14:00–01:00 — treat as open all year. ☎ +82-2-734-8945",
+    "hours": "14:00–01:00 (next day). Last order 23:30.",
+    "phone": "+82-2-734-8945",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=57324"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "THE SIC-DDANG Myeongdong (더식당 명동)",
+    "nameEn": "THE SIC-DDANG Myeongdong",
+    "nameKo": "더식당 명동",
+    "address": "36 Myeongdong 10-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: Korean and Western; lobster and cockle salad listed. Holiday field “Open 24/7” while hours are 11:00–23:00 — treat as open all year. ☎ +82-2-318-2234",
+    "hours": "11:00–23:00 (last order 21:00)",
+    "phone": "+82-2-318-2234",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=58027"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Okcheon Maeun Jokbal (옥천매운족발)",
+    "nameEn": "Okcheon Maeun Jokbal",
+    "nameKo": "옥천매운족발",
+    "address": "23 Jong-ro 51na-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: spicy braised jokbal; herbal jokbal also listed. Near Dongdaemun. ☎ +82-2-3672-7168",
+    "hours": "10:00–24:00 (last order 23:00). Closed 2nd & 4th Tuesday.",
+    "phone": "+82-2-3672-7168",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=45694"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Masan Place (마산집)",
+    "nameEn": "Masan Place",
+    "nameKo": "마산집",
+    "address": "22-5 Sejong-daero 14-gil, Jung-gu (City Hall alley)",
+    "michelin": "None",
+    "notes": "VisitKorea: over 40 years; soegogi gukbap and modeum jeon. Closed weekends. ☎ +82-2-752-2415",
+    "hours": "11:30–22:00. Closed weekends, Seollal & Chuseok holidays.",
+    "phone": "+82-2-752-2415",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=99959"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "NOBIZIB (너비집)",
+    "nameEn": "NOBIZIB",
+    "nameKo": "너비집",
+    "address": "37-8 Myeongdong 9-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: spicy galbijjim and marinated grilled ribs. ☎ +82-2-756-4084",
+    "hours": "11:30–22:00 (last order 21:30). Closed Seollal day & Chuseok day.",
+    "phone": "+82-2-756-4084",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85673"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Namhae Gulgukbap (남해굴국밥)",
+    "nameEn": "Namhae Gulgukbap",
+    "nameKo": "남해굴국밥",
+    "address": "11 Jong-ro 46-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: oyster gukbap; oysters listed as from Tongyeong daily; also raw oyster salad. ☎ +82-2-764-4858",
+    "hours": "05:00–22:00 (last order 21:00)",
+    "phone": "+82-2-764-4858",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=59851"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Hongsugye Jjimdak (홍수계찜닭)",
+    "nameEn": "Hongsugye Jjimdak",
+    "nameKo": "홍수계찜닭",
+    "address": "5F M Plaza, 27 Myeongdong 8-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: soy-sauce jjimdak. Mall floor — confirm the shop is still on 5F. ☎ +82-2-772-9389",
+    "hours": "10:30–22:00 (last order 21:00)",
+    "phone": "+82-2-772-9389",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=59834"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Heukdonga Myeongdong (흑돈가 명동)",
+    "nameEn": "Heukdonga Myeongdong",
+    "nameKo": "흑돈가 명동",
+    "address": "B1, 21 Myeongdong 7-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea listing for this Myeongdong basement (Heukdonga is a chain). Jeju black-pork ogyeopsal on charcoal. Same building as Gobong (2F) and Namsan donkkaseu (1F). ☎ +82-2-3789-0080",
+    "hours": "Weekdays 11:30–22:00 / weekends 12:00–21:00. Open year-round.",
+    "phone": "+82-2-3789-0080",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=56783"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Jinju Hoegwan (진주회관)",
+    "nameEn": "Jinju Hoegwan",
+    "nameKo": "진주회관",
+    "address": "26 Sejong-daero 11-gil, Jung-gu (Seosomun)",
+    "michelin": "None",
+    "notes": "VisitKorea: kongguksu March–November; also kimchi bokkeumbap and samgyeopsal. Page prints weekday close as “11:00-21”. ☎ +82-2-753-5388",
+    "hours": "Weekdays 11:00–21:00 / weekends 11:00–20:00. Closed Sundays October–March.",
+    "phone": "+82-2-753-5388",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91314"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Yennal Yeongil Naengmyeon (옛날연길냉면)",
+    "nameEn": "Yennal Yeongil Naengmyeon",
+    "nameKo": "옛날연길냉면",
+    "address": "31 Jong-ro 46-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: cold buckwheat noodles and boiled dumplings; listing says run by a Chinese owner. ☎ +82-2-747-8898",
+    "hours": "09:00–23:00",
+    "phone": "+82-2-747-8898",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=58996"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Jaembaeok (잼배옥)",
+    "nameEn": "Jaembaeok",
+    "nameKo": "잼배옥",
+    "address": "68-9 Sejong-daero 9-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: “over 80 years”; seolleongtang and hangover soup. Saturday lunch only. ☎ +82-2-755-8106",
+    "hours": "Weekdays 10:00–21:10 (break 15:00–17:00) / Sat 11:00–15:00. Closed Sundays and national holidays.",
+    "phone": "+82-2-755-8106",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=55677"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Gangseo Myeonok (강서면옥)",
+    "nameEn": "Gangseo Myeonok",
+    "nameKo": "강서면옥",
+    "address": "35 Sejong-daero 11-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: Pyeongyang-style naengmyeon over fifty years; Gangwon buckwheat; also mandu jeongol. ☎ +82-2-752-1945",
+    "hours": "11:00–22:00. Closed Seollal & Chuseok holidays.",
+    "phone": "+82-2-752-1945",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=99506"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Mirakjeong (미락정)",
+    "nameEn": "Mirakjeong",
+    "nameKo": "미락정",
+    "address": "52 Sejong-daero 9-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: house-made jumbo pork cutlet from domestic pork. ☎ +82-2-778-7210",
+    "hours": "Weekdays 11:00–22:00 (last order 21:00) / Sat 10:00–15:00. Closed Sundays.",
+    "phone": "+82-2-778-7210",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=55947"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Miseongok (미성옥)",
+    "nameEn": "Miseongok",
+    "nameKo": "미성옥",
+    "address": "25-11 Myeongdong-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: ox-bone soup and suyuk; listing dates the shop to 1966. Holiday field says “Open 24/7” while hours are 06:00–22:00 — treat as open all year. ☎ +82-2-776-8929",
+    "hours": "06:00–22:00",
+    "phone": "+82-2-776-8929",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=50596"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Myth Jokbal Myeongdong (미쓰족발명동)",
+    "nameEn": "Myth Jokbal Myeongdong",
+    "nameKo": "미쓰족발명동",
+    "address": "21 Myeongdong 3-gil, Jung-gu, 1F",
+    "michelin": "None",
+    "notes": "VisitKorea: jokbal and bossam; garlic jokbal listed as main. ☎ +82-2-3789-8799",
+    "hours": "Open 24 hours, year-round",
+    "phone": "+82-2-3789-8799",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=60339"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Myeongdong Seoseo Galbi (명동서서갈비)",
+    "nameEn": "Myeongdong Seoseo Galbi",
+    "nameKo": "명동서서갈비",
+    "address": "20-8 Myeongdong 7ga-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: grilled beef ribs; no seating — standing only. ☎ +82-2-318-6400",
+    "hours": "12:00–22:00 (last order 20:30)",
+    "phone": "+82-2-318-6400",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=59233"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Jangsu Galbi (장수갈비)",
+    "nameEn": "Jangsu Galbi",
+    "nameKo": "장수갈비",
+    "address": "54-1 Myeongdong 2-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: grilled ribs and bulgogi; listing dates the shop to 1968. ☎ +82-2-775-9292",
+    "hours": "11:00–22:00 (last order 21:15)",
+    "phone": "+82-2-775-9292",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=47672"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Jongno Samgyetang (종로삼계탕)",
+    "nameEn": "Jongno Samgyetang",
+    "nameKo": "종로삼계탕",
+    "address": "1F Namchang Building, 21 Jong-ro 8-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 30 Jun 2026): two-generation samgyetang; abalone, herbal, perilla-seed versions. Alcohol sold. ☎ +82-507-1322-8761",
+    "hours": "Mon–Fri 11:00–21:00 (break 15:00–17:00, last order 20:15). Sat 11:00–15:00 (last order 14:15). Closed Sundays.",
+    "phone": "+82-507-1322-8761",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/area/JongnoGinsengChickenSoup/ENPz0vzz8"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Gyeongin Misulgwan Jeontong Dawon (경인미술관 전통다원)",
+    "nameEn": "Gyeongin Misulgwan Jeontong Dawon",
+    "nameKo": "경인미술관 전통다원",
+    "address": "11-4 Insadong 10-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 5 May 2026): traditional tea and snacks in a restored hanok garden at Kyungin Museum of Fine Art. ☎ +82-507-1339-6305",
+    "hours": "Daily 11:00–21:20. Closed New Year’s Day, Seollal & Chuseok.",
+    "phone": "+82-507-1339-6305",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/eat/Gyeongin-Misulgwan-Jeontong-Dawon/ENP010878"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Gukje Milmyeon Main Branch (국제밀면 본점)",
+    "nameEn": "Gukje Milmyeon Main Branch",
+    "nameKo": "국제밀면 본점",
+    "address": "23-6 Jungang-daero 1235beon-gil, Yeonje-gu",
+    "michelin": "None",
+    "notes": "Busan's signature cold wheat noodle dish, in both mul (broth) and bibim (spicy mixed) form. ☎ 051-501-5507",
+    "hours": "Daily 10:00–20:00. Closed on public holidays.",
+    "phone": "051-501-5507",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=95"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Halmae Gaya Milmyeon (할매가야밀면)",
+    "nameEn": "Halmae Gaya Milmyeon",
+    "nameKo": "할매가야밀면",
+    "address": "56-14 Gwangbok-ro, Jung-gu (Nampo / BIFF Square)",
+    "michelin": "None",
+    "notes": "Milmyeon and bibim milmyeon. Visit Busan credits it with about 40 years of history and notes a 140-seat room, so the queue at mealtimes moves faster than it looks. The \"founded 1974\" claim in earlier drafts is not supported by the official listing. ☎ 051-246-3314",
+    "hours": "Daily 10:30–21:30. Open year-round.",
+    "phone": "051-246-3314",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/index.do?menuCd=DOM_000000201002001000&uc_seq=102&lang_cd=ko"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Seo-myeon Gaegeum Milmyeon (서면개금밀면)",
+    "nameEn": "Seo-myeon Gaegeum Milmyeon",
+    "nameKo": "서면개금밀면",
+    "address": "39 Seomyeon-ro 68beon-gil, Busanjin-gu",
+    "michelin": "None",
+    "notes": "Milmyeon in a herbal beef-bone broth. Takeout available. The \"since 1966\" claim in earlier drafts could not be confirmed and has been removed. ☎ +82-51-802-0456",
+    "hours": "Summer 09:00–22:00 / Winter 09:30–21:00",
+    "phone": "+82-51-802-0456",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=53836"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Gijang Sonkalguksu (기장손칼국수)",
+    "nameEn": "Gijang Sonkalguksu",
+    "nameKo": "기장손칼국수",
+    "address": "56 Seomyeon-ro, Busanjin-gu (Seomyeon Market)",
+    "michelin": "None",
+    "notes": "Hand-rolled knife-cut noodles, served with gimbap. The \"Baek Jong-won's Top 3 Chefs\" claim in earlier drafts has no official source and has been removed. ☎ +82-51-806-6832",
+    "hours": "Daily 09:00–21:00",
+    "phone": "+82-51-806-6832",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=54208"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Dongnae Milmyeon (동래밀면)",
+    "nameEn": "Dongnae Milmyeon",
+    "nameKo": "동래밀면",
+    "address": "47 Myeongnyun-ro, Dongnae-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: milmyeon house of nearly 30 years; also deulkkae kalguksu, marsh-snail soup, jumbo dumplings. (The BTS/RM celebrity framing is on the official page; it is not independently checked here.) Parking noted by Visit Busan.",
+    "hours": "Daily 10:00–24:00",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=2205&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Daeyeon Milmyeon (대연밀면)",
+    "nameEn": "Daeyeon Milmyeon",
+    "nameKo": "대연밀면",
+    "address": "1F, 55 Cheonjedeung-ro, Nam-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: opened 2011; bibim milmyeon and deulkkae kalguksu. Short day — last order 16:50. ☎ +82-507-1355-6120",
+    "hours": "11:00–17:00 (last order 16:50). Closed Tuesdays.",
+    "phone": "+82-507-1355-6120",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1510&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Samseong Milmyeon (삼성밀면)",
+    "nameEn": "Samseong Milmyeon",
+    "nameKo": "삼성밀면",
+    "address": "47 World Cup-daero 449beon-gil, Busanjin-gu (Choeup-dong)",
+    "michelin": "None",
+    "notes": "Visit Busan: milmyeon specialist; page says 60 years and first-generation owner still running. ☎ 051-806-1256",
+    "hours": "10:30–18:00. Closed Tuesdays.",
+    "phone": "051-806-1256",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1507&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Gaya Halmae Milmyeon (가야할매밀면)",
+    "nameEn": "Gaya Halmae Milmyeon",
+    "nameKo": "가야할매밀면",
+    "address": "32 World Cup-daero 145beon-gil, Yeonje-gu",
+    "michelin": "None",
+    "notes": "Different restaurant from Halmae Gaya Milmyeon in Nampo. Visit Busan: cornstarch-elastic noodles; pork-and-beef-bone broth. ☎ +82-51-865-8017",
+    "hours": "11:00–20:00. Open 365 days.",
+    "phone": "+82-51-865-8017",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=94&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Ilmi Milmyeon (일미밀면)",
+    "nameEn": "Ilmi Milmyeon",
+    "nameKo": "일미밀면",
+    "address": "3 Daecheong-ro 99beon-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: ox-bone milmyeon; also dwaeji gukbap (not in summer, per the official page). ☎ +82-51-463-3977 · ilmimilmyeon.modoo.at. The page also prints a closure Mon 19 May–Sun 1 Jun with no year — treat that as a dated notice, not a recurring rule.",
+    "hours": "Mon–Sat 11:00–19:00. Closed Sundays.",
+    "phone": "+82-51-463-3977",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=2285&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Yangpyeong Kalguksu (양평칼국수)",
+    "nameEn": "Yangpyeong Kalguksu",
+    "nameKo": "양평칼국수",
+    "address": "680-1 Da-daero, Saha-gu (Dadaepo)",
+    "michelin": "None",
+    "notes": "Visit Busan: owner-made ripened kalguksu dough; kimchi from domestic napa; summer-only cold noodles. Far from Nampo/Seomyeon — plan a ride to Dadaepo. ☎ +82-51-265-0907",
+    "hours": "Mon–Fri 11:00–20:00 (break 15:30–17:00, last order 19:30). Sat 11:00–15:30 (last order 15:00). Closed Sundays.",
+    "phone": "+82-51-265-0907",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1117"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Danggam Milmyeon (당감밀면)",
+    "nameEn": "Danggam Milmyeon",
+    "nameKo": "당감밀면",
+    "address": "5 Danggam-ro, Samik Apt. arcade B-dong 1F, Busanjin-gu",
+    "michelin": "None",
+    "notes": "Visit Busan (Korean listing): milmyeon, bibim milmyeon, handmade mandu, son kalguksu. ☎ 051-896-0177",
+    "hours": "11:00–20:00 (last order 19:30)",
+    "phone": "051-896-0177",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201002001000&uc_seq=1108"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Korean-Chinese & Dumplings",
+    "name": "Hwaguk Banjeom (화국반점)",
+    "nameEn": "Hwaguk Banjeom",
+    "nameKo": "화국반점",
+    "address": "3 Baeksan-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "Korean-Chinese kitchen that Visit Busan credits with 43 years of history; known for ganjjajang and tangsuyuk, and used as a filming location for New World and Nameless Gangster. Note the mid-afternoon break — earlier drafts listed it as open straight through. ☎ 051-245-5305",
+    "hours": "11:30–15:30 / 17:00–21:30. Closed the 1st & 3rd Monday of each month.",
+    "phone": "051-245-5305",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/index.do?menuCd=DOM_000000201002001000&uc_seq=1227&lang_cd=ko"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Korean-Chinese & Dumplings",
+    "name": "Banpin (반핀)",
+    "nameEn": "Banpin",
+    "nameKo": "반핀",
+    "address": "9 Dongcheon-ro 108beon-gil, Busanjin-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: casual Taiwanese; char siu rice bowl and mapo tofu; binchotan toppings. Companion animals allowed per the listing. Not Korean cuisine. ☎ +82-507-1498-6223",
+    "hours": "Weekdays 11:30–16:00 / 17:00–21:00. Weekends 11:15–16:00 / 17:00–21:00. (Page prints last order 15:00 — that sits inside the lunch window; confirm last order on the day.) Open all year.",
+    "phone": "+82-507-1498-6223",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1482"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "Haeundae Amso Galbijip (해운대암소갈비집)",
+    "nameEn": "Haeundae Amso Galbijip",
+    "nameKo": "해운대암소갈비집",
+    "address": "32-10 Jungdong 2-ro 10beon-gil, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Opened 1964. Hanu saenggalbi grilled on the house's own iron pan, with gamja guksu (potato noodles) to finish. Earlier drafts called this \"Haeundae Somunnan Amso Galbi-jip\" — that name is wrong. Closed for Seollal and Chuseok. ☎ +82-51-746-0033 · haeundaegalbi.com",
+    "hours": "11:30–22:00. Weekend break 15:15–16:30.",
+    "phone": "+82-51-746-0033",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=73814"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "Geodae Galbi (거대갈비)",
+    "nameEn": "Geodae Galbi",
+    "nameKo": "거대갈비",
+    "address": "22 Dalmaji-gil, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: charcoal Hanu barbecue; listing notes high prices. ☎ 051-746-0037",
+    "hours": "11:30–15:00 / 17:00–22:00. Open 365 days.",
+    "phone": "051-746-0037",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=141"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "88 Dwaeji Galbi (88돼지갈비)",
+    "nameEn": "88 Dwaeji Galbi",
+    "nameKo": "88돼지갈비",
+    "address": "101-1 Gogwan-ro, Dong-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: marinaded pork barbecue; listing says 40 years. ☎ 051-468-3065",
+    "hours": "12:00–22:30. Open 365 days.",
+    "phone": "051-468-3065",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1536"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "Busan Jokbal (부산족발)",
+    "nameEn": "Busan Jokbal",
+    "nameKo": "부산족발",
+    "address": "13 Gwangbok-ro, Jung-gu (Jokbal Alley, near Gukje Market)",
+    "michelin": "None",
+    "notes": "Naengchae jokbal — cold pig's trotter with jellyfish and mustard sauce. The \"original 50-year inventor\" claim in earlier drafts is unsourced and has been removed. Open all year. ☎ +82-507-1412-5359",
+    "hours": "Daily 10:30–01:00 (next day)",
+    "phone": "+82-507-1412-5359",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=193340"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Songjeong Samdae Gukbap (송정3대국밥)",
+    "nameEn": "Songjeong Samdae Gukbap",
+    "nameKo": "송정3대국밥",
+    "address": "33 Seomyeon-ro 68beon-gil, Busanjin-gu",
+    "michelin": "None",
+    "notes": "Dwaeji gukbap (pork and rice soup) and suyuk baekban — Busan's defining comfort dish. Open year-round; no on-site parking. The \"operating since 1946\" claim in earlier drafts is unsourced and has been removed. ☎ +82-507-1412-5722",
+    "hours": "Open 24 hours, daily, year-round",
+    "phone": "+82-507-1412-5722",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=216936"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Jamae Gukbap (자매국밥)",
+    "nameEn": "Jamae Gukbap",
+    "nameKo": "자매국밥",
+    "address": "56 Millakbondong-ro 27beon-gil, Suyeong-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: pork-head broth, doenjang seasoning; over 30 years. ☎ 051-752-1912",
+    "hours": "10:00–21:00. Closed Sundays.",
+    "phone": "051-752-1912",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=2365"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Jaegi Dwaeji Gukbap (재기돼지국밥)",
+    "nameEn": "Jaegi Dwaeji Gukbap",
+    "nameKo": "재기돼지국밥",
+    "address": "25 Jeoryeong-ro 49-gil, Yeongdo-gu (Namhang Market)",
+    "michelin": "None",
+    "notes": "Visit Busan: toryeom-style dwaeji gukbap; listing says 55 years. Closes when sold out. ☎ +82-51-418-0526",
+    "hours": "08:00–21:00 or until sold out. Closed Mondays.",
+    "phone": "+82-51-418-0526",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1837"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Ungcheonjip (웅천집)",
+    "nameEn": "Ungcheonjip",
+    "nameKo": "웅천집",
+    "address": "7-14 Geumgok-daero 616beon-gil (Visit Busan does not print the district on this page)",
+    "michelin": "None",
+    "notes": "Visit Busan: three generations since 1964; leather carp hoe, catfish maeuntang, grilled eel; soy sauce aged three years. ☎ +82-51-332-8740",
+    "hours": "Daily 11:30–21:30. Break 15:00–16:00. Last order 20:30. Open 365 days.",
+    "phone": "+82-51-332-8740",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1279&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Halmae Gukbap (할매국밥)",
+    "nameEn": "Halmae Gukbap",
+    "nameKo": "할매국밥",
+    "address": "4 Jungang-daero 533beon-gil, Dong-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: listing title “60-year” dwaeji gukbap; clear broth; steamed-meat set (broth and meat served separately). Portal prices are not copied. ☎ 051-646-6295",
+    "hours": "10:00–19:00. Closed Sundays.",
+    "phone": "051-646-6295",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=246"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "LAB XXIV by Kumuda (랩트웬티포)",
+    "nameEn": "LAB XXIV by Kumuda",
+    "nameKo": "랩트웬티포",
+    "address": "41 Gwangeogol-ro, Songjeong, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: French fine dining (Chef Edward Kwon); Busan ingredients. Not Korean comfort food. Portal course prices are not copied. ☎ +82-507-1421-1302",
+    "hours": "11:30–15:00 / 17:30–22:00. Closed Mondays.",
+    "phone": "+82-507-1421-1302",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1842"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Samihun (사미헌)",
+    "nameEn": "Samihun",
+    "nameKo": "사미헌",
+    "address": "19 Seomyeonmunhwa-ro, Busanjin-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: Hanwoo specialist; galbitang and myeongjang set; private rooms. ☎ 051-819-6677",
+    "hours": "11:00–21:30. Closed public holidays.",
+    "phone": "051-819-6677",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=87"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Yeongjin Sikdang (영진식당)",
+    "nameEn": "Yeongjin Sikdang",
+    "nameKo": "영진식당",
+    "address": "39 Hasinbeonyeong-ro 157beon-gil, Saha-gu",
+    "michelin": "None",
+    "notes": "Visit Busan (Korean listing): dwaeji gukbap and suyuk baekban. Same address as the “Yeongjin Dwaeji Gukbap main” listing. Portal prices are not copied. ☎ 051-206-3820",
+    "hours": "09:30–15:00 / 17:00–21:30. Closed Sundays.",
+    "phone": "051-206-3820",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201002001000&uc_seq=1514"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Cor Pasta Bar (코르 파스타바)",
+    "nameEn": "Cor Pasta Bar",
+    "nameKo": "코르 파스타바",
+    "address": "2F, 13 Dongseong-ro 25beon-gil, Busanjin-gu",
+    "michelin": "Bib Gourmand 2026",
+    "notes": "Visit Busan: handmade pasta and bread; bar-like room. On the official 2026 Busan Bib list (Italian). Portal prices are not copied. ☎ +82-507-1474-4570",
+    "hours": "12:00–14:30 / 17:00–21:00. Closed Mondays.",
+    "phone": "+82-507-1474-4570",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1820&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Dongnae Halmae Pajeon (동래할매파전)",
+    "nameEn": "Dongnae Halmae Pajeon",
+    "nameKo": "동래할매파전",
+    "address": "43-10 Myeongryun-ro 94beon-gil, Dongnae-gu",
+    "michelin": "None",
+    "notes": "Four generations of Dongnae-style pajeon — whole spring onions with seafood, bound in a rice-flour batter. Earlier drafts listed the hours and closing day incorrectly (they said Wed–Sun 12:00–22:00, closed Mon & Tue). ☎ 051-552-0792",
+    "hours": "11:30–15:00 / 17:00–21:30. Closed Mondays.",
+    "phone": "051-552-0792",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1520"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Jagalchi Market (자갈치시장)",
+    "nameEn": "Jagalchi Market",
+    "nameKo": "자갈치시장",
+    "address": "52 Jagalchihaean-ro, Jung-gu (Nampo-dong)",
+    "michelin": "None",
+    "notes": "Korea's largest seafood market. Buy fresh fish on the ground floor and have it prepared upstairs. Individual stalls set their own hours within the market's window. ☎ +82-51-245-2594",
+    "hours": "05:00–22:00. Closed the 1st & 3rd Tuesday of each month.",
+    "phone": "+82-51-245-2594",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69318"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Bujeon Market (부전시장)",
+    "nameEn": "Bujeon Market",
+    "nameKo": "부전시장",
+    "address": "23 Jungang-daero 783beon-gil, Busanjin-gu",
+    "michelin": "None",
+    "notes": "Busan's largest traditional market, liveliest early in the morning when produce and seafood are traded direct. Hours differ by shop — the figure below is the market-wide window, and earlier drafts listed it wrongly as 09:00–18:00. ☎ +82-51-818-7009",
+    "hours": "Daily 07:00–19:00 (varies by shop)",
+    "phone": "+82-51-818-7009",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301003001000&uc_seq=327&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "Samjin Eomuk Main Store (삼진어묵 본점)",
+    "nameEn": "Samjin Eomuk Main Store",
+    "nameKo": "삼진어묵 본점",
+    "address": "36 Taejong-ro 99beon-gil, Yeongdo-gu",
+    "michelin": "None",
+    "notes": "Korea's best-known fish-cake brand, run by the same family since 1953 (three generations) — this is the original Yeongdo store. There is a fish-cake making workshop on the 2nd floor. Parking available. ☎ 051-715-5865 · samjinfood.com",
+    "hours": "Daily 09:00–19:00. Open year-round.",
+    "phone": "051-715-5865",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201002001000&uc_seq=1065"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "Brown Hands Baekje (브라운핸즈 백제)",
+    "nameEn": "Brown Hands Baekje",
+    "nameKo": "브라운핸즈 백제",
+    "address": "16 Jungang-daero 209beon-gil, Dong-gu (near Busan Station)",
+    "michelin": "None",
+    "notes": "A cafe inside Busan's first modern Western-style hospital building, a registered cultural property; the interior deliberately preserves the age of the structure. Espresso and americano are the house drinks. The \"1922\" build date in earlier drafts is not in the official listing. ☎ 051-464-0332",
+    "hours": "Daily 10:00–22:00",
+    "phone": "051-464-0332",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/index.do?menuCd=DOM_000000201002001000&uc_seq=231&lang_cd=ko"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "Choryang Ondang (초량온당)",
+    "nameEn": "Choryang Ondang",
+    "nameKo": "초량온당",
+    "address": "1F, 135 Choryangjung-ro, Dong-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: bakery; queues at opening; yellow-cheese bread is the listed favorite. Portal menu prices are not copied here. ☎ +82-507-1318-1271",
+    "hours": "12:00–19:00. Closed Sundays and Mondays.",
+    "phone": "+82-507-1318-1271",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1450"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "Nampo Samgyetang (남포삼계탕)",
+    "nameEn": "Nampo Samgyetang",
+    "nameKo": "남포삼계탕",
+    "address": "16 Nampo-gil, Jung-gu (Gwangbok-ro)",
+    "michelin": "None",
+    "notes": "Visit Busan: more than 50 years; samgyetang with glutinous rice, ginseng, chestnut, jujube; electric grilled chicken also listed. Portal prices are not copied. ☎ +82-51-245-5075",
+    "hours": "Mon–Fri 11:00–20:50 (break 15:30–16:30, last order 20:20). Sat–Sun 11:00–20:50 (last order 20:20). Closed traditional holidays.",
+    "phone": "+82-51-245-5075",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1247"
+      }
+    ]
+  },
+  {
+    "city": "Suwon",
+    "category": "Galbi",
+    "name": "Bonsuwon Galbi (본수원갈비)",
+    "nameEn": "Bonsuwon Galbi",
+    "nameKo": "본수원갈비",
+    "address": "41 Jungbu-daero 223beon-gil, Paldal-gu (Uman-dong)",
+    "michelin": "None",
+    "notes": "VisitKorea: over 50 years; saeng-galbi and yangnyeom-galbi; wanggalbi is the listed main dish. Also galbitang. VisitKorea wording: “said to be one of Suwon's top three galbi restaurants.” ☎ +82-31-211-8434 · bonsuwon.co.kr",
+    "hours": "11:30–21:30 (weekends 11:30–21:00). Open year-round.",
+    "phone": "+82-31-211-8434",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86767"
+      }
+    ]
+  },
+  {
+    "city": "Suwon",
+    "category": "Galbi",
+    "name": "Yeonpo Galbi (연포갈비)",
+    "nameEn": "Yeonpo Galbi",
+    "nameKo": "연포갈비",
+    "address": "56-1 Jeongjo-ro 906beon-gil, Paldal-gu (Buksu-dong)",
+    "michelin": "None",
+    "notes": "VisitKorea: remodeled public bath/inn (chimney kept). Wanggalbi; galbitang lunch only on weekdays, often sells out. Mid-afternoon break. ☎ +82-31-255-1337",
+    "hours": "11:30–21:30. Break 15:00–17:00. Closed Seollal & Chuseok holidays.",
+    "phone": "+82-31-255-1337",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=105973"
+      }
+    ]
+  },
+  {
+    "city": "Suwon",
+    "category": "Galbi",
+    "name": "Kabojung (가보정)",
+    "nameEn": "Kabojung",
+    "nameKo": "가보정",
+    "address": "282 Jangdari-ro, Paldal-gu (Ingye-dong)",
+    "michelin": "None",
+    "notes": "VisitKorea lists it among Suwon's top three galbi restaurants: saenggalbi, yangnyeom galbi, yukhoe; doenjang jjigae; dessert of mini yakgwa and sujeonggwa. ☎ +82-2-1600-3883 · kabojung.co.kr",
+    "hours": "Weekdays 11:30–21:30 / Sat & public holidays 11:00–22:00 / Sun 11:00–21:30. Open year-round.",
+    "phone": "+82-2-1600-3883",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=188614"
+      }
+    ]
+  },
+  {
+    "city": "Suwon",
+    "category": "Budae jjigae",
+    "name": "Leenakyeong Songtan Budaejjigae (이나경송탄부대찌개)",
+    "nameEn": "Leenakyeong Songtan Budaejjigae",
+    "nameKo": "이나경송탄부대찌개",
+    "address": "47 Hyowon-ro 307beon-gil, Paldal-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: single dish — special budae jjigae (ox-bone broth); portions for two or more. ☎ +82-31-223-7893",
+    "hours": "11:00–22:00. Break 16:00–17:00. Open year-round.",
+    "phone": "+82-31-223-7893",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=188601"
+      }
+    ]
+  },
+  {
+    "city": "Suwon",
+    "category": "Chicken street (area)",
+    "name": "Suwon Chicken Street (수원통닭거리) — the alley",
+    "nameEn": "Suwon Chicken Street",
+    "nameKo": "수원통닭거리",
+    "address": "16 Jeongjo-ro 800beon-gil, Paldal-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: ~100 m alley, about 11 fried-whole-chicken shops; original stall from 1970. Names VisitKorea prints: Maehyang Tongdak, Yongseong Tongdak, Jinmi Tongdak. No official hours for those individual shops — do not treat the street's 24-hour field as any one shop's hours. ☎ +82-31-228-4672 (Suwon tourist information)",
+    "hours": "Open 24 hr / year-round (street listing). Confirm the shop you enter.",
+    "phone": "+82-31-228-4672",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=176166"
+      }
+    ]
+  },
+  {
+    "city": "Suwon",
+    "category": "Chicken street (area)",
+    "name": "Nostalgic Dalgona (추억의달고나)",
+    "nameEn": "Nostalgic Dalgona",
+    "nameKo": "추억의달고나",
+    "address": "44 Haenggung-ro #102, Paldal-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: make-and-eat dalgona (sugar candy). Near Hwaseong / Paldalmun. ☎ +82-507-1381-4655",
+    "hours": "10:00–21:00. Open year-round.",
+    "phone": "+82-507-1381-4655",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=188184"
+      }
+    ]
+  },
+  {
+    "city": "Suwon",
+    "category": "Market (area)",
+    "name": "Suwon Yeongdong Market (수원 영동시장)",
+    "nameEn": "Suwon Yeongdong Market",
+    "nameKo": "수원 영동시장",
+    "address": "6 Suwoncheon-ro 255beon-gil, Paldal-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: market near Paldalmun since 1917; ~300 stores (hanbok, fabric, clothing, daily goods, food). Hours are the market window — individual food stalls vary. ☎ +82-31-251-0171",
+    "hours": "10:00–20:00. Closed the 1st and 15th of every month.",
+    "phone": "+82-31-251-0171",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=70886"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Noodles (Naengmyeon & Kalguksu)",
+    "name": "Sutgol Won Naengmyeon (숯골원냉면)",
+    "nameEn": "Sutgol Won Naengmyeon",
+    "nameKo": "숯골원냉면",
+    "address": "173 Hyeonchungwon-ro, Yuseong-gu",
+    "michelin": "None",
+    "notes": "Pyeongyang-style naengmyeon run by the same family for four generations. The broth is a blend of dongchimi (radish-water kimchi) and chicken stock, and the noodles are made with Pyeongchang buckwheat. The \"National Baeknyeon Gage\" and \"founded 1954\" claims in earlier drafts are not on the official listing and have been removed.",
+    "hours": "11:00–20:00. Break 15:30–16:30. Closed New Year's Day, Seollal day and Chuseok day.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=189714"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Noodles (Naengmyeon & Kalguksu)",
+    "name": "OC Kalguksu / Ossi Kalguksu (오씨칼국수)",
+    "nameEn": "OC Kalguksu / Ossi Kalguksu",
+    "nameKo": "오씨칼국수",
+    "address": "1F, 13 Yetsintanjin-ro, Dong-gu",
+    "michelin": "None",
+    "notes": "Kalguksu in a broth built on surf clams and anchovies — Daejeon is Korea's kalguksu city and this is one of its standard-bearers. Two corrections: earlier drafts placed it in \"Central Jungang-ro\" (wrong district) and listed a 15:00–16:30 break that the official listing does not show. The old \"Official Listing\" link pointed at a Daejeon festival page, not at this restaurant.",
+    "hours": "11:00–21:00. Closed Mondays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=190242"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Noodles (Naengmyeon & Kalguksu)",
+    "name": "Daeseon Kalguksu Dunsan Main Store (대선칼국수 둔산본점)",
+    "nameEn": "Daeseon Kalguksu Dunsan Main Store",
+    "nameKo": "대선칼국수 둔산본점",
+    "address": "2F, 28 Dunsanjung-ro 40beon-gil, Seo-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: established 1954; clam broth with crown daisy and perilla powder; also bibim guksu and suyuk. ☎ +82-42-471-0316",
+    "hours": "11:30–22:00. Open year-round.",
+    "phone": "+82-42-471-0316",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=190303"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Noodles (Naengmyeon & Kalguksu)",
+    "name": "Samdaejjae Jeontong Kalguksu (삼대째전통칼국수)",
+    "nameEn": "Samdaejjae Jeontong Kalguksu",
+    "nameKo": "삼대째전통칼국수",
+    "address": "13 Daejeon-ro 825beon-gil, Dong-gu (Jeong-dong, near Daejeon Station)",
+    "michelin": "None",
+    "notes": "VisitKorea: hanu-bone kalguksu, suyuk; kongguksu in summer. ☎ +82-42-257-5432",
+    "hours": "09:00–20:30. Closed Seollal & Chuseok holidays.",
+    "phone": "+82-42-257-5432",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=190271"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Noodles (Naengmyeon & Kalguksu)",
+    "name": "Sindo Kalguksu Main Store (신도칼국수 본점)",
+    "nameEn": "Sindo Kalguksu Main Store",
+    "nameKo": "신도칼국수 본점",
+    "address": "11 Daejeon-ro 825beon-gil, Dong-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: established 1961; beef-bone and anchovy broth with perilla powder; also suyuk and dubu duruchigi. Next door to Samdaejjae. Holiday field: irregular closures — call. ☎ +82-42-253-6799",
+    "hours": "10:00–20:00. Irregular closures (phone).",
+    "phone": "+82-42-253-6799",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=216933"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Noodles (Naengmyeon & Kalguksu)",
+    "name": "Buchu Haemul Kalguksu Sikdang (부추해물칼국수식당)",
+    "nameEn": "Buchu Haemul Kalguksu Sikdang",
+    "nameKo": "부추해물칼국수식당",
+    "address": "31 Sintanjin-ro 804beon-gil, Daedeok-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: chive-and-seafood kalguksu; chicken-and-vegetable broth two hours; pair with jjukkumi. Not downtown — Sintanjin. ☎ +82-42-934-5656",
+    "hours": "11:00–20:00. Open year-round.",
+    "phone": "+82-42-934-5656",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=190211"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Classic Korean & Specialty",
+    "name": "Sariwon Myeonok Main Store (사리원면옥 본점)",
+    "nameEn": "Sariwon Myeonok Main Store",
+    "nameKo": "사리원면옥 본점",
+    "address": "62 Junggyo-ro, Jung-gu",
+    "michelin": "None",
+    "notes": "Moved out of the Jajangmyeon section — this is not a Korean-Chinese restaurant. Its main dish is Pyeongyang naengmyeon; galbitang and so-bulgogi (Hanwoo bulgogi) are the other signatures. The \"founded 1951, four generations\" claim in earlier drafts is not on the official listing. Instagram: @sariwon52",
+    "hours": "11:00–21:30. Closed the day of and day before Seollal and Chuseok.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192337"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Classic Korean & Specialty",
+    "name": "Taepyeong Sogukbap (태평소국밥)",
+    "nameEn": "Taepyeong Sogukbap",
+    "nameKo": "태평소국밥",
+    "address": "50 Oncheondong-ro 65beon-gil, Yuseong-gu (Bongmyeong-dong)",
+    "michelin": "None",
+    "notes": "Sogukbap — beef-and-radish soup with rice — plus yuksashimi (beef tartare) and someori suyuk. Useful for a late arrival or an early train. The \"Daejeon's #1 comfort food landmark\" line in earlier drafts was unsourced. Earlier drafts also carried a malformed VisitKorea URL; the working one is below.",
+    "hours": "Open 24 hours. Closed for the Seollal and Chuseok holidays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=189445"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Classic Korean & Specialty",
+    "name": "Byeolcheonji Sikdang (별천지식당)",
+    "nameEn": "Byeolcheonji Sikdang",
+    "nameKo": "별천지식당",
+    "address": "29 Sanseo-ro 1659beon-gil, Dong-gu (Daebyeol-dong)",
+    "michelin": "None",
+    "notes": "VisitKorea: oribaeksuk (whole duck with cordyceps/herbs), native-chicken baeksuk, herbal galbitang. Pond-side. Far from the station core — plan a ride. ☎ +82-42-271-0207",
+    "hours": "11:00–21:00. Open year-round.",
+    "phone": "+82-42-271-0207",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=190269"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Classic Korean & Specialty",
+    "name": "Gaecheon Sikdang (개천식당)",
+    "nameEn": "Gaecheon Sikdang",
+    "nameKo": "개천식당",
+    "address": "41-1 Daejeon-ro 779beon-gil, Dong-gu (Wondong, Jungang Market)",
+    "michelin": "None",
+    "notes": "VisitKorea: handmade Hamgyeong-do mandu; manduguk with boiled pork and glass noodles; also gukbap and steamed/fried mandu. ☎ +82-42-256-1003",
+    "hours": "11:00–20:30. Open year-round.",
+    "phone": "+82-42-256-1003",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=190264"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Classic Korean & Specialty",
+    "name": "Baekcheonjip Sikdang (백천집식당)",
+    "nameEn": "Baekcheonjip Sikdang",
+    "nameKo": "백천집식당",
+    "address": "119 Junggyo-ro, Dong-gu (Wondong, Jungang Market)",
+    "michelin": "None",
+    "notes": "VisitKorea: sundae gukbap in a hot-pot broth; sundae also sold alone. ☎ +82-42-226-0140",
+    "hours": "09:00–19:00. Closed the second Sunday of every month.",
+    "phone": "+82-42-226-0140",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=190288"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Classic Korean & Specialty",
+    "name": "Gangnam Myeonok Dunsan Branch (강남면옥 둔산점)",
+    "nameEn": "Gangnam Myeonok Dunsan Branch",
+    "nameKo": "강남면옥 둔산점",
+    "address": "15 Dunsan-ro 123beon-gil, Seo-gu",
+    "michelin": "None",
+    "notes": "VisitKorea listing for this Dunsan address only (the name is used elsewhere). Sogalbijjim, galbitang, hoe naengmyeon. Near City Hall. ☎ +82-42-472-9996",
+    "hours": "11:00–22:00. Open year-round.",
+    "phone": "+82-42-472-9996",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=190326"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Classic Korean & Specialty",
+    "name": "Hanbat Sikdang (한밭식당)",
+    "nameEn": "Hanbat Sikdang",
+    "nameKo": "한밭식당",
+    "address": "1F, 3 Taejeon-ro, Dong-gu (Jung-dong, near Daejeon Station)",
+    "michelin": "None",
+    "notes": "VisitKorea: opened 1955; beef-bone broth simmered over five hours; sohanmari tang, seolleongtang, doganitang, galbitang, suyuk. ☎ +82-42-256-1566",
+    "hours": "Mon–Sat 10:00–20:30 / Sun 10:00–20:00. Open year-round.",
+    "phone": "+82-42-256-1566",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=190282"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Classic Korean & Specialty",
+    "name": "Sonamujip (소나무집)",
+    "nameEn": "Sonamujip",
+    "nameKo": "소나무집",
+    "address": "59 Daejong-ro 460beon-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: ojingeo jjigae; most diners add noodles (ojingeo kalguksu). Near Sungsimdang. ☎ +82-42-256-1464",
+    "hours": "11:30–21:00. Break 15:30–17:30. Closed the 1st & 3rd Monday of each month.",
+    "phone": "+82-42-256-1464",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=216935"
+      }
+    ]
+  },
+  {
+    "city": "Daejeon",
+    "category": "Bakery",
+    "name": "Sungsimdang Main Store (성심당 본점)",
+    "nameEn": "Sungsimdang Main Store",
+    "nameKo": "성심당 본점",
+    "address": "15 Daejong-ro 480beon-gil, Jung-gu (Eunhaeng-dong)",
+    "michelin": "None",
+    "notes": "Founded 1956 near Daejeon Station selling steamed jjinbbang; today it bakes roughly 400 varieties. The two things to queue for are twigim soboro (deep-fried streusel bun) and the pantalong leek bread. Founding year is confirmed by the official listing; the \"Daejeon's Taste #1\" ranking in earlier drafts was not, and has been removed.",
+    "hours": "Daily 08:00–22:00. Open year-round.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140069"
+      },
+      {
+        "label": "sungsimdang.co.kr",
+        "url": "https://www.sungsimdang.co.kr/"
+      }
+    ]
+  },
+  {
+    "city": "Cheonan",
+    "category": "Byeongcheon Sundae (병천순대) — the reason to come",
+    "name": "Cheonghwa-jip (청화집)",
+    "nameEn": "Cheonghwa-jip",
+    "nameKo": "청화집",
+    "address": "1749 Chungjeol-ro, Byeongcheon-myeon, Dongnam-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: opened early 1950s at Aunae Market with no signboard; a county official assigned the name for tax registration. Fourth-generation couple. Signature sundae-gukbap; also modeum-sundae. Parking. ☎ 041-564-1558. A Baeknyeon Gage label is not on the official listing and is not used here.",
+    "hours": "Weekdays 09:00–17:00 / Weekends 08:30–17:00. Closed Mondays, and for the Seollal and Chuseok holidays.",
+    "phone": "041-564-1558",
+    "sources": [
+      {
+        "label": "VisitKorea print",
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail_print.do?cotid=06b2df94-881f-4bb2-995e-95cd1f456b6f"
+      }
+    ]
+  },
+  {
+    "city": "Cheonan",
+    "category": "Byeongcheon Sundae (병천순대) — the reason to come",
+    "name": "Chungnam-jip Sundae (충남집순대)",
+    "nameEn": "Chungnam-jip Sundae",
+    "nameKo": "충남집순대",
+    "address": "1748 Chungjeol-ro, Byeongcheon-myeon, Dongnam-gu",
+    "michelin": "None",
+    "notes": "The other house VisitKorea names as an originator of Byeongcheon sundae — directly across the road from Cheonghwa-jip, so if one has a queue, walk ten metres. Unfrozen pork small intestine, cooked with a pork-rib broth simmered six hours. Signature sundae; sundae-gukbap also served. Parking available. ☎ 041-564-1079",
+    "hours": "08:00–19:00. Open year-round (no closing day).",
+    "phone": "041-564-1079",
+    "sources": [
+      {
+        "label": "VisitKorea print",
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail_print.do?cotid=1867767f-50b2-44fe-8a28-f73c8dcbbbaf"
+      }
+    ]
+  },
+  {
+    "city": "Cheonan",
+    "category": "Byeongcheon Sundae (병천순대) — the reason to come",
+    "name": "Aunae Jangteo Sundae (아우내 장터순대)",
+    "nameEn": "Aunae Jangteo Sundae",
+    "nameKo": "아우내 장터순대",
+    "address": "40 Aunae-sundae-gil, Dongnam-gu",
+    "michelin": "None",
+    "notes": "Opened 1994; the TV-famous one of the street. Beef-bone broth made fresh each morning with vegetables. Beyond the standard sundae-gukbap there is eolkeuni sundae-gukbap (spicy) and a kimchi-spicy version. Large car park in front, and it is the closest of the three to Mokcheon IC. ☎ 041-564-5949",
+    "hours": "09:00–20:00. Open year-round (no closing day).",
+    "phone": "041-564-5949",
+    "sources": [
+      {
+        "label": "VisitKorea print",
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail_print.do?cotid=9b636650-b8f3-4153-9863-0765d9964ba0"
+      }
+    ]
+  },
+  {
+    "city": "Cheonan",
+    "category": "Byeongcheon Sundae (병천순대) — the reason to come",
+    "name": "Byeongcheon Sundae Street (천안 병천순대거리) — the street itself",
+    "nameEn": "Byeongcheon Sundae Street",
+    "nameKo": "천안 병천순대거리",
+    "address": "1 Aunae-sundae-gil, Byeongcheon-myeon, Dongnam-gu",
+    "michelin": "None",
+    "notes": "VisitKorea: about 20 sundae specialists. Hours vary by shop. Daily sundae-gukbap trade from 1968. ☎ 041-521-5169",
+    "hours": "Varies by shop (official).",
+    "phone": "041-521-5169",
+    "sources": [
+      {
+        "label": "VisitKorea print",
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail_print.do?cotid=1dd2654d-103c-4ea6-ad5d-3dc938826f05"
+      }
+    ]
+  },
+  {
+    "city": "Cheonan",
+    "category": "Korean-Chinese",
+    "name": "Dongsunwon Seonghwan Main Branch (동순원 성환본점)",
+    "nameEn": "Dongsunwon Seonghwan Main Branch",
+    "nameKo": "동순원 성환본점",
+    "address": "33 Seonghwan-jungang-ro, Seobuk-gu (by Seonghwan Station)",
+    "michelin": "None",
+    "notes": "Open since 1960 on the same spot. The house dish is jjamppong, not jajangmyeon — heavy on seafood and deliberately lightly seasoned. Jajangmyeon, udon, tangsuyuk and yangjangpi are also served. Three corrections: earlier drafts put it in \"Seonghwan\" without a district (it is Seobuk-gu, not Dongnam-gu), listed it as \"Daily 11:00–21:00\" (wrong on both the closing time and the closing day), and filed it under jajangmyeon. No parking. ☎ 041-581-2070",
+    "hours": "11:00–20:00. Closed Mondays.",
+    "phone": "041-581-2070",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=4a6321da-c1ef-4061-ace9-0358cda8a9cf"
+      }
+    ]
+  }
+]

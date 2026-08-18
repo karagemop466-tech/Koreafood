@@ -2,7 +2,9 @@
 
 > **New here? Start with [START-HERE.md](START-HERE.md).** It explains the trip, the four cities, how to choose a restaurant, and what the labels mean.
 
-A highly practical, meticulously verified two-person food plan for **Seoul + Busan**, with **Cheonan (천안)** and **Daejeon (대전)** as the flex-city shortlist. Trip: **31 October–22 November 2026**.
+A highly practical, meticulously verified two-person food plan for **Seoul + Busan**, with **Suwon (수원)**, **Cheonan (천안)** and **Daejeon (대전)** as the flex-city shortlist. Trip: **31 October–22 November 2026**.
+
+**Browse the verified list:** [GitHub Pages guide](https://karagemop466-tech.github.io/Koreafood/) · [repository](https://github.com/karagemop466-tech/Koreafood)
 
 ---
 
@@ -10,32 +12,33 @@ A highly practical, meticulously verified two-person food plan for **Seoul + Bus
 
 Every restaurant named below survived the August 2026 verification pass: address and opening hours traceable to an official source (VisitKorea, Visit Seoul, Visit Busan, MICHELIN, or the restaurant's own site). **Anything that could not be verified has been removed from this repo entirely** — see each city guide's "Removed from this guide, and why" table.
 
-| Category | Seoul | Busan | Cheonan | Daejeon |
-|---|---|---|---|---|
-| **Noodles** | **Myeongdong Kyoja** (kalguksu, MICHELIN Selected) <br> **Chanyang-jip** (clam kalguksu) | **Halmae Gaya Milmyeon** (Nampo) <br> **Seo-myeon Gaegeum Milmyeon** <br> **Gijang Sonkalguksu** | — | **Sutgol Won Naengmyeon** (4 generations) <br> **OC Kalguksu** (오씨칼국수) |
-| **Korean-Chinese** | **Sinseonggak** (Gongdeok, lunch only) <br> **Ohsaegyehyang** (vegan jajangmyeon) | **Hwaguk Banjeom** (ganjjajang) <br> **Shinbalwon** (Chinatown mandu) | **Dongsunwon** (since 1960 — jjamppong, not jajangmyeon) | — |
-| **Grilled meat** | **Geumdwaeji Sikdang** (**Bib Gourmand 2026**) <br> **Budnamujip** (beef, Seocho, since 1977) | **Haeundae Amso Galbijip** (Hanu, since 1964) <br> **Busan Jokbal** (naengchae jokbal) | — | — |
-| **Classic & specialty** | **Imun Seolnongtang** (Seoul's first registered restaurant, 1907) <br> **Hadongkwan** (gomtang, 1939) <br> **Buchon Yukhoe** (yukhoe; **Bib Gourmand 2025**, not in the 2026 selection) <br> **Jin Ok-hwa** (dakhanmari, 1978) | **Songjeong Samdae Gukbap** (24h) <br> **Dongnae Halmae Pajeon** <br> **Jagalchi** & **Bujeon** markets | **Cheonghwa-jip** (origin house of Byeongcheon sundae) <br> **Chungnam-jip** · **Aunae Jangteo Sundae** | **Sariwon Myeonok** (Pyeongyang naengmyeon) <br> **Taepyeong Sogukbap** (24h) |
-| **Dessert & cafe** | **Goryeo Samgyetang** is the only other Seoul keep — no verified dessert stop | **Brown Hands Baekje** (cafe in a heritage hospital) <br> **Samjin Eomuk** (fish cake, since 1953) | — | **Sungsimdang** (since 1956; twigim soboro) |
+| Category | Seoul | Busan | Suwon | Cheonan | Daejeon |
+|---|---|---|---|---|---|
+| **Noodles** | **Myeongdong Kyoja** (Selected) <br> **Hwangsaengga Kalguksu** (**Bib 2026**) <br> **Chanyang-jip** | **Halmae Gaya** · **Dongnae Milmyeon** <br> **Samseong** · **Daeyeon** · **Gaya Halmae** | — | — | **Sutgol Won Naengmyeon** <br> **OC Kalguksu** |
+| **Korean-Chinese** | **Sinseonggak** · **Ohsaegyehyang** | **Hwaguk Banjeom** | — | **Dongsunwon** (jjamppong, 1960) | — |
+| **Grilled meat** | **Geumdwaeji Sikdang** (**Bib 2026**) <br> **Budnamujip** | **Haeundae Amso Galbijip** · **Busan Jokbal** | **Bonsuwon** · **Yeonpo** · **Kabojung** | — | — |
+| **Classic & specialty** | **Imun** · **Hadongkwan** · **Buchon Yukhoe** · **Jin Ok-hwa** · **Myeongdongjeong** · **Eomeonijip** · **Yeongyang Center** · **Chungmu Gimbap** | **Songjeong Samdae Gukbap** · **Dongnae Halmae Pajeon** · markets | **Suwon Chicken Street** (area) | **Cheonghwa-jip** · **Chungnam-jip** · **Aunae Jangteo** | **Sariwon Myeonok** · **Taepyeong Sogukbap** |
+| **Dessert & cafe** | — | **Brown Hands Baekje** · **Samjin Eomuk** | — | — | **Sungsimdang** |
 
 ---
 
 ## 🛠️ How to use this guide
 
-* **35 verified restaurants**, not 535. Seoul 11 · Busan 14 · Daejeon 5 · Cheonan 5. Earlier versions of this repo advertised hundreds of "verified" spots; most of those entries were placeholders that did not correspond to real businesses, and they have been deleted.
-* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 35 restaurants, the sourcing rules, and the leads worth chasing.
-* **12 neighborhood walks:** **[cities/walking-food-routes.md](cities/walking-food-routes.md)** sequences the verified entries into routes where the opening hours actually line up.
+* **126 verified restaurants.** Seoul 66 · Busan 33 · Suwon 7 · Daejeon 15 · Cheonan 5.
+* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 126 restaurants, the sourcing rules, and the leads worth chasing.
+* **Neighborhood walks:** **[cities/walking-food-routes.md](cities/walking-food-routes.md)** sequences verified entries into routes where the opening hours actually line up.
 * **Navigation & booking:** **[booking-and-tech-guide.md](booking-and-tech-guide.md)** — set up Naver Map and CatchTable Global before you depart.
-* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 35 rows, each with an official source URL. The generic Naver *search* links that used to fill this column were not evidence of anything and have been replaced.
+* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 126 rows, each with an official source URL.
 
 ---
 
 ## 🌆 City guides
 
-* **[Seoul Guide](cities/seoul.md)** — neighborhoods: Myeongdong, Jongno/Insadong, Gwangjang Market, Mapo/Gongdeok, Yaksu/Sindang, Seocho
-* **[Busan Guide](cities/busan.md)** — neighborhoods: Nampo/Jung-gu, Busan Station/Chinatown, Seomyeon, Dongnae, Haeundae, Yeongdo
-* **[Cheonan Guide](cities/cheonan.md)** — Byeongcheon-myeon (Aunae sundae street) and Seonghwan
-* **[Daejeon Guide](cities/daejeon.md)** — neighborhoods: Jung-gu/Old Downtown, Yuseong, Dong-gu
+* **[Seoul Guide](cities/seoul.md)** — Myeongdong, Jongno/Insadong/Bukchon, Gwangjang Market, Mapo/Gongdeok, Yaksu/Sindang, Seocho
+* **[Busan Guide](cities/busan.md)** — Nampo, Seomyeon, Dongnae, Nam-gu, Yeonje, Haeundae, Yeongdo
+* **[Suwon Guide](cities/suwon.md)** — Paldal-gu galbi and Chicken Street (Hwaseong)
+* **[Cheonan Guide](cities/cheonan.md)** — Byeongcheon (Aunae) sundae street and Seonghwan
+* **[Daejeon Guide](cities/daejeon.md)** — Jung-gu, Yuseong, Dong-gu
 
 ---
 

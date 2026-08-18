@@ -2,7 +2,7 @@
 
 **Read this first.** The earlier version of this file advertised "535 verified spots," "40 Core Neighborhood Base Routes" and "over 1,000+ unique daily food walks." **None of those numbers were real.** The routes were padded with placeholder names that did not correspond to any restaurant (`Seoul Local Cafe 5`, `Busan Harbour Ramen 2`, `Cheonan Hub Jajangmyeon 2`, and so on), with prices that had no source, and with a permutation count that multiplied fabricated options together. Routes S11–S20 and B6–B15 were referenced but never written.
 
-This file has been rebuilt from the ground up. It now contains **only restaurants that survived verification** against an official source — VisitKorea, Visit Seoul, Visit Busan, MICHELIN, or the restaurant's own site. The full verified set across all four cities is **35 entries**: 11 in Seoul, 14 in Busan, 5 in Daejeon, 5 in Cheonan. That is the honest number, and it is what these routes are built from.
+This file has been rebuilt from the ground up. It now contains **only restaurants that survived verification** against an official source — VisitKorea, Visit Seoul, Visit Busan, MICHELIN, or the restaurant's own site. The full verified set is **126 entries**: 66 in Seoul, 33 in Busan, 7 in Suwon, 15 in Daejeon, 5 in Cheonan.
 
 **No prices appear anywhere in this repo.** Where the old file quoted a figure like "₩8,000," it was invented. To add sourced prices later, see [prices-review.md](../prices-review.md).
 
@@ -26,13 +26,26 @@ Each route is a real geographic loop in one neighbourhood, sequenced so the **ho
 - **Early lunch — Hadongkwan** (하동관 본점), 12 Myeongdong 9-gil. Gomtang since 1939. **Mon–Sat 07:00–16:00, closed Sun.** Go before 11:30 or risk the sold-out sign.
 - **Walk** — Myeongdong shopping streets, ten minutes on foot in any direction. Myeongdong Cathedral at the eastern end.
 - **Late lunch or early dinner — Myeongdong Kyoja** (명동교자 본점). Kalguksu and mandu. **Daily 10:30–21:00.**
+- **Snack — Myeongdong Chungmu Gimbap** (명동충무김밥), 16 Myeongdong 10-gil. **Weekdays 09:30–22:00 / weekends 09:00–22:00. Closed Seollal & Chuseok.**
+- **Or — Yeongyang Center** (영양센터), 52 Myeongdong 2-gil. Rotisserie chicken. **Daily 10:30–22:30, closed Seollal & Chuseok.**
+- **Or — Myeongdong Eomeonijip** (명동어머니집), 11-6 Myeongdong 8-gil. Haemultang. **Daily 10:00–24:00.**
+- **Or — Myeongdongjeong** (명동정), 1F 299 Samil-daero. Hanjeongsik. **11:30–21:30, break 15:00–17:00, closed Seollal & Chuseok.**
+- **Or — Yennal Myeongdong Budaejjigae** (옛날명동부대찌개), 25-7 Myeongdong-gil. **Daily 10:00–22:00, closed Seollal & Chuseok.**
+- **Or — Myeongdong Hamheung Myeonok** (명동함흥면옥), 35-19 Myeongdong 10-gil. Hoe naengmyeon. **11:00–20:00, closed Sundays, Seollal & Chuseok.**
+- **Or — Hamcho Ganjang Gejang** (함초간장게장), 27 Myeongdong 8ga-gil. **Daily 11:30–22:00, last order 21:30.**
+- **Or — Jungsungbon Shabu** (정성본샤브수끼칼국수), 23-3 Myeongdong 4-gil. **10:30–22:00.**
+- **Or — Gobong Samgyetang** (고봉삼계탕), 2F 21 Myeongdong 7-gil. **09:00–22:00 year-round.**
+- **Or — Minsokchon** (민속촌), 33 Myeongdong 9-gil. **24 hours.**
+- **Breakfast — Seowon** (서원), B1 141 Toegye-ro. Porridge. **Mon–Sat 07:00–17:00 / Sun 07:00–14:00; closed every other Wednesday.**
+- **Or — Yukdaejang Myeongdong** (육대장 명동). **09:00–23:30 (LO 22:00).** This branch only.
+- **Or — Myeongdong Hanubang** (명동한우방). **10:30–23:30 (LO 22:00), closed Sundays.**
 
-**Sequencing note:** these two are close enough to do in one day, but they are both noodle-and-broth restaurants. If you only want one, Hadongkwan is the harder reservation to replicate elsewhere.
+**Sequencing note:** Hadongkwan and Kyoja are both noodle-and-broth. If you only want one soup house, Hadongkwan is the harder meal to replicate elsewhere.
 
 ### Route S2 — Jongno & Gwangjang Market
 *The densest verified cluster in the city.*
 
-- **Lunch — Buchon Yukhoe** (부촌육회), Gwangjang Market raw-beef alley. **Bib Gourmand 2025 — not in the 2026 selection.** Yukhoe and sliced raw beef. **Mon–Sat 09:00–22:00 (LO 20:30) / Sun 09:00–22:00 (LO 19:30).**
+- **Lunch — Buchon Yukhoe** (부촌육회), Gwangjang Market raw-beef alley. VisitKorea: 2020 MICHELIN listing; **not** in the 2026 Seoul Bib list. Yukhoe and sliced raw beef. **Mon–Sat 09:00–22:00 (LO 20:30) / Sun 09:00–22:00 (LO 19:30).**
 - **Walk** — Gwangjang Market itself, then west along Jong-ro toward Jongno 3-ga.
 - **Dinner — Imun Seolnongtang** (이문설농탕), Jongno-gu. The first restaurant officially registered in Seoul, 1907. **Mon–Sat 08:00–21:00, Sun to 20:00, break 15:00–16:30.**
 - **Alternative dinner — Chanyang-jip** (찬양집), Jongno 3-ga. Clam kalguksu. **10:00–21:00, closed Sun and public holidays.**
@@ -43,7 +56,14 @@ Each route is a real geographic loop in one neighbourhood, sequenced so the **ho
 - **Lunch or dinner — Ohsaegyehyang** (오세계향), 14-5 Insadong 12-gil. Vegan Korean-Chinese, including vegan jajangmyeon. **11:30–16:00 / 17:00–21:00, closed Thursdays.**
 - **Walk** — Insadong-gil and Ssamziegil, then north into Bukchon Hanok Village.
 
-**⚠️ Thursday closure.** This is the single easiest mistake to make in Insadong.
+- **Or lunch — Hwangsaengga Kalguksu** (황생가칼국수), 78 Bukchon-ro 5-gil. **Bib Gourmand 2026.** **Daily 11:00–21:30.** Walk north from Insadong into Bukchon.
+- **Or — Sadong Myeonok** (사동면옥), 9 Insadong 8-gil. Fist-sized boiled mandu. **Daily 10:00–21:00, closed Seollal & Chuseok.**
+- **Or — Insadong Sujebi** (인사동수제비), 14-1 Insadong 8-gil. **Weekdays 11:30–14:50 / 17:00–20:40** (weekends slightly longer lunch). Closed public holidays.
+- **Tea — Gyeongin Misulgwan Jeontong Dawon**, 11-4 Insadong 10-gil. **Daily 11:00–21:20.**
+- **Or — Hanaro Hwaegwan** (하나로회관), 25 Insadong 5-gil. **10:00–15:00 / 17:00–21:00, closed Sundays.**
+- **Or — Sanchon** (산촌), 30-13 Insadong-gil. Temple food. **11:30–21:00, closed Seollal & Chuseok.**
+
+**⚠️ Thursday closure at Ohsaegyehyang.** This is the single easiest mistake to make in Insadong.
 
 ### Route S4 — Yaksu / Sindang
 *One stop, and it is worth building a day around.*
@@ -52,7 +72,7 @@ Each route is a real geographic loop in one neighbourhood, sequenced so the **ho
 - **Expect a long wait.** Numbers are taken in person, not online. Put your name down, then walk Sindang-dong or the Seoul Central Market and come back.
 
 ### Route S5 — Dongdaemun Chicken Alley
-- **Dinner — Jin Ok-hwa Halmae Wonjo Dakhanmari** (진옥화할매원조닭한마리), founded 1978. Whole poached chicken, then kalguksu in the broth. **Daily 10:30–01:00, last order 23:30.**
+- **Dinner — Jin Ok-hwa Halmae Wonjo Dakhanmari** (진옥화할매원조닭한마리), 18 Jong-ro 40ga-gil, Jongno-gu. Founded 1978. Whole chicken soup. **Daily 10:30–01:00, last order 23:30.**
 - The latest-running verified option in Seoul — the fallback for a night when everything else has closed.
 
 ### Verified Seoul entries not on a route
@@ -60,6 +80,9 @@ Each route is a real geographic loop in one neighbourhood, sequenced so the **ho
 **Sinseonggak** (신성각, Gongdeok, Mapo-gu) — jajangmyeon, **11:35–15:00 until sold out, closed Sun and holidays**. A narrow lunch window on the wrong side of the river from everything else here; treat it as a destination, not a stop.
 **Budnamujip** (버드나무집, 434 Hyoryeong-ro, Seocho-gu) — beef barbecue since 1977, MICHELIN Selected ₩₩, **daily 11:00–21:30**. Seocho is out on its own.
 **Goryeo Samgyetang** (고려삼계탕 본점, City Hall) — **daily 10:30–21:00**. Michelin Guide Seoul 2023, not in the current selection.
+**Chung Ki Wa Town** (청기와타운 본점, Yeongdeungpo) — **11:30–22:00, last order 21:00.** Not walkable from Myeongdong.
+**Nampo Myeonok / Yonggeumok / Janganmun / Jeonju Hoegwan / Hyundai Kalguksu / Geumseonggwan** — City Hall / Euljiro / Bukchang cluster; hours on the Seoul guide. **Halmeoni Kalguksu**, **Nakji Wangguk**, and **Jeongwon Sutbulgalbi** sit near Chanyang-jip (all closed Sun). **Dongdaemun Bonga Gamasot Seolleongtang** is on Jong-ro by the fashion market (**last order 22:00**).
+**Pildong Myeonok** (필동면옥, 26 Seoae-ro, Jung-gu) — **Bib Gourmand 2026** naengmyeon. **11:00–15:00 / 17:00–20:20, closed Sundays.**
 
 ---
 
@@ -73,12 +96,13 @@ Each route is a real geographic loop in one neighbourhood, sequenced so the **ho
 - **Afternoon — Jagalchi Market** (자갈치시장), 52 Jagalchihaean-ro. Korea's largest seafood market: buy downstairs, eat upstairs. **05:00–22:00, closed the 1st and 3rd Tuesday of each month.**
 - **Dinner — Busan Jokbal** (부산족발), 13 Gwangbok-ro, Jokbal Alley. Naengchae jokbal — cold trotter with jellyfish and mustard. **Daily 10:30–01:00.**
 - **Or dinner — Hwaguk Banjeom** (화국반점), 3 Baeksan-gil. Ganjjajang and tangsuyuk; 43 years; filming location for *New World*. **11:30–15:30 / 17:00–21:30, closed 1st & 3rd Monday.**
+- **Or — Nampo Samgyetang** (남포삼계탕), 16 Nampo-gil. **Mon–Fri break 15:30–16:30; last order 20:20; closed traditional holidays.**
 
-### Route B2 — Busan Station & Chinatown
+### Route B2 — Busan Station
 *Straight off the KTX.*
 
-- **Lunch — Shinbalwon** (신발원), 62 Daeyeong-ro 243beon-gil, Dong-gu. Chinatown mandu and Chinese breads. **11:00–21:00, closed Tuesdays.** ⚠️ This guide previously called it "Michelin-recognized 1951" — **both halves of that were false.**
-- **Coffee — Brown Hands Baekje** (브라운핸즈 백제), 16 Jungang-daero 209beon-gil. A cafe inside Busan's first modern Western-style hospital, a registered cultural property. **Daily 10:00–22:00.**
+- **Coffee — Brown Hands Baekje** (브라운핸즈 백제), 16 Jungang-daero 209beon-gil. A cafe inside Busan's first modern Western-style hospital, a registered cultural property. **Daily 10:00–22:00.** Shinbalwon (Chinatown mandu) was **removed** from the verified list because two official Visit Busan pages disagree on closing time (20:00 vs 21:00).
+- **Or bakery — Choryang Ondang** (초량온당), 1F 135 Choryangjung-ro. **12:00–19:00, closed Sun & Mon.**
 
 ### Route B3 — Seomyeon
 *Busan's transit centre; four verified entries within a few blocks.*
@@ -92,13 +116,28 @@ Each route is a real geographic loop in one neighbourhood, sequenced so the **ho
 *Not walkable end to end — take the subway between them.*
 
 - **Lunch — Dongnae Halmae Pajeon** (동래할매파전), 43-10 Myeongryun-ro 94beon-gil, Dongnae-gu. Four generations of Dongnae-style seafood-and-spring-onion pancake. **11:30–15:00 / 17:00–21:30, closed Mondays.**
+- **Or — Dongnae Milmyeon** (동래밀면), 47 Myeongnyun-ro. **Daily 10:00–24:00.** Same neighbourhood.
 - **Dinner — Haeundae Amso Galbijip** (해운대암소갈비집), 32-10 Jungdong 2-ro 10beon-gil. Opened 1964; Hanu saenggalbi on the house's iron pan, gamja guksu to finish. **11:30–22:00, weekend break 15:15–16:30.** ⚠️ Earlier drafts called this "Haeundae Somunnan Amso Galbi-jip" — wrong name.
 
 ### Verified Busan entry not on a route
 **Samjin Eomuk Main Store** (삼진어묵 본점), 36 Taejong-ro 99beon-gil, Yeongdo-gu. Same family since 1953; fish-cake workshop on the 2nd floor. **Daily 09:00–19:00.** Yeongdo needs its own half-day.
 
 ### ⚠️ Michelin, in Busan
-**Not one of the 14 verified Busan entries above holds a Bib Gourmand.** The 2026 Busan Bib list runs to 20 restaurants and none of them are here — the full list is in `busan.md`. The old version of this file called Shinbalwon "Michelin-recognized" and Nagahama Mangetsu a route stop; Nagahama Mangetsu genuinely *is* a Bib Gourmand but was dropped from this guide because no official source publishes its hours.
+**Not one of the 13 verified Busan entries above holds a Bib Gourmand.** The 2026 Busan Bib list runs to 20 restaurants and none of them are here — the full list is in `busan.md`. Nagahama Mangetsu genuinely *is* a Bib Gourmand but was dropped because no official source publishes its hours.
+
+---
+
+# 🏰 SUWON — 1 verified route
+
+### Route W1 — Hwaseong / Paldal
+*Day trip from Seoul (Line 1 or KTX to Suwon).*
+
+- **Lunch — Yeonpo Galbi** (연포갈비), 56-1 Jeongjo-ro 906beon-gil, near the fortress. **11:30–21:30, break 15:00–17:00, closed Seollal & Chuseok.** Weekday lunch galbitang sells out.
+- **Walk** — Hwaseong Fortress walls / Paldalmun. **Suwon Yeongdong Market** (수원 영동시장), 6 Suwoncheon-ro 255beon-gil: **10:00–20:00, closed the 1st and 15th of the month** (market window; stalls vary).
+- **Snack — Suwon Chicken Street** (수원통닭거리), 16 Jeongjo-ro 800beon-gil. Official street listing is 24 hours; **confirm the shop**. VisitKorea names Maehyang, Yongseong, Jinmi — no official hours per shop.
+- **Dinner — Bonsuwon Galbi** (본수원갈비) in Uman-dong or **Kabojung** (가보정) in Ingye-dong — both need a short ride from the fortress. Hours on the Suwon guide.
+
+**No Michelin in Suwon.**
 
 ---
 
@@ -107,6 +146,9 @@ Each route is a real geographic loop in one neighbourhood, sequenced so the **ho
 ### Route D1 — Old Downtown (Jung-gu)
 - **Lunch — Sariwon Myeonok Main Store** (사리원면옥 본점), 62 Junggyo-ro. Pyeongyang naengmyeon, galbitang, Hanwoo bulgogi. **11:00–21:30.** ⚠️ The old routes file filed this under jajangmyeon and called it "1951 legendary sweet bulgogi" — wrong category, unsourced year.
 - **Bakery — Sungsimdang Main Store** (성심당 본점), 15 Daejong-ro 480beon-gil. Founded 1956 selling jjinbbang near Daejeon Station; ~400 varieties now. Queue for **twigim soboro** and pantalong leek bread. **Daily 08:00–22:00, year-round.**
+- **Or — Hanbat Sikdang** (한밭식당), 1F 3 Taejeon-ro. Opened 1955. **Mon–Sat 10:00–20:30 / Sun 10:00–20:00.**
+- **Or — Sonamujip** (소나무집), 59 Daejong-ro 460beon-gil. Ojingeo jjigae / kalguksu. **11:30–21:00, break 15:30–17:30, closed 1st & 3rd Monday.**
+- **Or Jungang Market — Gaecheon Sikdang** (개천식당) manduguk **11:00–20:30 year-round**; **Baekcheonjip** (백천집식당) sundae gukbap **09:00–19:00, closed 2nd Sunday.**
 - **Dinner — OC Kalguksu / Ossi Kalguksu** (오씨칼국수), 1F, 13 Yetsintanjin-ro, **Dong-gu** — a short ride east, not a walk. **11:00–21:00, closed Mondays.**
 
 ### Route D2 — Yuseong
@@ -127,10 +169,10 @@ Each route is a real geographic loop in one neighbourhood, sequenced so the **ho
 
 Byeongcheon sundae uses **small intestine** rather than large, so it is far less funky than sundae elsewhere, and is stuffed with vegetables and seonji instead of glass noodles. About **20 specialists** sit within a few hundred metres.
 
-- **Lunch — Cheonghwa-jip** (청화집), 1749 Chungjeol-ro. The origin house, and a *Baeknyeon Gage* 100-year shop. Opened in the early 1950s at Aunae Market with no signboard; the name was assigned by a county official for the tax registration. Now fourth-generation. **Weekdays 09:00–17:00 / weekends 08:30–17:00, closed Mondays.**
+- **Lunch — Cheonghwa-jip** (청화집), 1749 Chungjeol-ro. VisitKorea: opened early 1950s at Aunae Market; name assigned for tax registration; fourth-generation. **Weekdays 09:00–17:00 / weekends 08:30–17:00, closed Mondays.**
 - **Or — Chungnam-jip Sundae** (충남집순대), 1748 Chungjeol-ro — literally across the road, and the *other* house VisitKorea credits as an originator. **08:00–19:00, open year-round.** This is your Monday answer.
 - **Or — Aunae Jangteo Sundae** (아우내 장터순대), 40 Aunae-sundae-gil. Opened 1994, the TV-famous one, big car park, closest to Mokcheon IC. **09:00–20:00, year-round.**
-- **Walk** — the **Yu Gwan-sun Memorial** and the Aunae March 1st Independence Movement park, about 1 km away. This street is where she handed out flags in 1919. Do this part; it is the point of Byeongcheon.
+- **Walk** — the street itself (about 20 shops; hours vary). Non-food memorials nearby are not verified in this food guide.
 
 ⚠️ **Mondays:** Cheonghwa-jip is shut. Chungnam-jip and Aunae Jangteo are not.
 
@@ -145,10 +187,11 @@ Byeongcheon sundae uses **small intestine** rather than large, so it is far less
 
 | City | Verified entries | Routes built |
 | :--- | ---: | ---: |
-| Seoul | 11 | 5 |
-| Busan | 14 | 4 |
-| Daejeon | 5 | 2 |
+| Seoul | 66 | 5 |
+| Busan | 33 | 4 |
+| Suwon | 7 | 1 |
+| Daejeon | 15 | 2 |
 | Cheonan | 5 | 1 |
-| **Total** | **35** | **12** |
+| **Total** | **126** | **13** |
 
-There is no permutation matrix, because a permutation matrix built on 35 restaurants across four cities would be arithmetic dressed up as research. Twelve routes, thirty-five restaurants, every one of them real, every hour traceable to an official source. **Check hours the morning you go** — official portals lag, and Korean restaurants close on holidays this file cannot predict.
+**Check hours the morning you go** — official portals lag, and Korean restaurants close on holidays this file cannot predict.
