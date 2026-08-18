@@ -1,4 +1,14 @@
-# Research pass — 4 August 2026
+# Research log — August 2026
+
+> ## ⚠️ Read the final entry first
+>
+> The three passes dated **4 August 2026** below are retained as a record of how this project went wrong. **Do not use them as a source.** They repeatedly use the word "Verified" for facts that had not been checked against any official page, and a later audit found many of them to be false — wrong hours, invented break times, invented prices, invented founding years, and restaurants promoted on the strength of blog posts.
+>
+> The **18 August 2026 verification pass** at the bottom of this file supersedes everything above it. Where the two disagree, the later pass is correct and is the one reflected in the city guides.
+
+---
+
+## Research pass — 4 August 2026
 
 This pass confirms the city spelling as **Cheonan (천안)** and adds government-tourism evidence where available.
 
@@ -78,3 +88,49 @@ This pass delivers verified tech-usage guidelines, a shareable Naver bookmarking
 
 1. Map each choice against hotel locations once lodging is booked.
 2. Complete specific walking route drafts linking adjacent bakeries, noodle shops, and markets.
+
+---
+
+# ✅ Verification pass — 18 August 2026 (supersedes all passes above)
+
+**Scope:** every line of the repo — locations, hours, prices — checked against official sources only (VisitKorea, Visit Seoul, Visit Busan, MICHELIN, restaurant-owned sites). Method and portal quirks are documented in [sources-and-notes.md](sources-and-notes.md).
+
+## Outcome
+
+| City | Before | Kept | Dropped |
+| :--- | ---: | ---: | ---: |
+| Seoul | 24 | 11 | 13 |
+| Busan | 17 | 14 | 3 |
+| Daejeon | 7 | 5 | 2 |
+| Cheonan | 1 | 5 | 1 |
+| **Total** | **49** | **35** | **19** |
+
+Plus **485 fabricated placeholder rows deleted** (`Seoul Local …`, `Busan Harbour …`, `Daejeon Town …`, `Cheonan Hub …`). These were the basis of the repo's "535 verified restaurants" claim and corresponded to no real businesses.
+
+**All prices removed repo-wide.** None of the figures in the passes above came from an official source.
+
+## Corrections to the 4 August claims
+
+* **Songjeong Samdae Gukbap** — the "02:30–04:30 maintenance break" does not exist; VisitKorea says open 24 hours, year-round. "Since 1946" is unsourced.
+* **Ossi Kalguksu** — is in **Dong-gu**, not "central Daejeon"; the **15:00–16:30 break does not exist** (11:00–21:00 straight through, closed Mondays). Its "Official Listing" link pointed at a *festival* page.
+* **Cheonghwa-jip** — the hours in the 4 Aug pass happen to be right, but were recorded without a source. Now confirmed officially: weekdays 09:00–17:00, weekends 08:30–17:00, closed Mondays and for Seollal/Chuseok. Founding is **early 1950s** at Aunae Market, not a precise "1950."
+* **Chungnam-jip** — official hours are **08:00–19:00, open year-round**; it is at 1748 Chungjeol-ro, across from Cheonghwa-jip. Now kept.
+* **Park Sun-ja Aunae Sundae** — "08:10–19:00" has no official source. No VisitKorea listing found. Demoted to an unverified lead.
+* **Hwaguk Banjeom** — break is **15:30–17:00** per Visit Busan, and the entry is fine, but the 4 Aug link used a `menuCd` that renders a stub.
+* **Geumdwaeji Sikdang** — Bib Gourmand and hours both confirmed. One of the few 4 Aug entries that held up completely.
+* **Jinro-jip, Gwangcheon Sikdang, Yukjeon Sikdang, Nari's House, Jamae Gukbap, Shin Old Tea House, Fritz Coffee Dohwa, Sungsimdang Cake Boutique, Toujours Dolgama Village** — all "verified" on 4 August, none with an official source publishing hours. All dropped.
+* **"Taste of Daejeon" Top 3 official designation (April 2026)** — no source for this could be located. All "certified Taste #1/#3" labels removed from the Daejeon guide.
+* **Brown Hands Baekje** — kept, but the "built 1922" detail is not in the Visit Busan listing and was removed. The building is a registered cultural property; that much is official.
+* **Michelin badges** — stripped from Chanyang-jip, Shinbalwon, Menten and others. The Guide covers **Seoul and Busan only**, so every Michelin claim made about a Daejeon or Cheonan restaurant in the passes above was false by definition.
+
+## Material discovery: the Korean VisitKorea print view
+
+The Korean portal's detail pages (`ms_detail.do?cotid=…`) do not render their information block in a plain-text fetch — you get map tiles, so a fully documented restaurant looks undocumented. **`korean.visitkorea.or.kr/detail/ms_detail_print.do?cotid=…`** returns the whole 상세정보 block as clean text.
+
+This reversed a decision: **Cheonghwa-jip had been marked for deletion** as unsourceable, and is now the anchor entry of the Cheonan guide. Re-running the trick across Byeongcheon found three more officially documented shops. Cheonan went from 1 entry to 5 — the only city that gained.
+
+## Next pass priorities
+
+1. Re-check every entry in **October 2026**, shortly before departure. Official portals lag.
+2. Map choices against hotel locations once lodging is booked.
+3. `booking-and-tech-guide.md` has **not yet been verified** — app names, CatchTable Global's foreign-number support, and payment guidance are all unchecked.

@@ -6,7 +6,7 @@ Welcome! This guide is for **two travelers from the United States** visiting Kor
 
 1. **Seoul** — main base and biggest variety
 2. **Busan** — coastal city, milmyeon, seafood, and local food
-3. **Cheonan** — flex city with famous Byeongcheon sundae
+3. **Cheonan** — flex city; Byeongcheon (Aunae) sundae street, about 40 minutes east of Cheonan Station
 4. **Daejeon** — flex city with easy KTX access and noodle culture
 
 ## How to find a meal
@@ -15,7 +15,7 @@ Welcome! This guide is for **two travelers from the United States** visiting Kor
 2. Pick the neighborhood you are already visiting.
 3. Choose a meal category: ramen, jajangmyeon, AYCE Korean BBQ, Korean food, or dessert cafe.
 4. Open the restaurant link and save the Korean name.
-5. Before going, check the current hours, break time, last order, price, and closure day.
+5. Before going, check the current hours, break time, last order, and closure day. **Korean closure days are often mid-week or a specific Monday of the month** — this is the most common way to lose a meal.
 6. Keep one backup restaurant nearby.
 
 ## City guides
@@ -23,31 +23,36 @@ Welcome! This guide is for **two travelers from the United States** visiting Kor
 | City | Guide | Best for |
 |---|---|---|
 | Seoul | [Open Seoul guide](cities/seoul.md) | The widest selection and easiest neighborhood-hopping |
-| Busan | [Open Busan guide](cities/busan.md) | Milmyeon, jajangmyeon, seafood, markets, and ocean-view cafes |
-| Cheonan | [Open Cheonan guide](cities/cheonan.md) | Byeongcheon sundae, Toujours bread village, and a quieter local stop |
-| Daejeon | [Open Daejeon guide](cities/daejeon.md) | KTX convenience, kalguksu, dubu-duruchigi, and Sungsimdang cakes |
+| Busan | [Open Busan guide](cities/busan.md) | Milmyeon, dwaeji-gukbap, Korean-Chinese, seafood markets |
+| Cheonan | [Open Cheonan guide](cities/cheonan.md) | Byeongcheon (Aunae) sundae street — the national reference point for sundae-gukbap |
+| Daejeon | [Open Daejeon guide](cities/daejeon.md) | KTX convenience, kalguksu, naengmyeon, and Sungsimdang |
+
+## What made it into this guide
+
+**35 restaurants.** Seoul 11 · Busan 14 · Daejeon 5 · Cheonan 5.
+
+That is a small number on purpose. Every entry's address and opening hours come from an **official source** — the restaurant's own site, a government tourism portal (VisitKorea, Visit Seoul, Visit Busan), or the MICHELIN Guide. If hours could not be confirmed that way, the entry was **removed entirely** rather than kept with a guess. Each city guide ends with a table explaining what was dropped and why.
+
+Earlier versions of this repo listed hundreds of restaurants. Most were not real. If you saved anything from a previous version, re-check it here.
 
 ## What the labels mean
 
-* **Official source** — restaurant website or city/national tourism website.
-* **Naver listing** — live Korean business listing with current map, phone, menu photos, and hours.
-* **Estimate** — useful planning range, not a guaranteed price.
-* **RECHECK** — verify shortly before visiting. This is especially important because 2026 hours and menus can change.
+* **Bib Gourmand 2026** — in the current MICHELIN Guide Seoul & Busan Bib Gourmand selection (announced 26 Feb 2026). Only three entries in this guide qualify. **MICHELIN covers Seoul and Busan only** — there is no Michelin in Daejeon or Cheonan.
+* **Selected** — in the MICHELIN Guide but without a star or Bib.
+* ***None*** — not in the MICHELIN Guide. This is not a criticism; most of the best food in Korea is not in the Guide.
+* **RECHECK** — verify shortly before visiting. Do this for every meal regardless of label.
 
-## Price guide
+## Prices
 
-Very roughly, for two people:
+**This guide does not list prices.** The figures in earlier versions were not sourced from the restaurants and have been removed. Where MICHELIN publishes its own ₩/₩₩ band, that band is shown.
 
-* Budget noodles, gukbap, or dessert cafes: **₩15,000–30,000 total**
-* Ordinary Korean meal: **₩25,000–60,000 total**
-* AYCE BBQ: **₩40,000–70,000 total before drinks**
-* Premium BBQ or seafood: **₩70,000+ total**
+As a rough planning frame for two people: budget noodle and gukbap meals run well under ₩30,000 total, a sit-down Korean meal ₩30,000–60,000, and premium Hanu barbecue or seafood considerably more. Treat that as orientation, not a quote.
 
 ## Travel tools & Bookmarks
 
-* **[Draft Walking Food Routes](cities/walking-food-routes.md)** — beautifully organized neighborhood food walks combining lunch, shopping, cafes, and dinner in Seoul and Busan.
+* **[Walking Food Routes](cities/walking-food-routes.md)** — 12 neighborhood walks across all four cities, sequenced so the opening hours line up.
 * **[Tech & Booking Guide](booking-and-tech-guide.md)** — essential mobile apps, on-site queue instructions, and payment/cash strategy in Korea.
-* **[Naver Map Bookmarks CSV](restaurants-bookmarks.csv)** — a clean, structured table of all 535 verified restaurants with English/Korean names, addresses, and Naver Search links for instant pre-trip planning.
+* **[Bookmarks CSV](restaurants-bookmarks.csv)** — all **35 verified restaurants** with English/Korean names, neighborhood, Michelin status, and an official source URL for each. Import or copy the Korean names straight into Naver Map.
 
 ## Research status
 

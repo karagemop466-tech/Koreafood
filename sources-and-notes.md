@@ -1,60 +1,93 @@
-# Sources, Verification, and Price Notes
+# Sources, Verification, and Method
 
-## Primary links used
+## The standard
 
-* [Visit Seoul — official city tourism](https://english.visitseoul.net/)
-* [Visit Busan — official city tourism](https://www.visitbusan.net/index.do?lang_cd=en)
-* [Visit Busan: Hwaguk Banjeom](https://www.visitbusan.net/index.do?menuCd=DOM_000000302003001000&uc_seq=2098&lang_cd=en) — the clearest verified restaurant page in this first pass: address context, ganjajang recommendation, daily hours, break, and twice-monthly closure.
-* [Visit Busan: Bujeon food itinerary](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302011001000&uc_seq=2111) — reports ₩3,000–5,000 for the market noodle/jajang dishes at time of publication.
-* [Visit Korea](https://english.visitkorea.or.kr/) — national tourism portal.
-* [Naver Map](https://map.naver.com/) — preferred live business listing in Korea; search links intentionally open the Korean name so a traveler can see the current branch, phone, hours, menu photos, and notices.
+A fact stays in this repo if — and only if — it comes from one of:
 
----
+* the **restaurant's own website**;
+* a **government tourism portal** — [VisitKorea](https://english.visitkorea.or.kr/) (national, KTO) and its Korean-language sibling [대한민국 구석구석](https://korean.visitkorea.or.kr/), [Visit Seoul](https://english.visitseoul.net/), [Visit Busan](https://www.visitbusan.net/index.do?lang_cd=en);
+* the **[MICHELIN Guide](https://guide.michelin.com/)**.
 
-## 🔍 August 2026 Master Verification Audit (Official Sites & Menus)
+Review sites and aggregators — Naver, Kakao, DiningCode, Tripadvisor, Wikivoyage, restaurant-guru, blog roundups — were used only to **find** candidates. They were never used to establish an address, an hour, or a price.
 
-To guarantee 100% accuracy for our 20-day trip, we have audited the master list of 200 restaurants against official city-tourism portals (Visit Seoul, Visit Busan, Visit Korea), dedicated brand websites, and live Naver Map business profiles.
-
-### 🏛️ Seoul - Top-Tier Verification Aligned with Menus & Websites
-* **Myeongdong Kyoja (명동교자)**: Cross-referenced with their [Official Website](http://www.mdkj.co.kr/). Verified core menu prices: *Kalguksu* (₩11,000) and *Mandu* (₩12,000). Confirmed that their main and branch outlets on Myeongdong 10-gil are open daily 10:30–21:00 with no holiday breaks.
-* **Hadongkwan Main Store (하동관)**: Verified with [Visit Korea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192949). Core menu verified: ordinary *Gomtang* is ₩15,000, Special (with brisket/tripe) is ₩18,000. Confirmed early closing hours (07:00–16:00, or until broth sells out) and Sunday closures.
-* **Woo Lae Oak (우래옥)**: Verified with [Visit Korea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=99856). Checked premium menu: Pyeongyang-style *Mul-naengmyeon* is ₩16,000, Hanwoo *Bulgogi* is ₩37,000 (150g). Confirmed closed on Mondays.
-* **Chanyang-jip (찬양집)**: Verified with [Visit Korea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=100177). Core seafood *Kalguksu* is ₩9,000. Verified closed on Sundays.
-* **Goryeo Samgyetang (고려삼계탕)**: Verified with [Visit Korea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=99774). Checked the official menu on their [Official Website](http://www.krsamgyetang.com/): signature *Samgyetang* is ₩20,000. Open daily 10:30–21:00.
-* **Jin Ok-hwa Halmae Dakhanmari**: Verified with [Visit Korea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86514) and [Official Website](http://www.darkhanmari.co.kr/). Whole chicken *Dakhanmari* is ₩28,000. Open daily 10:30–01:00.
-* **Maboklim Halmoni Tteokbokki**: Cross-referenced with Naver Map live menu photos. Verified pricing: 2-person pot set is ₩17,000. Confirmed closed on 2nd and 4th Mondays.
-
-### 🌊 Busan - Coastal Heritage & Market Verification
-* **Songjeong Samdae Gukbap (송정3대국밥)**: Verified with [Visit Korea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=216936). Checked pricing on Naver: *Dwaeji Gukbap* is ₩9,000, *Suyuk Baekban* set is ₩11,000. Confirmed open 24 hours daily with a small 02:30–04:30 AM maintenance window.
-* **Haeundae Somunnan Amso Galbi-jip**: Checked menu on their [Official Website](https://www.haeundaegalbi.com/) and [Official Instagram](https://www.instagram.com/haeundaegalbi1964). Checked premium pricing: marinated ribs are ₩45,000–50,000, unmarinated *Saenggalbi* is ₩52,000. Confirmed potato noodles (*Gamja-sari*) are ₩2,000. Verified daily hours 11:30–22:00.
-* **Dongnae Halmae Pajeon (동래할매파전)**: Checked with [Visit Busan](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1520). Verified pricing: *Dongnae Pajeon* starts at ₩28,000. Confirmed closed on Mondays and Tuesdays.
-* **Halmae Gaya Milmyeon (할매가야밀면)**: Verified with [Visit Korea](http://www.koreatriptips.com/en/dining/1755406.html). Checked pricing: cold *Milmyeon* is ₩7,000 (small) / ₩8,000 (large), hand-made *Wangmandu* is ₩4,000. Open daily 10:30–21:30.
-* **Samjin Amook Yeongdo Store (삼진어묵)**: Checked with [Official Website](https://www.samjinfood.com/) and [Review Guide](https://restaurantguru.com/%EC%82%BC%EC%A7%84%EC%96%B4%EB%AC%B5-Busan-5). Fresh fishcakes are priced by item between ₩1,000 and ₩3,000. Open daily 09:00–19:00.
-
-### 🌰 Cheonan & Daejeon - Landmark Bakeries & Local Overhauls
-* **Sungsimdang Main Store & Cake Boutique (성심당)**: Verified on their [Official Website](https://www.sungsimdang.co.kr/). Checked signature pricing: *tuigim-soboro* is ₩1,700, *fantalong garlic-chive bun* is ₩2,000. Main branch is open daily 08:00–22:00.
-* **Sutgol Won Naengmyeon (숯골원냉면)**: Cross-referenced with local heritage registries. Pyongyang-style *Mul-naengmyeon* is ₩10,000, *Pyongyang Mandu* is ₩7,000. Open daily 11:00–20:00 (Weekday break 15:30–16:30).
-* **Sariwon Myeonok Main Store (사리원면옥)**: Checked with [Visit Korea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192337) and [Official Website](https://sariwon1951.modoo.at/). Pyeongyang *Mul-laengmyeon* is ₩10,000. Open daily 11:00–21:30.
-* **Boksu Bunsik (복수분식)**: Checked on Naver live business profiles. Signature *Eolkeun Kalguksu* is ₩8,000, *Dubu-duruchigi* (for two) is ₩16,000. Open Tue–Sun 10:30–20:00, closed Mondays.
-* **Toujours Dolgama Village (뚜쥬루)**: Verified on local Cheonan tourism databases. Signature *Turtle Bread* is ₩3,000. Open daily 08:00–22:00.
+**If hours could not be confirmed from an official source, the whole entry was dropped.** Not blanked, not marked RECHECK — removed. That rule cost this guide several famous restaurants, including a genuine 2026 Bib Gourmand (Nagahama Mangetsu, Busan). Each city guide ends with a table naming what was cut and why.
 
 ---
 
-## What “verified” means here
+## ⚠️ August 2026: what the audit actually found
 
-This repository deliberately separates facts from estimates. A government tourism page or restaurant-owned site is preferred for hours and recommendations. Naver/Kakao Map is the practical live check for small independent businesses. Review sites are discovery-only and are not used as the sole basis for a fixed hour or price.
+An earlier version of this file contained a section titled *"August 2026 Master Verification Audit,"* which claimed to have audited "the master list of 200 restaurants" and listed exact menu prices for two dozen of them. **That section has been deleted, because it was not true.** No such audit took place. The prices in it — "Gomtang ₩15,000, Special ₩18,000," "Turtle Bread ₩3,000," "Dwaeji Gukbap ₩9,000" — do not appear on any official page for those restaurants. Several of its "verified" claims were contradicted by the actual official sources when they were finally checked:
 
-The 2026 trip is in the future, and many Korean businesses change menus, break times, and weekly closures without notice. The guide therefore does **not** invent certainty: `RECHECK` is a required action, not a missing research field.
+| Claim in the old audit | What the official source says |
+| :--- | :--- |
+| Dongnae Halmae Pajeon "closed Mondays **and Tuesdays**" | Visit Busan: closed **Mondays** only; 11:30–15:00 / 17:00–21:30 |
+| Songjeong Samdae Gukbap "24 hours with a 02:30–04:30 maintenance window" | VisitKorea: open 24 hours, year-round. **No maintenance window exists.** |
+| Haeundae Amso Galbijip "daily 11:30–22:00" | VisitKorea: 11:30–22:00 **with a weekend break 15:15–16:30** |
+| Halmae Gaya Milmyeon "Verified with Visit Korea" | The link given was `koreatriptips.com`, a private site, not VisitKorea |
+| Samjin Eomuk "Checked with Official Website and **Review Guide**" | restaurant-guru is a review aggregator and is not an acceptable source |
+| Boksu Bunsik "Checked on Naver live business profiles" | Naver is not an official source. **No official page for this restaurant exists at all** — it was dropped. |
+| Toujours Dolgama Village "Verified on local Cheonan tourism databases; open daily 08:00–22:00" | Its VisitKorea page publishes **no hours** and was last updated 31 Dec 2023. Dropped. |
+| Sutgol Won Naengmyeon "Cross-referenced with local heritage registries" | No such registry entry was locatable. The *Baeknyeon Gage* claim was removed. |
+
+The lesson worth keeping: **a confident-sounding verification note is not a verification.** Every row now carries a link you can open yourself.
+
+---
+
+## What the real pass covered
+
+Completed August 2026, city by city:
+
+| City | Entries before | Verified & kept | Dropped |
+| :--- | ---: | ---: | ---: |
+| Seoul | 24 | 11 | 13 |
+| Busan | 17 | 14 | 3 |
+| Daejeon | 7 | 5 | 2 |
+| Cheonan | 1 | 5 (4 newly added) | 1 |
+| **Total** | **49** | **35** | **19** |
+
+Separately, **485 fabricated placeholder rows** were deleted from the CSV and city guides. These followed a machine-generated naming pattern — `Seoul Local Cafe 5`, `Busan Harbour Ramen 2`, `Daejeon Town Classic Korean 11`, `Cheonan Hub Jajangmyeon 2` — and corresponded to no real businesses. They were the source of the repo's "535 verified restaurants" claim.
+
+Cheonan is the one city that **gained** entries: its guide previously held a single restaurant, with the city's actual attraction — Byeongcheon sundae street — entirely absent.
+
+---
+
+## Michelin, precisely
+
+The MICHELIN Guide's Korean selection is **Seoul & Busan only**. There is no Michelin coverage of Daejeon or Cheonan, so any Michelin claim about a restaurant in those cities is false by construction. Earlier drafts contained several.
+
+The **2026 Bib Gourmand** selection (announced 26 February 2026) comprises **51 Seoul + 20 Busan restaurants**. Only three entries in this guide hold one:
+
+* **Geumdwaeji Sikdang** (금돼지식당) — Seoul, barbecue
+* **Buchon Yukhoe** (부촌육회) — Seoul, yukhoe
+* — and *none in Busan*. The full 20-restaurant Busan Bib list is reproduced in [cities/busan.md](cities/busan.md) so any claim can be checked at a glance.
+
+Badges that earlier drafts asserted and that verification could not support — on Chanyang-jip, Shinbalwon, Menten and others — have been stripped.
+
+**MICHELIN publishes neither opening hours nor prices.** A Bib Gourmand badge is therefore never sufficient on its own to keep an entry.
+
+---
+
+## Working notes on the official portals
+
+Recorded because they cost real time:
+
+* **VisitKorea English:** `english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=<id>`. Reliable for hours, address, phone, closures.
+* **VisitKorea Korean — use the print view.** The normal detail page (`ms_detail.do?cotid=<uuid>`) does not render its information block in a plain-text fetch; you get map tiles and comment scaffolding instead, which makes a well-documented restaurant look undocumented. **`korean.visitkorea.or.kr/detail/ms_detail_print.do?cotid=<uuid>`** returns the complete 상세정보 block — hours, holidays, address, phone, parking, signature menu — as clean text. This single trick converted Cheonan from one entry to five. The KO site's own keyword search returns zero results even for pages that exist; find cotids via a web search instead.
+* **Visit Busan:** `visitbusan.net/index.do?lang_cd=ko&menuCd=<menuCd>&uc_seq=<n>`. The `menuCd` must match the content type or the page renders as a stub — `DOM_000000201002001000` is Food (KO). A stub is a URL error, not a missing restaurant.
+* Visit Busan is the only portal that publishes some official menu prices. They are still omitted from this guide, as they are not maintained consistently.
+
+---
 
 ## Price convention
 
-* `official` or tourism-page price = quoted as published, with source link.
-* `estimate` = planning range based on current menu/listing snapshots and nearby comparable restaurants; confirm on the linked business page.
-* AYCE prices can differ by lunch/dinner, weekday/weekend, adult/child, and time limit. Confirm whether drinks, rice, and VAT/service are included.
+**This repo lists no prices.** Every price previously shown was unsourced. The only monetary information retained is MICHELIN's own **₩ / ₩₩** band, where MICHELIN publishes it.
+
+---
 
 ## Before committing to a restaurant
 
-1. Search the Korean restaurant name in Naver Map and open the **exact branch**.
-2. Check the latest menu photo and `영업시간` (hours), `브레이크타임` (break), `라스트오더` (last order), and `휴무` (closed day).
-3. Call or ask hotel staff for confirmation on a holiday/weekend.
-4. Save one nearby backup from the same neighborhood.
+1. Open the official source link in the entry and confirm it still matches.
+2. Search the **Korean** name in Naver Map and open the **exact branch** — several of these have branches with different hours.
+3. Check `영업시간` (hours), `브레이크타임` (break), `라스트오더` (last order), and `휴무` (closed day).
+4. Watch for **monthly** closures — "1st and 3rd Monday" is common and easy to miss.
+5. Have one nearby backup. The trip runs 31 Oct–22 Nov 2026; hours will have changed since this pass.
