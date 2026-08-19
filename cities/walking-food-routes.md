@@ -4,7 +4,7 @@
 
 This file has been rebuilt from the ground up. It now contains **only restaurants that survived verification** against an official source — VisitKorea, Visit Seoul, Visit Busan, MICHELIN, or the restaurant's own site.
 
-**Read the numbers here carefully.** The routes below were sequenced when the guide held **126 entries** (66 Seoul, 33 Busan, 7 Suwon, 15 Daejeon, 5 Cheonan). The roster has since grown to **358** across expansion passes ten to eighty-three, and **those later entries have not been sequenced into the walks** — they are verified and listed in the city guides, but the routes have not been rebuilt around them. The honest totals table at the foot of this file gives the current per-city counts.
+**Read the numbers here carefully.** The routes below were sequenced when the guide held **126 entries** (66 Seoul, 33 Busan, 7 Suwon, 15 Daejeon, 5 Cheonan). The roster has since grown to **376** across expansion passes ten to ninety-three, and **those later entries have not been sequenced into the walks** — they are verified and listed in the city guides, but the routes have not been rebuilt around them. The honest totals table at the foot of this file gives the current per-city counts.
 
 **No prices appear anywhere in this repo.** Where the old file quoted a figure like "₩8,000," it was invented. To add sourced prices later, see [prices-review.md](../prices-review.md).
 
@@ -189,12 +189,12 @@ Byeongcheon sundae uses **small intestine** rather than large, so it is far less
 
 | City | Verified entries | Routes built |
 | :--- | ---: | ---: |
-| Seoul | 184 | 5 |
-| Busan | 127 | 4 |
+| Seoul | 201 | 5 |
+| Busan | 128 | 4 |
 | Suwon | 14 | 1 |
 | Daejeon | 20 | 2 |
 | Cheonan | 13 | 1 |
-| **Total** | **358** | **13** |
+| **Total** | **376** | **13** |
 
 The 232 entries added in the tenth to eighty-third expansion passes (18–19 August 2026) are **not yet sequenced into the routes above** — they are verified and listed in the city guides, but the walks have not been rebuilt around them.
 
