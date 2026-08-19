@@ -24,11 +24,11 @@ Every restaurant named below survived the August 2026 verification pass: address
 
 ## 🛠️ How to use this guide
 
-* **211 verified restaurants.** Seoul 100 · Busan 66 · Suwon 13 · Daejeon 20 · Cheonan 12. (Tenth pass +22, eleventh +21, twelfth +20, thirteenth +22 — the thirteenth was Busan-heavy, adding 13 there.)
-* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 211 restaurants, the sourcing rules, and the leads worth chasing.
+* **314 verified restaurants.** Seoul 142 · Busan 126 · Suwon 14 · Daejeon 20 · Cheonan 12. (Fifty-fourth to sixty-third passes on 19 August 2026: **+20 added, 3 removed, 2 corroborated**. Cross-checking the Blue Ribbon index against entries already held removed Dongbaekseom Hoejip, Chopilsal Dwaejigui and Hapcheon Gukbapjip on hours conflicts, and confirmed Geodae Galbi and Gijang Sonkalguksu against a second official source. Suwon remains source-limited; see the log.)
+* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 314 restaurants, the sourcing rules, and the leads worth chasing.
 * **Neighborhood walks:** **[cities/walking-food-routes.md](cities/walking-food-routes.md)** sequences verified entries into routes where the opening hours actually line up.
 * **Navigation & booking:** **[booking-and-tech-guide.md](booking-and-tech-guide.md)** — set up Naver Map and CatchTable Global before you depart.
-* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 211 rows, each with an official source URL.
+* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 314 rows, each with an official source URL.
 
 ---
 

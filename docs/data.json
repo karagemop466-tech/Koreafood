@@ -1273,7 +1273,7 @@
     "nameKo": "기장손칼국수",
     "address": "56 Seomyeon-ro, Busanjin-gu (Seomyeon Market)",
     "michelin": "None",
-    "notes": "Hand-rolled knife-cut noodles, served with gimbap. The \"Baek Jong-won's Top 3 Chefs\" claim in earlier drafts has no official source and has been removed. ☎ +82-51-806-6832",
+    "notes": "Hand-rolled knife-cut noodles, served with gimbap. The \"Baek Jong-won's Top 3 Chefs\" claim in earlier drafts has no official source and has been removed. ☎ +82-51-806-6832 **Corroborated and refined 19 Aug 2026:** the Blue Ribbon index lists it as \"Gijangson kalguksu\" at the same address with the same 09:00–21:00 hours, and adds that it closes on Lunar New Year's Day and Chuseok — days the listing used here does not mention.",
     "hours": "Daily 09:00–21:00",
     "phone": "+82-51-806-6832",
     "sources": [
@@ -1471,7 +1471,7 @@
     "nameKo": "거대갈비",
     "address": "22 Dalmaji-gil, Haeundae-gu",
     "michelin": "None",
-    "notes": "Visit Busan: charcoal Hanu barbecue; listing notes high prices. ☎ 051-746-0037",
+    "notes": "Visit Busan: charcoal Hanu barbecue; listing notes high prices. ☎ 051-746-0037 **Corroborated 19 Aug 2026:** Visit Busan's Blue Ribbon \"100 Great Places to Eat in Busan\" index lists the same restaurant as \"Geodae sutbulgui\" at the same address with the same hours (11:30–15:00 / 17:00–22:00, open all year). Two official sources agree.",
     "hours": "11:30–15:00 / 17:00–22:00. Open 365 days.",
     "phone": "051-746-0037",
     "sources": [
@@ -1586,42 +1586,6 @@
       {
         "label": "Visit Busan",
         "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1279&lang_cd=en"
-      }
-    ]
-  },
-  {
-    "city": "Busan",
-    "category": "Classic Korean & Specialty",
-    "name": "Halmae Gukbap (할매국밥)",
-    "nameEn": "Halmae Gukbap",
-    "nameKo": "할매국밥",
-    "address": "4 Jungang-daero 533beon-gil, Dong-gu",
-    "michelin": "None",
-    "notes": "Visit Busan: listing title “60-year” dwaeji gukbap; clear broth; steamed-meat set (broth and meat served separately). Portal prices are not copied. ☎ 051-646-6295",
-    "hours": "10:00–19:00. Closed Sundays.",
-    "phone": "051-646-6295",
-    "sources": [
-      {
-        "label": "Visit Busan",
-        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=246"
-      }
-    ]
-  },
-  {
-    "city": "Busan",
-    "category": "Classic Korean & Specialty",
-    "name": "LAB XXIV by Kumuda (랩트웬티포)",
-    "nameEn": "LAB XXIV by Kumuda",
-    "nameKo": "랩트웬티포",
-    "address": "41 Gwangeogol-ro, Songjeong, Haeundae-gu",
-    "michelin": "None",
-    "notes": "Visit Busan: French fine dining (Chef Edward Kwon); Busan ingredients. Not Korean comfort food. Portal course prices are not copied. ☎ +82-507-1421-1302",
-    "hours": "11:30–15:00 / 17:30–22:00. Closed Mondays.",
-    "phone": "+82-507-1421-1302",
-    "sources": [
-      {
-        "label": "Visit Busan",
-        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1842"
       }
     ]
   },
@@ -2584,24 +2548,6 @@
   {
     "city": "Busan",
     "category": "Classic Korean & Specialty",
-    "name": "Hapcheon Gukbapjip (합천국밥집)",
-    "nameEn": "Hapcheon Gukbapjip",
-    "nameKo": "합천국밥집",
-    "address": "235 Yongho-ro, Nam-gu (Yongho-dong)",
-    "michelin": "None",
-    "notes": "Visit Busan: a fixture of any Busan dwaeji-gukbap argument, distinguished by a clear, lean broth rather than the milky bone style, with large chunks of domestic pork. Note the mid-afternoon half-hour closure. ☎ 051-628-4898",
-    "hours": "09:00–14:00 / 14:30–20:00. Closed on public holidays.",
-    "phone": "051-628-4898",
-    "sources": [
-      {
-        "label": "Visit Busan",
-        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1511"
-      }
-    ]
-  },
-  {
-    "city": "Busan",
-    "category": "Classic Korean & Specialty",
     "name": "Sinchang Gukbap (신창국밥)",
     "nameEn": "Sinchang Gukbap",
     "nameKo": "신창국밥",
@@ -3362,24 +3308,6 @@
   {
     "city": "Busan",
     "category": "Classic Korean & Specialty",
-    "name": "Dongbaekseom Hoejip (동백섬횟집)",
-    "nameEn": "Dongbaekseom Hoejip",
-    "nameKo": "동백섬횟집",
-    "address": "17 Haeundaehaebyeon-ro 209beonna-gil, Haeundae-gu (near Haeundae Grand Hotel)",
-    "michelin": "None",
-    "notes": "Visit Busan: hoe (raw fish) house where an order brings a run of side dishes — steamed octopus, sea urchin, abalone, grilled flounder, fried shrimp — and finishes with a spicy hot pot. Most fish is market price, so ask before ordering. ☎ 051-741-3888",
-    "hours": "12:00–14:00 / 16:00–22:00. Closed on public holidays.",
-    "phone": "051-741-3888",
-    "sources": [
-      {
-        "label": "Visit Busan",
-        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=154"
-      }
-    ]
-  },
-  {
-    "city": "Busan",
-    "category": "Classic Korean & Specialty",
     "name": "Ilbeonji Jagalchi Sangomjangeo (일번지자갈치산곰장어)",
     "nameEn": "Ilbeonji Jagalchi Sangomjangeo",
     "nameKo": "일번지자갈치산곰장어",
@@ -3842,6 +3770,1932 @@
       {
         "label": "Chungnam Tourism",
         "url": "https://tour.chungnam.go.kr/prog/rst/kor/sub02_03_02/view.do?rstNo=483"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Jinguk Seolleongtang (진국설렁탕)",
+    "nameEn": "Jinguk Seolleongtang",
+    "nameKo": "진국설렁탕",
+    "address": "293 Gosanja-ro, Seongdong-gu (near Wangsimni)",
+    "michelin": "None",
+    "notes": "VisitKorea: a Korean restaurant in Seongdong-gu whose most famous menu is ox bone soup (seolleongtang); boiled meat slices (suyuk) is the other order. Near Wangsimni Station. ☎ +82-2-2292-4700",
+    "hours": "04:00–22:30. (The page intro says \"open 24 hours a day\" and the holiday field reads \"Open 24/7\" — read that as no closing day; the printed hours field is 04:00–22:30.)",
+    "phone": "+82-2-2292-4700",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=47258"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Seongwon Jeonju Kongnamul Gukbap (성원 전주콩나물국밥)",
+    "nameEn": "Seongwon Jeonju Kongnamul Gukbap",
+    "nameKo": "성원 전주콩나물국밥",
+    "address": "19-10 Myeongdong 10-gil, Jung-gu (Myeongdong)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 24 Jun 2026): founded 1937 by Kim So-seon, who introduced kongnamul gukbap (bean-sprout rice soup) to the area; signature dish kongnamul gukbap. Myeongdong Station Exit 8, ~269 m. Same building as Teumsae Ramyeon. ☎ +82-2-777-4284",
+    "hours": "11:00–22:00. Daily.",
+    "phone": "+82-2-777-4284",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/SeongwonJeonjuKongnamulGukbap/ENPwmqzyh"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Teumsae Ramyeon (틈새라면)",
+    "nameEn": "Teumsae Ramyeon",
+    "nameKo": "틈새라면",
+    "address": "19-10 Myeongdong 10-gil, Jung-gu (Myeongdong)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 4 Jun 2026): Korean-style ramyeon, mostly spicy; bbalgyetteok (pepper-flake, egg and rice-cake) and cold yeolmu ramyeon also listed. This is the Myeongdong shop of a small ramyeon chain — treat these hours as this location's. Same building as Seongwon Jeonju Kongnamul Gukbap. ☎ +82-2-756-5477",
+    "hours": "Weekdays 10:00–20:00 / weekends & public holidays 11:00–20:00. Closed Seollal & Chuseok.",
+    "phone": "+82-2-756-5477",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Teumsae-Ramyeon1/ENP013599"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Myeongdong Tonkatsu (명동돈까스)",
+    "nameEn": "Myeongdong Tonkatsu",
+    "nameKo": "명동돈까스",
+    "address": "8 Myeongdong 3-gil, Jung-gu (Myeongdong)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 8 Jun 2026): the first restaurant to introduce thick Japanese-style pork cutlets to Korea; 30-year history, cordon bleu the most popular item. Not to be confused with Wonjo Namsan Wangdonkkaseu (21 Myeongdong 7-gil). ☎ +82-2-775-5300 · mddongas.co.kr",
+    "hours": "11:00–21:00. Closed Lunar New Year & Chuseok.",
+    "phone": "+82-2-775-5300",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Myeongdong-Tonkatsu1/ENP010843"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Myeongdong Jjukkumi (명동쭈꾸미)",
+    "nameEn": "Myeongdong Jjukkumi",
+    "nameKo": "명동쭈꾸미",
+    "address": "3-28 Toegye-ro 6-gil, Jung-gu (Hoehyeon-dong 1-ga)",
+    "michelin": "None",
+    "notes": "VisitKorea: jjukkumi (stir-fried baby octopus) and samgyeopsal sets, plus pork galbi and bossam; spicy house style with a self-serve side-dish bar. One minute from Hoehyeon Station (Line 4) Exit 2. ☎ +82-507-1430-0198 · instagram.com/myeongdong.jjukkumi",
+    "hours": "11:00–23:00. Open all year.",
+    "phone": "+82-507-1430-0198",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=229122"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Eun&Jeong Myeongdong Dakgalbi (은앤정명동닭갈비)",
+    "nameEn": "Eun&Jeong Myeongdong Dakgalbi",
+    "nameKo": "은앤정명동닭갈비",
+    "address": "2F, 19 Myeongdong 7-gil, Jung-gu (Myeongdong)",
+    "michelin": "None",
+    "notes": "VisitKorea: dakgalbi (spicy stir-fried chicken), with cheese and garlic-soy versions; rice cakes, sweet potato, noodles and fried rice can be added. Also budae jjigae, makguksu and samgyetang. ☎ +82-2-778-1988",
+    "hours": "11:00–22:00. Closed for the Seollal holidays.",
+    "phone": "+82-2-778-1988",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=58138"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Ttosuni Sundae (또순이원조순대)",
+    "nameEn": "Ttosuni Sundae",
+    "nameKo": "또순이원조순대",
+    "address": "14 Sillim-ro 59-gil, Gwanak-gu (Sillim-dong Sundae Town)",
+    "michelin": "None",
+    "notes": "VisitKorea: started as a street stand in 1976 and became the biggest sundae (blood sausage) restaurant in Sundae Town. White sundae, sundae guk, and sundae gopchang bokkeum. Sillim-dong is south of the centre (near Sillim Station) — a destination stop, not a Myeongdong walk. ☎ +82-2-884-7565",
+    "hours": "Open 24 hours. Open all year.",
+    "phone": "+82-2-884-7565",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=99580"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "OPPADAK Myeongdong (오븐에빠진닭 명동)",
+    "nameEn": "OPPADAK Myeongdong",
+    "nameKo": "오븐에빠진닭 명동",
+    "address": "1F, Myeongdong Art Nouveau Centum, 21 Myeongdong 7-gil, Jung-gu (Myeongdong)",
+    "michelin": "None",
+    "notes": "VisitKorea: baked (oven-roasted) chicken — the house dish is crispy baked chicken. OPPADAK is a chain; this page is the Myeongdong branch only, so these hours are for this shop. One of the few Myeongdong options open past midnight. ☎ +82-2-3789-5892",
+    "hours": "11:30–03:00 (next day). Last order 02:30.",
+    "phone": "+82-2-3789-5892",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=58021"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Insadong Garlic Bossam (인사동마늘보쌈)",
+    "nameEn": "Insadong Garlic Bossam",
+    "nameKo": "인사동마늘보쌈",
+    "address": "12-5 Insadong 8-gil, Jongno-gu (Insadong)",
+    "michelin": "None",
+    "notes": "VisitKorea: maneul bossam (pork wraps with garlic), kimchijjim, nakji bokkeum, buchujeon and ttukbaegi dubu kimchi, also as a set menu; the page says free makgeolli on weekdays 11:00–14:00. No parking. ☎ +82-2-735-7885 · insadonggarlicbossam.com",
+    "hours": "11:00–22:00. Break 15:00–17:00. Open all year.",
+    "phone": "+82-2-735-7885",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=1564731"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Gomgukshijip Myeongdong Branch (곰국시집 명동)",
+    "nameEn": "Gomgukshijip Myeongdong Branch",
+    "nameKo": "곰국시집 명동",
+    "address": "19-3 Myeongdong 10-gil, Jung-gu (Myeongdong), 2F",
+    "michelin": "None",
+    "notes": "VisitKorea: open since 1976; guksu jeongol (noodle hot pot) and gomkuksi (beef-bone noodle soup), plus mandu jeongol and grilled hanu / Wagyu. Between Myeongdong and Euljiro 1-ga stations. ☎ +82-2-756-3449",
+    "hours": "11:00–22:00. Open all year.",
+    "phone": "+82-2-756-3449",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=76255"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Hanttukbaegi (한뚝배기)",
+    "nameEn": "Hanttukbaegi",
+    "nameKo": "한뚝배기",
+    "address": "45-4 Jungang-daero 692beon-gil, Busanjin-gu (Seomyeon)",
+    "michelin": "None",
+    "notes": "VisitKorea: a Korean restaurant in Seomyeon where you can order for one; boiled pork slices (suyuk) is the famous menu, bulgogi hot pot the other. ☎ +82-51-807-0955",
+    "hours": "Open 24 hours. (No closing day printed on the listing.)",
+    "phone": "+82-51-807-0955",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=54000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Daom (다옴)",
+    "nameEn": "Daom",
+    "nameKo": "다옴",
+    "address": "5F, Samjeong Tower, 672 Jungang-daero, Busanjin-gu (Seomyeon)",
+    "michelin": "None",
+    "notes": "Visit Busan: casual Korean dining; chadolbagi bibimguksu (brisket mixed noodles), kalguksu and bibimbap are the signatures; broth from southern-coast anchovies and a fruit-aged marinade. ☎ +82-507-1370-3778",
+    "hours": "Mon–Thu & Sun 11:00–22:00 (last order 21:00) / Fri–Sat 11:00–22:30 (last order 21:30). Open 365 days.",
+    "phone": "+82-507-1370-3778",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1107"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "Haeundae Ilpum Hanwoo (해운대일품한우)",
+    "nameEn": "Haeundae Ilpum Hanwoo",
+    "nameKo": "해운대일품한우",
+    "address": "1-2F, 49 Haeundae-ro 570beon-gil, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: high-end Korean beef; the portal notes the patented \"Sanggang Kkotgalbi\" and fresh yukhoe. (The BTS V / Bong Joon-ho framing is the portal's own and is not independently checked.) ☎ +82-507-1385-9909",
+    "hours": "Daily 11:30–22:00 (last order 21:00). Break 15:00–17:00.",
+    "phone": "+82-507-1385-9909",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=2195&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Sogonggan",
+    "nameEn": "Sogonggan",
+    "nameKo": "",
+    "address": "4F, 47 Haeundaehaebyeon-ro 298beon-gil, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: 1++-rated Korean beef course restaurant; the name means both \"small space\" and skill at cooking beef. Fixed lunch and dinner courses (portal prices not copied). No Korean name printed on the page. ☎ 010-5191-9002",
+    "hours": "12:00–15:00 / 18:00–21:30. Closed Tuesdays.",
+    "phone": "010-5191-9002",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1846&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Woobong Shabu",
+    "nameEn": "Woobong Shabu",
+    "nameKo": "",
+    "address": "127 Cheongsapo-ro, Haeundae-gu (Cheongsapo)",
+    "michelin": "None",
+    "notes": "Visit Busan: premium shabu shabu with 1++-rated beef cooked in a paper pot. Cheongsapo is a coastal village east of Haeundae beach. No Korean name printed on the page. ☎ +82-507-1349-9256",
+    "hours": "11:00–15:00 / 17:00–21:00. Closed Mondays.",
+    "phone": "+82-507-1349-9256",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1849&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "bibibidang",
+    "nameEn": "bibibidang",
+    "nameKo": "",
+    "address": "4F, 239-16 Dalmaji-gil, Haeundae-gu (Dalmaji)",
+    "michelin": "None",
+    "notes": "Visit Busan: traditional Korean teahouse using antique Goryeo celadon and Joseon white-porcelain teapots; matcha and pumpkin shaved ice are listed. No Korean name printed on the page. ☎ 051-746-0705",
+    "hours": "10:30–21:30. Open every day.",
+    "phone": "051-746-0705",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1845&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Seoul Samgyetang (서울삼계탕)",
+    "nameEn": "Seoul Samgyetang",
+    "nameKo": "서울삼계탕",
+    "address": "36 Nampo-gil, Jung-gu (Nampo)",
+    "michelin": "None",
+    "notes": "VisitKorea (halal-friendly listing): samgyetang, red-ginseng samgyetang and rotisserie chicken. Marked pork-free; no prayer room. Despite the \"Seoul\" name this is a Nampo, Busan restaurant — not the same shop as Nampo Samgyetang (남포삼계탕) at 16 Nampo-gil. ☎ +82-51-245-3696",
+    "hours": "10:00–22:30. Closed Seollal & Chuseok.",
+    "phone": "+82-51-245-3696",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138397"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Gwangangukbap (광안국밥)",
+    "nameEn": "Gwangangukbap",
+    "nameKo": "광안국밥",
+    "address": "1F, Daewoo I Ville, 39 Gwangan-ro 62beon-gil, Suyeong-gu (Gwangalli)",
+    "michelin": "None",
+    "notes": "Visit Busan: dwaeji gukbap in front of Gwangalli Beach, known for thick broth and soft meat; also spicy soup and rice, steamed pork and sundae jeongol. ☎ +82-51-757-0720",
+    "hours": "Open 24 hours. Open 365 days.",
+    "phone": "+82-51-757-0720",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1123&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Subok Dwaejigukbap (수복돼지국밥)",
+    "nameEn": "Subok Dwaejigukbap",
+    "nameKo": "수복돼지국밥",
+    "address": "2F, 41-1 Gobun-ro, Yeonje-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: dwaeji gukbap and suyuk baekban; sundae, kimchi and kkakdugi made in-house; parking available. ☎ 051-866-3349",
+    "hours": "08:00–21:50 (last order 21:20). Open 365 days.",
+    "phone": "051-866-3349",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1515"
+      }
+    ]
+  },
+  {
+    "city": "Suwon",
+    "category": "Suwon city — other verified entries",
+    "name": "Tongyoung oyster&octopus love (통영굴사랑&낙지사랑)",
+    "nameEn": "Tongyoung oyster&octopus love",
+    "nameKo": "통영굴사랑&낙지사랑",
+    "address": "53 Haenggung-ro, Paldal-gu (near Hwaseong Haenggung Palace)",
+    "michelin": "None",
+    "notes": "VisitKorea (halal-friendly listing): Tongyeong oyster rice and stir-fried octopus with rice; halal menu and pork-free, but no prayer room. 40 seats. VisitKorea prints the street as \"Haenggung-rom\" (a typo for Haenggung-ro). ☎ +82-31-252-1253",
+    "hours": "10:00–21:00. (No closing day printed on the listing.)",
+    "phone": "+82-31-252-1253",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138555"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Suhyang Bapsang (수향밥상)",
+    "nameEn": "Suhyang Bapsang",
+    "nameKo": "수향밥상",
+    "address": "592 Dadae-ro, Saha-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: loach specialty restaurant popular with families; the rich loach soup (chueotang) is the signature, with short rib soup the other listed order. The portal notes the owners run their own fish farm to control the ingredients. Far west of the city in Dadae-dong — a destination, not a walk-in. ☎ 051-266-4726",
+    "hours": "09:00–16:00 / 16:30–22:00. Closed on public holidays.",
+    "phone": "+82-51-266-4726",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1517"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Samnak Hadong Jaecheopguk",
+    "nameEn": "Samnak Hadong Jaecheopguk",
+    "nameKo": "",
+    "address": "33 Nakdong-daero 1518beon-gil, Sasang-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: freshwater clam soup (jaecheopguk) house in the Samnak clam-soup cluster; the portal says they use only domestic Seomjingang River clams, soaked in salt water and washed several times before boiling, and that they also developed raw and steamed clam dishes. The listing adds a one-off note: closed on Lunar New Year's Day (17 Feb) 2026. The official English page prints no Korean name, so search the address on Naver Map rather than a transliteration. ☎ 051-301-7200",
+    "hours": "05:00–21:30. Closed on public holidays.",
+    "phone": "+82-51-301-7200",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1523"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "Bubu Coffee",
+    "nameEn": "Bubu Coffee",
+    "nameKo": "",
+    "address": "1F, 35-1 Gwangbokjungang-ro, Jung-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: small cafe run by a couple, roasting their own dark-roast specialty coffee. In Gwangbok-dong, walking distance from Jagalchi and BIFF Square — a useful daytime stop on the Nampo-dong loop. The official English page prints no Korean name. ☎ 010-7516-0484",
+    "hours": "11:00–22:00. Open every day.",
+    "phone": "+82-10-7516-0484",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=1838"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Korean-Chinese & Dumplings",
+    "name": "Donghwa Banjeom",
+    "nameEn": "Donghwa Banjeom",
+    "nameKo": "",
+    "address": "3 Heukgyo-ro 75beon-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: billed as the first Chinese restaurant in Busan, founded 1950, moved to Bosu-dong in 1987. Signatures are yuni jjajang and nanjawanseu (Korean-Chinese meatballs). The portal notes the group also has a store in Namcheon-dong, Nam-gu — **this entry is the Bosu-dong (Jung-gu) address only**. The official English page prints no Korean name. ☎ +82-51-253-6661",
+    "hours": "11:30–15:00 / 17:00–21:00. Closed Tuesdays.",
+    "phone": "+82-51-253-6661",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=1839"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Myeonok Hyangcheon",
+    "nameEn": "Myeonok Hyangcheon",
+    "nameKo": "",
+    "address": "26 Haeundae-daero 383beon-gil, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: buckwheat noodle house at the entrance to the traditional market in U-dong, grinding its own flour on millstones and a mill; morisoba and makguksu can be ordered at 100% buckwheat. House-made sauces, and the portal singles out the croquettes served on the side. Lunch only. The official English page prints no Korean name. ☎ +82-51-747-4601",
+    "hours": "11:00–15:30. Closed Sundays.",
+    "phone": "+82-51-747-4601",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=1841"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "Jinmi Eonyang Bulgogi",
+    "nameEn": "Jinmi Eonyang Bulgogi",
+    "nameKo": "",
+    "address": "7 Namcheonbada-ro 33beon-gil, Suyeong-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: Eonyang-style bulgogi (the Ulsan style of hand-chopped beef) grilled for you by the staff, with a stew served after the meat. The portal frames it as a favourite of singer Sung Si-kyung and says it featured on his YouTube channel — that is the portal's claim, not independently checked here. 6-minute walk from Geumnyeonsan Station Exit 1 (Line 2). **Not the same restaurant as Gwangalli Eonyang Bulgogi Busanjip** also in this guide: different street number (7 Namcheonbada-ro 33beon-gil vs 32 Namcheonbada-ro) and different phone. The official English page prints no Korean name. ☎ +82-51-753-1632",
+    "hours": "Every day 10:30–22:00.",
+    "phone": "+82-51-753-1632",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=2196"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Pro Soy Crab (Main Branch)",
+    "nameEn": "Pro Soy Crab (Main Branch)",
+    "nameKo": "",
+    "address": "9 Gangnam-daero 97-gil, Seocho-gu (Sinsa)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 2 Jun 2026): opened 1980 and widely called Korea's foremost ganjang-gejang house. Soy-marinated crab, spicy marinated crab, braised blue crab and sannakji. The listing notes a second location in Samseong-dong — **this entry is the Sinsa main branch only**. Sinsa Station (Line 3 / Sinbundang) Exit 4, 153m. The official English page prints no Korean name. ☎ +82-2-543-4126 · prosoycrab.co.kr",
+    "hours": "10:00–23:00. Open every day.",
+    "phone": "+82-2-543-4126",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Pro-Soy-Crab/ENP021838"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Busanjib KBBQ",
+    "nameEn": "Busanjib KBBQ",
+    "nameKo": "",
+    "address": "11-8 Myeongdong 8-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 30 Jun 2026): halal Korean barbecue in the middle of Myeongdong — hanwoo sirloin, wagyu rib fingers and lamb ribs with Korean banchan. No alcohol sold; Muslim cooks on staff. Same operator as Myeongdong Busanjib and Busanjib Fried Chicken, but a separate address and a separate listing — **this entry is 11-8 only**. ☎ +82-10-3142-0278",
+    "hours": "12:00–22:30 (last order 21:40).",
+    "phone": "+82-10-3142-0278",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/KBBQ/ENPmphdts"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Busanjib Fried Chicken",
+    "nameEn": "Busanjib Fried Chicken",
+    "nameKo": "",
+    "address": "11-4 Myeongdong 8-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 30 Jun 2026): Korean fried chicken made with halal ingredients — plain fried, plus a fiercely spicy seasoned version. No alcohol sold; Muslim cooks on staff. Same operator as Myeongdong Busanjib and Busanjib KBBQ; **this entry is 11-4 only**. ☎ +82-10-3142-0278",
+    "hours": "11:00–22:00 (last order 21:10).",
+    "phone": "+82-10-3142-0278",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/BusanjibFriedChicken/ENPk2t5h2"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Byeolnan Ori (별난오리)",
+    "nameEn": "Byeolnan Ori",
+    "nameKo": "별난오리",
+    "address": "12 Jong-ro 46-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "VisitKorea (halal-friendly listing): duck specialist near Dongdaemun — grilled smoked duck, duck soup (byeolnan oritang) and a duck set. Pork-free; **no prayer room**. 70 seats, 3 parking spaces. ☎ +82-2-765-5292",
+    "hours": "11:00–23:00. Open all year round.",
+    "phone": "+82-2-765-5292",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138398"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Daehan Gopchang (Jangan Branch)",
+    "nameEn": "Daehan Gopchang (Jangan Branch)",
+    "nameKo": "",
+    "address": "21 Cheonho-daero 85-gil, Dongdaemun-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 28 May 2025): grilled beef intestines — gopchang, makchang and daechang, with the all-in-one set the house recommendation, finished with fried rice. The portal warns that since the restaurant appeared on \"I Live Alone\" it often sells out and closes early, so go early rather than late despite the 01:00 posted close. Janghanpyeong Station (Line 5) Exit 3, 193m. Branch page — **this Jangan branch only**. The official English page prints no Korean name. ☎ +82-70-8285-6219",
+    "hours": "Daily 15:00–01:00 (next day). Note: the listing itself warns they often sell out and close early.",
+    "phone": "+82-70-8285-6219",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Daehan-Gopchang-Jangan/ENP026324"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Seongcheon Makguksu (성천막국수)",
+    "nameEn": "Seongcheon Makguksu",
+    "nameKo": "성천막국수",
+    "address": "2 Dapsimni-ro 48na-gil, Dongdaemun-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 3 Jun 2026): makguksu — cold buckwheat noodles in a pure dongchimi broth, high buckwheat content. The set with jeyuk (spicy marinated pork) and dongchimi radish is the house order. **Caution: the official page contradicts itself on Saturday.** It prints \"Mon - Sat 11:30 - 15:00 / 17:00 - 21:00\" and then \"Sat 11:30 - 17:00, including holidays: 11:30 AM – 3:00 PM\" — both lines are reproduced here as printed; ring ahead if you are going on a Saturday. Dapsimni Station (Line 5) Exit 4, 764m. ☎ +82-507-1329-5529",
+    "hours": "Mon–Sat 11:30–15:00 / 17:00–21:00; the same page also prints \"Sat 11:30–17:00, including holidays 11:30–15:00\". Closed Sundays, Seollal & Chuseok.",
+    "phone": "+82-507-1329-5529",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Seongcheon-Makguksu/ENP011689"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Cheongdamgol",
+    "nameEn": "Cheongdamgol",
+    "nameKo": "",
+    "address": "48 Seolleung-ro 148-gil, Gangnam-gu (Cheongdam)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 4 Jun 2026): a plain baekban house in expensive Cheongdam, known for nurungji baekban (scorched-rice set) served with kimchi jjigae and ten-plus side dishes including steamed egg, soy-marinated crab and seasoned vegetables. Gangnam-gu Office Station (Line 7 / Suin-Bundang) Exit 4, 797m. Hours as read from the official page on 19 Aug 2026. The official English page prints no Korean name. ☎ +82-2-543-1252",
+    "hours": "10:30–16:00 / 17:00–21:40. Closed Seollal & Chuseok.",
+    "phone": "+82-2-543-1252",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Cheongdamgol1/ENP005496"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Yangmani (Cheongdam Branch)",
+    "nameEn": "Yangmani (Cheongdam Branch)",
+    "nameKo": "",
+    "address": "16 Dosan-daero 56-gil, Gangnam-gu (Cheongdam)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 4 Jun 2026): grilled ox tripe (yang) and large intestine in a clean, comfortable room — New Zealand tripe, Korean large intestine — plus yangwutang, tripe simmered with dried cabbage. Open around the clock. Branch page: **this Cheongdam branch only**; the Yeouido branch is listed separately in this guide with different hours. The official English page prints no Korean name. ☎ +82-2-542-9263",
+    "hours": "Open 24 hours. Open year round.",
+    "phone": "+82-2-542-9263",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/YangmaniCheongdam-branch/ENP012115"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Yangmani (Yeouido)",
+    "nameEn": "Yangmani (Yeouido)",
+    "nameKo": "",
+    "address": "2F, Manhattan 21 Shopping Center, 20 Gukhoe-daero 74-gil, Yeongdeungpo-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 18 Aug 2026): tripe marinated 24 hours in a house sauce and grilled, plus other cuts. A different venue from the Cheongdam branch also in this guide — different address, different phone and different hours; the two were cross-checked before both were kept. National Assembly Station (Line 9) Exit 2, 435m. The official English page prints no Korean name. ☎ +82-507-1421-9282",
+    "hours": "Daily 10:30–22:00, with a Mon–Fri break 14:30–16:30. Closed Seollal & Chuseok.",
+    "phone": "+82-507-1421-9282",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/area/Yangmani-EN/ENP011966"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Yi Ning",
+    "nameEn": "Yi Ning",
+    "nameKo": "",
+    "address": "14 Dosan-daero 58-gil, Gangnam-gu (Cheongdam)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 26 Jun 2026): Sichuan and Cantonese cooking in a spare black interior; the steamed rockfish with coriander, ginger and shredded spring onion is the popular order, with gajisaeu (shrimp with aubergine) and balchaejjim (steamed fat choy) as the less usual ones. Peking duck is listed as the signature dish. Long-running by Cheongdam standards. The official English page prints no Korean name. ☎ +82-2-547-7444",
+    "hours": "11:30–14:30 / 17:30–22:00. Closed Sundays, Seollal & Chuseok.",
+    "phone": "+82-2-547-7444",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Yi-Ning-EN/ENP001657"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "MAO",
+    "nameEn": "MAO",
+    "nameKo": "",
+    "address": "17 Dosan-daero 56-gil, Gangnam-gu (Cheongdam)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 26 Jun 2026): one of the few Peking duck specialists in Seoul, with a broad Cantonese menu alongside. Directly opposite Yangmani's Cheongdam branch. The official English page prints no Korean name. ☎ +82-2-514-8803",
+    "hours": "11:30–22:00. Open year round.",
+    "phone": "+82-2-514-8803",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/MAO1/ENP005679"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Moodeungsan",
+    "nameEn": "Moodeungsan",
+    "nameKo": "",
+    "address": "3 Seolleung-ro 146-gil, Gangnam-gu (Cheongdam)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 4 Jun 2026): charcoal-grilled beef, rib eye above all, with a long banchan spread and naengmyeon to finish. Accessible pathways marked on the listing. Runs late — midnight on weekdays. Not to be confused with the Myeongdong restaurant of a similar name, which is **not** in this guide. The official English page prints no Korean name. ☎ +82-507-1409-4017 · moodeungsan.com",
+    "hours": "Mon–Fri 10:00–24:00 / Sat 10:00–23:30. Closed Sundays.",
+    "phone": "+82-507-1409-4017",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Moodeungsan/ENP006042"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Haemok Nonhyeon",
+    "nameEn": "Haemok Nonhyeon",
+    "nameKo": "",
+    "address": "14 Seolleung-ro 145-gil, Gangnam-gu (Nonhyeon)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 30 Jun 2026): hitsumabushi — Japanese-style grilled eel over rice, lightly seasoned, in a room built to feel like Japan. Alcohol sold; no Muslim cooks. Gangnam-gu Office Station (Line 7 / Suin-Bundang) Exit 3-1, 600m. The official English page prints no Korean name. ☎ +82-507-1466-0277",
+    "hours": "Mon–Fri 11:00–22:00 (break 15:00–17:00, last order 21:00); Sat–Sun 11:00–22:00 (last order 21:00).",
+    "phone": "+82-507-1466-0277",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/HaemokNonhyeon/ENPthrlz3"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Onion (Seongsu)",
+    "nameEn": "Onion (Seongsu)",
+    "nameKo": "",
+    "address": "8 Achasan-ro 9-gil, Seongsu-dong 2-ga, Seongdong-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 13 May 2026): the original Seongsu branch of Cafe Onion, in a converted 1970s parts factory with the industrial fabric left exposed. Over twenty breads, with Pandoro and Ang Butter named as the signatures. Seongsu Station (Line 2) Exit 2, 132m. Branch page — **this Seongsu location only**. Open on holidays. The official English page prints no Korean name. ☎ +82-507-1386-3238 · onionkr.com",
+    "hours": "Mon–Fri 08:00–22:00 / weekends 09:00–22:00 (last order 21:30). Open daily, including holidays.",
+    "phone": "+82-507-1386-3238",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Cafe-Onion/ENP020587"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Kervan Cafe (케르반 카페)",
+    "nameEn": "Kervan Cafe",
+    "nameKo": "케르반 카페",
+    "address": "17 Usadan-ro 10-gil, Yongsan-gu (Itaewon)",
+    "michelin": "None",
+    "notes": "VisitKorea (halal-friendly listing): Turkish cafe and bakery just off the Usadan-ro slope below Seoul Central Mosque. Turkish apple tea and Turkish coffee are the listed orders. Halal menu, alcohol-free, pork-free, Muslim chef, and a prayer room is available. 30 seats, no parking. ☎ +82-70-7532-1997 · turkishbakery.co.kr",
+    "hours": "12:00–20:00 (Mon–Thu) / 11:00–20:00 (Fri–Sun).",
+    "phone": "+82-70-7532-1997",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138557"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Samarkandcity (사마르칸트시티)",
+    "nameEn": "Samarkandcity",
+    "nameKo": "사마르칸트시티",
+    "address": "2F, 16 Eulji-ro 42-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "VisitKorea (halal-friendly listing): Uzbek restaurant near Dongdaemun History & Culture Park, in the Central Asian pocket off Eulji-ro. Lamb chop set and shashlik set are the listed orders. Halal menu and pork-free, and a prayer room is available. 80 seats, no parking. Opens at 09:00 at weekends — unusually early for the area. ☎ +82-2-6014-6368",
+    "hours": "10:00–23:00 (Mon–Thu) / 09:00–23:00 (Fri–Sun).",
+    "phone": "+82-2-6014-6368",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138541"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Mugyo-dong Bugeo-guk",
+    "nameEn": "Mugyo-dong Bugeo-guk",
+    "nameKo": "",
+    "address": "38 Eulji-ro 1-gil, Jung-gu (City Hall / Mugyo-dong)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 2 Jun 2026): bugeo-guk — dried pollack soup — since 1968, made with firmly dried pollack rather than the frozen fish the portal says many rivals use. Opens at 07:00, which makes it one of the few proper breakfasts in the centre; queues at lunch. Note the listing also still carries a stale one-off banner, \"Temporary Closure Due to the June 3 Local Elections\" — that date has passed and it is not a standing closure. City Hall Station (Lines 1/2) Exit 4, 322m. The official English page prints no Korean name. ☎ +82-2-777-3891",
+    "hours": "Weekdays 07:00–20:00 / weekends & holidays 07:00–15:00. Closed Lunar New Year & Chuseok.",
+    "phone": "+82-2-777-3891",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Mugyo-dong-Bugeo-guk-EN/ENP010848"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Jihwaja",
+    "nameEn": "Jihwaja",
+    "nameKo": "",
+    "address": "125 Jahamun-ro, Jongno-gu (Buam-dong)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 2 Jun 2026): royal-court cuisine house running since 1991 under a holder of the Korean royal cuisine tradition; degustation courses and set menus (grilled beef ribs, braised short ribs, soy-braised abalone, seafood hot pot), cooked without MSG or artificial flavourings. Booking essentially required. **Read the closing days with care:** the page's Days of Operation field says Wednesday–Sunday, and its holiday field says \"closed every Monday and Tuesday\" but qualifies it \"(Through July 31)\" and lists a summer break of 6–11 July — both dated qualifiers have already passed, so confirm the current closing days when you book. ☎ +82-2-2269-5834 · jihwajafood.co.kr",
+    "hours": "11:30–15:00 / 17:00–21:30 (last order 18:30). Days of Operation printed as Wed–Sun, i.e. closed Mondays and Tuesdays — but see the dated qualifier in the notes.",
+    "phone": "+82-2-2269-5834",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Jihwaja/ENP003280"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Mongmyeok Sanbang",
+    "nameEn": "Mongmyeok Sanbang",
+    "nameKo": "",
+    "address": "71 Toegye-ro 20-gil, Jung-gu (Namsan foothill)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 4 Jun 2026): a short menu of plainly presented Korean dishes in a hanok on the Namsan slope — bibimbap, buchu jeon, dotori muk and house-made traditional teas. 433m from Myeongdong Station Exit 2, so it is the closest thing to a quiet lunch within walking distance of the Myeongdong crowds. Minor wrinkle on the official page: the Days of Operation field reads Monday–Sunday while the holiday field says closed Tuesdays — the closing day is recorded here as Tuesday. The official English page prints no Korean name. ☎ +82-2-318-4790",
+    "hours": "11:00–20:00. Closed Tuesdays.",
+    "phone": "+82-2-318-4790",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Mongmyeok-Sanbang-EN/ENP014763"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Eulji Dabang",
+    "nameEn": "Eulji Dabang",
+    "nameKo": "",
+    "address": "2F, 124-1 Eulji-ro, Jung-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 1 Aug 2026): a 1985 dabang — an old-style Korean tea room — kept intact on a second floor among the Euljiro towers. The listed orders are ssanghwa tea served with a raw egg yolk floating in it like a full moon, plus ramen, cold coffee, plum tea and schisandra juice. Opens at 06:00 on weekdays, which makes it an unusually early stop. Euljiro 3-ga Station (Lines 2/3) Exit 10, 30m. The official English page prints no Korean name. ☎ +82-2-2272-1886",
+    "hours": "Mon–Sat 06:00–21:00 / Sun 09:00–20:00. No closing days printed.",
+    "phone": "+82-2-2272-1886",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Eulji-Coffee-Shop/ENP025376"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Omiga (Sinsa Branch)",
+    "nameEn": "Omiga (Sinsa Branch)",
+    "nameKo": "",
+    "address": "833 Nonhyeon-ro, Gangnam-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 3 Jun 2026): home-style Korean cooking — the portal's whole pitch is nostalgia and the kind of food a mother would make. Branch page, so **this address only**; note the listing is titled \"Sinsa Branch\" but prints a Nonhyeon-ro address and directs you from Apgujeong Station (Line 3) Exit 4, 323m. The official English page prints no Korean name. ☎ +82-2-543-1145",
+    "hours": "11:30–15:00 / 17:30–21:30. Closed Seollal & Chuseok.",
+    "phone": "+82-2-543-1145",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Omiga-Sinsa-Branch/ENP001641"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Maple Tree House Itaewon Branch",
+    "nameEn": "Maple Tree House Itaewon Branch",
+    "nameKo": "",
+    "address": "26 Itaewon-ro 27ga-gil, Yongsan-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 5 May 2026): grilled pork and beef in a Western-styled room done out with trees. Branch page — **this Itaewon branch only**. Itaewon Station (Line 6) Exit 1, 111m. The official English page prints no Korean name. ☎ +82-2-790-7977",
+    "hours": "Weekdays 11:30–15:00 / 17:00–22:00; weekends 11:30–22:00. Closed Lunar New Year & Chuseok.",
+    "phone": "+82-2-790-7977",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/DanpungnamujipItaewon-branch-EN/ENP006582"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Noneun Bada (노는바다)",
+    "nameEn": "Noneun Bada",
+    "nameKo": "노는바다",
+    "address": "1F, 39 Hwangnyeong-daero 481beon-gil, Suyeong-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: Japanese izakaya known for konowata (salted sea-cucumber guts), with handmade chicken karaage the other listed order. The portal warns that the wait is long enough that the house caps each table at two hours. Evenings only, and it runs to 01:00 on Friday and Saturday. ☎ 051-992-3838",
+    "hours": "Mon–Thu 17:00–24:00 / Fri–Sat 17:00–01:00. Closed Sundays and 1 January.",
+    "phone": "+82-51-992-3838",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1497"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Kyoto Donburi Main Branch (교토돈부리본점)",
+    "nameEn": "Kyoto Donburi Main Branch",
+    "nameKo": "교토돈부리본점",
+    "address": "61 Yongso-ro 13beon-gil, Nam-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: donburi specialist near Kyungsung/Pukyong universities; the listed orders are the salmon-belly rice bowl and the katsudon bento, and the tonkatsu donburi is made with Jeju black pork. The portal notes the sauces and ingredients are all made in house. Main-branch page — **this address only**. ☎ +82-507-1443-1919",
+    "hours": "Weekdays 11:00–16:00 / 17:00–22:00; weekends 11:00–22:00. Closed on public holidays.",
+    "phone": "+82-507-1443-1919",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1495"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Chowonbokguk",
+    "nameEn": "Chowonbokguk",
+    "nameKo": "",
+    "address": "30 Hwangnyeong-daero 492beon-gil, Nam-gu",
+    "michelin": "None",
+    "notes": "Visit Busan (Blue Ribbon 100 list): pufferfish house run by the same family for two generations across sixty years. Bok guk, bok bulgogi and a full pufferfish course that runs through shabu-shabu, deep-fried, sweet-and-sour salad and porridge; you pick the fish. The portal says there are branches across Busan — **this entry is the Nam-gu address only**. The item page renders directly at uc_seq=1622. ☎ 051-628-3935",
+    "hours": "09:00–15:00 / 17:00–21:00 (last order 20:15). Closed Lunar New Year's Day and Chuseok.",
+    "phone": "+82-51-628-3935",
+    "sources": [
+      {
+        "label": "Visit Busan (Blue Ribbon 100)",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002001&uc_seq=1622"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Ton shou",
+    "nameEn": "Ton shou",
+    "nameKo": "",
+    "address": "13 Gwanganhaebyeon-ro 279beon-gil, Suyeong-gu (Gwangalli)",
+    "michelin": "None",
+    "notes": "Tonkatsu, listed under \"A Culinary World Tour in Busan\". Near Gwangalli beach. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1639) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "11:30–21:00 (last order 20:00). Open all year.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Jyugajeonghyo",
+    "nameEn": "Jyugajeonghyo",
+    "nameKo": "",
+    "address": "3F, Haeundae La Muette, 620 Haeundae-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Kaiseki, listed under \"A Culinary World Tour in Busan\". Dinner only and closed two days a week, so plan around it. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1638) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "18:00–23:00 (last order 22:00). Closed Tuesdays and Wednesdays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "HAREMA",
+    "nameEn": "HAREMA",
+    "nameKo": "",
+    "address": "33 Marine city 2-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Sushi, listed under \"Fine Dining in Busan\". Note the lunch service does not run on Tuesday and Wednesday — those two days are dinner only. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1600) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "12:00–14:00 / 17:00–22:00; Tue & Wed 17:00–22:00 only. Closed Mondays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "palate",
+    "nameEn": "palate",
+    "nameKo": "",
+    "address": "66-30 Bunpo-ro, Nam-gu",
+    "michelin": "None",
+    "notes": "Contemporary cuisine, listed under \"Fine Dining in Busan\". Dinner only on weekdays; lunch is added Friday to Sunday. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1599) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "18:00–23:00; Fri, Sat & Sun 12:00–15:00 / 18:00–23:00. Closed Tuesdays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Gaegeum Milmyeon",
+    "nameEn": "Gaegeum Milmyeon",
+    "nameKo": "",
+    "address": "9-4 Gaya-daero 482beon-gil, Busanjin-gu",
+    "michelin": "None",
+    "notes": "Wheat-noodle (milmyeon) house listed under \"Busan's Classics\". **Not the same address as Seo-myeon Gaegeum Milmyeon**, also in this guide at 39 Seomyeon-ro 68beon-gil — the two were compared before both were kept, and they are separate premises in the same district. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1602) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "11:00–19:40. Closed Lunar New Year's Day and Chuseok.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "HYTTE ROASTERY",
+    "nameEn": "HYTTE ROASTERY",
+    "nameKo": "",
+    "address": "59 Dongseong-ro, Busanjin-gu",
+    "michelin": "None",
+    "notes": "Listed as a coffee shop under \"Desserts & Coffee\". Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1637) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "12:00–20:00; Sat & Sun 10:00–20:00. Closed on public holidays and on Lunar New Year's Day and Chuseok.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "BLACKUP COFFEE",
+    "nameEn": "BLACKUP COFFEE",
+    "nameKo": "",
+    "address": "41 Seojeon-ro 10beon-gil, Busanjin-gu",
+    "michelin": "None",
+    "notes": "Listed as a coffee shop under \"Desserts & Coffee\". Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1636) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "10:00–22:00. Open all year.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "Werk Roasters",
+    "nameEn": "Werk Roasters",
+    "nameKo": "",
+    "address": "115 Seojeon-ro 58beon-gil, Busanjin-gu",
+    "michelin": "None",
+    "notes": "Listed as a coffee shop under \"Desserts & Coffee\". Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1635) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "10:00–18:30 (last order 18:00). Closed Saturdays and Sundays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "Momos",
+    "nameEn": "Momos",
+    "nameKo": "",
+    "address": "20 Osige-ro, Geumjeong-gu",
+    "michelin": "None",
+    "notes": "Listed as a coffee shop under \"Desserts & Coffee\". Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1634) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "08:00–18:00. Closed on Lunar New Year's Day and Chuseok.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "Ops",
+    "nameEn": "Ops",
+    "nameKo": "",
+    "address": "37 Hwangnyeong-daero 489beon-gil, Suyeong-gu",
+    "michelin": "None",
+    "notes": "Listed as a bakery under \"Desserts & Coffee\". Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1633) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "08:00–22:00. Closed on Lunar New Year's Day and Chuseok.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "Brilliant",
+    "nameEn": "Brilliant",
+    "nameKo": "",
+    "address": "26 Oncheonjang-ro 119beon-gil, Dongnae-gu",
+    "michelin": "None",
+    "notes": "Listed as a dessert under \"Desserts & Coffee\". Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1632) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "12:00–17:00, closing early when sold out. Closed Mondays and Tuesdays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "bread365",
+    "nameEn": "bread365",
+    "nameKo": "",
+    "address": "13 Motgol-ro 41beon-gil, Nam-gu",
+    "michelin": "None",
+    "notes": "Listed as a bakery under \"Desserts & Coffee\". Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1631) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "11:00–19:30, closing early when ingredients run out. Closed Sundays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "Bonheur Pâtisserie",
+    "nameEn": "Bonheur Pâtisserie",
+    "nameKo": "",
+    "address": "7 Gyodae-ro, Yeonje-gu",
+    "michelin": "None",
+    "notes": "Listed as a dessert under \"Desserts & Coffee\". Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1630) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "11:30–19:00. Closed Mondays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "MONSIEUR VINCENT",
+    "nameEn": "MONSIEUR VINCENT",
+    "nameKo": "",
+    "address": "19 Gwangnam-ro 48beon-gil, Suyeong-gu",
+    "michelin": "None",
+    "notes": "Listed as a bakery under \"Desserts & Coffee\". Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1629) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "11:00–16:20. Closed Mondays and Tuesdays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "MUG Dessert LAB",
+    "nameEn": "MUG Dessert LAB",
+    "nameKo": "",
+    "address": "38 Marine city 2-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Listed as a dessert under \"Desserts & Coffee\". Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints the address, hours and closing days for each of the hundred entries. The per-item page (uc_seq=1628) only renders when opened from that index, so the index is cited as the source.",
+    "hours": "13:00–19:00 (last order 18:00). Closed Tuesdays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Michael's Urban Farm Table",
+    "nameEn": "Michael's Urban Farm Table",
+    "nameKo": "",
+    "address": "20 Gurak-ro 123beon-gil, Suyeong-gu",
+    "michelin": "None",
+    "notes": "New American cooking. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1589 under \"Fine Dining in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "11:30–14:30 / 17:00–22:00; Sat & Sun 11:00–22:00. Open all year.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Le DORER",
+    "nameEn": "Le DORER",
+    "nameKo": "",
+    "address": "37 Marine city 3-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Modern Korean cuisine. Dinner only. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1588 under \"Fine Dining in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "17:00–21:30. Closed Wednesdays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Korean-Chinese & Dumplings",
+    "name": "Nampung",
+    "nameEn": "Nampung",
+    "nameKo": "",
+    "address": "296 Haeundaehaebyeon-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Chinese cuisine, on the Haeundae seafront road. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1586 under \"Fine Dining in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "12:00–14:30 / 18:00–21:30; Sat & Sun 12:00–15:00 / 18:00–22:00. Open all year.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Chilseong Hoetjip",
+    "nameEn": "Chilseong Hoetjip",
+    "nameKo": "",
+    "address": "263 Gwanganhaebyeon-ro, Suyeong-gu",
+    "michelin": "None",
+    "notes": "Sliced raw fish (hoe) on the Gwangalli beachfront — the index files it under sea-view restaurants, so ask for a window table. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1585 under \"Restaurants with Ocean Views\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "12:00–22:00. Open all year.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Ireok",
+    "nameEn": "Ireok",
+    "nameKo": "",
+    "address": "51 Marine city 3-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Thick beef-bone soup, open around the clock — useful for an early start or a late arrival in Marine City. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1584 under \"Restaurants with Ocean Views\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "Open 24 hours. Open all year.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "Oryukdogawon",
+    "nameEn": "Oryukdogawon",
+    "nameKo": "",
+    "address": "14 Baegunpo-ro, Nam-gu",
+    "michelin": "None",
+    "notes": "Grilled beef, out by Oryukdo at the mouth of the harbour. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1583 under \"Restaurants with Ocean Views\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "11:30–21:30. Closed on Lunar New Year's Day and Chuseok.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "Mokjangwon",
+    "nameEn": "Mokjangwon",
+    "nameKo": "",
+    "address": "355 Jeoryeong-ro, Yeongdo-gu",
+    "michelin": "None",
+    "notes": "Beef short ribs, on the Yeongdo coast road. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1582 under \"Restaurants with Ocean Views\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "11:30–21:30. Closed on Lunar New Year's Day and Chuseok.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "Gyuujeong",
+    "nameEn": "Gyuujeong",
+    "nameKo": "",
+    "address": "129 Dalmaji-gil, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Grilled beef up on the Dalmaji hill road above Haeundae. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1578 under \"Restaurants with Ocean Views\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "12:00–15:00 / 17:00–23:00 (last order 22:00). Open all year.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "Goseurak",
+    "nameEn": "Goseurak",
+    "nameKo": "",
+    "address": "286 Haemaji-ro, Jangan-eup, Gijang-gun",
+    "michelin": "None",
+    "notes": "Grilled beef out at Jangan in Gijang-gun — well outside the city, a drive rather than a walk. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1577 under \"Restaurants with Ocean Views\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "11:30–22:00 (last order 21:00). Open all year.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Geobukseon Hoetjip",
+    "nameEn": "Geobukseon Hoetjip",
+    "nameKo": "",
+    "address": "69 Dalmaji-gil 62beon-gil, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Sliced raw fish on the Dalmaji hill above Haeundae; long hours, right through to 23:00. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1576 under \"Restaurants with Ocean Views\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "11:00–23:00. Closed on Lunar New Year's Day and Chuseok.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Cappadocia",
+    "nameEn": "Cappadocia",
+    "nameKo": "",
+    "address": "123-9 Geumdan-ro, Geumjeong-gu",
+    "michelin": "None",
+    "notes": "Turkish cooking, up near Geumjeongsan. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1575 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "11:30–21:30 (last order 20:30). Closed Tuesdays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "ALOI THAI RESTAURANT",
+    "nameEn": "ALOI THAI RESTAURANT",
+    "nameKo": "",
+    "address": "26 Millaksubyeon-ro 239beon-gil, Suyeong-gu",
+    "michelin": "None",
+    "notes": "Thai cooking by the Millak waterfront. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1574 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "11:00–15:00 / 17:00–21:00 (last order 20:20). Closed Tuesdays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "DAL THAI",
+    "nameEn": "DAL THAI",
+    "nameKo": "",
+    "address": "193 Dalmaji-gil, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Thai cooking on the Dalmaji hill road. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1573 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "11:30–15:00 / 16:30–21:00 (last order 20:00). Open all year.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "RAEOAK",
+    "nameEn": "RAEOAK",
+    "nameKo": "",
+    "address": "76 Yongso-ro 7beon-gil, Nam-gu",
+    "michelin": "None",
+    "notes": "Vietnamese cooking near Kyungsung University. Opens at 10:30, early for the area. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1572 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "10:30–21:00 (last order 20:00). Closed Mondays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Restaurant L'étang",
+    "nameEn": "Restaurant L'étang",
+    "nameKo": "",
+    "address": "22 Seongji-ro, Busanjin-gu",
+    "michelin": "None",
+    "notes": "French cooking. The index marks it reservation-only, so do not turn up on spec. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for each of the hundred entries; listed there as item uc_seq=1571 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "12:00–15:00 / 18:00–21:00, **by reservation only**. Closed Mondays and Tuesdays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Seogang Kkeopdegi",
+    "nameEn": "Seogang Kkeopdegi",
+    "nameKo": "",
+    "address": "36 World Cup-ro, Mapo-gu (Hapjeong)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 27 Apr 2026): grilled pork rinds (kkeopdegi) and pork of all kinds, with the roast pork also popular; the portal calls it the best pork-rind house in Seoul and notes BigBang ate here before their debut. Runs to 03:30, so it is a late-night stop rather than a dinner. Hapjeong Station (Lines 2/6) Exit 9, 311m. The page prints the phone as \"+82 23385541\" — i.e. +82-2-338-5541. The official English page prints no Korean name. Instagram: @west_river__official",
+    "hours": "16:00–03:30 (next day). Open year round.",
+    "phone": "+82-2-338-5541",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Seogang-Kkeopdegi/ENP012289"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Hyoja Bakery",
+    "nameEn": "Hyoja Bakery",
+    "nameKo": "",
+    "address": "54 Pirundae-ro, Jongno-gu (Seochon, by Tongin Market)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 3 Aug 2026): Seochon's first bakery, trading since 1987, next to Tongin Market below the old Blue House. Sweets, doughnuts, croquettes and the cornbread it is known for, alongside fermented breads and bagels. The listing warns it sells out at weekends and closes early when the bread runs out. The page also lists a dated summer break, \"8/4~8/7\", which has already passed. The official English page prints no Korean name. ☎ +82-2-736-7629",
+    "hours": "Tue–Sun 08:00–19:40, closing early when the bread runs out. Closed Mondays.",
+    "phone": "+82-2-736-7629",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Hyoja-Bakery/ENP019657"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Nagwon Rice Cake",
+    "nameEn": "Nagwon Rice Cake",
+    "nameKo": "",
+    "address": "438 Samil-daero, Jongno-gu (Jongno 3-ga)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 29 Jul 2026): tteok (Korean rice cake) made by hand since the 1920s, three generations in, using techniques the shop traces to a court lady of Wonseo-dong; the duteoptteok is the signature. Designated a **Seoul Future Heritage** site. Open every day, 08:00–21:00, which makes it an easy stop off the Jongno 3-ga exits. Jongno 3-ga Station (Lines 1/3/5) Exit 5, 202m. The official English page prints no Korean name. ☎ +82-2-732-5579",
+    "hours": "08:00–21:00. Open daily, no closing days printed.",
+    "phone": "+82-2-732-5579",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Nakwon-Food/ENP026190"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "La Cantina",
+    "nameEn": "La Cantina",
+    "nameKo": "",
+    "address": "19 Eulji-ro, Jung-gu (Samsung Building)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 3 Aug 2026): billed as Korea's first Italian restaurant, opened in the 1960s in the basement of the Samsung Building at the suggestion of Samsung founder Lee Byung-chul, and long a haunt of political and business figures. Korean-Italian dishes such as spaghetti con vongole, plus a \"Samsung Set\". Euljiro 1-ga Station (Line 2) Exit 1-1, 100m — a ten-minute walk from Myeongdong. The official English page prints no Korean name. ☎ +82-2-777-2580",
+    "hours": "Mon–Sat 11:30–15:00 / 17:00–22:00. Closed Sundays, Seollal & Chuseok.",
+    "phone": "+82-2-777-2580",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/La-Cantina-EN/ENP011702"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Nolboo Sulfur Duck Restaurant",
+    "nameEn": "Nolboo Sulfur Duck Restaurant",
+    "nameKo": "",
+    "address": "131 Ogeum-ro, Songpa-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 2 Jun 2026): duck packed with angelica root, ginseng, antler, liquorice root, ginkgo nuts, figs, pine nuts and rice, sealed in mud and baked three hours in an earthenware oven at 450°. Songpanaru Station (Line 9) Exit 2, 256m. No closing day is printed on the listing. The official English page prints no Korean name. ☎ +82-507-1383-5292",
+    "hours": "11:30–22:00, break 15:00–17:00. (No closing day printed on the listing.)",
+    "phone": "+82-507-1383-5292",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Nolboo-Sulfur-Duck-RestaurantJamsil/ENP002505"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Cafe Layered Anguk Branch",
+    "nameEn": "Cafe Layered Anguk Branch",
+    "nameKo": "",
+    "address": "2-3 Bukchon-ro 2-gil, Jongno-gu (Anguk)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 9 May 2026): the Anguk main store of Cafe Layered, in a hanok-roofed building 64m from Anguk Station Exit 2, known for lightly toasted scones — cranberry cream cheese and black sesame ang butter among them. Branch page — **this Anguk location only**. **No phone number is printed on the listing.** Instagram: @cafe_layered",
+    "hours": "Daily 08:00–22:00.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Cafe-Layered-Anguk/ENP038318"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "La ConTi",
+    "nameEn": "La ConTi",
+    "nameKo": "",
+    "address": "85 Cheongsapo-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Italian cooking out at Cheongsapo, east of Haeundae. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1566 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "12:00–15:00 / 17:30–22:00 (last order 20:30). Closed Tuesdays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "TETE O NE",
+    "nameEn": "TETE O NE",
+    "nameKo": "",
+    "address": "35 Dongseong-ro 25beon-gil, Busanjin-gu",
+    "michelin": "None",
+    "notes": "A dining bar in Seomyeon, on the same lane as Cor Pasta Bar (which is at no. 13 — different premises). Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1565 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "15:00–24:00 (last order 23:00); Sat 12:00–24:00 (last order 23:00); Sun 12:00–18:00 (last order 17:00). Closed Mondays and Tuesdays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Zero Base",
+    "nameEn": "Zero Base",
+    "nameKo": "",
+    "address": "17 Millak-ro 33beon-gil, Suyeong-gu",
+    "michelin": "None",
+    "notes": "Japanese cooking run in two fixed evening sittings — book, and turn up on time. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1564 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "18:00–20:00 / 20:30–22:30. Closed Sundays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "YAKITORI Haegong",
+    "nameEn": "YAKITORI Haegong",
+    "nameKo": "",
+    "address": "30-5 Millakbondong-ro 19beon-gil, Suyeong-gu",
+    "michelin": "None",
+    "notes": "Yakitori, evenings only. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1563 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "17:30–24:00. Closed Sundays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "SUSHI IRUKA",
+    "nameEn": "SUSHI IRUKA",
+    "nameKo": "",
+    "address": "38 Marine city 2-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Sushi, run in seatings. Same Marine City building as MUG Dessert LAB and MOZU, all listed separately on the index. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1562 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "Lunch 12:00–14:00; dinner first seating from 17:30, second seating from 20:00. Open all year. (The index prints lunch as \"12 a.m to 2 p.m.\" — a typo for 12 p.m.)",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Sushi sian",
+    "nameEn": "Sushi sian",
+    "nameKo": "",
+    "address": "9 Centum 1-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Sushi in Centum City, two fixed evening seatings. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1561 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "First seating 18:00–20:00; second seating 20:00–22:00. Closed Sundays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "SHOJIN",
+    "nameEn": "SHOJIN",
+    "nameKo": "",
+    "address": "9 Gunam-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Kaiseki, a short walk from Haeundae beach. Dinner only. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1560 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "18:00–22:00. Closed Mondays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "MOZU",
+    "nameEn": "MOZU",
+    "nameKo": "",
+    "address": "38 Marine city 2-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Izakaya running to 01:00 — one of the few late options in Marine City. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1559 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "18:00–01:00 (last order 24:00). Open all year.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Donggyeong Bapsang",
+    "nameEn": "Donggyeong Bapsang",
+    "nameKo": "",
+    "address": "34-6 Namcheonbada-ro, Suyeong-gu",
+    "michelin": "None",
+    "notes": "Rice topped with broiled eel, in Namcheon. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1558 under \"A Culinary World Tour in Busan\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "11:30–15:00 / 17:30–21:00 (last order 20:30). Closed Mondays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Tambok",
+    "nameEn": "Tambok",
+    "nameKo": "",
+    "address": "31 Munoseong-gil, Ilgwang-eup, Gijang-gun",
+    "michelin": "None",
+    "notes": "Abalone specialist out at Ilgwang in Gijang-gun. Weekday lunch only — there is no weekday dinner service. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1554 under \"Busan City Tour Bus Restaurants\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "10:30–15:00; Sat & Sun 10:30–15:00 / 17:00–19:30. Closed Mondays and Tuesdays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Mujinjang Hoetjip",
+    "nameEn": "Mujinjang Hoetjip",
+    "nameKo": "",
+    "address": "137 Yeonhwa 1-gil, Gijang-eup, Gijang-gun",
+    "michelin": "None",
+    "notes": "Sliced raw conger eel, in Gijang town. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1553 under \"Busan City Tour Bus Restaurants\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "11:00–21:00. Open all year.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Ajeossi Daegutang",
+    "nameEn": "Ajeossi Daegutang",
+    "nameKo": "",
+    "address": "31 Dalmaji-gil 62beonga-gil, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Cod stew (daegutang) on the Dalmaji hill, open from 07:00 — a genuine breakfast option near Haeundae. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1551 under \"Busan City Tour Bus Restaurants\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "07:00–21:00. Closed the 2nd and 4th Monday of each month.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Budamyeonok",
+    "nameEn": "Budamyeonok",
+    "nameKo": "",
+    "address": "36 Jungdong 1-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Pyeongyang-style cold buckwheat noodles in Haeundae — a northern-style naengmyeon house in a city that is otherwise all milmyeon. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1550 under \"Busan City Tour Bus Restaurants\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "11:00–20:00 (last order 19:30). Closed Mondays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Saechong Hoetjip",
+    "nameEn": "Saechong Hoetjip",
+    "nameKo": "",
+    "address": "25 Banyeo-ro 155beon-gil, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Sliced raw fish in Banyeo-dong, inland Haeundae-gu. Opens at 14:00 — no lunch service. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1547 under \"Busan City Tour Bus Restaurants\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "14:00–22:00. Closed the 1st Monday and 3rd Sunday of each month.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Ssangdungi Dwaejigukbap",
+    "nameEn": "Ssangdungi Dwaejigukbap",
+    "nameKo": "",
+    "address": "35-1 UN pyeonghwa-ro, Nam-gu",
+    "michelin": "None",
+    "notes": "Dwaeji gukbap near the UN Memorial Cemetery, open thirteen hours a day, year round. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1542 under \"Busan City Tour Bus Restaurants\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "09:00–22:00. Open all year.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "Eunha Galbi",
+    "nameEn": "Eunha Galbi",
+    "nameKo": "",
+    "address": "86 Choryangjung-ro, Dong-gu",
+    "michelin": "None",
+    "notes": "Grilled pork galbi in Choryang, near Busan Station. Read off Visit Busan's official \"BLUE RIBBON SURVEY: 100 Great Places to Eat in Busan\" index, which prints address, hours and closing days for every entry; listed there as item uc_seq=1539 under \"Busan City Tour Bus Restaurants\". The per-item page only renders when opened from that index, so the index is cited.",
+    "hours": "11:00–22:00. Closed the 2nd Tuesday of each month.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan — Blue Ribbon 100 Great Places to Eat in Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Suyeon Sanbang",
+    "nameEn": "Suyeon Sanbang",
+    "nameKo": "",
+    "address": "8 Seongbuk-ro 26-gil, Seongbuk-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 13 May 2026): a traditional tea house in the hanok where the short-story writer Lee Tae-jun worked; his grand-niece opened it as a tea house in 1998. Korean teas with light refreshments — bamboo-shoot rice cakes rolled in bean flour or filled with red bean. The page prints the walk from Hansung University Station (Line 4) Exit 5 as \"1.3m\", plainly a typo for 1.3km, so allow a proper walk or take a taxi. The official English page prints no Korean name. ☎ +82-2-764-1736",
+    "hours": "Wed–Fri 11:30–17:50; Sat–Sun 11:30–19:50. Closed Mondays and Tuesdays.",
+    "phone": "+82-2-764-1736",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Suyeon-Sanbang-EN/ENP000979"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Byeokje Galbi Tower Palace",
+    "nameEn": "Byeokje Galbi Tower Palace",
+    "nameKo": "",
+    "address": "26 Eonju-ro 30-gil, Gangnam-gu (Tower Palace)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 3 Jun 2026): the Tower Palace branch of Byeokje Galbi, serving Seolhwa hanwoo — raw short ribs, flower sirloin, galbitang. The portal repeats a Wall Street Journal Asia \"five best in Asia\" billing; that is the portal's claim, not independently checked here. Branch page — **this Dogok/Tower Palace branch only**. Dogok Station (Line 3 / Suin-Bundang) Exit 4, 488m. The official English page prints no Korean name. ☎ +82-2-2058-3535 · bjgalbi.com",
+    "hours": "Weekdays 11:30–15:00 / 17:00–22:00; weekends 11:30–22:00. Open year round.",
+    "phone": "+82-2-2058-3535",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Byeokje-Tower-Palace-EN/ENP005524"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Café Rosso",
+    "nameEn": "Café Rosso",
+    "nameKo": "",
+    "address": "81-12 Samcheong-ro, Jongno-gu (Samcheong-dong)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 13 May 2026): a quiet cafe on the upper stretch of Samcheong-ro with a red sign, serving Brazil Fazenda drip coffee, cakes and a wine list. Anguk Station (Line 3) Exit 2, 974m — the far end of the Samcheong-dong walk. The official English page prints no Korean name. ☎ +82-507-1418-2622",
+    "hours": "Mon–Tue 11:00–19:00; Wed–Sun 11:00–21:00. (No closing day printed on the listing.)",
+    "phone": "+82-507-1418-2622",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Caf%C3%A9-Rosso-EN/ENP012557"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Taegeukdang",
+    "nameEn": "Taegeukdang",
+    "nameKo": "",
+    "address": "7 Dongho-ro 24-gil, Jung-gu (Jangchung-dong)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 27 Jul 2026): a bakery trading since 1946, founded by a man who wanted independence for the country and named it, and its Mugunghwa logo, accordingly. The portal notes the house has deliberately refused to franchise so the recipes stay put. Monaka, vegetable sarada and cornbread are the named items. Dongguk University Station (Line 3) Exit 2, 24m — essentially at the exit. The official English page prints no Korean name. ☎ +82-2-2279-3152 · taegeukdang.com",
+    "hours": "08:00–21:00. Open daily, no closing days printed.",
+    "phone": "+82-2-2279-3152",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Taegeukdang/ENP026194"
       }
     ]
   }
