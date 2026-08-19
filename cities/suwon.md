@@ -37,9 +37,19 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Suwon Yeongdong Market** (수원 영동시장) | 6 Suwoncheon-ro 255beon-gil, Paldal-gu | VisitKorea: market near Paldalmun since **1917**; ~300 stores (hanbok, fabric, clothing, daily goods, food). **Hours are the market window — individual food stalls vary.** ☎ +82-31-251-0171 | **10:00–20:00. Closed the 1st and 15th of every month.** | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=70886) |
 
+## Suwon city — other verified entries
+
+| Spot Name (Korean) | Address / Neighborhood | Notes | Hours & Closures | Source |
+| :--- | :--- | :--- | :--- | :--- |
+| **Bukmun Seafood** (북문 해물탕) | 27 Jeongjo-ro 922beon-gil, Jangan-gu (by Janganmun / Hwahongmun) | VisitKorea (halal-friendly listing): Korean seafood house whose listed dishes are **spicy seafood stew (haemul-tang)** and braised seafood, both sized for a table rather than one person. Marked **pork-free** with a halal menu, but the page says there is **no prayer room**. Walkable from Janganmun, so it pairs with the Hwaseong north-wall stretch. ☎ +82-31-243-2441 | 11:00–22:00. Closed the 1st Monday of each month. | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138538) |
+| **Chungmyung** (청명쭈꾸미 철판구이) | 48 Gwonjung-ro 56beon-gil, Gwonseon-gu | VisitKorea (halal-friendly listing): griddled **jjukkumi** — spicy stir-fried baby octopus — served with rice. Marked halal menu and **pork-free**; **no prayer room**. Seven parking spaces. Gwonseon-gu is south-west of the fortress, so this is a car/bus stop rather than a Hwaseong walk. ☎ +82-31-239-7892 | 10:00–22:00 (no closing day printed on the listing) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138561) |
+| **Swoyambhu** (수엠부) | 9 Maesan-ro 20beon-gil, Paldal-gu (near Suwon Station) | VisitKorea: Indian and Nepalese cooking — chicken tikka, vegetarian curry set, chicken chow mein. **Halal menu, pork-free, prayer room available**, 110 seats. A five-minute walk from Suwon Station, which makes it the most practical non-galbi meal in the city for a day trip. ☎ +82-31-258-3305 | 11:30–22:00. Open all year round. | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138321) |
+| **Naan** (난) | 2F, 45 Ingye-ro 166beon-gil, Paldal-gu (Ingye-dong) | VisitKorea: Indian kitchen in the Ingye-dong restaurant district — tandoori chicken by the half or whole bird, garlic naan. **Halal menu and prayer room**; 100 seats and seven parking spaces. Near Suwon City Hall Station rather than the fortress. ☎ +82-31-237-1090 | 11:00–22:00 (no closing day printed on the listing) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138475) |
+| **Om Restaurant Gwanggyo Branch** (옴레스토랑 광교점) | #B223 Raon Zone, 2F, Avenue France, 85 Centraltown-ro, Yeongtong-gu (Gwanggyo) | VisitKorea: Indian restaurant in the Avenue France mall at Gwanggyo — tandoori chicken and vegetable biryani are the listed dishes. **Halal menu, pork-free, prayer room**, 100 parking spaces and coach parking. Out at Gwanggyo, not central Suwon. ☎ +82-31-305-8848 · omfood.kr | 10:00–22:00 (no closing day printed on the listing) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=138543) |
+
 ---
 
-## Not added (this pass)
+## Not added (galbi & Chicken Street passes)
 
 | Entry | Reason |
 | :--- | :--- |

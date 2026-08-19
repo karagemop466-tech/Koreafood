@@ -466,3 +466,33 @@ Same brief, same standard. **Every address and every hours line below was read o
 * Jinguk Seolleongtang (47258) and Chungmu Hoetjip (85275) — VisitKorea returned an empty body / HTTP 400 on every attempt. Queued.
 * Bongchu Jjimdak Busan (54119), Gang Ho Dong Baekjeong, Yoogane, Isaac Toast — franchise branches; standing rule, not added.
 * 품안 (Chungnam `rstNo=503`, Cheonan) — verified and real (Japanese course menu, 16:00–22:00, closed Sundays) but a reservation-only kaiseki house, off-brief for this guide; left out on editorial grounds, not verification grounds.
+
+---
+
+# Twelfth expansion pass — 19 August 2026
+
+Same brief, same standard: **every address and hours line below was read off the official page in this session.** **Added 20.** Roster: **189** (Seoul 93 · Busan 53 · Suwon 12 · Daejeon 20 · Cheonan 11).
+
+**The Suwon problem is solved — and not by lowering the bar.** Two previous passes added nothing in Suwon because the only per-shop hours available were contradictory. This pass found a different, properly structured official channel: **VisitKorea's halal / Muslim-friendly restaurant listings** (`infoHtmlView.do`), which print a full street address, operating hours, seat count, parking and prayer-room status per restaurant. Five Suwon entries came out of it (Suwon 7 → 12). Two are Korean restaurants (Bukmun Seafood, Chungmyung); three are Indian/Nepalese (Swoyambhu, Naan, Om Gwanggyo) and are labelled as such in the guide, with their halal/prayer-room facts stated exactly as the portal states them.
+
+**Added — Seoul (6)**
+* Igamyeonok 58862 · Well-being Sujebi 47607 (closed Tuesdays) · Eunhangnamujip 58916 (24 h) · Busan Agujjim Gulbossam 60265 (break 15:00–17:00, LO 20:00) · Chamchi Maeul 57407 · Sigoljeonjip 60375. Four of the six are on the Jongno 3-ga block, which is now the densest verified cluster in the guide.
+
+**Added — Suwon (5)**
+* Bukmun Seafood 138538 (closed 1st Monday) · Chungmyung 138561 · Swoyambhu 138321 · Naan 138475 · Om Restaurant Gwanggyo 138543. Three of the five print **no closing day**; the rows say so.
+
+**Added — Busan (6)**
+* Myeonchaeum `uc_seq=1509` (five-grain milmyeon, PNU) · Jeongjitgan `uc_seq=1512` (24 h, Saha-gu) · Dongbaekseom Hoejip `uc_seq=154` (market-price hoe — flagged) · Jang Seong Hyang 81181 (*Oldboy* dumplings, Chinatown) · Woojung's Bibimbap 53652 (Seomyeon) · Ilbeonji Jagalchi Sangomjangeo 74351 (hagfish, Haeundae Market, to 01:00).
+
+**Added — Cheonan (3)**
+* Byeogodong `rstNo=2` (boribap, closed Sundays) · Kkachi Bokjip `rstNo=4` (pufferfish, closed Sundays) · Dongmin Mokjang `rstNo=481` (pear-orchard café, seasonal hours). Cheonan is now 11 and no longer just the sundae street.
+
+**Checked and rejected**
+* **Keungiwajip** (VisitKorea rgn 80675, Bukchon) — English address "62 Bukchon-ro 5-gil" does **not** match the Korean address "북촌로 20-7" on the same page. Same failure as Daejeon galbijip. Rejected.
+* **Yennal Omakjip** (75123, Busan) — same English/Korean street mismatch. Rejected.
+* **Haeundae Rib Barbecue Restaurant** (`uc_seq=1468`) — duplicate of the existing Haeundae Amso Galbijip entry (same name, same address); Visit Busan and VisitKorea also print **different hours** for it, which is a second reason to leave the existing VisitKorea-sourced row alone.
+* **포르탈바** (Chungnam `rstNo=482`, Cheonan) — listed, but hours, closing day and phone are all blank. Rejected.
+* **Halal Indian Restaurant** (138240) — real and well documented, but it is in **Gimpo**, outside the five cities.
+* **알밤에 반한 한우** (Chungnam `rstNo=5`) — fully documented, but it is in **Gongju**, not Cheonan.
+* Hanttukbaegi 54000, Pyeongsanok 184975, Sanggukine 74347, Imo Yanggopchang 45617, Rainbow Korean Restaurant 85828, Visit Busan `uc_seq=1515` — pages returned an empty body or HTTP 400 on every attempt this pass. Queued, not guessed.
+* **ggtour.or.kr** (Gyeonggi Tourism) was tested as a Suwon source: its restaurant detail pages render **no text at all** to a fetcher, so it could not be used even though the data exists behind the JavaScript.

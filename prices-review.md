@@ -42,11 +42,11 @@ If no source publishes a price, **leave the row blank**. A blank row is the corr
 
 ---
 
-## The 169 verified restaurants
+## The 189 verified restaurants
 
 Roster generated from `restaurants-bookmarks.csv`. If an entry is added or removed there, update this file to match.
 
-### Seoul (87)
+### Seoul (93)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -137,8 +137,14 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 85 | Vegan Kitchen | — | |
 | 86 | KAMPUNGKU | — | |
 | 87 | MaeHwa Lamb Skewers Myeongdong | — | |
+| 88 | Igamyeonok | 이가면옥 | |
+| 89 | Well-being Sujebi | 웰빙수제비 | |
+| 90 | Eunhangnamujip | 은행나무집 | |
+| 91 | Busan Agujjim Gulbossam | 부산아구찜굴보쌈 | |
+| 92 | Chamchi Maeul | 참치마을 | |
+| 93 | Sigoljeonjip | 시골전집 | |
 
-### Busan (47)
+### Busan (53)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -189,8 +195,14 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 45 | Halmaejip Hoeguksu | 할매집회국수 | |
 | 46 | Hongseongbang | 홍성방 | |
 | 47 | Marine Buffet | 마린뷔페 | |
+| 48 | Myeonchaeum | 면채움 | |
+| 49 | Jang Seong Hyang | 장성향 | |
+| 50 | Jeongjitgan | 정짓간 | |
+| 51 | Woojung's Bibimbap | 우정 | |
+| 52 | Dongbaekseom Hoejip | 동백섬횟집 | |
+| 53 | Ilbeonji Jagalchi Sangomjangeo | 일번지자갈치산곰장어 | |
 
-### Suwon (7)
+### Suwon (12)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -201,6 +213,11 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 5 | Leenakyeong Songtan Budaejjigae | 이나경송탄부대찌개 | |
 | 6 | Nostalgic Dalgona | 추억의달고나 | |
 | 7 | Suwon Yeongdong Market | 수원 영동시장 | |
+| 8 | Bukmun Seafood | 북문 해물탕 | |
+| 9 | Chungmyung | 청명쭈꾸미 철판구이 | |
+| 10 | Swoyambhu | 수엠부 | |
+| 11 | Naan | 난 | |
+| 12 | Om Restaurant Gwanggyo Branch | 옴레스토랑 광교점 | |
 
 ### Daejeon (20)
 
@@ -227,7 +244,7 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 19 | Pungnyeon Samgyetang | 풍년삼계탕 | |
 | 20 | Gugu Jeonbok Samgyetang | 구구전복삼계탕 | |
 
-### Cheonan (8)
+### Cheonan (11)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -251,3 +268,6 @@ Restaurant sites were largely a dead end: `mdkj.co.kr` is behind a CAPTCHA, `bud
 | 6 | Jangkalguksu | 장칼국수 | |
 | 7 | Jeongsang Galbi | 정상갈비 | |
 | 8 | Galjae Sanjang | 갈재산장 | |
+| 9 | Byeogodong | 벽오동 | |
+| 10 | Kkachi Bokjip | 까치복집 | |
+| 11 | Dongmin Mokjang | 동민목장 | |

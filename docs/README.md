@@ -1,6 +1,6 @@
 # GitHub Pages site
 
-Static viewer for the **169 verified** restaurants in this repo.
+Static viewer for the **189 verified** restaurants in this repo.
 
 - Data is generated from the city markdown tables (`cities/*.md`).
 - Only official source URLs already in those tables are linked.

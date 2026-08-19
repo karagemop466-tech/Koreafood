@@ -187,13 +187,13 @@ Byeongcheon sundae uses **small intestine** rather than large, so it is far less
 
 | City | Verified entries | Routes built |
 | :--- | ---: | ---: |
-| Seoul | 87 | 5 |
-| Busan | 47 | 4 |
-| Suwon | 7 | 1 |
+| Seoul | 93 | 5 |
+| Busan | 53 | 4 |
+| Suwon | 12 | 1 |
 | Daejeon | 20 | 2 |
-| Cheonan | 8 | 1 |
-| **Total** | **169** | **13** |
+| Cheonan | 11 | 1 |
+| **Total** | **189** | **13** |
 
-The 43 entries added in the tenth and eleventh expansion passes (18–19 August 2026) are **not yet sequenced into the routes above** — they are verified and listed in the city guides, but the walks have not been rebuilt around them.
+The 63 entries added in the tenth, eleventh and twelfth expansion passes (18–19 August 2026) are **not yet sequenced into the routes above** — they are verified and listed in the city guides, but the walks have not been rebuilt around them.
 
 **Check hours the morning you go** — official portals lag, and Korean restaurants close on holidays this file cannot predict.
