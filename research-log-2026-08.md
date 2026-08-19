@@ -902,3 +902,78 @@ The Blue Ribbon seam that produced most of this round is a Busan City asset and 
 All 21 new rows print no Korean name on their official page — the Blue Ribbon index is English-only and the Visit Seoul pages in this batch omit it. Those Korean fields are **left empty** rather than transliterated, and each row says to search the address on Naver Map.
 
 **Blue Ribbon index coverage so far:** roughly 40 of its 100 entries have now been read. The remainder — much of "Busan's Classics" and the "Busan City Tour Bus Restaurants" category — is the obvious next seam, and it should be worked as a **cross-check against existing Busan entries** as much as a source of new ones.
+
+---
+
+# Expansion passes 54–63 — 19 August 2026 (Blue Ribbon index as source *and* auditor)
+
+Ten further passes. **+20 added, 3 removed, 2 corroborated.** Roster 297 → **314** (Seoul 142 · Busan 126 · Suwon 14 · Daejeon 20 · Cheonan 12).
+
+Last round ended with a recommendation: work the rest of the Blue Ribbon index **as a cross-check against existing Busan entries as much as a source of new ones**. That is what this round did, and it paid off in both directions — sixteen new Busan entries, three existing entries removed, two existing entries confirmed against a second official source.
+
+## Passes 54–55 — index page 7
+
+* **La ConTi** (1566), **TETE O NE** (1565), **Zero Base** (1564), **YAKITORI Haegong** (1563) — all kept.
+* **SUSHI IRUKA** (1562), **Sushi sian** (1561), **SHOJIN** (1560), **MOZU** (1559), **Donggyeong Bapsang** (1558) — all kept.
+
+SUSHI IRUKA's lunch is printed as "12 a.m to 2 p.m.", plainly a typo for 12 p.m.; the row reproduces the correction and flags the typo. TETE O NE sits at 35 Dongseong-ro 25beon-gil, the same lane as the roster's existing Cor Pasta Bar at no. 13 — checked, different premises, both kept.
+
+## Passes 56–57 — index page 8, one rejection, two conflicts
+
+Kept: **Tambok** (1554), **Mujinjang Hoetjip** (1553), **Ajeossi Daegutang** (1551), **Budamyeonok** (1550), **Saechong Hoetjip** (1547).
+
+**Yeongnam dwaeji** (`uc_seq=1552`) — **rejected**. Its hours field is corrupted: *"1st floor: 11:30 a.m. a.m. - 10:30 p.m. (Last seating: 9:30, Last order: 10:00 a.m.) 2nd floor: 11:30 a.m. a.m. - 9:30 p.m. (Last seating: 9:30, Last order: 10:00 a.m.)"*. A last order of 10:00 a.m. at a restaurant opening at 11:30 is not a readable figure, and the doubled "a.m. a.m." shows the field is mangled. Hours that cannot be read are hours that cannot be published.
+
+Two entries the guide already holds turned up on the same page and **disagreed with their existing sources** — see the removals table below.
+
+## Passes 58–60, 62 — Seoul, Visit Seoul index page 8
+
+Kept: **Suyeon Sanbang** `ENP000979`, **Byeokje Galbi Tower Palace** `ENP005524`, **Café Rosso** `ENP012557`, **Taegeukdang** `ENP026194`.
+
+Suyeon Sanbang's page prints the walk from Hansung University Station as "1.3m" — a typo for 1.3km, noted in the row so nobody expects a doorstep.
+
+**Cheongjinok** `ENP004537` — **not added.** The page prints the address as *32, Naksan 3-gil, Jongno-gu* while its own directions field puts it 294m from Gwanghwamun Station Exit 3 and 397m from Jonggak Exit 1. Those are two different parts of Jongno-gu, and one official page should not describe a restaurant as being in both. Which field is wrong could not be settled from an approved source, so the entry was left out rather than published with an address that may send someone to the wrong neighbourhood. Worth revisiting if the page is corrected.
+
+## Pass 61 — index page 9
+
+Kept: **Ssangdungi Dwaejigukbap** (1542), **Eunha Galbi** (1539). Two further entries matched the roster — one cleanly, one not.
+
+## Pass 63 — the audit result
+
+### Removed (official hours conflict)
+
+| Entry | Source it was built on | Blue Ribbon index |
+| :--- | :--- | :--- |
+| **Dongbaekseom Hoejip** | `uc_seq=154` — 12:00–14:00 / 16:00–22:00, closed public holidays | 10:00–22:00 (LO 20:20), open all year |
+| **Chopilsal Dwaejigui** | `uc_seq=1850` — 17:00–24:00 | 17:00–01:00 |
+| **Hapcheon Gukbapjip** | 09:00–14:00 / 14:30–20:00, closed public holidays | 09:00–14:00 / 14:30–20:30, open all year |
+
+Dongbaekseom Hoejip is the worst of the three: the two official pages disagree on opening time, on whether there is an afternoon break at all, and on closing days. All three are now in the **"Removed from this guide, and why"** table in `cities/busan.md` with both figures printed.
+
+That is six Busan entries removed over two rounds on this same test (Mori, LAB XXIV, Halmae Gukbap last round; these three now), on top of Shinbalwon from an earlier session. The pattern is consistent: **Visit Busan's per-restaurant listings and its Blue Ribbon index are maintained separately and drift apart.** Any Busan entry sourced from only one of the two should be treated as provisional until the other is checked.
+
+### Corroborated (two official sources agree)
+
+* **Geodae Galbi** — the index lists it as "Geodae sutbulgui", same address, **same hours** (11:30–15:00 / 17:00–22:00, open all year).
+* **Gijang Sonkalguksu** — listed as "Gijangson kalguksu", same address, **same 09:00–21:00**, and the index *adds* closures on Lunar New Year's Day and Chuseok that the original listing omitted. The existing row has been refined with that detail.
+
+Both rows now say so. Corroboration is worth recording, not just contradiction — it tells a reader which entries have been checked twice.
+
+## Suwon — sixth consecutive round, unchanged
+
+No new Suwon search channel was found this round, and none was invented. The Blue Ribbon index is a Busan City asset with no Suwon counterpart; the five channels worked in earlier rounds remain exhausted. Suwon stays at **14** for the reason documented in `cities/suwon.md`: no city-level tourism portal publishing restaurant hours. Rather than repeat the same failing searches a sixth time and report them as fresh work, this is stated plainly.
+
+## Where the roster stands
+
+| City | Entries | Change |
+| :--- | ---: | :--- |
+| Seoul | 142 | +4 |
+| Busan | 126 | +16 added, −3 removed |
+| Suwon | 14 | — |
+| Daejeon | 20 | — |
+| Cheonan | 12 | — |
+| **Total** | **314** | **+20 / −3** |
+
+All 20 new rows print no Korean name on their official page; those fields are left empty rather than transliterated.
+
+**Blue Ribbon index coverage:** roughly 65 of 100 entries read across the two rounds. The unread remainder is mostly "Busan's Classics", which is precisely where overlap with this guide's existing dwaeji-gukbap and milmyeon entries is densest — so the next pass over it should again be run as an audit first and a search second.

@@ -42,11 +42,11 @@ If no source publishes a price, **leave the row blank**. A blank row is the corr
 
 ---
 
-## The 297 verified restaurants
+## The 314 verified restaurants
 
 Roster generated from `restaurants-bookmarks.csv`. If an entry is added or removed there, update this file to match.
 
-### Seoul (138)
+### Seoul (142)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -188,9 +188,13 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 136 | La Cantina |  | |
 | 137 | Nolboo Sulfur Duck Restaurant |  | |
 | 138 | Cafe Layered Anguk Branch |  | |
+| 139 | Suyeon Sanbang |  | |
+| 140 | Byeokje Galbi Tower Palace |  | |
+| 141 | Café Rosso |  | |
+| 142 | Taegeukdang |  | |
 
 
-### Busan (113)
+### Busan (126)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -229,84 +233,97 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 33 | 1969 Buwondong Kalguksu Busan Main Branch | 1969부원동칼국수 부산본점 | |
 | 34 | Pyeongan-do Jokbal | 평안도족발 | |
 | 35 | Gwangalli Eonyang Bulgogi Busanjip |  | |
-| 36 | Hapcheon Gukbapjip | 합천국밥집 | |
-| 37 | Sinchang Gukbap | 신창국밥 | |
-| 38 | Gayapocha Seonjigukbap Main Branch | 가야포차선지국밥 본점 | |
-| 39 | Pohang Dwaeji Gukbap | 포항돼지국밥 | |
-| 40 | Geumsubokguk Haeundae Branch | 금수복국 | |
-| 41 | Jeju Bokguk | 제주복국 | |
-| 42 | 100.1.pyeongnaeng | 백일평냉 | |
-| 43 | Halmaejip Hoeguksu | 할매집회국수 | |
-| 44 | Hongseongbang | 홍성방 | |
-| 45 | Marine Buffet | 마린뷔페 | |
-| 46 | Myeonchaeum | 면채움 | |
-| 47 | Jang Seong Hyang | 장성향 | |
-| 48 | Jeongjitgan | 정짓간 | |
-| 49 | Woojung's Bibimbap | 우정 | |
-| 50 | Dongbaekseom Hoejip | 동백섬횟집 | |
-| 51 | Ilbeonji Jagalchi Sangomjangeo | 일번지자갈치산곰장어 | |
-| 52 | Busak Yakkong Milmyeon | 부산약콩밀면 | |
-| 53 | Ha Gi-yeon Jinju Naengmyeon | 하기연진주냉면 | |
-| 54 | Haemul Wangchang Kalguksu | 해물왕창칼국수 | |
-| 55 | Jungang Momil | 중앙모밀 | |
-| 56 | Lee Family's Kalguksu | 이가네 칼국수 | |
-| 57 | Yasumaru | 야스마루 | |
-| 58 | Uri Dwaejigukbap | 우리돼지국밥 | |
-| 59 | Bugwang Dwaejigukbap | 부광돼지국밥 | |
-| 60 | Halmae Jaecheopguk | 할매재첩국 | |
-| 61 | Wonjo Kkorigomjip | 원조꼬리곰집 | |
-| 62 | Park Hae-yun Tongyeong Bapsang | 박해윤 통영 해물밥상 | |
-| 63 | Janganjip | 장안집 | |
-| 64 | Lee Family's Tteokbokki | 이가네 떡볶이 | |
-| 65 | Hanttukbaegi | 한뚝배기 | |
-| 66 | Daom | 다옴 | |
-| 67 | Haeundae Ilpum Hanwoo | 해운대일품한우 | |
-| 68 | Chopilsal Dwaejigui |  | |
-| 69 | Sogonggan |  | |
-| 70 | Woobong Shabu |  | |
-| 71 | bibibidang |  | |
-| 72 | Seoul Samgyetang | 서울삼계탕 | |
-| 73 | Gwangangukbap | 광안국밥 | |
-| 74 | Subok Dwaejigukbap | 수복돼지국밥 | |
-| 75 | Suhyang Bapsang | 수향밥상 | |
-| 76 | Samnak Hadong Jaecheopguk |  | |
-| 77 | Bubu Coffee |  | |
-| 78 | Donghwa Banjeom |  | |
-| 79 | Myeonok Hyangcheon |  | |
-| 80 | Jinmi Eonyang Bulgogi |  | |
-| 81 | Noneun Bada | 노는바다 | |
-| 82 | Kyoto Donburi Main Branch | 교토돈부리본점 | |
-| 83 | Chowonbokguk |  | |
-| 84 | Ton shou |  | |
-| 85 | Jyugajeonghyo |  | |
-| 86 | HAREMA |  | |
-| 87 | palate |  | |
-| 88 | Gaegeum Milmyeon |  | |
-| 89 | HYTTE ROASTERY |  | |
-| 90 | BLACKUP COFFEE |  | |
-| 91 | Werk Roasters |  | |
-| 92 | Momos |  | |
-| 93 | Ops |  | |
-| 94 | Brilliant |  | |
-| 95 | bread365 |  | |
-| 96 | Bonheur Pâtisserie |  | |
-| 97 | MONSIEUR VINCENT |  | |
-| 98 | MUG Dessert LAB |  | |
-| 99 | Michael's Urban Farm Table |  | |
-| 100 | Le DORER |  | |
-| 101 | Nampung |  | |
-| 102 | Chilseong Hoetjip |  | |
-| 103 | Ireok |  | |
-| 104 | Oryukdogawon |  | |
-| 105 | Mokjangwon |  | |
-| 106 | Gyuujeong |  | |
-| 107 | Goseurak |  | |
-| 108 | Geobukseon Hoetjip |  | |
-| 109 | Cappadocia |  | |
-| 110 | ALOI THAI RESTAURANT |  | |
-| 111 | DAL THAI |  | |
-| 112 | RAEOAK |  | |
-| 113 | Restaurant L'étang |  | |
+| 36 | Sinchang Gukbap | 신창국밥 | |
+| 37 | Gayapocha Seonjigukbap Main Branch | 가야포차선지국밥 본점 | |
+| 38 | Pohang Dwaeji Gukbap | 포항돼지국밥 | |
+| 39 | Geumsubokguk Haeundae Branch | 금수복국 | |
+| 40 | Jeju Bokguk | 제주복국 | |
+| 41 | 100.1.pyeongnaeng | 백일평냉 | |
+| 42 | Halmaejip Hoeguksu | 할매집회국수 | |
+| 43 | Hongseongbang | 홍성방 | |
+| 44 | Marine Buffet | 마린뷔페 | |
+| 45 | Myeonchaeum | 면채움 | |
+| 46 | Jang Seong Hyang | 장성향 | |
+| 47 | Jeongjitgan | 정짓간 | |
+| 48 | Woojung's Bibimbap | 우정 | |
+| 49 | Ilbeonji Jagalchi Sangomjangeo | 일번지자갈치산곰장어 | |
+| 50 | Busak Yakkong Milmyeon | 부산약콩밀면 | |
+| 51 | Ha Gi-yeon Jinju Naengmyeon | 하기연진주냉면 | |
+| 52 | Haemul Wangchang Kalguksu | 해물왕창칼국수 | |
+| 53 | Jungang Momil | 중앙모밀 | |
+| 54 | Lee Family's Kalguksu | 이가네 칼국수 | |
+| 55 | Yasumaru | 야스마루 | |
+| 56 | Uri Dwaejigukbap | 우리돼지국밥 | |
+| 57 | Bugwang Dwaejigukbap | 부광돼지국밥 | |
+| 58 | Halmae Jaecheopguk | 할매재첩국 | |
+| 59 | Wonjo Kkorigomjip | 원조꼬리곰집 | |
+| 60 | Park Hae-yun Tongyeong Bapsang | 박해윤 통영 해물밥상 | |
+| 61 | Janganjip | 장안집 | |
+| 62 | Lee Family's Tteokbokki | 이가네 떡볶이 | |
+| 63 | Hanttukbaegi | 한뚝배기 | |
+| 64 | Daom | 다옴 | |
+| 65 | Haeundae Ilpum Hanwoo | 해운대일품한우 | |
+| 66 | Sogonggan |  | |
+| 67 | Woobong Shabu |  | |
+| 68 | bibibidang |  | |
+| 69 | Seoul Samgyetang | 서울삼계탕 | |
+| 70 | Gwangangukbap | 광안국밥 | |
+| 71 | Subok Dwaejigukbap | 수복돼지국밥 | |
+| 72 | Suhyang Bapsang | 수향밥상 | |
+| 73 | Samnak Hadong Jaecheopguk |  | |
+| 74 | Bubu Coffee |  | |
+| 75 | Donghwa Banjeom |  | |
+| 76 | Myeonok Hyangcheon |  | |
+| 77 | Jinmi Eonyang Bulgogi |  | |
+| 78 | Noneun Bada | 노는바다 | |
+| 79 | Kyoto Donburi Main Branch | 교토돈부리본점 | |
+| 80 | Chowonbokguk |  | |
+| 81 | Ton shou |  | |
+| 82 | Jyugajeonghyo |  | |
+| 83 | HAREMA |  | |
+| 84 | palate |  | |
+| 85 | Gaegeum Milmyeon |  | |
+| 86 | HYTTE ROASTERY |  | |
+| 87 | BLACKUP COFFEE |  | |
+| 88 | Werk Roasters |  | |
+| 89 | Momos |  | |
+| 90 | Ops |  | |
+| 91 | Brilliant |  | |
+| 92 | bread365 |  | |
+| 93 | Bonheur Pâtisserie |  | |
+| 94 | MONSIEUR VINCENT |  | |
+| 95 | MUG Dessert LAB |  | |
+| 96 | Michael's Urban Farm Table |  | |
+| 97 | Le DORER |  | |
+| 98 | Nampung |  | |
+| 99 | Chilseong Hoetjip |  | |
+| 100 | Ireok |  | |
+| 101 | Oryukdogawon |  | |
+| 102 | Mokjangwon |  | |
+| 103 | Gyuujeong |  | |
+| 104 | Goseurak |  | |
+| 105 | Geobukseon Hoetjip |  | |
+| 106 | Cappadocia |  | |
+| 107 | ALOI THAI RESTAURANT |  | |
+| 108 | DAL THAI |  | |
+| 109 | RAEOAK |  | |
+| 110 | Restaurant L'étang |  | |
+| 111 | La ConTi |  | |
+| 112 | TETE O NE |  | |
+| 113 | Zero Base |  | |
+| 114 | YAKITORI Haegong |  | |
+| 115 | SUSHI IRUKA |  | |
+| 116 | Sushi sian |  | |
+| 117 | SHOJIN |  | |
+| 118 | MOZU |  | |
+| 119 | Donggyeong Bapsang |  | |
+| 120 | Tambok |  | |
+| 121 | Mujinjang Hoetjip |  | |
+| 122 | Ajeossi Daegutang |  | |
+| 123 | Budamyeonok |  | |
+| 124 | Saechong Hoetjip |  | |
+| 125 | Ssangdungi Dwaejigukbap |  | |
+| 126 | Eunha Galbi |  | |
 
 
 ### Suwon (14)
