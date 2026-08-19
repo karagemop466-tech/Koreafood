@@ -1328,3 +1328,75 @@ Geumseong Steak (printed signature is budae jjigae). Sobok Galbi (Yesan). Gowon 
 | **Total** | **423** | **+25 / −1** |
 
 Do not re-add NOBIZIB / Neobijip unless one of the two conflicting official pages is withdrawn or corrected. Same standing prohibition as Haeundae Ilpum Hanwoo, Gaehwa, Wan Chai and Samwon Garden.
+
+## Passes 114–123 — 19 August 2026
+
+Ten additional search and verification passes against the 423-entry roster. Scope: black-bean noodles, KBBQ, galbijim, tonkatsu, spicy cold noodles, steak, Korea-only foods and cafes; focus order Seoul tourist districts then Busan. Restaurants and cafes remain separate in `cities/by-location.md`.
+
+**Result: +25 verified entries** (Seoul +23 · Busan +2), no removals. New roster: **448**.
+
+### What each pass did
+
+- **114 — baseline and jajangmyeon:** confirmed 423 clean rows and screened every Visit Seoul jajangmyeon result. All usable results were already held, conflicted (Gaehwa/Wan Chai), franchise-rejected (Bobae), off-brief or HTTP-failed. **No add.**
+- **115 — galbijim / braised ribs:** Visit Seoul's search returned only already-held Songlimga. Broader official searches did not produce a new Busan galbijim detail page with address and hours. **No add.**
+- **116 — tonkatsu:** fetched Cochon (already added in pass 104), Herzia and Hakoya. Herzia is Italian/off-brief; Hakoya's “tonkatsu ramen” is pork-broth ramen, not cutlet. **No add.**
+- **117 — spicy cold noodles:** kept **Gitdaebong Naengmyeon** after reading address, hours, closure and spicy-bibim specialty on the detail page.
+- **118 — KBBQ / samgyeopsal:** kept **Doyajip, Sammijung, Jamdubong The Nine, Seochon Daeha Restaurant, Namdo Sikdang, Nariuijip, Yangcholli**. Every page prints a barbecue specialty, exact address and hours.
+- **119 — local Korean food:** kept **Songam Onban** and **Babjitgo Tiurim**. Chowol was rejected because its official weekend schedule contains the invalid time `12:090`.
+- **120 — Seoul cafes:** kept 13 cafe listings from Visit Seoul: **TBAB, Musim, JO＆DAWSON Gwanghwamun, Smore Market Samcheong, Yeogi Inga, Tiki Room, Cafe Gongmyung Mangwon Book Bakery, Cafe Kakariko, Shilladang Ikseon, Gamkkotdang, Rain Report Rainbow, Moowee Nakwon, Seoul Coffee Ikseon**.
+- **121 — Busan local food / noodles:** kept **Hamheung Bossam Four Seasons Naengmyeon** and **Choryang Tongdak** from full Visit Busan detail pages.
+- **122 — Busan retry / cafe:** retried Bukgyeong, Daeseong Galchi Jjigaegui, Daon, Seokhwa Hanjeongsik and Tonshou Gwangalli in English and Korean URL forms. Bodies remained empty; none were added from snippets. Busan cafe searches yielded no additional full detail page not already held.
+- **123 — duplicate and conflict audit:** checked all 25 names against `docs/data.json` and `restaurants-bookmarks.csv`, then searched for second official pages. No duplicate spelling and no conflicting second official listing was found. Rain Report Croissant is a different Seongsu cafe and its VisitKorea page returned HTTP 400, so it was not added.
+
+### Line-by-line keeper record
+
+#### Seoul restaurants (10)
+
+1. **Gitdaebong Naengmyeon** — 2F Unit 2038, Venezia Mega Mall, 400 Cheonggyecheon-ro, Jung-gu; **11:00–20:30; closed Mondays, Seollal & Chuseok**; spicy bibim naengmyeon with three heat levels; ☎ +82-2-762-4407; Visit Seoul `ENP013129` (edited 5 May 2026).
+2. **Doyajip** — 27 Hangang-daero 52-gil, Yongsan-gu; **weekdays 11:30–22:00, break 14:50–16:30, last orders 14:10/20:50; weekends 12:00–22:00, LO 20:50**; bone-in pork belly and pork neck; ☎ +82-507-1335-8521; Visit Seoul `ENP2lpdrw`.
+3. **Sammijung** — 32-6 Eulji-ro 19-gil, Jung-gu; **daily 11:00–21:30**; samgyeopsal-only main; no phone printed; Visit Seoul `ENPhzb6qe`.
+4. **Jamdubong The Nine** — 352-6 Hapjeong-dong, Mapo-gu (lot address printed by the portal); **daily 12:00–22:00**; samgyeopsal and tteokgalbi; ☎ +82-507-1385-8903; Visit Seoul `ENPuv9y9f`.
+5. **Seochon Daeha Restaurant** — 27 Jahamun-ro 7-gil, Jongno-gu; **Mon–Sat 16:00–22:00, last admission 20:00 / earlier if sold out; closed Sundays**; grilled pork belly; ☎ +82-2-734-9503; Visit Seoul `ENP038570` (edited 15 Jun 2026).
+6. **Namdo Sikdang** — 42 Jong-ro 3-gil, Jongno-gu; **Mon–Sat 10:00–14:00 / 16:00–22:00; closed Sundays, Seollal & Chuseok**; spicy charcoal pork; ☎ +82-2-734-0719; Visit Seoul `ENP011450`.
+7. **Nariuijip** — 245 Itaewon-ro, Yongsan-gu; **Mon–Sat 14:00–24:00 / Sun 16:00–24:00; closed Seollal & Chuseok**; samgyeopsal and cheonggukjang; ☎ +82-2-793-4860; Visit Seoul `ENP006294`.
+8. **Yangcholli** — 2720 Nambusunhwan-ro, Gangnam-gu; **open 24 hours daily**; charcoal samgyeopsal; ☎ +82-507-1413-1284; Visit Seoul `ENP014445` (edited 6 Jun 2026).
+9. **Songam Onban** — 1F, 31-3 Donhwamun-ro 11na-gil, Jongno-gu; **11:30–22:00, open year-round**; dwaeji gukbap, suyuk, jeon, mandu and traditional liquor in a hanok; ☎ +82-507-1369-5938; Visit Seoul `ENPhrnovc` (6 Aug 2026).
+10. **Babjitgo Tiurim** — 2F, 15 Seongbuk-ro 2-gil, Seongbuk-gu; **Mon–Fri 11:00–15:00 / 17:00–21:00; Sat 11:00–15:00 / 17:00–20:00; closed Sundays**; naturally seasoned Korean cooking; ☎ +82-507-1402-4999; Visit Seoul `ENPll1tbp` (6 Jul 2026).
+
+#### Seoul cafes (13; kept outside restaurant tables)
+
+1. **TBAB** — 8-11 Jahamun-ro 45-gil, Jongno-gu; **weekdays 11:00–18:00 LO 17:30 / weekends 11:00–19:00 LO 18:30**; no phone printed; Visit Seoul `ENPgvi0k6`.
+2. **Musim** — 4 Huam-ro 13-gil, Yongsan-gu; **weekdays 12:00–18:00 / Sat 11:30–19:30 / Sun 11:30–19:00**; seasonal bingsu/dessert; no phone printed; Visit Seoul `ENPi6rvj2`.
+3. **JO＆DAWSON Gwanghwamun Branch** — Tower 1, 33 Jongno; **weekdays 07:30–20:00 LO 19:00 / weekends 10:00–20:00 LO 19:00**; this address only; no phone printed; Visit Seoul `ENPtjmzyg`.
+4. **Smore Market Samcheong Branch** — 74-3 Yulgok-ro 3-gil, Jongno-gu; **11:00–21:00**; this branch only; ☎ +82-70-7116-6809; Visit Seoul `ENPvlhzhw`.
+5. **Yeogi Inga** — 24-4 Jahamun-ro 7-gil, Jongno-gu; **Tue–Fri 12:15–22:00 / Sat 12:00–22:00 / Sun 12:30–21:00; closed Mon**; ☎ +82-70-8880-7020; Visit Seoul `ENPnpz0q2`.
+6. **Tiki Room** — 5F, 26-3 Eonju-ro 170-gil, Gangnam-gu; **weekdays 11:00–19:00 / weekends 13:00–19:00**; DIY bungeoppang; no phone printed; Visit Seoul `ENP2ckakp`.
+7. **Cafe Gongmyung Mangwon Book Bakery** — 22-3 World Cup-ro 13-gil, Mapo-gu; **daily 10:00–22:00**; ☎ +82-507-1363-6304; Visit Seoul `ENPbg0u5h`.
+8. **Cafe Kakariko** — 19 Jongno 54-gil, Jongno-gu; **11:00–18:00; closed Tuesdays and rainy days**; no phone printed; Visit Seoul `ENP0zvhxx`.
+9. **Shilladang Ikseon** — 1F, 40 Donhwamun-ro 11da-gil, Jongno-gu; **daily 10:30–21:00**; handmade hangwa/juak; ☎ +82-507-1498-8220; Visit Seoul `ENP0366bl`.
+10. **Gamkkotdang** — 38 Donhwamun-ro 11da-gil, Jongno-gu; **daily 10:30–22:00**; egg tarts, apple pie, scones; no phone printed; Visit Seoul `ENP031927`.
+11. **Rain Report Rainbow** — 33-7 Supyo-ro 28-gil, Jongno-gu; **daily 10:30–20:30**; cloud pavlova; ☎ +82-2-763-8215; Visit Seoul `ENP933ykf`.
+12. **Moowee Nakwon** — 17-25 Supyo-ro 28-gil, Jongno-gu; **Mon–Sat 11:30–23:00, break 15:00–17:00, lunch LO 14:30 / Sun 11:30–16:00**; hanok brunch cafe; ☎ +82-507-1360-0670; Visit Seoul `ENPp5wevo`.
+13. **Seoul Coffee Ikseon Branch** — 33-3 Supyo-ro 28-gil, Jongno-gu; **daily 11:00–22:00 LO 21:40, open year-round**; this branch only; ☎ +82-507-1404-4890; Visit Seoul `ENP039310`.
+
+#### Busan restaurants (2)
+
+1. **Hamheung Bossam Four Seasons Naengmyeon** (함흥보쌈사계절냉면) — 42 Namhang-ro, Yeongdo-gu; **Mon, Tue & Thu–Sun 10:50–20:00, break 15:20–16:00, LO 19:30; closed Wednesdays**; about 50 years; bossam plus Hamheung/Pyeongyang naengmyeon; ☎ +82-51-416-2342; Visit Busan KO `uc_seq=1136`.
+2. **Choryang Tongdak** (초량통닭) — 15 Choryang-ro; **Mon–Sat 16:00–23:30; closed Sundays/traditional holidays**; fried chicken house since 1976; ☎ +82-51-468-2738; Visit Busan `uc_seq=1260`.
+
+### Rejected this round
+
+**Herzia** (Italian/off-brief) · **Hakoya** (ramen, not cutlet) · **Hongdae Dakgalbi** (HTTP 500) · **Chowol** (invalid official time `12:090`) · **Rain Report Croissant** (HTTP 400) · **Cheongsudang** (article body did not render) · **Seokhwa Hanjeongsik**, **Bukgyeong**, **Daeseong Galchi Jjigaegui**, **Daon** (empty Visit Busan pages) · **Tonshou Gwangalli** (empty and already held from the Blue Ribbon index) · **BAOHAUS** (Taiwanese/off-brief).
+
+No facts were copied from search snippets, no printed prices were copied, and no Korean name was guessed.
+
+### Where the roster stands
+
+| City | Entries | Change |
+| :--- | ---: | :--- |
+| Seoul | 257 | +23 |
+| Busan | 144 | +2 |
+| Suwon | 14 | — |
+| Daejeon | 20 | — |
+| Cheonan | 13 | — |
+| **Total** | **448** | **+25** |

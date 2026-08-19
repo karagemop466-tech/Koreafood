@@ -42,11 +42,11 @@ If no source publishes a price, **leave the row blank**. A blank row is the corr
 
 ---
 
-## The 423 verified restaurants
+## The 448 verified restaurants
 
 Roster generated from `docs/data.json`. If an entry is added or removed there, update this file to match.
 
-### Seoul (234)
+### Seoul (257)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -284,8 +284,31 @@ Roster generated from `docs/data.json`. If an entry is added or removed there, u
 | 232 | The Baker's Table |  | |
 | 233 | Dok-Dabang |  | |
 | 234 | GMH Dabang |  | |
+| 235 | Gitdaebong Naengmyeon |  | |
+| 236 | Doyajip |  | |
+| 237 | Sammijung |  | |
+| 238 | Jamdubong The Nine |  | |
+| 239 | Seochon Daeha Restaurant |  | |
+| 240 | Namdo Sikdang |  | |
+| 241 | Nariuijip |  | |
+| 242 | Yangcholli |  | |
+| 243 | Songam Onban |  | |
+| 244 | Babjitgo Tiurim |  | |
+| 245 | TBAB |  | |
+| 246 | Musim |  | |
+| 247 | JO＆DAWSON Gwanghwamun Branch |  | |
+| 248 | Smore Market Samcheong Branch |  | |
+| 249 | Yeogi Inga |  | |
+| 250 | Tiki Room |  | |
+| 251 | Cafe Gongmyung Mangwon Book Bakery |  | |
+| 252 | Cafe Kakariko |  | |
+| 253 | Shilladang Ikseon |  | |
+| 254 | Gamkkotdang |  | |
+| 255 | Rain Report Rainbow |  | |
+| 256 | Moowee Nakwon |  | |
+| 257 | Seoul Coffee Ikseon Branch |  | |
 
-### Busan (142)
+### Busan (144)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -431,6 +454,8 @@ Roster generated from `docs/data.json`. If an entry is added or removed there, u
 | 140 | Café Hill |  | |
 | 141 | Café Mandi |  | |
 | 142 | Café Dottori Roasters |  | |
+| 143 | Hamheung Bossam Four Seasons Naengmyeon | 함흥보쌈사계절냉면 | |
+| 144 | Choryang Tongdak | 초량통닭 | |
 
 ### Suwon (14)
 

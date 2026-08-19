@@ -1,4 +1,4 @@
-# Jajangmyeon, KBBQ, Galbijim & Cafes — by location
+# Jajangmyeon, KBBQ, Galbijim, Tonkatsu, Naengmyeon, Steak, Local Food & Cafes — by location
 
 **This page is the organised index** for black-bean noodles (jajangmyeon / 짜장면), Korean barbecue, galbijim (braised short ribs), tonkatsu, spicy cold noodles, fancy steak, Korea-only dishes, and cafes. Restaurants and cafes are in **separate tables**. Each table is grouped by neighbourhood.
 
@@ -15,6 +15,8 @@
 **Ten further passes, 19 August 2026 (94–103):** **+24 added, −1 removed** (Seoul +17 · Busan +7). **Haeundae Ilpum Hanwoo removed** — Visit Busan `uc_seq=2195` (11:30–22:00, LO 21:00, break 15:00–17:00) and VisitKorea `75368` (11:30–23:00, LO 22:00, no break) disagree on hours **and** phone at the same address (49 Haeundae-ro 570beon-gil). Same test that removed Gaehwa, Wan Chai and Samwon Garden.
 
 **Ten further passes, 19 August 2026 (104–113):** **+25 added, −1 removed** (Seoul +17 · Busan +8). Brief widened to tonkatsu, spicy cold noodles, fancy steak and Korea-only dishes, plus cafes. **NOBIZIB / Neobijip removed** — VisitKorea `85673` (11:30–22:00, LO 21:30, closed Seollal & Chuseok day, ☎ +82-2-756-4084) and Visit Seoul `ENP003422` (11:00–21:30, closed Sundays, Seollal & Chuseok, ☎ +82-2-756-4030) disagree on hours **and** phone at the same address (37-8 Myeongdong 9-gil).
+
+**Ten further passes, 19 August 2026 (114–123):** **+25 added** (Seoul +23 · Busan +2). Ten line-by-line official-page passes covered spicy bibim-naengmyeon, KBBQ, local Korean food and cafes. No keeper had a duplicate spelling or a second official source with conflicting facts; pages with invalid hours, HTTP errors or empty bodies were rejected.
 
 The city guides remain the full roster. This page is only the dishes named above, plus cafes.
 
@@ -43,6 +45,7 @@ The city guides remain the full roster. This page is only the dishes named above
 | **Dalmaji Gwangjang Barbecue** **NEW** | KBBQ (charcoal chicken) | **Sun–Thu 16:00–01:00 (next day) / Fri–Sat 16:00–02:00 (next day). Daily.** | 1F, 112-1 Eulji-ro, Jung-gu. Visit Seoul (26 Jun 2026): K-BBQ house in the Euljiro back alleys — the page is explicit that the barbecue is **fresh charcoal chicken** cooked to order, with draft beer. Euljiro 3-ga Station Exit 11, 79 m. Official English page prints no Korean name. ☎ +82-507-1498-6715 | [Visit Seoul](https://english.visitseoul.net/restaurants/dalmazibbq/ENPjdhubv) |
 | **Yeontabal Jongro** (연타발 종로) **NEW** | KBBQ | **Weekdays 11:30–23:00 (LO 22:30) / weekends & holidays 11:30–23:00 (LO 21:30).** | 19 Samil-daero 15-gil, Jongno-gu — Cheonggyecheon / Jongno, a short walk from Myeongdong. VisitKorea: printed main is grilled Korean-beef rib-eye steak. Same street as Jjamppong Zizon Jongno. ☎ +82-2-720-9263 | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=57647) |
 | **Namsan Sanchaejip** (남산산채집) **NEW** | Tonkatsu | **10:50–21:00. Daily.** | 1F, 95 Sopa-ro, Jung-gu. Visit Seoul KO (18 Feb 2025): printed signature is Namsan tonkatsu (antibiotic-free Korean pork); sanchae bibimbap also listed. Myeongdong Station Exit 3, about 552 m. ☎ +82-507-1434-1978 | [Visit Seoul (KO)](https://korean.visitseoul.net/restaurants/sanchaizip/KOPgswh2c) |
+| **Sammijung** **NEW** | KBBQ (samgyeopsal) | **Daily 11:00–21:30.** | 32-6 Eulji-ro 19-gil, Jung-gu. Visit Seoul (18 Jun 2025): outdoor-yajang-style barbecue; the only main dish is samgyeopsal, with doenjang jjigae and fried rice as add-ons. Euljiro 4-ga Station Exit 1, 343 m. Official English page prints no Korean name or phone. | [Visit Seoul](https://english.visitseoul.net/restaurants/Sammijung/ENPhzb6qe) |
 
 ### Hongdae / Mapo / Yeonnam (Seoul)
 
@@ -63,6 +66,7 @@ Hongdae was almost empty in this guide. This is the gap the ten passes were mean
 | **Chosun Hwaro Gui** (조선화로구이) **NEW** | KBBQ | **11:30–24:00. Break 15:00–17:00. Last order 23:30. Closed Sundays.** | 5 World Cup buk-ro, Mapo-gu (Seogyo-dong, Hongdae). VisitKorea: charcoal grill using only 1++ Korean beef and domestic pork; boneless Korean galbi is the printed best-seller; marinated pork galbi also listed. ☎ +82-2-3143-1300 | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=214996) |
 | **Original Jobak House** **NEW** | KBBQ | **11:30–22:00. Break 15:00–17:00. Closed Sundays. Mon–Sat.** | 313-1 Tojeong-ro, Mapo-gu. Visit Seoul (edited 22 Jul 2026): pork ribs since 1979; house-brewed makgeolli. Mapo Station Exit 1, 199 m — Gongdeok / Mapo Station side, not Hongdae proper. Official English page prints no Korean name. ☎ +82-2-712-7462 | [Visit Seoul](https://english.visitseoul.net/restaurants/OriginalJoBakJip/ENPon4w77) |
 | **Cochon Tonkatsu** **NEW** | Tonkatsu | **11:00–19:00. Break 16:00–17:00.** | 2 Myeongmul 1-gil, Seodaemun-gu (Sinchon Station Exit 3, 261 m). Visit Seoul (edited 24 Jun 2026): tonkatsu-only shop. Same block as Hyeongje Galbi. Official English page prints no Korean name. No phone printed. Menu prices on the listing are not copied. | [Visit Seoul](https://english.visitseoul.net/restaurants/CochonTonkatsu/ENPf7618z) |
+| **Jamdubong The Nine** **NEW** | KBBQ | **Daily 12:00–22:00.** | 352-6 Hapjeong-dong, Mapo-gu. Visit Seoul (22 May 2025): barbecue in a former Han River dock; printed signatures are samgyeopsal and tteokgalbi. Hapjeong Station Exit 7, 804 m. Lot address as the official page prints it. Official English page prints no Korean name. ☎ +82-507-1385-8903 | [Visit Seoul](https://english.visitseoul.net/restaurants/the9bongbong/ENPuv9y9f) |
 
 ### Gangnam (Seoul)
 
@@ -79,6 +83,7 @@ Hongdae was almost empty in this guide. This is the gap the ten passes were mean
 | **BBQ YUL Gangnam Branch** **NEW** | KBBQ (aged pork) | **Mon–Fri 14:00–22:20 / Sat 13:00–21:20. Closed every Sunday.** | 2F, 48 Seocho-daero 78-gil, Seocho-gu (Gangnam Station Exit 5, 395 m). Visit Seoul (31 Oct 2025): aged pork — neck, shoulder blade, belly — grilled by staff. BBQ YUL is a chain — **this Gangnam branch address only**. Per-person fee band on the listing is not copied. Official English page prints no Korean name. ☎ +82-10-9257-1762 | [Visit Seoul](https://english.visitseoul.net/restaurants/bbqyul/ENPg70qkk) |
 | **Seocho Galbi** (서초갈비) **NEW** | KBBQ | **Daily 10:00–22:00. Open year-round.** | 12 Banpo-daero, Seocho-gu. Visit Seoul (edited 6 Jun 2026): chargrilled wanggalbi and fresh sirloin; the page notes the shop grew into a 5-story building and kept the original taste. Nambu Bus Terminal Station Exit 5, 584 m. ☎ +82-507-1322-7157 | [Visit Seoul](https://english.visitseoul.net/restaurants/Seoriful-Ribs-EN/ENP006638) |
 | **Just Steak** **NEW** | Steak | **11:30–22:00. Daily.** | 29 Seolleung-ro 157-gil, Gangnam-gu. Visit Seoul (edited 4 Jul 2026): dry-aged Korean steaks. Apgujeong Station Exit 2, 820 m. Official English page prints no Korean name. ☎ +82-2-544-9357 | [Visit Seoul](https://english.visitseoul.net/restaurants/Just-Steak/ENP005067) |
+| **Yangcholli** **NEW** | KBBQ (charcoal samgyeopsal) | **Open 24 hours (00:00–24:00), daily.** | 2720 Nambusunhwan-ro, Gangnam-gu. Visit Seoul (edited 6 Jun 2026): charcoal-grilled samgyeopsal; kimchi jeongol and sundubu jjigae at lunch. Maebong Station Exit 4, 282 m. Official English page prints no Korean name. ☎ +82-507-1413-1284 | [Visit Seoul](https://english.visitseoul.net/restaurants/Yangcholli/ENP014445) |
 
 ### Dongdaemun (Seoul)
 
@@ -91,6 +96,7 @@ Hongdae was almost empty in this guide. This is the gap the ten passes were mean
 | **Samgyeopsal Jeonmunjeom Daetongnyeong** (삼겹살전문점대통령) | KBBQ | **11:40–23:00. Open year-round.** | 1F, 249-24 Jangchungdan-ro. Bamboo-aged samgyeopsal. Dongdaemun History & Culture Park side. | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=59055) |
 | **Daehan Gopchang (Jangan Branch)** | KBBQ (gopchang) | **Daily 15:00–01:00.** Often sells out early. | 21 Cheonho-daero 85-gil, Dongdaemun-gu. This Jangan branch only. | [Visit Seoul](https://english.visitseoul.net/restaurants/Daehan-Gopchang-Jangan/ENP026324) |
 | **Sinrakwon** **NEW** | Jajangmyeon | **Tue–Sat 11:30–22:00 / Sun 11:30–21:00. Break 15:00–17:00. Closed Mondays.** | 2 Jeonnong-ro 20-gil, Dongdaemun-gu (Cheongnyangni Station Exit 3, 1.1 km). Visit Seoul (edited 24 Jul 2026): third-generation Korean-Chinese; printed signatures are sinrakmyeon and unijajangmyeon, with jjampong and tangsuyuk also listed. The body text spells the renamed house "Sillakwon". Official English page prints no Korean name. ☎ +82-2-2244-0008 | [Visit Seoul](https://english.visitseoul.net/restaurants/2023020/ENP1rnlut) |
+| **Gitdaebong Naengmyeon** **NEW** | Spicy bibim naengmyeon | **11:00–20:30. Closed Mondays, Seollal & Chuseok.** | 2F, Unit 2038, Venezia Mega Mall, 400 Cheonggyecheon-ro, Jung-gu. Visit Seoul (edited 5 May 2026): over 40 years; spicy bibim naengmyeon is the printed specialty, with three selectable heat levels. Sinseoldong Station Exit 10, 620 m. Official English page prints no Korean name. Menu prices are not copied. ☎ +82-2-762-4407 | [Visit Seoul](https://english.visitseoul.net/restaurants/Gitdaebong-Naengmyeon-EN/ENP013129) |
 
 ### Jongno / Seochon / other Seoul
 
@@ -126,6 +132,12 @@ Hongdae was almost empty in this guide. This is the gap the ten passes were mean
 | **Bongpiyang (Bangi Branch)** **NEW** | KBBQ · naengmyeon | **11:30–22:00. Daily. Open year-round.** | 1-4 Yangjae-daero 71-gil, Songpa-gu. Visit Seoul (edited 4 Jun 2026): pork spareribs; Pyeongyang-style mul and spicy bibim naengmyeon also listed. Same owner as Byeokje Galbi. **This Bangi address only.** Official English page prints no Korean name. ☎ +82-2-415-5527 | [Visit Seoul](https://english.visitseoul.net/restaurants/Bongpiyang%20(Bangi%20Branch)_/5081) |
 | **Galbi Myeongga Yisang (Gireum Branch)** **NEW** | KBBQ | **11:00–22:00. Daily. Open all year.** | 395 Jeongneung-ro, Seongbuk-gu. Visit Seoul (edited 4 Jun 2026): spareribs. **This Gireum address only** — not the 364 Jeongneung-ro house already in this table. Official English page prints no Korean name. ☎ +82-507-1410-8004 | [Visit Seoul](https://english.visitseoul.net/restaurants/Galbi-Myeongga-Yisang-Gireum-Branch1_/7223) |
 | **Minjeong Sikdang** (민정식당) **NEW** | Tonkatsu · suyuk | **11:00–15:00 / 16:30–22:00. Closed Sundays.** | 41-4 Achasan-ro 42-gil, Gwangjin-gu (Jayang-dong). Visit Seoul KO (edited 29 May 2026): Baeknyeon-gage; printed signatures are assorted suyuk and handmade tonkatsu. Guui Station Exit 4, 680 m. ☎ +82-2-452-3574 | [Visit Seoul (KO)](https://korean.visitseoul.net/restaurants/%EB%B0%B1%EB%85%84%EA%B0%80%EA%B2%8C-%EB%AF%BC%EC%A0%95%EC%8B%9D%EB%8B%B9/KOP042257) |
+| **Doyajip** **NEW** | KBBQ (pork) | **Mon–Fri 11:30–22:00 (break 14:50–16:30; last orders 14:10 & 20:50) / Sat–Sun 12:00–22:00 (last order 20:50).** | 27 Hangang-daero 52-gil, Yongsan-gu. Visit Seoul (10 Jul 2025): pork specialist in a converted 40-year family home; printed signatures are bone-in pork belly and pork neck. Samgakji Station Exit 3, 256 m. Official English page prints no Korean name. ☎ +82-507-1335-8521 | [Visit Seoul](https://english.visitseoul.net/restaurants/Doyajib/ENP2lpdrw) |
+| **Seochon Daeha Restaurant** **NEW** | KBBQ (pork) | **Mon–Sat 16:00–22:00 (last admission 20:00, earlier if sold out). Closed Sundays.** | 27 Jahamun-ro 7-gil, Jongno-gu. Visit Seoul (edited 15 Jun 2026): fresh grilled pork belly served with kimchi, green onion and garlic on a hot plate. Gyeongbokgung Station Exit 2, 352 m. The official listing warns entry may end earlier if ingredients sell out. Official English page prints no Korean name. Menu prices are not copied. ☎ +82-2-734-9503 | [Visit Seoul](https://english.visitseoul.net/restaurants/Seochon-Daeha-Restaurant/ENP038570) |
+| **Namdo Sikdang** **NEW** | KBBQ (spicy charcoal pork) | **Mon–Sat 10:00–14:00 / 16:00–22:00. Closed Sundays, Seollal & Chuseok.** | 42 Jong-ro 3-gil, Jongno-gu. Visit Seoul (edited 10 Nov 2025): spicy charcoal-grilled pork, plus Korean table d'hôte and brown-rice baekban. Gwanghwamun Station Exit 2, 253 m. Official English page prints no Korean name. ☎ +82-2-734-0719 | [Visit Seoul](https://english.visitseoul.net/restaurants/Namdo-Sikdang-EN/ENP011450) |
+| **Nariuijip** **NEW** | KBBQ (samgyeopsal) | **Mon–Sat 14:00–24:00 / Sun 16:00–24:00. Closed Seollal & Chuseok.** | 245 Itaewon-ro, Yongsan-gu. Visit Seoul (edited 5 Jun 2026): samgyeopsal and cheonggukjang jjigae, with green-onion salad. Hangangjin Station Exit 1, 414 m. Official English page prints no Korean name. ☎ +82-2-793-4860 | [Visit Seoul](https://english.visitseoul.net/restaurants/Nariuijip-EN/ENP006294) |
+| **Songam Onban** **NEW** | Local Korean (dwaeji gukbap · suyuk) | **11:30–22:00. Open year-round.** | 1F, 31-3 Donhwamun-ro 11na-gil, Jongno-gu. Visit Seoul (6 Aug 2026): Korean restaurant in a 100-year-old hanok; dwaeji gukbap, suyuk, jeon, mandu and traditional liquor. Jongno 3-ga Station Exit 6, 224 m. Official English page prints no Korean name. ☎ +82-507-1369-5938 | [Visit Seoul](https://english.visitseoul.net/restaurants/SongamOnban/ENPhrnovc) |
+| **Babjitgo Tiurim** **NEW** | Local Korean | **Mon–Fri 11:00–15:00 / 17:00–21:00; Sat 11:00–15:00 / 17:00–20:00. Closed Sundays.** | 2F, 15 Seongbuk-ro 2-gil, Seongbuk-gu. Visit Seoul (6 Jul 2026): Korean restaurant using natural seasonings and ingredients sourced from production areas across Korea; tea and house-aged liquor are also part of the concept. Hansung University Station Exit 6, 106 m. Official English page prints no Korean name. ☎ +82-507-1402-4999 | [Visit Seoul](https://english.visitseoul.net/restaurants/Cookingandtea/ENPll1tbp) |
 
 ### Busan
 
@@ -146,6 +158,8 @@ Hongdae was almost empty in this guide. This is the gap the ten passes were mean
 | **Bon Gogalbi** (본 고갈비) **NEW** | Local (grilled mackerel) | **08:00–21:30 (last order 20:30). Closed on public holidays.** | 2 Chungnyeol-daero 272beon-gil, Dongnae-gu. Visit Busan: oven-grilled mackerel (gogalbi) is the printed popular dish; hanwoo bulgogi also listed. Not beef galbi. ☎ +82-507-1327-5892 | [Visit Busan](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1535) |
 | **Royal Gyeongyangsik & Steak Gwangalli** (로얄경양식&스테이크 광안점) **NEW** | Steak | **11:30–22:00 (last order 21:20). Open year-round.** | 2F, 29 Millaksubyeon-ro, Suyeong-gu (Gwangalli). Visit Busan KO: open kitchen, sea view. **This Gwangalli address only.** Menu prices on the listing are not copied. ☎ +82-507-1334-8718 | [Visit Busan (KO)](https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201002001000&uc_seq=1228) |
 | **Sikdang Toseong-dong** (식당 토성동) **NEW** | Steak · tonkatsu | **Mon–Fri 10:00–20:30. Closed Saturdays and Sundays.** | 27 Gudeok-ro 124beon-gil, Seo-gu. Visit Busan KO: printed signatures are bite-size steak rice bowl and a tonkatsu set. ☎ +82-507-1394-1425 | [Visit Busan (KO)](https://www.visitbusan.net/index.do?menuCd=DOM_000000201002001000&uc_seq=963) |
+| **Hamheung Bossam Four Seasons Naengmyeon (함흥보쌈사계절냉면)** **NEW** | Naengmyeon · bossam | **Mon, Tue & Thu–Sun 10:50–20:00 (break 15:20–16:00; last order 19:30). Closed Wednesdays.** | 42 Namhang-ro, Yeongdo-gu. Visit Busan KO: began as a naengmyeon specialist and has operated for about 50 years; assorted bossam plus Hamheung and Pyeongyang naengmyeon are the printed main dishes. ☎ +82-51-416-2342 | [Visit Busan (KO)](https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201002001000&uc_seq=1136) |
+| **Choryang Tongdak (초량통닭)** **NEW** | Local Korean (fried chicken) | **Mon–Sat 16:00–23:30. Closed Sundays and traditional holidays.** | 15 Choryang-ro. Visit Busan: fried-chicken house operating since 1976; fried chicken, dakdoritang and baeksuk are the printed main dishes. ☎ +82-51-468-2738 | [Visit Busan](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1260) |
 
 ### Cheonan (galbijim, not in the first-focus list)
 
@@ -170,6 +184,7 @@ Kept **out of the restaurant tables** on purpose.
 | **Hakrim Dabang** **NEW** | **10:00–23:00 (last order 22:00). Daily.** | 2F, 119 Daehak-ro, Jongno-gu (Hyehwa). Visit Seoul (edited 28 Jul 2026): dated to 1956; Seoul Future Heritage. Official English page prints no Korean name. ☎ +82-2-742-2877 | [Visit Seoul](https://english.visitseoul.net/restaurants/Hakrim-Coffee-Shop/ENP025377) |
 | **Gonggangab** **NEW** | **Daily 11:45–21:50 (last order 21:20).** | 1-2F, 48-8 Supyo-ro, Jung-gu. Visit Seoul (edited 11 May 2026): Euljiro dessert cafe; vanilla-custard-pudding bingsu and Space Milk Coffee are the printed signatures. Laptop use not permitted. Euljiro 3-ga Station Exit 11, 115 m. Official English page prints no Korean name. ☎ +82-507-1362-4569 | [Visit Seoul](https://english.visitseoul.net/restaurants/2024-gonggangob/ENPy7d39v) |
 | **Jilsiru - Rice Cake Cafe** (떡카페 질시루) **NEW** | **Mon–Sat 08:00–20:00 / Sun 08:00–19:00. Closed the day of Seollal & Chuseok.** | 71 Donhwamun-ro, Jongno-gu. VisitKorea: tteok, hangwa and traditional drinks in a modern cafe, by the Tteok Museum. ☎ +82-2-741-0258, 5411 | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91797) |
+| **Cafe Kakariko** **NEW** | **11:00–18:00. Closed Tuesdays and on rainy days.** | 19 Jongno 54-gil, Jongno-gu. Visit Seoul (3 Aug 2026): small Ghibli-style themed cafe and capybara-prop shop in the Dongdaemun Toy and Stationery Market. One menu item per person required for table use. The page also says it closes on rainy days. Official English page prints no Korean name or phone. | [Visit Seoul](https://english.visitseoul.net/restaurants/KAKARIKO/ENP0zvhxx) |
 
 ### Hongdae / Yeonnam / Mapo (Seoul)
 
@@ -188,6 +203,7 @@ Kept **out of the restaurant tables** on purpose.
 | **Antique Coffee Yeonnam Branch** **NEW** | **Daily 10:00–22:00.** | 1F, 25-1 Yeonhui-ro, Mapo-gu. Visit Seoul (30 May 2025): coffee-and-dessert brand; Dirty & Cream coffee, cherry chocolat cake and Dirty & Cream croissant are the printed signatures. Antique Coffee is a chain — **this Yeonnam branch only**. Hongik Univ. Station Exit 3, 384 m. Official English page prints no Korean name. ☎ +82-507-1401-0508 | [Visit Seoul](https://english.visitseoul.net/restaurants/ANTIQUE-COFFEE/ENPfru4mc) |
 | **Dok-Dabang** **NEW** | **11:00–23:30 (last order 23:00). Daily.** | 8F, 36 Yeonse-ro, Seodaemun-gu (Sinchon). Visit Seoul (edited 25 Jul 2026): Seoul Future Heritage dabang; the body spells it Doksuridabang. Sinchon Station Exit 3, 360 m. Official English page prints no Korean name. ☎ +82-2-363-1222 | [Visit Seoul](https://english.visitseoul.net/restaurants/Doksuri-Dabang_/28403) |
 | **GMH Dabang** **NEW** | **Mon & Wed–Fri 17:00–24:00 / Sat 14:00–24:00 / Sun 14:00–22:00. Closed Tuesdays.** | 49 Wausan-ro 3-gil, Mapo-gu (Sangsu). Visit Seoul (edited 11 May 2026): cafe by day / wine saloon by night. Weekday hours start at 17:00. Official English page prints no Korean name. ☎ +82-2-3142-1429 | [Visit Seoul](https://english.visitseoul.net/restaurants/2024-gmhdabang/ENP1v5xop) |
+| **Cafe Gongmyung Mangwon Book Bakery** **NEW** | **Daily 10:00–22:00.** | 22-3 World Cup-ro 13-gil, Mapo-gu. Visit Seoul (4 Aug 2026): book cafe with coffee, bakery goods made each morning, rooftop and terrace. Mangwon Station Exit 2, 152 m. Official English page prints no Korean name. ☎ +82-507-1363-6304 · cafegm.kr | [Visit Seoul](https://english.visitseoul.net/restaurants/GongMyoung/ENPbg0u5h) |
 
 ### Gangnam / Seongsu / Bukchon (Seoul)
 
@@ -211,6 +227,23 @@ Kept **out of the restaurant tables** on purpose.
 | **Cafe Monday To Sunday** **NEW** | **Mon–Fri 10:30–23:55 / weekends 11:00–23:55. Open all year.** | 13-3 Dosan-daero 67-gil, Gangnam-gu. Visit Seoul (edited 26 May 2026): cafe with designer chairs; waffles, pasta and brunch also listed. Apgujeong Rodeo Station Exit 3, 571 m. Official English page prints no Korean name. ☎ +82-507-1353-2217 | [Visit Seoul](https://english.visitseoul.net/area/Cafe-Monday-To-Sunday1/ENP005525) |
 | **Patisserie Kim Youngmo** **NEW** | **08:00–22:30. Daily. Closed Seollal & Chuseok.** | 10 Eonju-ro 30-gil, Gangnam-gu. Visit Seoul (edited 26 May 2026): bakery of confectionery master Kim Young-mo; Mont Blanc is the printed house cake. **This Gangnam address only.** Official English page prints no Korean name. ☎ +82-2-3460-2005 | [Visit Seoul](https://english.visitseoul.net/restaurants/Patisserie-Kim-Youngmo1_/14558) |
 | **The Baker's Table** **NEW** | **Mon–Fri 08:00–21:00 / Sat–Sun 08:00–20:00.** | 244-1 Noksapyeong-daero, Yongsan-gu (Gyeongridan-gil). Visit Seoul (edited 11 May 2026): German bakery. Official English page prints no Korean name. ☎ +82-507-1461-3503 | [Visit Seoul](https://english.visitseoul.net/restaurants/The-Bakers-Table/ENP040794) |
+| **Tiki Room** **NEW** | **Mon–Fri 11:00–19:00 / Sat–Sun 13:00–19:00.** | 5F, 26-3 Eonju-ro 170-gil, Gangnam-gu. Visit Seoul (7 Aug 2026): interactive cafe where guests make bungeoppang with chosen fillings. Apgujeong Rodeo Station Exit 5, 465 m. Official English page prints no Korean name or phone. | [Visit Seoul](https://english.visitseoul.net/restaurants/TikiRoom/ENP2ckakp) |
+
+
+### Jongno / Ikseon / Seochon / other Seoul
+
+| Spot Name (Korean) | Hours & Closures | Notes | Source |
+| :--- | :--- | :--- | :--- |
+| **TBAB** **NEW** | **Mon–Fri 11:00–18:00 (last order 17:30) / Sat–Sun 11:00–19:00 (last order 18:30).** | 8-11 Jahamun-ro 45-gil, Jongno-gu. Visit Seoul (11 Aug 2026): quiet cafe with coffee, ade, pound cake and outdoor seating; also operates as a rental studio. Official English page prints no Korean name or phone. | [Visit Seoul](https://english.visitseoul.net/restaurants/TBAB/ENPgvi0k6) |
+| **Musim** **NEW** | **Mon–Fri 12:00–18:00 / Sat 11:30–19:30 / Sun 11:30–19:00.** | 4 Huam-ro 13-gil, Yongsan-gu. Visit Seoul (11 Aug 2026): seasonal dessert bar with fruit bingsu, ice cream and tea of the month. Sukmyung Women's University Station Exit 2, 651 m. Official English page prints no Korean name or phone. | [Visit Seoul](https://english.visitseoul.net/restaurants/Musim/ENPi6rvj2) |
+| **JO＆DAWSON Gwanghwamun Branch** **NEW** | **Mon–Fri 07:30–20:00 (last order 19:00) / Sat–Sun 10:00–20:00 (last order 19:00).** | Tower 1, 33 Jongno, Jongno-gu. Visit Seoul (11 Aug 2026): Gwanghwamun branch of the Yeonnam French-toast cafe; Assam milk tea and coffee also listed. **This Gwanghwamun address only.** Jonggak Station Exit 1, 177 m. Official English page prints no Korean name or phone. | [Visit Seoul](https://english.visitseoul.net/restaurants/JO%EF%BC%86DAWSON/ENPtjmzyg) |
+| **Smore Market Samcheong Branch** **NEW** | **11:00–21:00.** | 74-3 Yulgok-ro 3-gil, Jongno-gu. Visit Seoul (7 Aug 2026): Disney/Pixar-themed cafe and character shop with coffee, cookies and s'more desserts. **This Samcheong address only.** Anguk Station Exit 1, 423 m. Official English page prints no Korean name. ☎ +82-70-7116-6809 | [Visit Seoul](https://english.visitseoul.net/restaurants/SmoreMarket/ENPvlhzhw) |
+| **Yeogi Inga** **NEW** | **Tue–Fri 12:15–22:00 / Sat 12:00–22:00 / Sun 12:30–21:00. Closed Mondays.** | 24-4 Jahamun-ro 7-gil, Jongno-gu. Visit Seoul (7 Aug 2026): hanok cafe with floor seating and outdoor seats. If a public holiday falls on Monday or Tuesday, the page says it closes Wednesday. Gyeongbokgung Station Exit 2, 339 m. Official English page prints no Korean name. ☎ +82-70-8880-7020 | [Visit Seoul](https://english.visitseoul.net/restaurants/YeogiInga/ENPnpz0q2) |
+| **Shilladang Ikseon** **NEW** | **Daily 10:30–21:00.** | 1F, 40 Donhwamun-ro 11da-gil, Jongno-gu. Visit Seoul (8 Sep 2025): handmade hangwa prepared each morning; original juak is the printed signature. Jongno 3-ga Station Exit 4, 177 m. Official English page prints no Korean name. Menu prices are not copied. ☎ +82-507-1498-8220 | [Visit Seoul](https://english.visitseoul.net/restaurants/silladang/ENP0366bl) |
+| **Gamkkotdang** **NEW** | **Daily 10:30–22:00.** | 38 Donhwamun-ro 11da-gil, Jongno-gu. Visit Seoul (edited 8 Dec 2025): hanok cafe built around an old persimmon tree; egg tarts, apple pie and scones are listed. Jongno 3-ga Station Exit 4, 209 m. Official English page prints no Korean name or phone. Menu prices are not copied. | [Visit Seoul](https://english.visitseoul.net/restaurants/Gamkkotdang/ENP031927) |
+| **Rain Report Rainbow** **NEW** | **Daily 10:30–20:30.** | 33-7 Supyo-ro 28-gil, Jongno-gu. Visit Seoul (12 Sep 2025): hanok dessert cafe with an all-year rain concept; cloud pavlova and fresh-fruit bottled drinks are the printed signatures. Jongno 3-ga Station Exit 4, 280 m. Official English page prints no Korean name. ☎ +82-2-763-8215 | [Visit Seoul](https://english.visitseoul.net/restaurants/rain-report-rainbow/ENP933ykf) |
+| **Moowee Nakwon** **NEW** | **Mon–Sat 11:30–23:00 (break 15:00–17:00; lunch last order 14:30) / Sun 11:30–16:00.** | 17-25 Supyo-ro 28-gil, Jongno-gu. Visit Seoul (edited 2 Jul 2026): rooftop hanok brunch cafe with seasonal menus, wine, century-old Korean roof tiles and vintage furniture. Jongno 3-ga Station Exit 4, 124 m. Official English page prints no Korean name. ☎ +82-507-1360-0670 | [Visit Seoul](https://english.visitseoul.net/restaurants/2024-mwnw/ENPp5wevo) |
+| **Seoul Coffee Ikseon Branch** **NEW** | **Daily 11:00–22:00 (last order 21:40). Open year-round.** | 33-3 Supyo-ro 28-gil, Jongno-gu. Visit Seoul (edited 26 May 2026): hanok cafe with Korean-flavor desserts including pumpkin sikhye and sweet-rice-cake tiramisu; red-bean butter rice-flour bread is the printed signature. **This Ikseon address only.** Official English page prints no Korean name. Menu prices are not copied. ☎ +82-507-1404-4890 | [Visit Seoul](https://english.visitseoul.net/restaurants/Seoul-Coffee-Ikseon-Branch/ENP039310) |
 
 ### Busan
 
@@ -231,6 +264,20 @@ Kept **out of the restaurant tables** on purpose.
 ---
 
 ## Rejected this round (and why)
+
+Passes 114–123:
+
+| Candidate | Why rejected |
+| :--- | :--- |
+| **Herzia** `ENP004851` | The page is an Italian restaurant listing; fried sirloin appears in a mixed dish, not tonkatsu. Off-brief. |
+| **Hakoya** `ENP004018` | Japanese ramen/udon/soba; the page's “tonkatsu ramen” means pork-broth ramen, not a pork cutlet. Off-brief. |
+| **Hongdae Dakgalbi** `ENP2flbke` | Visit Seoul returned HTTP 500. Not added from search results. |
+| **Chowol** `ENPcfl4le` | Official weekend hours contain an invalid time, **12:090**. Rejected rather than silently correcting it. |
+| **Rain Report Croissant** `175514` | VisitKorea returned HTTP 400. Not added from a search snippet. Different cafe from the kept Rain Report Rainbow. |
+| **Cheongsudang** `136591` | VisitKorea article body did not render the search-snippet facts. Not added from a snippet. |
+| **Seokhwa Hanjeongsik** `uc_seq=234` · **Bukgyeong** `928` · **Daeseong Galchi Jjigaegui** `1805` · **Daon** `152` | Visit Busan detail pages rendered empty in both English/Korean URL forms. Not added from snippets. |
+| **Tonshou Gwangalli** `1251` | Detail page rendered empty and the same Gwangalli restaurant is already held as **Ton shou** from Visit Busan's Blue Ribbon index. Not double-counted. |
+| **BAOHAUS** `2330` | Clean official page, but Taiwanese bao/beef noodles are outside this Korea-focused round. Off-brief. |
 
 Passes 104–113:
 
@@ -292,3 +339,14 @@ Passes 104–113:
 | Daejeon | 20 | — | 20 |
 | Cheonan | 13 | — | 13 |
 | **Total** | **399** | **+25 / −1** | **423** |
+
+Passes 114–123:
+
+| City | Before | Change | After |
+| :--- | ---: | :--- | ---: |
+| Seoul | 234 | +23 | **257** |
+| Busan | 142 | +2 | **144** |
+| Suwon | 14 | — | 14 |
+| Daejeon | 20 | — | 20 |
+| Cheonan | 13 | — | 13 |
+| **Total** | **423** | **+25** | **448** |

@@ -7660,5 +7660,455 @@
         "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302003001000&uc_seq=2094"
       }
     ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Gitdaebong Naengmyeon",
+    "nameEn": "Gitdaebong Naengmyeon",
+    "nameKo": "",
+    "address": "2F, Unit 2038, Venezia Mega Mall, 400 Cheonggyecheon-ro, Jung-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 5 May 2026): over 40 years; spicy bibim naengmyeon is the printed specialty, with three selectable heat levels. Sinseoldong Station Exit 10, 620 m. Official English page prints no Korean name. Menu prices are not copied. ☎ +82-2-762-4407",
+    "hours": "11:00–20:30. Closed Mondays, Seollal & Chuseok.",
+    "phone": "+82-2-762-4407",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Gitdaebong-Naengmyeon-EN/ENP013129"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Doyajip",
+    "nameEn": "Doyajip",
+    "nameKo": "",
+    "address": "27 Hangang-daero 52-gil, Yongsan-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (10 Jul 2025): pork specialist in a converted 40-year family home; printed signatures are bone-in pork belly and pork neck. Samgakji Station Exit 3, 256 m. Official English page prints no Korean name. ☎ +82-507-1335-8521",
+    "hours": "Mon–Fri 11:30–22:00 (break 14:50–16:30; last orders 14:10 & 20:50) / Sat–Sun 12:00–22:00 (last order 20:50).",
+    "phone": "+82-507-1335-8521",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Doyajib/ENP2lpdrw"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Sammijung",
+    "nameEn": "Sammijung",
+    "nameKo": "",
+    "address": "32-6 Eulji-ro 19-gil, Jung-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (18 Jun 2025): outdoor-yajang-style barbecue; the only main dish is samgyeopsal, with doenjang jjigae and fried rice as add-ons. Euljiro 4-ga Station Exit 1, 343 m. Official English page prints no Korean name or phone.",
+    "hours": "Daily 11:00–21:30.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Sammijung/ENPhzb6qe"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Jamdubong The Nine",
+    "nameEn": "Jamdubong The Nine",
+    "nameKo": "",
+    "address": "352-6 Hapjeong-dong, Mapo-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (22 May 2025): barbecue in a former Han River dock; printed signatures are samgyeopsal and tteokgalbi. Hapjeong Station Exit 7, 804 m. Lot address as the official page prints it. Official English page prints no Korean name. ☎ +82-507-1385-8903",
+    "hours": "Daily 12:00–22:00.",
+    "phone": "+82-507-1385-8903",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/the9bongbong/ENPuv9y9f"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Seochon Daeha Restaurant",
+    "nameEn": "Seochon Daeha Restaurant",
+    "nameKo": "",
+    "address": "27 Jahamun-ro 7-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 15 Jun 2026): fresh grilled pork belly served with kimchi, green onion and garlic on a hot plate. Gyeongbokgung Station Exit 2, 352 m. The official listing warns entry may end earlier if ingredients sell out. Official English page prints no Korean name. Menu prices are not copied. ☎ +82-2-734-9503",
+    "hours": "Mon–Sat 16:00–22:00 (last admission 20:00, earlier if sold out). Closed Sundays.",
+    "phone": "+82-2-734-9503",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Seochon-Daeha-Restaurant/ENP038570"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Namdo Sikdang",
+    "nameEn": "Namdo Sikdang",
+    "nameKo": "",
+    "address": "42 Jong-ro 3-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 10 Nov 2025): spicy charcoal-grilled pork, plus Korean table d'hôte and brown-rice baekban. Gwanghwamun Station Exit 2, 253 m. Official English page prints no Korean name. ☎ +82-2-734-0719",
+    "hours": "Mon–Sat 10:00–14:00 / 16:00–22:00. Closed Sundays, Seollal & Chuseok.",
+    "phone": "+82-2-734-0719",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Namdo-Sikdang-EN/ENP011450"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Nariuijip",
+    "nameEn": "Nariuijip",
+    "nameKo": "",
+    "address": "245 Itaewon-ro, Yongsan-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 5 Jun 2026): samgyeopsal and cheonggukjang jjigae, with green-onion salad. Hangangjin Station Exit 1, 414 m. Official English page prints no Korean name. ☎ +82-2-793-4860",
+    "hours": "Mon–Sat 14:00–24:00 / Sun 16:00–24:00. Closed Seollal & Chuseok.",
+    "phone": "+82-2-793-4860",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Nariuijip-EN/ENP006294"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Grilled Meat",
+    "name": "Yangcholli",
+    "nameEn": "Yangcholli",
+    "nameKo": "",
+    "address": "2720 Nambusunhwan-ro, Gangnam-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 6 Jun 2026): charcoal-grilled samgyeopsal; kimchi jeongol and sundubu jjigae at lunch. Maebong Station Exit 4, 282 m. Official English page prints no Korean name. ☎ +82-507-1413-1284",
+    "hours": "Open 24 hours (00:00–24:00), daily.",
+    "phone": "+82-507-1413-1284",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Yangcholli/ENP014445"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Songam Onban",
+    "nameEn": "Songam Onban",
+    "nameKo": "",
+    "address": "1F, 31-3 Donhwamun-ro 11na-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (6 Aug 2026): Korean restaurant in a 100-year-old hanok; dwaeji gukbap, suyuk, jeon, mandu and traditional liquor. Jongno 3-ga Station Exit 6, 224 m. Official English page prints no Korean name. ☎ +82-507-1369-5938",
+    "hours": "11:30–22:00. Open year-round.",
+    "phone": "+82-507-1369-5938",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/SongamOnban/ENPhrnovc"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Babjitgo Tiurim",
+    "nameEn": "Babjitgo Tiurim",
+    "nameKo": "",
+    "address": "2F, 15 Seongbuk-ro 2-gil, Seongbuk-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (6 Jul 2026): Korean restaurant using natural seasonings and ingredients sourced from production areas across Korea; tea and house-aged liquor are also part of the concept. Hansung University Station Exit 6, 106 m. Official English page prints no Korean name. ☎ +82-507-1402-4999",
+    "hours": "Mon–Fri 11:00–15:00 / 17:00–21:00; Sat 11:00–15:00 / 17:00–20:00. Closed Sundays.",
+    "phone": "+82-507-1402-4999",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Cookingandtea/ENPll1tbp"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "TBAB",
+    "nameEn": "TBAB",
+    "nameKo": "",
+    "address": "8-11 Jahamun-ro 45-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (11 Aug 2026): quiet cafe with coffee, ade, pound cake and outdoor seating; also operates as a rental studio. Official English page prints no Korean name or phone.",
+    "hours": "Mon–Fri 11:00–18:00 (last order 17:30) / Sat–Sun 11:00–19:00 (last order 18:30).",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/TBAB/ENPgvi0k6"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Musim",
+    "nameEn": "Musim",
+    "nameKo": "",
+    "address": "4 Huam-ro 13-gil, Yongsan-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (11 Aug 2026): seasonal dessert bar with fruit bingsu, ice cream and tea of the month. Sukmyung Women's University Station Exit 2, 651 m. Official English page prints no Korean name or phone.",
+    "hours": "Mon–Fri 12:00–18:00 / Sat 11:30–19:30 / Sun 11:30–19:00.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Musim/ENPi6rvj2"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "JO＆DAWSON Gwanghwamun Branch",
+    "nameEn": "JO＆DAWSON Gwanghwamun Branch",
+    "nameKo": "",
+    "address": "Tower 1, 33 Jongno, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (11 Aug 2026): Gwanghwamun branch of the Yeonnam French-toast cafe; Assam milk tea and coffee also listed. **This Gwanghwamun address only.** Jonggak Station Exit 1, 177 m. Official English page prints no Korean name or phone.",
+    "hours": "Mon–Fri 07:30–20:00 (last order 19:00) / Sat–Sun 10:00–20:00 (last order 19:00).",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/JO%EF%BC%86DAWSON/ENPtjmzyg"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Smore Market Samcheong Branch",
+    "nameEn": "Smore Market Samcheong Branch",
+    "nameKo": "",
+    "address": "74-3 Yulgok-ro 3-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (7 Aug 2026): Disney/Pixar-themed cafe and character shop with coffee, cookies and s'more desserts. **This Samcheong address only.** Anguk Station Exit 1, 423 m. Official English page prints no Korean name. ☎ +82-70-7116-6809",
+    "hours": "11:00–21:00.",
+    "phone": "+82-70-7116-6809",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/SmoreMarket/ENPvlhzhw"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Yeogi Inga",
+    "nameEn": "Yeogi Inga",
+    "nameKo": "",
+    "address": "24-4 Jahamun-ro 7-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (7 Aug 2026): hanok cafe with floor seating and outdoor seats. If a public holiday falls on Monday or Tuesday, the page says it closes Wednesday. Gyeongbokgung Station Exit 2, 339 m. Official English page prints no Korean name. ☎ +82-70-8880-7020",
+    "hours": "Tue–Fri 12:15–22:00 / Sat 12:00–22:00 / Sun 12:30–21:00. Closed Mondays.",
+    "phone": "+82-70-8880-7020",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/YeogiInga/ENPnpz0q2"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Tiki Room",
+    "nameEn": "Tiki Room",
+    "nameKo": "",
+    "address": "5F, 26-3 Eonju-ro 170-gil, Gangnam-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (7 Aug 2026): interactive cafe where guests make bungeoppang with chosen fillings. Apgujeong Rodeo Station Exit 5, 465 m. Official English page prints no Korean name or phone.",
+    "hours": "Mon–Fri 11:00–19:00 / Sat–Sun 13:00–19:00.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/TikiRoom/ENP2ckakp"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Cafe Gongmyung Mangwon Book Bakery",
+    "nameEn": "Cafe Gongmyung Mangwon Book Bakery",
+    "nameKo": "",
+    "address": "22-3 World Cup-ro 13-gil, Mapo-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (4 Aug 2026): book cafe with coffee, bakery goods made each morning, rooftop and terrace. Mangwon Station Exit 2, 152 m. Official English page prints no Korean name. ☎ +82-507-1363-6304 · cafegm.kr",
+    "hours": "Daily 10:00–22:00.",
+    "phone": "+82-507-1363-6304",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/GongMyoung/ENPbg0u5h"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Cafe Kakariko",
+    "nameEn": "Cafe Kakariko",
+    "nameKo": "",
+    "address": "19 Jongno 54-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (3 Aug 2026): small Ghibli-style themed cafe and capybara-prop shop in the Dongdaemun Toy and Stationery Market. One menu item per person required for table use. The page also says it closes on rainy days. Official English page prints no Korean name or phone.",
+    "hours": "11:00–18:00. Closed Tuesdays and on rainy days.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/KAKARIKO/ENP0zvhxx"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Shilladang Ikseon",
+    "nameEn": "Shilladang Ikseon",
+    "nameKo": "",
+    "address": "1F, 40 Donhwamun-ro 11da-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (8 Sep 2025): handmade hangwa prepared each morning; original juak is the printed signature. Jongno 3-ga Station Exit 4, 177 m. Official English page prints no Korean name. Menu prices are not copied. ☎ +82-507-1498-8220",
+    "hours": "Daily 10:30–21:00.",
+    "phone": "+82-507-1498-8220",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/silladang/ENP0366bl"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Gamkkotdang",
+    "nameEn": "Gamkkotdang",
+    "nameKo": "",
+    "address": "38 Donhwamun-ro 11da-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 8 Dec 2025): hanok cafe built around an old persimmon tree; egg tarts, apple pie and scones are listed. Jongno 3-ga Station Exit 4, 209 m. Official English page prints no Korean name or phone. Menu prices are not copied.",
+    "hours": "Daily 10:30–22:00.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Gamkkotdang/ENP031927"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Rain Report Rainbow",
+    "nameEn": "Rain Report Rainbow",
+    "nameKo": "",
+    "address": "33-7 Supyo-ro 28-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (12 Sep 2025): hanok dessert cafe with an all-year rain concept; cloud pavlova and fresh-fruit bottled drinks are the printed signatures. Jongno 3-ga Station Exit 4, 280 m. Official English page prints no Korean name. ☎ +82-2-763-8215",
+    "hours": "Daily 10:30–20:30.",
+    "phone": "+82-2-763-8215",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/rain-report-rainbow/ENP933ykf"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Moowee Nakwon",
+    "nameEn": "Moowee Nakwon",
+    "nameKo": "",
+    "address": "17-25 Supyo-ro 28-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 2 Jul 2026): rooftop hanok brunch cafe with seasonal menus, wine, century-old Korean roof tiles and vintage furniture. Jongno 3-ga Station Exit 4, 124 m. Official English page prints no Korean name. ☎ +82-507-1360-0670",
+    "hours": "Mon–Sat 11:30–23:00 (break 15:00–17:00; lunch last order 14:30) / Sun 11:30–16:00.",
+    "phone": "+82-507-1360-0670",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/2024-mwnw/ENPp5wevo"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Seoul Coffee Ikseon Branch",
+    "nameEn": "Seoul Coffee Ikseon Branch",
+    "nameKo": "",
+    "address": "33-3 Supyo-ro 28-gil, Jongno-gu",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 26 May 2026): hanok cafe with Korean-flavor desserts including pumpkin sikhye and sweet-rice-cake tiramisu; red-bean butter rice-flour bread is the printed signature. **This Ikseon address only.** Official English page prints no Korean name. Menu prices are not copied. ☎ +82-507-1404-4890",
+    "hours": "Daily 11:00–22:00 (last order 21:40). Open year-round.",
+    "phone": "+82-507-1404-4890",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Seoul-Coffee-Ikseon-Branch/ENP039310"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Hamheung Bossam Four Seasons Naengmyeon (함흥보쌈사계절냉면)",
+    "nameEn": "Hamheung Bossam Four Seasons Naengmyeon",
+    "nameKo": "함흥보쌈사계절냉면",
+    "address": "42 Namhang-ro, Yeongdo-gu",
+    "michelin": "None",
+    "notes": "Visit Busan KO: began as a naengmyeon specialist and has operated for about 50 years; assorted bossam plus Hamheung and Pyeongyang naengmyeon are the printed main dishes. ☎ +82-51-416-2342",
+    "hours": "Mon, Tue & Thu–Sun 10:50–20:00 (break 15:20–16:00; last order 19:30). Closed Wednesdays.",
+    "phone": "+82-51-416-2342",
+    "sources": [
+      {
+        "label": "Visit Busan (KO)",
+        "url": "https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201002001000&uc_seq=1136"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Choryang Tongdak (초량통닭)",
+    "nameEn": "Choryang Tongdak",
+    "nameKo": "초량통닭",
+    "address": "15 Choryang-ro",
+    "michelin": "None",
+    "notes": "Visit Busan: fried-chicken house operating since 1976; fried chicken, dakdoritang and baeksuk are the printed main dishes. ☎ +82-51-468-2738",
+    "hours": "Mon–Sat 16:00–23:30. Closed Sundays and traditional holidays.",
+    "phone": "+82-51-468-2738",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1260"
+      }
+    ]
   }
 ]
