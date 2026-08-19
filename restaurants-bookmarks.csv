@@ -108,7 +108,6 @@ Seoul,Classic Korean,RADOST,라도스트,Jongno-gu,None,https://english.visitkor
 Seoul,Classic Korean,THE SIC-DDANG Myeongdong,더식당 명동,"Myeongdong, Jung-gu",None,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=58027
 Seoul,Classic Korean,Okcheon Maeun Jokbal,옥천매운족발,Jongno-gu (Dongdaemun),None,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=45694
 Seoul,Classic Korean,Masan Place,마산집,"City Hall, Jung-gu",None,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=99959
-Seoul,Classic Korean,NOBIZIB,너비집,"Myeongdong, Jung-gu",None,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85673
 Seoul,Classic Korean,Namhae Gulgukbap,남해굴국밥,Jongno-gu (Dongdaemun),None,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=59851
 Seoul,Classic Korean,Hongsugye Jjimdak,홍수계찜닭,"Myeongdong, Jung-gu",None,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=59834
 Seoul,Grilled meat,Heukdonga Myeongdong,흑돈가 명동,"Myeongdong, Jung-gu",None,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=56783
@@ -398,3 +397,28 @@ Busan,Grilled Meat & Jokbal,Jayeon Chogalbi,자연초갈비,"14-1 Daehak-ro, Bus
 Busan,Cafe,Cafe off.o,,"860 Gijanghaean-ro, Gijang-eup, Gijang-gun",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=2093&lang_cd=en
 Busan,Cafe,Sea & Tree,,"808 Ilgwang-ro, Ilgwang-eup, Gijang-gun",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=1966&lang_cd=en
 Busan,Cafe,P. Ark Cafe & Bakery,,"4F, 180 Haeyang-ro 195beon-gil, Yeongdo-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1445&lang_cd=en
+Seoul,Tonkatsu,Namsan Sanchaejip,남산산채집,"1F, 95 Sopa-ro, Jung-gu (Namsan / Myeongdong)",None,https://korean.visitseoul.net/restaurants/sanchaizip/KOPgswh2c
+Seoul,Tonkatsu,Cochon Tonkatsu,,"2 Myeongmul 1-gil, Seodaemun-gu (Sinchon)",None,https://english.visitseoul.net/restaurants/CochonTonkatsu/ENPf7618z
+Seoul,Steak,Just Steak,,"29 Seolleung-ro 157-gil, Gangnam-gu (Apgujeong / Cheongdam)",None,https://english.visitseoul.net/restaurants/Just-Steak/ENP005067
+Seoul,Steak,HANCOOK,,"Observatory T3 floor, 105 Namsan Park-gil, Yongsan-gu (N Seoul Tower)",None,https://english.visitseoul.net/restaurants/hancook_/46071
+Seoul,Steak,Yankees Grill,,"434-9 Dorim-ro, Yeongdeungpo-gu (Mullae)",None,https://english.visitseoul.net/restaurants/yankeesgrill/ENPjnrt3e
+Seoul,Steak,Rossini,,"18 Bukchon-ro, Jongno-gu (Anguk / Bukchon)",None,https://english.visitseoul.net/restaurants/Rossini-EN/ENP004951
+Seoul,Steak,Dugahun,,"14 Samcheong-ro, Jongno-gu (Samcheong-dong)",None,https://english.visitseoul.net/restaurants/Dogahun/ENP006587
+Seoul,Naengmyeon,Golmok Naengmyeon,골목냉면,"295-7 Dokseodang-ro, Seongdong-gu (Geumho / Yaksu side)",None,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=47564
+Seoul,Naengmyeon,Yeonbaek Naengmyeon,,"7 Saemal-ro 12-gil, Songpa-gu (Jangji / Munjeong)",None,https://english.visitseoul.net/restaurants/YeonbaekNaengmyeon/ENPc8sicj
+Seoul,Grilled Meat,Bongpiyang (Bangi Branch),,"1-4 Yangjae-daero 71-gil, Songpa-gu (Bangi)",None,https://english.visitseoul.net/restaurants/Bongpiyang%20(Bangi%20Branch)_/5081
+Seoul,Grilled Meat,Galbi Myeongga Yisang (Gireum Branch),,"395 Jeongneung-ro, Seongbuk-gu (Gireum)",None,https://english.visitseoul.net/restaurants/Galbi-Myeongga-Yisang-Gireum-Branch1_/7223
+Seoul,Tonkatsu,Minjeong Sikdang,민정식당,"41-4 Achasan-ro 42-gil, Gwangjin-gu (Jayang-dong)",None,https://korean.visitseoul.net/restaurants/%EB%B0%B1%EB%85%84%EA%B0%80%EA%B2%8C-%EB%AF%BC%EC%A0%95%EC%8B%9D%EB%8B%B9/KOP042257
+Seoul,Cafe,Cafe Monday To Sunday,,"13-3 Dosan-daero 67-gil, Gangnam-gu (Apgujeong / Cheongdam)",None,https://english.visitseoul.net/area/Cafe-Monday-To-Sunday1/ENP005525
+Seoul,Cafe,Patisserie Kim Youngmo,,"10 Eonju-ro 30-gil, Gangnam-gu (Dogok / Maebong)",None,https://english.visitseoul.net/restaurants/Patisserie-Kim-Youngmo1_/14558
+Seoul,Cafe,The Baker's Table,,"244-1 Noksapyeong-daero, Yongsan-gu (Gyeongridan-gil / Itaewon)",None,https://english.visitseoul.net/restaurants/The-Bakers-Table/ENP040794
+Seoul,Cafe,Dok-Dabang,,"8F, 36 Yeonse-ro, Seodaemun-gu (Sinchon)",None,https://english.visitseoul.net/restaurants/Doksuri-Dabang_/28403
+Seoul,Cafe,GMH Dabang,,"49 Wausan-ro 3-gil, Mapo-gu (Sangsu / Hongdae)",None,https://english.visitseoul.net/restaurants/2024-gmhdabang/ENP1v5xop
+Busan,Tonkatsu,Tonshou PNU Branch,톤쇼우 부산대점,"247-10 Geumgang-ro, Geumjeong-gu (PNU)",None,https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1506
+Busan,Classic Korean,Bon Gogalbi,본 고갈비,"2 Chungnyeol-daero 272beon-gil, Dongnae-gu",None,https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1535
+Busan,Steak,Royal Gyeongyangsik & Steak Gwangalli,로얄경양식&스테이크 광안점,"2F, 29 Millaksubyeon-ro, Suyeong-gu (Gwangalli)",None,https://visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201002001000&uc_seq=1228
+Busan,Steak,Sikdang Toseong-dong,식당 토성동,"27 Gudeok-ro 124beon-gil, Seo-gu (Toseong-dong)",None,https://www.visitbusan.net/index.do?menuCd=DOM_000000201002001000&uc_seq=963
+Busan,Cafe,PREST,,"28 Chaseong-ro 451beon-gil, Gijang-eup, Gijang-gun",None,https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302003001000&uc_seq=2068
+Busan,Cafe,Café Hill,,"32 Odongkkot-gil, Yeongdo-gu (Bongsan Village)",None,https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302003001000&uc_seq=1744
+Busan,Cafe,Café Mandi,,"104-7 Ojak-ro, Saha-gu",None,https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302003001000&uc_seq=1892
+Busan,Cafe,Café Dottori Roasters,,"29-4 Sangjangan 1-gil, Jangan-eup, Gijang-gun",None,https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302003001000&uc_seq=2094

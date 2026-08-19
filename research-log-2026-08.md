@@ -1273,3 +1273,58 @@ Line-by-line audit of all 24 keepers: every address and every hour in this round
 | **Total** | **399** | **+24 / −1** |
 
 Do not re-add Haeundae Ilpum Hanwoo unless one of the two conflicting official pages (Visit Busan `uc_seq=2195`, VisitKorea `75368`) is withdrawn or corrected. Do not re-add Gaehwa, Wan Chai, Samwon Garden, Paul & Paulina, Bobae, PAIK's, You are here Cafe or C27 unless one of the conflicting official pages is withdrawn.
+
+## Passes 104–113 — 19 August 2026
+
+Ten more official-source passes after 94–103. Brief widened to **jajangmyeon, KBBQ, galbijim, tonkatsu, spicy cold noodles (bibim-naengmyeon), fancy steak, Korea-only dishes, and cafes**. Restaurants and cafes stay in separate tables, grouped by neighbourhood. Focus: Seoul (Myeong-dong, Gangnam, Hongdae, Dongdaemun) then Busan. Verification method: `fetch_page` only (sandbox `curl` has no egress).
+
+**+25 added, −1 removed. Roster 399 → 423** (Seoul 218→234 · Busan 134→142).
+
+### Kept (25)
+
+1. **Namsan Sanchaejip** (남산산채집) — tonkatsu, Myeong-dong / Namsan. 1F, 95 Sopa-ro. 10:50–21:00 daily. ☎ +82-507-1434-1978. [Visit Seoul KO KOPgswh2c]
+2. **Cochon Tonkatsu** — tonkatsu, Sinchon. 2 Myeongmul 1-gil. 11:00–19:00, break 16:00–17:00. No phone printed. [Visit Seoul ENPf7618z, edited 24 Jun 2026]
+3. **Just Steak** — dry-aged Korean steak, Gangnam. 29 Seolleung-ro 157-gil. 11:30–22:00 daily. ☎ +82-2-544-9357. [Visit Seoul ENP005067, edited 4 Jul 2026]
+4. **HANCOOK** — hanu steak, Namsan Tower. 12:00–22:00, break 16:00–17:00, LO 20:00. Elevator ticket prices not copied. ☎ +82-2-3455-9292. [Visit Seoul hancook_/46071, edited 24 Jun 2026]
+5. **Yankees Grill** — steak, Mullae. 434-9 Dorim-ro. Mon–Fri 11:30–22:00 break 15:30–17:00 / Sat–Sun 12:00–22:00. ☎ +82-507-1390-2819. [Visit Seoul ENPjnrt3e]
+6. **Rossini** — steak / Italian, Bukchon. 18 Bukchon-ro. Weekdays 11:30–15:00 & 18:00–22:00, closed weekends. ☎ +82-2-766-8771. [Visit Seoul ENP004951, edited 2 Jul 2026]
+7. **Dugahun** — steak / French hanok, Samcheong. 14 Samcheong-ro. 12:00–22:00, closed Sun & Mon. ☎ +82-2-3210-2100. [Visit Seoul ENP006587, edited 2 Jul 2026]
+8. **Golmok Naengmyeon** (골목냉면) — Seoul-style naengmyeon, Seongdong. 295-7 Dokseodang-ro. 10:00–21:30, closed national holidays. ☎ +82-2-2235-2540. [VisitKorea 47564]
+9. **Yeonbaek Naengmyeon** — mul + bibim, Songpa. 7 Saemal-ro 12-gil. 11:00–20:00 every day. ☎ +82-2-409-5054. [Visit Seoul ENPc8sicj, edited 24 Jun 2026]
+10. **Bongpiyang (Bangi Branch)** — pork galbi + naengmyeon, Songpa. 1-4 Yangjae-daero 71-gil. 11:30–22:00 daily year-round. This address only. ☎ +82-2-415-5527. [Visit Seoul Bangi Branch_/5081, edited 4 Jun 2026]
+11. **Galbi Myeongga Yisang (Gireum Branch)** — KBBQ, 395 Jeongneung-ro. 11:00–22:00 daily. This address only (not 364 Jeongneung-ro). ☎ +82-507-1410-8004. [Visit Seoul _/7223]
+12. **Minjeong Sikdang** (민정식당) — suyuk + handmade tonkatsu, Gwangjin. 41-4 Achasan-ro 42-gil. 11:00–15:00 / 16:30–22:00, closed Sun. ☎ +82-2-452-3574. [Visit Seoul KO KOP042257]
+13. **Cafe Monday To Sunday** — Gangnam cafe. 13-3 Dosan-daero 67-gil. Mon–Fri 10:30–23:55 / weekends 11:00–23:55. ☎ +82-507-1353-2217. [Visit Seoul ENP005525]
+14. **Patisserie Kim Youngmo** — Gangnam bakery. 10 Eonju-ro 30-gil. 08:00–22:30 daily, closed Seollal & Chuseok. This address only. ☎ +82-2-3460-2005. [Visit Seoul _/14558]
+15. **The Baker's Table** — Itaewon German bakery. 244-1 Noksapyeong-daero. Mon–Fri 08:00–21:00 / Sat–Sun 08:00–20:00. ☎ +82-507-1461-3503. [Visit Seoul ENP040794]
+16. **Dok-Dabang** — Sinchon Future Heritage dabang. 8F, 36 Yeonse-ro. 11:00–23:30 LO 23:00 daily. ☎ +82-2-363-1222. [Visit Seoul _/28403, edited 25 Jul 2026]
+17. **GMH Dabang** — Hongdae / Sangsu cafe-saloon. 49 Wausan-ro 3-gil. Mon & Wed–Fri 17:00–24:00 / Sat 14:00–24:00 / Sun 14:00–22:00, closed Tue. ☎ +82-2-3142-1429. [Visit Seoul ENP1v5xop]
+18. **Tonshou PNU Branch** (톤쇼우 부산대점) — tonkatsu, Geumjeong. 247-10 Geumgang-ro. 11:00–21:00, closed public holidays. This PNU address only. ☎ 010-5685-5482. [Visit Busan uc_seq=1506]
+19. **Bon Gogalbi** (본 고갈비) — grilled mackerel, Dongnae. 2 Chungnyeol-daero 272beon-gil. 08:00–21:30 LO 20:30, closed public holidays. ☎ +82-507-1327-5892. [Visit Busan uc_seq=1535]
+20. **Royal Gyeongyangsik & Steak Gwangalli** (로얄경양식&스테이크 광안점) — steak, Gwangalli. 2F, 29 Millaksubyeon-ro. 11:30–22:00 LO 21:20, open year-round. Prices not copied. ☎ +82-507-1334-8718. [Visit Busan KO uc_seq=1228]
+21. **Sikdang Toseong-dong** (식당 토성동) — steak rice bowl + tonkatsu, Seo-gu. 27 Gudeok-ro 124beon-gil. Mon–Fri 10:00–20:30, closed Sat & Sun. ☎ +82-507-1394-1425. [Visit Busan KO uc_seq=963]
+22. **PREST** — hanok cafe, Gijang. 28 Chaseong-ro 451beon-gil. Tue–Sun 12:00–21:00, closed Mon. ☎ +82-51-741-6789. [Visit Busan uc_seq=2068]
+23. **Café Hill** — Yeongdo blueberry cafe. 32 Odongkkot-gil. Mon–Sat 08:00–19:00, closed Sun. Class fee not copied. ☎ +82-507-1458-2062. [Visit Busan uc_seq=1744]
+24. **Café Mandi** — Saha mountain cafe. 104-7 Ojak-ro. Mon–Sun 12:00–22:00. ☎ +82-70-7818-1047. [Visit Busan uc_seq=1892]
+25. **Café Dottori Roasters** — Gijang gallery cafe. 29-4 Sangjangan 1-gil. Mon–Fri 10:00–18:00 LO 17:30 / Sat–Sun 10:00–19:00 LO 18:30. ☎ +82-51-727-7800. [Visit Busan uc_seq=2094]
+
+### Removed
+
+**NOBIZIB / Neobijip.** Same shop at 37-8 Myeongdong 9-gil. VisitKorea `85673` vs Visit Seoul `ENP003422` disagree on hours **and** phone. Removed from CSV, data.json, seoul.md roster and by-location.md.
+
+### Rejected (and why)
+
+Geumseong Steak (printed signature is budae jjigae). Sobok Galbi (Yesan). Gowon Galbi (Jecheon). Sangsang DONKATSU 48188 (HTTP 400). Goban Sikdang 46138 (empty). Byeokje Galbi Bangi 46746 (empty). Ha Gi-yeon Jinju Naengmyeon / 100.1.pyeongnaeng / Jinmi Eonyang / 88 Dwaejigalbi (already held). Hongdae Cafe (no street number). Hakada Bunko (Kyushu ramen). Dotori Yongsan (HTTP 500). Tonshou Gwangalli KO page empty (already held as Ton shou). Hongik Donkkaseu Myeongji (national franchise).
+
+### Where the roster stands
+
+| City | Entries | Change |
+| :--- | ---: | :--- |
+| Seoul | 234 | +17 / −1 |
+| Busan | 142 | +8 |
+| Suwon | 14 | — |
+| Daejeon | 20 | — |
+| Cheonan | 13 | — |
+| **Total** | **423** | **+25 / −1** |
+
+Do not re-add NOBIZIB / Neobijip unless one of the two conflicting official pages is withdrawn or corrected. Same standing prohibition as Haeundae Ilpum Hanwoo, Gaehwa, Wan Chai and Samwon Garden.
