@@ -24,11 +24,11 @@ Every restaurant named below survived the August 2026 verification pass: address
 
 ## 🛠️ How to use this guide
 
-* **279 verified restaurants.** Seoul 132 · Busan 101 · Suwon 14 · Daejeon 20 · Cheonan 12. (Thirty-fourth to forty-third passes +24 on 19 August 2026 — Seoul +6, Busan +18, largely from Visit Busan's Blue Ribbon "100 Great Places to Eat" index. Suwon remains source-limited; see the log.)
-* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 279 restaurants, the sourcing rules, and the leads worth chasing.
+* **297 verified restaurants.** Seoul 138 · Busan 113 · Suwon 14 · Daejeon 20 · Cheonan 12. (Forty-fourth to fifty-third passes on 19 August 2026: **+21 added, 3 removed**. The Blue Ribbon index turned out to be a second official source for entries already held, and it contradicted three of them on hours — Mori, LAB XXIV and Halmae Gukbap were removed under the guide's own conflict rule. Suwon remains source-limited; see the log.)
+* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 297 restaurants, the sourcing rules, and the leads worth chasing.
 * **Neighborhood walks:** **[cities/walking-food-routes.md](cities/walking-food-routes.md)** sequences verified entries into routes where the opening hours actually line up.
 * **Navigation & booking:** **[booking-and-tech-guide.md](booking-and-tech-guide.md)** — set up Naver Map and CatchTable Global before you depart.
-* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 279 rows, each with an official source URL.
+* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 297 rows, each with an official source URL.
 
 ---
 

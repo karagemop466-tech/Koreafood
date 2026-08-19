@@ -102,8 +102,6 @@ Seoul,Classic Korean,Gobong Samgyetang,고봉삼계탕,"Myeongdong, Jung-gu",Non
 Seoul,Grilled meat,Jeongwon Sutbulgalbi,정원숯불갈비,Jongno-gu,None,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=57462
 Seoul,Classic Korean,Dongdaemun Bonga Gamasot Seolleongtang,동대문본가가마솥설렁탕,Jongno-gu (Dongdaemun),None,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=60481
 Busan,Classic Korean & Specialty,Nampo Samgyetang,남포삼계탕,Jung-gu (Nampo),None,https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1247
-Busan,Classic Korean & Specialty,Halmae Gukbap,할매국밥,Dong-gu,None,https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=246
-Busan,Fine dining,LAB XXIV by Kumuda,랩트웬티포,Haeundae-gu (Songjeong),None,https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1842
 Daejeon,Classic Korean & Specialty,Hanbat Sikdang,한밭식당,Dong-gu (near Daejeon Station),None (no Michelin coverage in Daejeon),https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=190282
 Seoul,Classic Korean,Neungnabapsang,능라밥상,Jongno-gu,None,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=57555
 Seoul,Classic Korean,RADOST,라도스트,Jongno-gu,None,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=57324
@@ -233,7 +231,6 @@ Busan,Classic Korean,Subok Dwaejigukbap,수복돼지국밥,Yeonje-gu,None,https:
 Suwon,Korean seafood,Tongyoung oyster&octopus love,통영굴사랑&낙지사랑,"Paldal-gu, Suwon",None,https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138555
 Busan,Classic Korean,Suhyang Bapsang,수향밥상,"Dadae-dong, Saha-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1517
 Busan,Classic Korean,Samnak Hadong Jaecheopguk,,"Samnak, Sasang-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1523
-Busan,Japanese,Mori,,"Haeundae Beach, Haeundae-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=1844
 Busan,Cafe,Bubu Coffee,,"Gwangbok-dong, Jung-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=1838
 Busan,Korean-Chinese,Donghwa Banjeom,,"Bosu-dong, Jung-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=1839
 Busan,Noodles,Myeonok Hyangcheon,,"U-dong, Haeundae-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=1841
@@ -278,3 +275,24 @@ Busan,Cafe,bread365,,Nam-gu,None,https://www.visitbusan.net/en/index.do?menuCd=D
 Busan,Cafe,Bonheur Pâtisserie,,"Geodae, Yeonje-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
 Busan,Cafe,MONSIEUR VINCENT,,Suyeong-gu,None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
 Busan,Cafe,MUG Dessert LAB,,"Marine City, Haeundae-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Classic Korean,Michael's Urban Farm Table,,Suyeong-gu,None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Classic Korean,Le DORER,,"Marine City, Haeundae-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Korean-Chinese,Nampung,,Haeundae-gu,None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Korean seafood,Chilseong Hoetjip,,"Gwangalli, Suyeong-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Classic Korean,Ireok,,"Marine City, Haeundae-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Grilled Meat,Oryukdogawon,,"Oryukdo, Nam-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Grilled Meat,Mokjangwon,,Yeongdo-gu,None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Grilled Meat,Gyuujeong,,"Dalmaji, Haeundae-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Grilled Meat,Goseurak,,"Jangan-eup, Gijang-gun",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Korean seafood,Geobukseon Hoetjip,,"Dalmaji, Haeundae-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Classic Korean,Cappadocia,,Geumjeong-gu,None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Classic Korean,ALOI THAI RESTAURANT,,"Millak, Suyeong-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Classic Korean,DAL THAI,,"Dalmaji, Haeundae-gu",None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Classic Korean,RAEOAK,,Nam-gu (Kyungsung Univ.),None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Busan,Classic Korean,Restaurant L'étang,,Busanjin-gu,None,https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002002000
+Seoul,Grilled Meat,Seogang Kkeopdegi,,"Hapjeong, Mapo-gu",None,https://english.visitseoul.net/restaurants/Seogang-Kkeopdegi/ENP012289
+Seoul,Cafe,Hyoja Bakery,,"Seochon, Jongno-gu",None,https://english.visitseoul.net/restaurants/Hyoja-Bakery/ENP019657
+Seoul,Cafe,Nagwon Rice Cake,,"Jongno 3-ga, Jongno-gu",None,https://english.visitseoul.net/restaurants/Nakwon-Food/ENP026190
+Seoul,Classic Korean,La Cantina,,"Euljiro 1-ga, Jung-gu",None,https://english.visitseoul.net/restaurants/La-Cantina-EN/ENP011702
+Seoul,Classic Korean,Nolboo Sulfur Duck Restaurant,,Songpa-gu,None,https://english.visitseoul.net/restaurants/Nolboo-Sulfur-Duck-RestaurantJamsil/ENP002505
+Seoul,Cafe,Cafe Layered Anguk Branch,,"Anguk / Bukchon, Jongno-gu",None,https://english.visitseoul.net/restaurants/Cafe-Layered-Anguk/ENP038318

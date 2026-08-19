@@ -826,3 +826,79 @@ Suwon therefore stays at **14**. Four rounds of searching have now failed to fin
 | **Total** | **279** | **+24** |
 
 Twenty-three of the twenty-four new rows print no Korean name on their official page — the Blue Ribbon index is English-only, and most Visit Seoul pages in this batch omit it too. Per the standing rule those Korean fields are **left empty** rather than transliterated.
+
+---
+
+# Expansion passes 44–53 — 19 August 2026 (Busan Blue Ribbon index; Seoul; Suwon re-attempted a fifth time)
+
+Ten further passes. **+21 added, 3 removed.** Roster 279 → **297** (Seoul 138 · Busan 113 · Suwon 14 · Daejeon 20 · Cheonan 12).
+
+The headline of this round is not the additions. It is that the Blue Ribbon index — opened last round as a *source of new entries* — turns out to be a **second official source for entries the guide already held**, and it contradicts three of them on opening hours. Those three have been removed.
+
+## Pass 44 — page 5 of the Blue Ribbon index, and the first conflict
+
+Working the index at `menuCd=DOM_000000301002002000`, page 5 returned **Mori** (`uc_seq=1590`) at 24 Haeundaehaebyeon-ro 298beon-gil, Haeundae-gu, **18:00–24:00, closed Mondays**. Mori was added to this guide in pass 26 from the Visit Busan food-tour listing `uc_seq=1844`, which prints the same street address and **19:00–23:00, closed Mondays**.
+
+Same restaurant, two official Visit Busan pages, two different sets of hours. See the removals section below.
+
+New from page 5: **Michael's Urban Farm Table** (1589), **Le DORER** (1588), **Nampung** (1586), **Chilseong Hoetjip** (1585), **Ireok** (1584), **Oryukdogawon** (1583), **Mokjangwon** (1582).
+
+## Pass 45 — page 6, first half
+
+**Gyuujeong** (1578), **Goseurak** (1577), **Geobukseon Hoetjip** (1576), **Cappadocia** (1575). All four print full address, hours and closing days on the index.
+
+## Pass 46 — page 6, second half, and a rejection on missing hours
+
+**ALOI THAI RESTAURANT** (1574), **DAL THAI** (1573), **RAEOAK** (1572), **Restaurant L'étang** (1571) — all kept; L'étang is marked reservation-only on the index and the row says so.
+
+**Lee Jae-mo Pizza** (`uc_seq=1570`, 31 Gwangbokjungang-ro, Jung-gu) — **rejected**. Its hours field on the index is **empty**; the entry reads only "- closed every Sunday". Address without hours does not clear the bar, and per the standing rule the whole entry is dropped rather than the field left blank.
+
+## Passes 47–50 — Seoul, Visit Seoul index pages 6–7
+
+Six kept, each read off its own page:
+
+* **Seogang Kkeopdegi** `ENP012289` — 36 World Cup-ro, Mapo-gu; 16:00–03:30, year round; ☎ +82-2-338-5541 (the page prints it unformatted as "+82 23385541").
+* **Hyoja Bakery** `ENP019657` — 54 Pirundae-ro, Jongno-gu; Tue–Sun 08:00–19:40, closes early when bread runs out; closed Mondays; ☎ +82-2-736-7629. The page also lists a dated "8/4~8/7" break that has passed; recorded as such.
+* **Nagwon Rice Cake** `ENP026190` — 438 Samil-daero, Jongno-gu; 08:00–21:00 daily; ☎ +82-2-732-5579. A designated Seoul Future Heritage site.
+* **La Cantina** `ENP011702` — 19 Eulji-ro, Jung-gu; Mon–Sat 11:30–15:00 / 17:00–22:00; closed Sundays, Seollal & Chuseok; ☎ +82-2-777-2580. Ten minutes' walk from Myeongdong.
+* **Nolboo Sulfur Duck Restaurant** `ENP002505` — 131 Ogeum-ro, Songpa-gu; 11:30–22:00, break 15:00–17:00; no closing day printed; ☎ +82-507-1383-5292.
+* **Cafe Layered Anguk Branch** `ENP038318` — 2-3 Bukchon-ro 2-gil, Jongno-gu; daily 08:00–22:00. **No phone is printed on the listing**, and the row says so rather than inventing one.
+
+Not pursued: **Neungra Bapsang** `ENP027206` appears to be the same restaurant as the roster's existing Neungnabapsang and was left alone rather than duplicated.
+
+## Passes 51–53 — cross-checking the roster against the index, and three removals
+
+Because the index covers a hundred restaurants and the guide now holds 113 in Busan, the overlap was checked deliberately rather than incidentally. Three existing entries have a second official Visit Busan page that disagrees with the one they were built on:
+
+| Entry | Source it was built on | Blue Ribbon index | Verdict |
+| :--- | :--- | :--- | :--- |
+| **Mori** | `uc_seq=1844` — 19:00–23:00 | `uc_seq=1590` — 18:00–24:00 | **Removed** |
+| **LAB XXIV by Kumuda** | `uc_seq=1842` — lunch from 11:30 | `uc_seq=1587` — lunch from 12:00, reservation-only | **Removed** |
+| **Halmae Gukbap** | `uc_seq=246` — 10:00–19:00 | listed as "Yuksimnyeon jeontong halmaegukbap" — 10:00–20:00 | **Removed** |
+
+All three are now in the **"Removed from this guide, and why"** table in `cities/busan.md`, with the conflicting figures printed so a reader can judge for themselves.
+
+This follows the precedent already set in this repository: **Shinbalwon (신발원) was removed for exactly this defect** — two Visit Busan listings, 11:00–21:00 against 11:00–20:00. Halmae Gukbap was merely *flagged* in the previous round rather than removed; that was inconsistent with how Shinbalwon, Duru and Gurkha had been treated, and it has been corrected here. The guide cannot reject new candidates for a defect it tolerates in entries it already holds.
+
+Removing three verified-looking entries costs the roster three lines. It is the right trade: an entry whose closing time two official pages disagree about is exactly the entry that strands someone at 19:30.
+
+## Suwon — fifth consecutive round, still nothing addable
+
+Searched again, this time around Haenggung-dong and Haengnidan-gil, the part of Suwon most likely to carry official restaurant listings. VisitKorea returns **attractions** for that area — Hwaseong Haenggung, the mural village, Haengnidan-gil, Suwon Workshop Street — and its Suwon food article prints "**Operating hours: Vary by shop**" for both Chicken Street and Paldalmun-ro. No new restaurant with a readable address *and* hours.
+
+The Blue Ribbon seam that produced most of this round is a Busan City asset and has no Suwon equivalent. Suwon stays at **14**, and the reason remains the one documented in `cities/suwon.md`: no city-level tourism portal publishing restaurant hours.
+
+## Where the roster stands
+
+| City | Entries | Change |
+| :--- | ---: | :--- |
+| Seoul | 138 | +6 |
+| Busan | 113 | +15 added, −3 removed |
+| Suwon | 14 | — |
+| Daejeon | 20 | — |
+| Cheonan | 12 | — |
+| **Total** | **297** | **+21 / −3** |
+
+All 21 new rows print no Korean name on their official page — the Blue Ribbon index is English-only and the Visit Seoul pages in this batch omit it. Those Korean fields are **left empty** rather than transliterated, and each row says to search the address on Naver Map.
+
+**Blue Ribbon index coverage so far:** roughly 40 of its 100 entries have now been read. The remainder — much of "Busan's Classics" and the "Busan City Tour Bus Restaurants" category — is the obvious next seam, and it should be worked as a **cross-check against existing Busan entries** as much as a source of new ones.
