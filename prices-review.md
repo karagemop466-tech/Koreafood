@@ -42,159 +42,217 @@ If no source publishes a price, **leave the row blank**. A blank row is the corr
 
 ---
 
-## The 314 verified restaurants
+## The 376 verified restaurants
 
 Roster generated from `restaurants-bookmarks.csv`. If an entry is added or removed there, update this file to match.
 
-### Seoul (142)
+### Seoul (201)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
-| 1 | Myeongdong Kyoja | 명동교자 본점 | |
-| 2 | Imun Seolnongtang | 이문설농탕 | |
-| 3 | Hadongkwan | 하동관 본점 | |
-| 4 | Chanyang-jip | 찬양집 | |
-| 5 | Hwangsaengga Kalguksu | 황생가칼국수 | |
-| 6 | Sinseonggak | 신성각 | |
-| 7 | Ohsaegyehyang | 오세계향 | |
-| 8 | Pildong Myeonok | 필동면옥 | |
-| 9 | Sadong Myeonok | 사동면옥 | |
-| 10 | Insadong Sujebi | 인사동수제비 | |
-| 11 | Myeongdong Hamheung Myeonok | 명동함흥면옥 | |
-| 12 | Nampo Myeonok | 남포면옥 | |
-| 13 | Hyundai Kalguksu | 현대칼국수 | |
-| 14 | Halmeoni Kalguksu | 할머니칼국수 | |
-| 15 | Geumdwaeji Sikdang | 금돼지식당 | |
-| 16 | Budnamujip | 버드나무집 | |
-| 17 | Chung Ki Wa Town Main Branch | 청기와타운 본점 | |
-| 18 | Janganmun | 장안문 | |
-| 19 | Buchon Yukhoe | 부촌육회 | |
-| 20 | Jin Ok-hwa Halmae Wonjo Dakhanmari | 진옥화할매원조닭한마리 | |
-| 21 | Goryeo Samgyetang | 고려삼계탕 본점 | |
-| 22 | Myeongdongjeong | 명동정 | |
-| 23 | Myeongdong Eomeonijip | 명동어머니집 | |
-| 24 | Yeongyang Center | 영양센터 | |
-| 25 | Myeongdong Chungmu Gimbap | 명동충무김밥 | |
-| 26 | Yennal Myeongdong Budaejjigae | 옛날명동부대찌개 | |
-| 27 | Wonjo Namsan Wangdonkkaseu Myeongdong | 원조남산왕돈까스 명동 | |
-| 28 | Yukdaejang Myeongdong | 육대장 명동 | |
-| 29 | Myeongdong Hanubang | 명동한우방 | |
-| 30 | Seowon | 서원 | |
-| 31 | Nwijo | 뉘조 | |
-| 32 | Hanaro Hwaegwan | 하나로회관 | |
-| 33 | Sanchon | 산촌 | |
-| 34 | Hamcho Ganjang Gejang | 함초간장게장 | |
-| 35 | Jeonju Hoegwan | 전주회관 | |
-| 36 | Jungsungbon Shabu Suki Kalguksu | 정성본샤브수끼칼국수 | |
-| 37 | Janggeumi Jeonjip | 장금이전집 | |
-| 38 | Yonggeumok | 용금옥 | |
-| 39 | Geumseonggwan Najugomtang | 금성관나주곰탕 | |
-| 40 | Sikdang Jin | 식당진 | |
-| 41 | Minsokchon | 민속촌 | |
-| 42 | Jongno Myeongtaedeokjang | 종로명태덕장 | |
-| 43 | Nakji Wangguk | 낙지왕국 | |
-| 44 | Gobong Samgyetang | 고봉삼계탕 | |
-| 45 | Jeongwon Sutbulgalbi | 정원숯불갈비 | |
-| 46 | Dongdaemun Bonga Gamasot Seolleongtang | 동대문본가가마솥설렁탕 | |
-| 47 | Neungnabapsang | 능라밥상 | |
-| 48 | RADOST | 라도스트 | |
-| 49 | THE SIC-DDANG Myeongdong | 더식당 명동 | |
-| 50 | Okcheon Maeun Jokbal | 옥천매운족발 | |
-| 51 | Masan Place | 마산집 | |
-| 52 | NOBIZIB | 너비집 | |
-| 53 | Namhae Gulgukbap | 남해굴국밥 | |
-| 54 | Hongsugye Jjimdak | 홍수계찜닭 | |
-| 55 | Heukdonga Myeongdong | 흑돈가 명동 | |
-| 56 | Jinju Hoegwan | 진주회관 | |
-| 57 | Yennal Yeongil Naengmyeon | 옛날연길냉면 | |
-| 58 | Jaembaeok | 잼배옥 | |
-| 59 | Gangseo Myeonok | 강서면옥 | |
-| 60 | Mirakjeong | 미락정 | |
-| 61 | Miseongok | 미성옥 | |
-| 62 | Myth Jokbal Myeongdong | 미쓰족발명동 | |
-| 63 | Myeongdong Seoseo Galbi | 명동서서갈비 | |
-| 64 | Jangsu Galbi | 장수갈비 | |
-| 65 | Jongno Samgyetang | 종로삼계탕 | |
-| 66 | Gyeongin Misulgwan Jeontong Dawon | 경인미술관 전통다원 | |
+| 1 | Sinseonggak | 신성각 | |
+| 2 | Osegyehyang | 오세계향 | |
+| 3 | Budnamujip | 버드나무집 | |
+| 4 | Geumdwaeji Sikdang | 금돼지식당 | |
+| 5 | Myeongdong Kyoja | 명동교자 본점 | |
+| 6 | Hadongkwan Main Store | 하동관 본점 | |
+| 7 | Chanyang-jip | 찬양집 | |
+| 8 | Imun Seolleongtang | 이문설농탕 | |
+| 9 | Buchon Yukhoe | 부촌육회 | |
+| 10 | Jin Ok-hwa Halmae Dakhanmari | 진옥화할매원조닭한마리 | |
+| 11 | Goryeo Samgyetang | 고려삼계탕 본점 | |
+| 12 | Hwangsaengga Kalguksu | 황생가칼국수 | |
+| 13 | Myeongdongjeong | 명동정 | |
+| 14 | Myeongdong Eomeonijip | 명동어머니집 | |
+| 15 | Yeongyang Center | 영양센터 | |
+| 16 | Myeongdong Chungmu Gimbap | 명동충무김밥 | |
+| 17 | Pildong Myeonok | 필동면옥 | |
+| 18 | Yennal Myeongdong Budaejjigae | 옛날명동부대찌개 | |
+| 19 | Wonjo Namsan Wangdonkkaseu Myeongdong | 원조남산왕돈까스 명동 | |
+| 20 | Sadong Myeonok | 사동면옥 | |
+| 21 | Insadong Sujebi | 인사동수제비 | |
+| 22 | Gyeongin Misulgwan Jeontong Dawon | 경인미술관 전통다원 | |
+| 23 | Yukdaejang Myeongdong | 육대장 명동 | |
+| 24 | Myeongdong Hanubang | 명동한우방 | |
+| 25 | Seowon | 서원 | |
+| 26 | Nwijo | 뉘조 | |
+| 27 | Miseongok | 미성옥 | |
+| 28 | Myth Jokbal Myeongdong | 미쓰족발명동 | |
+| 29 | Myeongdong Seoseo Galbi | 명동서서갈비 | |
+| 30 | Jangsu Galbi | 장수갈비 | |
+| 31 | Jongno Samgyetang | 종로삼계탕 | |
+| 32 | Myeongdong Hamheung Myeonok | 명동함흥면옥 | |
+| 33 | Hanaro Hwaegwan | 하나로회관 | |
+| 34 | Chung Ki Wa Town Main Branch | 청기와타운 본점 | |
+| 35 | Nampo Myeonok | 남포면옥 | |
+| 36 | Hyundai Kalguksu | 현대칼국수 | |
+| 37 | Halmeoni Kalguksu | 할머니칼국수 | |
+| 38 | Janganmun | 장안문 | |
+| 39 | Sanchon | 산촌 | |
+| 40 | Hamcho Ganjang Gejang | 함초간장게장 | |
+| 41 | Jeonju Hoegwan | 전주회관 | |
+| 42 | Jungsungbon Shabu Suki Kalguksu | 정성본샤브수끼칼국수 | |
+| 43 | Janggeumi Jeonjip | 장금이전집 | |
+| 44 | Yonggeumok | 용금옥 | |
+| 45 | Geumseonggwan Najugomtang | 금성관나주곰탕 | |
+| 46 | Sikdang Jin | 식당진 | |
+| 47 | Minsokchon | 민속촌 | |
+| 48 | Jongno Myeongtaedeokjang | 종로명태덕장 | |
+| 49 | Nakji Wangguk | 낙지왕국 | |
+| 50 | Gobong Samgyetang | 고봉삼계탕 | |
+| 51 | Jeongwon Sutbulgalbi | 정원숯불갈비 | |
+| 52 | Dongdaemun Bonga Gamasot Seolleongtang | 동대문본가가마솥설렁탕 | |
+| 53 | Neungnabapsang | 능라밥상 | |
+| 54 | RADOST | 라도스트 | |
+| 55 | THE SIC-DDANG Myeongdong | 더식당 명동 | |
+| 56 | Okcheon Maeun Jokbal | 옥천매운족발 | |
+| 57 | Masan Place | 마산집 | |
+| 58 | NOBIZIB | 너비집 | |
+| 59 | Namhae Gulgukbap | 남해굴국밥 | |
+| 60 | Hongsugye Jjimdak | 홍수계찜닭 | |
+| 61 | Heukdonga Myeongdong | 흑돈가 명동 | |
+| 62 | Jinju Hoegwan | 진주회관 | |
+| 63 | Yennal Yeongil Naengmyeon | 옛날연길냉면 | |
+| 64 | Jaembaeok | 잼배옥 | |
+| 65 | Gangseo Myeonok | 강서면옥 | |
+| 66 | Mirakjeong | 미락정 | |
 | 67 | Deogwon Kkorigomtang Bangchitang | 덕원꼬리곰탕방치탕 | |
 | 68 | Hamheung Naengmyeon | 함흥냉면 | |
 | 69 | Haeju Naengmyeon | 해주냉면 | |
 | 70 | Neungrado Myeongdong Branch | 능라도 명동점 | |
-| 71 | Samwon Garden | 삼원가든 | |
-| 72 | Joseonok | 조선옥 | |
-| 73 | Daepyeong Galbi | 대평갈비 | |
-| 74 | Gwanghwamun Gukbap | 광화문국밥 | |
-| 75 | Tongdwaeji Duruchigi | 통돼지두루치기 | |
-| 76 | Myeongdong Busanjib | 명동부산집 | |
-| 77 | Myeongdong Chaeum Hanjongshik | 명동채움 한정식 | |
-| 78 | Ojang-dong Hamheung Naengmyeon | 오장동 함흥냉면 | |
-| 79 | Gaeseong Mandu Koong | 개성만두 궁 | |
-| 80 | Jongro Seolleongtang | 종로설렁탕 | |
-| 81 | Oegojip Seolleongtang | 외고집설렁탕 | |
-| 82 | Jinmi Pyeongyang Naengmyeon | 진미평양냉면 | |
-| 83 | Won Gopchang | 원곱창 | |
-| 84 | Samgyeopsal Jeonmunjeom Daetongnyeong | 삼겹살전문점대통령 | |
-| 85 | Vegan Kitchen |  | |
-| 86 | KAMPUNGKU |  | |
-| 87 | MaeHwa Lamb Skewers Myeongdong |  | |
-| 88 | Igamyeonok | 이가면옥 | |
-| 89 | Well-being Sujebi | 웰빙수제비 | |
-| 90 | Eunhangnamujip | 은행나무집 | |
-| 91 | Busan Agujjim Gulbossam | 부산아구찜굴보쌈 | |
-| 92 | Chamchi Maeul | 참치마을 | |
-| 93 | Sigoljeonjip | 시골전집 | |
-| 94 | Seoul Wonjo Agujjim | 서울 원조아구찜 | |
-| 95 | Sejong Village Chicken | 세종 마을 치킨 | |
-| 96 | Pooja 2 | 뿌자 2 | |
-| 97 | Itaewon Kitchen | 이태원 키친 | |
-| 98 | Zaffran | 자프란 | |
-| 99 | AANGAN | 아건 | |
-| 100 | Ezindia | 이지인디아 | |
-| 101 | Jinguk Seolleongtang | 진국설렁탕 | |
-| 102 | Seongwon Jeonju Kongnamul Gukbap | 성원 전주콩나물국밥 | |
-| 103 | Teumsae Ramyeon | 틈새라면 | |
-| 104 | Myeongdong Tonkatsu | 명동돈까스 | |
-| 105 | Myeongdong Jjukkumi | 명동쭈꾸미 | |
-| 106 | Eun&Jeong Myeongdong Dakgalbi | 은앤정명동닭갈비 | |
-| 107 | Ttosuni Sundae | 또순이원조순대 | |
-| 108 | OPPADAK Myeongdong | 오븐에빠진닭 명동 | |
-| 109 | Insadong Garlic Bossam | 인사동마늘보쌈 | |
-| 110 | Gomgukshijip Myeongdong Branch | 곰국시집 명동 | |
-| 111 | Pro Soy Crab (Main Branch) |  | |
-| 112 | Busanjib KBBQ |  | |
-| 113 | Busanjib Fried Chicken |  | |
-| 114 | Byeolnan Ori | 별난오리 | |
-| 115 | Daehan Gopchang (Jangan Branch) |  | |
-| 116 | Seongcheon Makguksu | 성천막국수 | |
-| 117 | Cheongdamgol |  | |
-| 118 | Yangmani (Cheongdam Branch) |  | |
-| 119 | Yangmani (Yeouido) |  | |
-| 120 | Yi Ning |  | |
-| 121 | MAO |  | |
-| 122 | Moodeungsan |  | |
-| 123 | Haemok Nonhyeon |  | |
-| 124 | Onion (Seongsu) |  | |
-| 125 | Kervan Cafe | 케르반 카페 | |
-| 126 | Samarkandcity | 사마르칸트시티 | |
-| 127 | Mugyo-dong Bugeo-guk |  | |
-| 128 | Jihwaja |  | |
-| 129 | Mongmyeok Sanbang |  | |
-| 130 | Eulji Dabang |  | |
-| 131 | Omiga (Sinsa Branch) |  | |
-| 132 | Maple Tree House Itaewon Branch |  | |
-| 133 | Seogang Kkeopdegi |  | |
-| 134 | Hyoja Bakery |  | |
-| 135 | Nagwon Rice Cake |  | |
-| 136 | La Cantina |  | |
-| 137 | Nolboo Sulfur Duck Restaurant |  | |
-| 138 | Cafe Layered Anguk Branch |  | |
-| 139 | Suyeon Sanbang |  | |
-| 140 | Byeokje Galbi Tower Palace |  | |
-| 141 | Café Rosso |  | |
-| 142 | Taegeukdang |  | |
+| 71 | Joseonok | 조선옥 | |
+| 72 | Daepyeong Galbi | 대평갈비 | |
+| 73 | Gwanghwamun Gukbap | 광화문국밥 | |
+| 74 | Tongdwaeji Duruchigi | 통돼지두루치기 | |
+| 75 | Myeongdong Busanjib | 명동부산집 | |
+| 76 | Myeongdong Chaeum Hanjongshik | 명동채움 한정식 | |
+| 77 | Ojang-dong Hamheung Naengmyeon | 오장동 함흥냉면 | |
+| 78 | Gaeseong Mandu Koong | 개성만두 궁 | |
+| 79 | Jongro Seolleongtang | 종로설렁탕 | |
+| 80 | Oegojip Seolleongtang | 외고집설렁탕 | |
+| 81 | Jinmi Pyeongyang Naengmyeon | 진미평양냉면 | |
+| 82 | Won Gopchang | 원곱창 | |
+| 83 | Samgyeopsal Jeonmunjeom Daetongnyeong | 삼겹살전문점대통령 | |
+| 84 | Vegan Kitchen |  | |
+| 85 | KAMPUNGKU |  | |
+| 86 | MaeHwa Lamb Skewers Myeongdong |  | |
+| 87 | Igamyeonok | 이가면옥 | |
+| 88 | Well-being Sujebi | 웰빙수제비 | |
+| 89 | Eunhangnamujip | 은행나무집 | |
+| 90 | Busan Agujjim Gulbossam | 부산아구찜굴보쌈 | |
+| 91 | Chamchi Maeul | 참치마을 | |
+| 92 | Sigoljeonjip | 시골전집 | |
+| 93 | Seoul Wonjo Agujjim | 서울 원조아구찜 | |
+| 94 | Sejong Village Chicken | 세종 마을 치킨 | |
+| 95 | Pooja 2 | 뿌자 2 | |
+| 96 | Itaewon Kitchen | 이태원 키친 | |
+| 97 | Zaffran | 자프란 | |
+| 98 | AANGAN | 아건 | |
+| 99 | Ezindia | 이지인디아 | |
+| 100 | Jinguk Seolleongtang | 진국설렁탕 | |
+| 101 | Seongwon Jeonju Kongnamul Gukbap | 성원 전주콩나물국밥 | |
+| 102 | Teumsae Ramyeon | 틈새라면 | |
+| 103 | Myeongdong Tonkatsu | 명동돈까스 | |
+| 104 | Myeongdong Jjukkumi | 명동쭈꾸미 | |
+| 105 | Eun&Jeong Myeongdong Dakgalbi | 은앤정명동닭갈비 | |
+| 106 | Ttosuni Sundae | 또순이원조순대 | |
+| 107 | OPPADAK Myeongdong | 오븐에빠진닭 명동 | |
+| 108 | Insadong Garlic Bossam | 인사동마늘보쌈 | |
+| 109 | Gomgukshijip Myeongdong Branch | 곰국시집 명동 | |
+| 110 | Pro Soy Crab (Main Branch) |  | |
+| 111 | Busanjib KBBQ |  | |
+| 112 | Busanjib Fried Chicken |  | |
+| 113 | Byeolnan Ori | 별난오리 | |
+| 114 | Daehan Gopchang (Jangan Branch) |  | |
+| 115 | Seongcheon Makguksu | 성천막국수 | |
+| 116 | Cheongdamgol |  | |
+| 117 | Yangmani (Cheongdam Branch) |  | |
+| 118 | Yangmani (Yeouido) |  | |
+| 119 | Yi Ning |  | |
+| 120 | MAO |  | |
+| 121 | Moodeungsan |  | |
+| 122 | Haemok Nonhyeon |  | |
+| 123 | Onion (Seongsu) |  | |
+| 124 | Kervan Cafe | 케르반 카페 | |
+| 125 | Samarkandcity | 사마르칸트시티 | |
+| 126 | Mugyo-dong Bugeo-guk |  | |
+| 127 | Jihwaja |  | |
+| 128 | Mongmyeok Sanbang |  | |
+| 129 | Eulji Dabang |  | |
+| 130 | Omiga (Sinsa Branch) |  | |
+| 131 | Maple Tree House Itaewon Branch |  | |
+| 132 | Seogang Kkeopdegi |  | |
+| 133 | Hyoja Bakery |  | |
+| 134 | Nagwon Rice Cake |  | |
+| 135 | La Cantina |  | |
+| 136 | Nolboo Sulfur Duck Restaurant |  | |
+| 137 | Cafe Layered Anguk Branch |  | |
+| 138 | Suyeon Sanbang |  | |
+| 139 | Byeokje Galbi Tower Palace |  | |
+| 140 | Café Rosso |  | |
+| 141 | Taegeukdang |  | |
+| 142 | Jjamppong Zizon Jongno | 짬뽕지존 종로 | |
+| 143 | Masichaina | 맛이차이나 | |
+| 144 | Jungguk |  | |
+| 145 | Busanjib Hongdae |  | |
+| 146 | MGM Hongdae Branch |  | |
+| 147 | Eongteori Saenggogi Hongdae | 엉터리생고기 홍대 | |
+| 148 | YANG IN HWAN DAE Hongdae |  | |
+| 149 | Mapo Sutbulgalbi |  | |
+| 150 | Mapo Sutbul Galbi | 마포숯불갈비 | |
+| 151 | Janggun Galbi |  | |
+| 152 | Galbi Myeongga Yisang |  | |
+| 153 | Jingogae Dongdaemun |  | |
+| 154 | Sinsin Maeun galbijjim | 신신매운갈비찜 | |
+| 155 | Avelop Hongdae Flagship |  | |
+| 156 | Imi Coffee |  | |
+| 157 | Café Layered Yeonnam |  | |
+| 158 | EPI |  | |
+| 159 | Jayondo Salt Bread in Seongsu |  | |
+| 160 | Ops Bakery (Jung-gu) |  | |
+| 161 | Samsong Bakery |  | |
+| 162 | Gayaseong | 가야성 | |
+| 163 | Ogu Banjeom | 오구반점 | |
+| 164 | Manboseong | 만보성 | |
+| 165 | Songjugjang |  | |
+| 166 | Donghunkwan |  | |
+| 167 | Janggagu |  | |
+| 168 | Gabongnu |  | |
+| 169 | Hongneung Galbijip |  | |
+| 170 | Hyeongje Galbi |  | |
+| 171 | Moguchon Sutbulgalbi | 목우촌숯불갈비 | |
+| 172 | Hanu Samgyeop | 한우삼겹 | |
+| 173 | Gwangyang Bulgogi Bonga | 광양불고기본가 | |
+| 174 | Ijo | 이조 | |
+| 175 | Cafe aA |  | |
+| 176 | Colline |  | |
+| 177 | FLAN |  | |
+| 178 | B-hind |  | |
+| 179 | Homilbat |  | |
+| 180 | Scene |  | |
+| 181 | CaféCité |  | |
+| 182 | Dokkaebi Bulgogi | 도깨비불고기 | |
+| 183 | Gwanghwamun Seokgalbi | 광화문석갈비 | |
+| 184 | Dotori Oven |  | |
+| 185 | Room Temperature |  | |
+| 186 | Anderson C |  | |
+| 187 | Bricksand Seongsu Factory |  | |
+| 188 | Madam Ming |  | |
+| 189 | Jangsu Sikdang |  | |
+| 190 | Hakrim Dabang |  | |
+| 191 | Yeonnam Seosikdang | 연남서식당 | |
+| 192 | Dosan Butchery Cheongdam Main Branch |  | |
+| 193 | Ouga |  | |
+| 194 | Goshen |  | |
+| 195 | Heukdonga (Gangnam / Samseong) |  | |
+| 196 | Café SangGuk |  | |
+| 197 | Passion 5 |  | |
+| 198 | Arirang |  | |
+| 199 | PeterPan 1978 |  | |
+| 200 | Dobongsan Galbi |  | |
+| 201 | Cosmos Grocery Seongsu |  | |
 
-
-### Busan (126)
+### Busan (128)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -202,33 +260,33 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 2 | Halmae Gaya Milmyeon | 할매가야밀면 | |
 | 3 | Seo-myeon Gaegeum Milmyeon | 서면개금밀면 | |
 | 4 | Gijang Sonkalguksu | 기장손칼국수 | |
-| 5 | Dongnae Milmyeon | 동래밀면 | |
-| 6 | Daeyeon Milmyeon | 대연밀면 | |
-| 7 | Samseong Milmyeon | 삼성밀면 | |
-| 8 | Gaya Halmae Milmyeon | 가야할매밀면 | |
-| 9 | Ilmi Milmyeon | 일미밀면 | |
-| 10 | Yangpyeong Kalguksu | 양평칼국수 | |
-| 11 | Danggam Milmyeon | 당감밀면 | |
-| 12 | Hwaguk Banjeom | 화국반점 | |
-| 13 | Banpin | 반핀 | |
-| 14 | Haeundae Amso Galbijip | 해운대암소갈비집 | |
-| 15 | Geodae Galbi | 거대갈비 | |
-| 16 | 88 Dwaeji Galbi | 88돼지갈비 | |
-| 17 | Busan Jokbal | 부산족발 | |
-| 18 | Songjeong Samdae Gukbap | 송정3대국밥 | |
+| 5 | Hwaguk Banjeom | 화국반점 | |
+| 6 | Haeundae Amso Galbijip | 해운대암소갈비집 | |
+| 7 | Busan Jokbal | 부산족발 | |
+| 8 | Songjeong Samdae Gukbap | 송정3대국밥 | |
+| 9 | Dongnae Halmae Pajeon | 동래할매파전 | |
+| 10 | Jagalchi Market | 자갈치시장 | |
+| 11 | Bujeon Market | 부전시장 | |
+| 12 | Samjin Eomuk Main Store | 삼진어묵 본점 | |
+| 13 | Brown Hands Baekje | 브라운핸즈 백제 | |
+| 14 | Dongnae Milmyeon | 동래밀면 | |
+| 15 | Daeyeon Milmyeon | 대연밀면 | |
+| 16 | Samseong Milmyeon | 삼성밀면 | |
+| 17 | Gaya Halmae Milmyeon | 가야할매밀면 | |
+| 18 | Ilmi Milmyeon | 일미밀면 | |
 | 19 | Jamae Gukbap | 자매국밥 | |
 | 20 | Jaegi Dwaeji Gukbap | 재기돼지국밥 | |
-| 21 | Ungcheonjip | 웅천집 | |
-| 22 | Samihun | 사미헌 | |
-| 23 | Yeongjin Sikdang | 영진식당 | |
-| 24 | Cor Pasta Bar | 코르 파스타바 | |
-| 25 | Dongnae Halmae Pajeon | 동래할매파전 | |
-| 26 | Jagalchi Market | 자갈치시장 | |
-| 27 | Bujeon Market | 부전시장 | |
-| 28 | Samjin Eomuk Main Store | 삼진어묵 본점 | |
-| 29 | Brown Hands Baekje | 브라운핸즈 백제 | |
-| 30 | Choryang Ondang | 초량온당 | |
-| 31 | Nampo Samgyetang | 남포삼계탕 | |
+| 21 | Geodae Galbi | 거대갈비 | |
+| 22 | 88 Dwaeji Galbi | 88돼지갈비 | |
+| 23 | Yangpyeong Kalguksu | 양평칼국수 | |
+| 24 | Banpin | 반핀 | |
+| 25 | Ungcheonjip | 웅천집 | |
+| 26 | Choryang Ondang | 초량온당 | |
+| 27 | Nampo Samgyetang | 남포삼계탕 | |
+| 28 | Danggam Milmyeon | 당감밀면 | |
+| 29 | Samihun | 사미헌 | |
+| 30 | Yeongjin Sikdang | 영진식당 | |
+| 31 | Cor Pasta Bar | 코르 파스타바 | |
 | 32 | Haeundae Gaya Milmyeon | 해운대 가야밀면 | |
 | 33 | 1969 Buwondong Kalguksu Busan Main Branch | 1969부원동칼국수 부산본점 | |
 | 34 | Pyeongan-do Jokbal | 평안도족발 | |
@@ -324,7 +382,8 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 124 | Saechong Hoetjip |  | |
 | 125 | Ssangdungi Dwaejigukbap |  | |
 | 126 | Eunha Galbi |  | |
-
+| 127 | Sinheunggwan |  | |
+| 128 | Camping BBQ Clouds |  | |
 
 ### Suwon (14)
 
@@ -344,7 +403,6 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 12 | Om Restaurant Gwanggyo Branch | 옴레스토랑 광교점 | |
 | 13 | Ori Daega | 오리대가 | |
 | 14 | Tongyoung oyster&octopus love | 통영굴사랑&낙지사랑 | |
-
 
 ### Daejeon (20)
 
@@ -371,7 +429,7 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 19 | Pungnyeon Samgyetang | 풍년삼계탕 | |
 | 20 | Gugu Jeonbok Samgyetang | 구구전복삼계탕 | |
 
-### Cheonan (12)
+### Cheonan (13)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -380,18 +438,6 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 3 | Aunae Jangteo Sundae | 아우내 장터순대 | |
 | 4 | Byeongcheon Sundae Street (area) | 천안 병천순대거리 | |
 | 5 | Dongsunwon Seonghwan Main Branch | 동순원 성환본점 | |
-
----
-
-## Known leads
-
-Two concrete starting points, both noted during verification:
-
-* **Visit Busan publishes menu prices for some of its restaurant listings.** Several of the 14 Busan entries above may be fillable immediately from the `visitbusan.net` URLs already recorded in `restaurants-bookmarks.csv`. This is the single highest-yield place to start. Note the URL form: `visitbusan.net/index.do?...` — the `/kr/` variant returns an empty stub.
-
-* **VisitKorea detail pages list 대표메뉴 (signature dish) but generally not prices.** The Korean print view — `korean.visitkorea.or.kr/detail/ms_detail_print.do?cotid=<uuid>` — is the richest version of those pages and is worth a look per entry, but expect dish names rather than amounts.
-
-Restaurant sites were largely a dead end: `mdkj.co.kr` is behind a CAPTCHA, `budnamujip.com` returns 406, and several others publish menus as images with no text.
 | 6 | Jangkalguksu | 장칼국수 | |
 | 7 | Jeongsang Galbi | 정상갈비 | |
 | 8 | Galjae Sanjang | 갈재산장 | |
@@ -399,4 +445,14 @@ Restaurant sites were largely a dead end: `mdkj.co.kr` is behind a CAPTCHA, `bud
 | 10 | Kkachi Bokjip | 까치복집 | |
 | 11 | Dongmin Mokjang | 동민목장 | |
 | 12 | A-Gate Cafe | 에이게이트카페 | |
+| 13 | Girin the Maeun Galbijjim | 기린더매운갈비찜 | |
 
+## Known leads
+
+Two concrete starting points, both noted during verification:
+
+* **Visit Busan publishes menu prices for some of its restaurant listings.** Several of the Busan entries above may be fillable immediately from the `visitbusan.net` URLs already recorded in `restaurants-bookmarks.csv`. This is the single highest-yield place to start. Note the URL form: `visitbusan.net/index.do?...` — the `/kr/` variant returns an empty stub.
+
+* **VisitKorea detail pages list 대표메뉴 (signature dish) but generally not prices.** The Korean print view — `korean.visitkorea.or.kr/detail/ms_detail_print.do?cotid=<uuid>` — is the richest version of those pages and is worth a look per entry, but expect dish names rather than amounts.
+
+Restaurant sites were largely a dead end: `mdkj.co.kr` is behind a CAPTCHA, `budnamujip.com` returns 406, and several others publish menus as images with no text.
