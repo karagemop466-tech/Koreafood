@@ -42,11 +42,11 @@ If no source publishes a price, **leave the row blank**. A blank row is the corr
 
 ---
 
-## The 232 verified restaurants
+## The 255 verified restaurants
 
 Roster generated from `restaurants-bookmarks.csv`. If an entry is added or removed there, update this file to match.
 
-### Seoul (110)
+### Seoul (126)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -160,9 +160,25 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 108 | OPPADAK Myeongdong | 오븐에빠진닭 명동 | |
 | 109 | Insadong Garlic Bossam | 인사동마늘보쌈 | |
 | 110 | Gomgukshijip Myeongdong Branch | 곰국시집 명동 | |
+| 111 | Pro Soy Crab (Main Branch) |  | |
+| 112 | Busanjib KBBQ |  | |
+| 113 | Busanjib Fried Chicken |  | |
+| 114 | Byeolnan Ori | 별난오리 | |
+| 115 | Daehan Gopchang (Jangan Branch) |  | |
+| 116 | Seongcheon Makguksu | 성천막국수 | |
+| 117 | Cheongdamgol |  | |
+| 118 | Yangmani (Cheongdam Branch) |  | |
+| 119 | Yangmani (Yeouido) |  | |
+| 120 | Yi Ning |  | |
+| 121 | MAO |  | |
+| 122 | Moodeungsan |  | |
+| 123 | Haemok Nonhyeon |  | |
+| 124 | Onion (Seongsu) |  | |
+| 125 | Kervan Cafe | 케르반 카페 | |
+| 126 | Samarkandcity | 사마르칸트시티 | |
 
 
-### Busan (76)
+### Busan (83)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -242,6 +258,13 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 74 | Seoul Samgyetang | 서울삼계탕 | |
 | 75 | Gwangangukbap | 광안국밥 | |
 | 76 | Subok Dwaejigukbap | 수복돼지국밥 | |
+| 77 | Suhyang Bapsang | 수향밥상 | |
+| 78 | Samnak Hadong Jaecheopguk |  | |
+| 79 | Mori |  | |
+| 80 | Bubu Coffee |  | |
+| 81 | Donghwa Banjeom |  | |
+| 82 | Myeonok Hyangcheon |  | |
+| 83 | Jinmi Eonyang Bulgogi |  | |
 
 
 ### Suwon (14)

@@ -599,3 +599,131 @@ Retried the IDs the earlier passes had queued as 400/empty. Two now render and a
 Re-fetched every previously-400 candidate to confirm the rejections were the page, not the session: `54585`, `59727`, `47874`, `46783`, `56873` all still return 400/500. Suwon's English VisitKorea restaurant listings are now exhausted — the only Suwon gain across passes 14–23 is the single halal-listing entry (pass 20), and no Chicken Street shop or second galbi house became sourceable (the contradictory-hours blocker from passes 10–13 stands unchanged).
 
 **Roster after passes 14–23: 232.** Seoul 110 · Busan 76 · Suwon 14 · Daejeon 20 · Cheonan 12. The 21 new entries (and the 85 from passes 10–13) remain **not yet sequenced into `cities/walking-food-routes.md`**.
+
+---
+
+# Expansion passes 24–33 — 19 August 2026 (Seoul, Busan; Suwon re-attempted)
+
+Ten further passes, run after passes 14–23 were committed. Rule unchanged: **address and hours must both be read in-session off the official page itself.** Search engines were used only to find candidate URLs; no snippet, cache, aggregator or blog was ever used as a source. Result: **+23 entries** (Seoul +16, Busan +7), roster 232 → **255**.
+
+## Pass 24 — clearing the queue left by pass 23
+
+Three Visit Busan IDs that returned an empty body in pass 13 were retried and this time rendered:
+
+* `uc_seq=1517` **Suhyang Bapsang (수향밥상)** — 592 Dadae-ro, Saha-gu; 09:00–16:00 / 16:30–22:00; closed public holidays; ☎ 051-266-4726. Loach soup specialist, own fish farm. **Kept.**
+* `uc_seq=1520` **Dongnae Halmae Pajeon** — already in the roster. Address (43-10 Myeongryun-ro 94beon-gil) and hours (11:30–15:00 / 17:00–21:30, closed Mondays) re-read and match the existing row. **No change.**
+* `uc_seq=1523` **Samnak Hadong Jaecheopguk** — 33 Nakdong-daero 1518beon-gil, Sasang-gu; 05:00–21:30; closed public holidays; ☎ 051-301-7200. **Kept.** No Korean name printed → Korean field left empty. The listing carries a one-off note that it closes on Lunar New Year's Day (17 Feb) 2026, which is recorded in-row.
+
+## Pass 25 — Visit Busan ID sweep, food menuCd
+
+`uc_seq` 1528–1540 all render as stubs under `menuCd=DOM_000000301002001000`, and the food index page itself returned a 500. The 15xx food block therefore ends at 1527 and is now fully worked. Nothing added.
+
+Recorded for future sessions: **bash in this sandbox has no outbound network**, so ID sweeps have to go through the page-fetch tool one URL at a time rather than a curl loop.
+
+## Pass 26 — Visit Busan ID sweep, food-tour menuCd
+
+Re-probed the 18xx block under the correct `menuCd=DOM_000000302003001000` (under the food menuCd they render as stubs, which is what made them look dead):
+
+* `1838` **Bubu Coffee** — 1F, 35-1 Gwangbokjungang-ro, Jung-gu; 11:00–22:00, open every day; ☎ 010-7516-0484. **Kept** (Snacks & Cafes).
+* `1839` **Donghwa Banjeom** — 3 Heukgyo-ro 75beon-gil, Jung-gu; 11:30–15:00 / 17:00–21:00, closed Tuesdays; ☎ +82-51-253-6661. Billed as Busan's first Chinese restaurant, founded 1950. The portal mentions a second store in Namcheon-dong, so the row is marked **Bosu-dong address only**. **Kept.**
+* `1841` **Myeonok Hyangcheon** — 26 Haeundae-daero 383beon-gil, Haeundae-gu; 11:00–15:30, closed Sundays; ☎ +82-51-747-4601. **Kept.**
+* `1844` **Mori** — 2F #2-4, Pale De Cz, 24 Haeundaehaebyeon-ro 298beon-gil, Haeundae-gu; 19:00–23:00, closed Mondays; ☎ 051-731-9889. Kaiseki course. **Kept**; the portal's course price is not copied.
+* `1840`, `1843`, `1847`, `1848`, `1851`, `1852` — stubs under both menuCds. Dead.
+* `2196` **Jinmi Eonyang Bulgogi** — 7 Namcheonbada-ro 33beon-gil, Suyeong-gu; every day 10:30–22:00; ☎ +82-51-753-1632. **Kept**, after checking it against the roster's existing **Gwangalli Eonyang Bulgogi Busanjip** (32 Namcheonbada-ro, ☎ 051-754-1004): different street number and different phone, so two restaurants, not one. Both rows now cross-reference each other. `2197` and `2198` are dead.
+
+## Pass 27 — Visit Seoul, Myeongdong cluster
+
+Worked outward from the Myeongdong 8-gil / 10-gil block via the "nearby" links on pages already in the guide.
+
+* **Busanjib KBBQ** `ENPmphdts` — 11-8 Myeongdong 8-gil; 12:00–22:30 (LO 21:40); halal, no alcohol; ☎ +82-10-3142-0278. **Kept.**
+* **Busanjib Fried Chicken** `ENPk2t5h2` — 11-4 Myeongdong 8-gil; 11:00–22:00 (LO 21:10); ☎ same. **Kept.**
+  Both share an operator and a phone with **Myeongdong Busanjib** (11-6), already in the guide. They are three separate addresses with three separate official listings and three different closing times, so all three stand; each row says which number it is.
+* **Pro Soy Crab (Main Branch)** `ENP021838` — 9 Gangnam-daero 97-gil, Seocho-gu; 10:00–23:00 every day; ☎ +82-2-543-4126. **Kept**, marked *Sinsa main branch only* (the listing names a second Samseong-dong location).
+
+## Pass 28 — two Myeongdong rejections
+
+* **Chungmu Gimbap** `ENP006052` — 16 Myeongdong 10-gil, ☎ +82-2-755-8488, weekdays 09:30–22:00 / weekends 09:00–22:00. Identical address, phone and hours to **Myeongdong Chungmu Gimbap** `ENP7m82bh` already in the roster. **Rejected as a duplicate listing of an entry already held**; the alternate URL is noted here rather than added.
+* **Gurkha Restaurant** `ENP030866` — 16-1 Myeongdong 10-gil, 11:00–23:00, ☎ +82-2-775-8860. Same address (5F) and same phone as **Gurkha India Restaurant**, whose Visit Seoul pages print 10:30–22:00 (LO 21:30) on one page and 11:00–23:00 (LO 22:50) on another. One venue, three official pages, three different sets of hours. **Rejected** — same call as pass 21, now extended to the "Gurkha Restaurant" listing too.
+
+## Pass 29 — VisitKorea 400s, final disposition
+
+`vcontsId` **54585** (Cheongchun Haejangguk, Suwon), **45617**, **46783**, **47874**, **48192**, **56873**, **59727** were retried on both `svc/contents/contentsView.do` and `svc/whereToGo/locIntrdn/rgnContentsView.do`. All return HTTP 400 on both paths. After three sessions of retries these are treated as **permanently dead, not transient** — they are struck off the queue rather than carried forward again. None of them were added from a cache.
+
+## Pass 30 — VisitKorea halal-friendly channel (`infoHtmlView`)
+
+This channel prints an explicit "Operating Hours" field, seat count, parking and prayer-room status, which makes it unusually good evidence. Probed around the IDs already used:
+
+* `138398` **Byeolnan Ori (별난오리)** — 12 Jong-ro 46-gil, Jongno-gu; 11:00–23:00, open all year; ☎ +82-2-765-5292; pork-free, no prayer room, 70 seats. **Kept.**
+* `138554` Asalam (Jeju), `138556` Wardah (Jeju), `138396` Wonjo Hyeonpung Park So-seon Halmaejip Gomtang (Daegu) — verified fine but **out of scope**; this guide covers Seoul, Suwon, Busan, Daejeon and Cheonan only.
+
+## Pass 31 — Visit Seoul listing pagination
+
+The `/restaurants?curPage=N` index is the only reliable way to enumerate Visit Seoul; the area filter is client-side and the site's own keyword search returns zero results for restaurant names (confirmed: a search for "Busanjib" returns 0 while the pages exist). Page 2 produced the Seongsu / Cheongdam / Dongdaemun candidates worked in passes 32–36.
+
+## Pass 32 — Dongdaemun-gu and Cheongdam, first batch
+
+* **Daehan Gopchang (Jangan Branch)** `ENP026324` — 21 Cheonho-daero 85-gil, Dongdaemun-gu; daily 15:00–01:00; ☎ +82-70-8285-6219. **Kept**, branch-specific page. The listing's own warning that they sell out and close early is carried into the hours field.
+* **Duru** `ENP026072` — 28 Seolleung-ro 148-gil, Gangnam-gu; daily 11:00–21:30; ☎ +82-2-3443-8834. Held pending, then **rejected in pass 36** — see below.
+
+## Pass 33 — Dongdaemun-gu and Cheongdam, second batch
+
+* **Seongcheon Makguksu** `ENP011689` — 2 Dapsimni-ro 48na-gil, Dongdaemun-gu; closed Sundays, Seollal & Chuseok; ☎ +82-507-1329-5529. **Kept with a flag:** the single official page contradicts itself, printing "Mon - Sat 11:30 - 15:00 / 17:00 - 21:00" and then "Sat 11:30 - 17:00, including holidays: 11:30 AM – 3:00 PM". Both lines are reproduced verbatim in the row with a note to ring ahead for Saturdays. This follows the pass-14 precedent set for Jinguk Seolleongtang: an internal contradiction inside one source is disclosed in-row, whereas a contradiction *between two sources* kills the entry.
+* **Cheongdamgol** `ENP005496` — 48 Seolleung-ro 148-gil, Gangnam-gu; 10:30–16:00 / 17:00–21:40; closed Seollal & Chuseok; ☎ +82-2-543-1252. **Kept**, hours dated to the 19 Aug 2026 read (an older crawl of the same record showed 21:50; the live official page is the source of record).
+* **Yangmani (Cheongdam Branch)** `ENP012115` — 16 Dosan-daero 56-gil; open 24 hours, year round; ☎ +82-2-542-9263. **Kept.**
+* **Yi Ning** `ENP001657` — 14 Dosan-daero 58-gil; 11:30–14:30 / 17:30–22:00; closed Sundays, Seollal & Chuseok; ☎ +82-2-547-7444. **Kept.**
+* **Onion (Seongsu)** `ENP020587` — 8 Achasan-ro 9-gil, Seongdong-gu; Mon–Fri 08:00–22:00 / weekends 09:00–22:00 (LO 21:30), open on holidays; ☎ +82-507-1386-3238. **Kept**, Seongsu location only.
+* **MAO** `ENP005679` — 17 Dosan-daero 56-gil; 11:30–22:00, year round; ☎ +82-2-514-8803. **Kept.**
+* **Moodeungsan** `ENP006042` — 3 Seolleung-ro 146-gil; Mon–Fri 10:00–24:00 / Sat 10:00–23:30; closed Sundays; ☎ +82-507-1409-4017. **Kept**, with a note that it is not the similarly-named Myeongdong restaurant (`vcontsId=46783`, dead page, never added).
+* **Haemok Nonhyeon** `ENPthrlz3` — 14 Seolleung-ro 145-gil; Mon–Fri 11:00–22:00 (break 15:00–17:00, LO 21:00), Sat–Sun 11:00–22:00 (LO 21:00); ☎ +82-507-1466-0277. **Kept.**
+* **Yangmani (Yeouido)** `ENP011966` — 2F Manhattan 21 Shopping Center, 20 Gukhoe-daero 74-gil, Yeongdeungpo-gu; daily 10:30–22:00 with a Mon–Fri 14:30–16:30 break; closed Seollal & Chuseok; ☎ +82-507-1421-9282. This page surfaced while checking whether the Cheongdam branch had a conflicting duplicate. It does not: **different address, different phone, different hours**, so it is a second venue and **both are kept**, each cross-referencing the other. Page edited 18 Aug 2026 — one day before this read.
+* **Kervan Cafe (케르반 카페)** `138557` — 17 Usadan-ro 10-gil, Yongsan-gu; 12:00–20:00 Mon–Thu / 11:00–20:00 Fri–Sun; ☎ +82-70-7532-1997; halal, alcohol-free, pork-free, Muslim chef, prayer room. **Kept.**
+* **Samarkandcity (사마르칸트시티)** `138541` — 2F, 16 Eulji-ro 42-gil, Jung-gu; 10:00–23:00 Mon–Thu / 09:00–23:00 Fri–Sun; ☎ +82-2-6014-6368; halal menu, pork-free, prayer room, 80 seats. **Kept.**
+
+### The Duru rejection (found while closing pass 33)
+
+**Duru** is listed twice by Visit Seoul under two different content IDs:
+
+| Page | Address | Phone | Hours |
+| :--- | :--- | :--- | :--- |
+| `ENP026072` | 28 Seolleung-ro 148-gil, Gangnam-gu | +82-2-3443-8834 | Daily 11:00–**21:30** |
+| `ENP005346` | 28 Seolleung-ro 148-gil, Gangnam-gu | +82-2-3443-8834 | 11:00–**21:00**, open all year |
+
+Same address, same phone, two official pages, two closing times. Under the guide's own rule this is an automatic rejection, so **Duru was dropped after having been provisionally accepted** — it is not in the roster. (The two pages also describe the restaurant differently, one as a nakji-bokkeum house and one as an Andong cut-noodle house, which is a further reason not to trust either.)
+
+## Suwon — attempted again, still nothing addable
+
+Suwon was re-worked in passes 29, 31 and 38:
+
+* The English VisitKorea halal channel is the one that produced Suwon's last new entry, so the block around it was probed directly: `138538` Bukmun Seafood, `138544` Ori Daega, `138321` Swoyambhu and `138555` Tongyoung oyster&octopus love are **all already in the roster**; `138541` is Seoul and `138542` is the Swoyambhu **Gwangju** branch (Gyeonggi-do Gwangju, not Suwon, and out of scope).
+* `vcontsId=54585` (Cheongchun Haejangguk) is permanently 400 — see pass 29.
+* The Korean-language portal was tried as an alternative route to Suwon restaurants such as 새벽집 in Ingye-dong. The `ms_detail_print.do?cotid=…` print view now returns 404, and `ms_detail.do` renders its address and hours through JavaScript, so **neither address nor hours can be read off the page** in this environment. No entry can be built from it. Recorded here so the next session does not repeat the attempt the same way.
+* The Suwon Chicken Street per-shop hours blocker (two official sources disagree) stands unchanged from passes 10–13.
+
+Suwon therefore stays at **14 entries**. This is a sourcing limit, not a lack of looking: rather than pad the city with unverifiable rows, the shortfall is left visible here and in `cities/suwon.md`.
+
+## Rejected in these ten passes
+
+| Candidate | Why rejected |
+| :--- | :--- |
+| Duru (Seoul) | Two Visit Seoul pages, same address and phone, closing times 21:00 vs 21:30 |
+| Gurkha Restaurant / Gurkha India Restaurant (Myeongdong) | One venue, three official pages, three different sets of hours |
+| Chungmu Gimbap `ENP006052` | Duplicate listing of Myeongdong Chungmu Gimbap, already held |
+| Dongnae Halmae Pajeon `uc_seq=1520` | Already held; re-read only, no second row created |
+| `vcontsId` 45617 · 46783 · 47874 · 48192 · 54585 · 56873 · 59727 | HTTP 400 on every path, every attempt; struck off permanently |
+| Visit Busan `uc_seq` 1528–1540, 1840, 1843, 1847, 1848, 1851, 1852, 2197, 2198 | Stub pages, no content |
+| Asalam · Wardah (Jeju) · Wonjo Hyeonpung Park So-seon Halmaejip Gomtang (Daegu) | Verified but outside the five cities this guide covers |
+| Swoyambhu Gwangju Branch `138542` | Gyeonggi-do Gwangju, not Suwon |
+| 새벽집 and other Korean-portal Suwon leads | Address and hours render via JavaScript; print view 404s; unreadable, so unverifiable |
+
+## Where the roster stands
+
+| City | Entries | Change |
+| :--- | ---: | :--- |
+| Seoul | 126 | +16 |
+| Busan | 83 | +7 |
+| Suwon | 14 | — |
+| Daejeon | 20 | — |
+| Cheonan | 12 | — |
+| **Total** | **255** | **+23** |
+
+Six of the twenty-three new rows print no Korean name on their official page. Per the standing rule the Korean field is **left empty** rather than transliterated; each of those rows tells you to search the address on Naver Map instead.
