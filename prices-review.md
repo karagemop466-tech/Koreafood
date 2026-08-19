@@ -42,11 +42,11 @@ If no source publishes a price, **leave the row blank**. A blank row is the corr
 
 ---
 
-## The 211 verified restaurants
+## The 232 verified restaurants
 
 Roster generated from `restaurants-bookmarks.csv`. If an entry is added or removed there, update this file to match.
 
-### Seoul (100)
+### Seoul (110)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -150,9 +150,19 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 98 | Zaffran | 자프란 | |
 | 99 | AANGAN | 아건 | |
 | 100 | Ezindia | 이지인디아 | |
+| 101 | Jinguk Seolleongtang | 진국설렁탕 | |
+| 102 | Seongwon Jeonju Kongnamul Gukbap | 성원 전주콩나물국밥 | |
+| 103 | Teumsae Ramyeon | 틈새라면 | |
+| 104 | Myeongdong Tonkatsu | 명동돈까스 | |
+| 105 | Myeongdong Jjukkumi | 명동쭈꾸미 | |
+| 106 | Eun&Jeong Myeongdong Dakgalbi | 은앤정명동닭갈비 | |
+| 107 | Ttosuni Sundae | 또순이원조순대 | |
+| 108 | OPPADAK Myeongdong | 오븐에빠진닭 명동 | |
+| 109 | Insadong Garlic Bossam | 인사동마늘보쌈 | |
+| 110 | Gomgukshijip Myeongdong Branch | 곰국시집 명동 | |
 
 
-### Busan (66)
+### Busan (76)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -222,9 +232,19 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 64 | Park Hae-yun Tongyeong Bapsang | 박해윤 통영 해물밥상 | |
 | 65 | Janganjip | 장안집 | |
 | 66 | Lee Family's Tteokbokki | 이가네 떡볶이 | |
+| 67 | Hanttukbaegi | 한뚝배기 | |
+| 68 | Daom | 다옴 | |
+| 69 | Haeundae Ilpum Hanwoo | 해운대일품한우 | |
+| 70 | Chopilsal Dwaejigui | — | |
+| 71 | Sogonggan | — | |
+| 72 | Woobong Shabu | — | |
+| 73 | bibibidang | — | |
+| 74 | Seoul Samgyetang | 서울삼계탕 | |
+| 75 | Gwangangukbap | 광안국밥 | |
+| 76 | Subok Dwaejigukbap | 수복돼지국밥 | |
 
 
-### Suwon (13)
+### Suwon (14)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -241,6 +261,7 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 11 | Naan | 난 | |
 | 12 | Om Restaurant Gwanggyo Branch | 옴레스토랑 광교점 | |
 | 13 | Ori Daega | 오리대가 | |
+| 14 | Tongyoung oyster&octopus love | 통영굴사랑&낙지사랑 | |
 
 
 ### Daejeon (20)

@@ -533,3 +533,69 @@ Same brief, same standard: **every address and hours line below was read off the
 * Empty-body Visit Busan IDs this pass: `uc_seq=1517`, 1520, 1523. Queued from earlier passes and still unresolved: VisitKorea 45617, 54000, 54585, 57664, 46783, 48192, 85275, 85828, 184975, 74347, 47258.
 
 **Still open.** Daejeon gained nothing again — the Daejeon 190xxx VisitKorea IDs remain the weak channel. Suwon still has no verified Chicken Street shop (the contradictory-hours blocker stands) and no second galbi house. The 85 entries added across passes ten to thirteen are still not sequenced into `cities/walking-food-routes.md`.
+
+---
+
+# Expansion passes 14–23 — 19 August 2026 (Seoul / Myeongdong, Suwon, Busan)
+
+Same brief, same standard as the thirteen passes above: **an entry is admitted only when both its address and its opening hours are read in-session off the restaurant's own site, a government tourism portal (VisitKorea, Visit Seoul, Visit Busan), or the MICHELIN Guide.** Search engines were used only to find page IDs; no snippet was accepted as a source, and every row below was read off the official page itself. Ten passes were run. **Added 21.** Roster: **211 → 232** (Seoul 100 → 110 · Busan 66 → 76 · Suwon 13 → 14 · Daejeon 20 · Cheonan 12).
+
+## Pass 14 — retry the queued VisitKorea IDs
+
+Retried the IDs the earlier passes had queued as 400/empty. Two now render and are added; the rest still fail.
+
+**Added — Seoul (1):** Jinguk Seolleongtang `47258` (Seongdong-gu; ox-bone soup; printed hours 04:00–22:30 against an intro that says "open 24 hours" and a holiday field of "Open 24/7" — recorded as *no closing day*, the contradiction kept in-row).
+
+**Added — Busan (1):** Hanttukbaegi `54000` (Seomyeon; 24 h; boiled pork slices).
+
+**Still failing (queued again):** `54585` (Cheongchun Haejangguk, Suwon), `45617`, `46783`, `48192` — HTTP 400 on every attempt this pass.
+
+## Pass 15 — Myeongdong sweep on VisitKorea `contentsView`
+
+**Added — Seoul (1):** OPPADAK Myeongdong `58021` (11:30–03:00, last order 02:30; baked chicken; chain — the Myeongdong branch page only, flagged as such).
+
+**Rejected:** ILMIRI Gold Jjimdak Myeongdong `59316` — the English street (40 Myeongdong 3-gil) does **not** match the Korean street (명동9가길 21, 2·3층) on the same page, and it is a franchise. Gang Ho Dong Baekjeong `60014` — franchise, per the standing rule.
+
+## Pass 16 — Visit Seoul Myeongdong sweep
+
+**Added — Seoul (3):** Seongwon Jeonju Kongnamul Gukbap `ENPwmqzyh` (founded 1937; 11:00–22:00) · Teumsae Ramyeon `ENP013599` (weekday/weekend split; the Myeongdong shop of a small chain) · Myeongdong Tonkatsu `ENP010843` (the first thick Japanese-style cutlet shop in Korea; 11:00–21:00).
+
+**Rejected:** Gurkha India Restaurant — three Visit Seoul pages print **different** hours (11:00–23:00 / LO 22:50 / 10:30–22:00 LO 21:30); official sources conflict → dropped.
+
+## Pass 17 — second Myeongdong sweep (dishes)
+
+**Added — Seoul (3):** Myeongdong Jjukkumi `229122` (11:00–23:00, Hoehyeon) · Eun&Jeong Myeongdong Dakgalbi `58138` (11:00–22:00, closed Seollal) · Ttosuni Sundae `99580` (24 h; Sillim-dong Sundae Town, Gwanak-gu — flagged as a destination stop, not a Myeongdong walk).
+
+**Rejected:** Geumgang Seokkeo Jjigae `56873`, Samdae Naju Gomtang `59727`, Myeongdong Haeseon Hanubang `47874`, Myeongdong Mudeungsan Jeongyuk `46783` — all returned HTTP 400 on direct fetch this pass (their address/hours appeared only in a search-engine cache, which is not a source). Jangdokdae Kimchi Jjigae — its legacy page redirects to a 500.
+
+## Pass 18 — Busan: VisitKorea + Visit Busan food listings
+
+**Added — Busan (2):** Daom `uc_seq=1107` (Seomyeon; bibimguksu/kalguksu; Fri–Sat to 22:30) · Haeundae Ilpum Hanwoo `uc_seq=2195` (high-end hanwoo; 11:30–22:00, break 15:00–17:00; the BTS-V/Bong Joon-ho framing is the portal's, noted as not independently checked).
+
+**Rejected:** Haeundae Rib Barbecue Restaurant `uc_seq=2370` — too entangled with the existing Haeundae Amso Galbijip entry (an earlier `uc_seq=1468` was already flagged as a duplicate); skipped rather than risk a second listing of the same shop. Gaegeum milmyeon `uc_seq=1602` — possible duplicate of the kept "Seo-myeon Gaegeum Milmyeon" (different address, ambiguous naming); skipped.
+
+## Pass 19 — Busan "Related Tour" block (1845–1850)
+
+**Added — Busan (4):** Chopilsal Dwaejigui `1850` (pork grill; 17:00–24:00; no Korean name printed) · Sogonggan `1846` (1++ beef course; closed Tuesdays) · Woobong Shabu `1849` (paper-pot shabu; Cheongsapo; closed Mondays) · bibibidang `1845` (Korean teahouse, Dalmaji-gil). Three of the four print **no Korean name** — the Korean field is left empty rather than guessed.
+
+## Pass 20 — Suwon: the halal/muslim-friendly `infoHtmlView` block
+
+**Added — Suwon (1):** Tongyoung oyster&octopus love `138555` (oyster rice + stir-fried octopus; halal menu, pork-free, no prayer room; 10:00–21:00; by Hwaseong Haenggung). VisitKorea prints the street "Haenggung-rom" — a typo for Haenggung-ro, kept and noted.
+
+**Rejected:** VALUE HIGHEND `138537` (hotel room-service, off-brief — unchanged from pass 13).
+
+## Pass 21 — Busan gukbap sweep
+
+**Added — Busan (3):** Gwangangukbap `uc_seq=1123` (24 h, Gwangalli) · Subok Dwaejigukbap `uc_seq=1515` (08:00–21:50 LO 21:20; the earlier "empty body" on this ID is gone) · Seoul Samgyetang `138397` (samgyetang at 36 Nampo-gil, **Busan** — the "Seoul" name is the brand; flagged as distinct from Nampo Samgyetang at 16 Nampo-gil).
+
+## Pass 22 — Insadong / Seoul diversification
+
+**Added — Seoul (2):** Insadong Garlic Bossam `1564731` (11:00–22:00, break 15:00–17:00; maneul bossam) · Gomgukshijip Myeongdong Branch `76255` (since 1976; guksu jeongol + gomkuksi; 11:00–22:00).
+
+**Rejected:** Jogeum `47024` — English street (62-4 Insadong-gil) ≠ Korean street (인사동길 60) on the same page.
+
+## Pass 23 — final verification + rejection sweep
+
+Re-fetched every previously-400 candidate to confirm the rejections were the page, not the session: `54585`, `59727`, `47874`, `46783`, `56873` all still return 400/500. Suwon's English VisitKorea restaurant listings are now exhausted — the only Suwon gain across passes 14–23 is the single halal-listing entry (pass 20), and no Chicken Street shop or second galbi house became sourceable (the contradictory-hours blocker from passes 10–13 stands unchanged).
+
+**Roster after passes 14–23: 232.** Seoul 110 · Busan 76 · Suwon 14 · Daejeon 20 · Cheonan 12. The 21 new entries (and the 85 from passes 10–13) remain **not yet sequenced into `cities/walking-food-routes.md`**.

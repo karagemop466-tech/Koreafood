@@ -3844,5 +3844,383 @@
         "url": "https://tour.chungnam.go.kr/prog/rst/kor/sub02_03_02/view.do?rstNo=483"
       }
     ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Jinguk Seolleongtang (진국설렁탕)",
+    "nameEn": "Jinguk Seolleongtang",
+    "nameKo": "진국설렁탕",
+    "address": "293 Gosanja-ro, Seongdong-gu (near Wangsimni)",
+    "michelin": "None",
+    "notes": "VisitKorea: a Korean restaurant in Seongdong-gu whose most famous menu is ox bone soup (seolleongtang); boiled meat slices (suyuk) is the other order. Near Wangsimni Station. ☎ +82-2-2292-4700",
+    "hours": "04:00–22:30. (The page intro says \"open 24 hours a day\" and the holiday field reads \"Open 24/7\" — read that as no closing day; the printed hours field is 04:00–22:30.)",
+    "phone": "+82-2-2292-4700",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=47258"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Seongwon Jeonju Kongnamul Gukbap (성원 전주콩나물국밥)",
+    "nameEn": "Seongwon Jeonju Kongnamul Gukbap",
+    "nameKo": "성원 전주콩나물국밥",
+    "address": "19-10 Myeongdong 10-gil, Jung-gu (Myeongdong)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 24 Jun 2026): founded 1937 by Kim So-seon, who introduced kongnamul gukbap (bean-sprout rice soup) to the area; signature dish kongnamul gukbap. Myeongdong Station Exit 8, ~269 m. Same building as Teumsae Ramyeon. ☎ +82-2-777-4284",
+    "hours": "11:00–22:00. Daily.",
+    "phone": "+82-2-777-4284",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/SeongwonJeonjuKongnamulGukbap/ENPwmqzyh"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Teumsae Ramyeon (틈새라면)",
+    "nameEn": "Teumsae Ramyeon",
+    "nameKo": "틈새라면",
+    "address": "19-10 Myeongdong 10-gil, Jung-gu (Myeongdong)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 4 Jun 2026): Korean-style ramyeon, mostly spicy; bbalgyetteok (pepper-flake, egg and rice-cake) and cold yeolmu ramyeon also listed. This is the Myeongdong shop of a small ramyeon chain — treat these hours as this location's. Same building as Seongwon Jeonju Kongnamul Gukbap. ☎ +82-2-756-5477",
+    "hours": "Weekdays 10:00–20:00 / weekends & public holidays 11:00–20:00. Closed Seollal & Chuseok.",
+    "phone": "+82-2-756-5477",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Teumsae-Ramyeon1/ENP013599"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Myeongdong Tonkatsu (명동돈까스)",
+    "nameEn": "Myeongdong Tonkatsu",
+    "nameKo": "명동돈까스",
+    "address": "8 Myeongdong 3-gil, Jung-gu (Myeongdong)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 8 Jun 2026): the first restaurant to introduce thick Japanese-style pork cutlets to Korea; 30-year history, cordon bleu the most popular item. Not to be confused with Wonjo Namsan Wangdonkkaseu (21 Myeongdong 7-gil). ☎ +82-2-775-5300 · mddongas.co.kr",
+    "hours": "11:00–21:00. Closed Lunar New Year & Chuseok.",
+    "phone": "+82-2-775-5300",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/Myeongdong-Tonkatsu1/ENP010843"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Myeongdong Jjukkumi (명동쭈꾸미)",
+    "nameEn": "Myeongdong Jjukkumi",
+    "nameKo": "명동쭈꾸미",
+    "address": "3-28 Toegye-ro 6-gil, Jung-gu (Hoehyeon-dong 1-ga)",
+    "michelin": "None",
+    "notes": "VisitKorea: jjukkumi (stir-fried baby octopus) and samgyeopsal sets, plus pork galbi and bossam; spicy house style with a self-serve side-dish bar. One minute from Hoehyeon Station (Line 4) Exit 2. ☎ +82-507-1430-0198 · instagram.com/myeongdong.jjukkumi",
+    "hours": "11:00–23:00. Open all year.",
+    "phone": "+82-507-1430-0198",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=229122"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Eun&Jeong Myeongdong Dakgalbi (은앤정명동닭갈비)",
+    "nameEn": "Eun&Jeong Myeongdong Dakgalbi",
+    "nameKo": "은앤정명동닭갈비",
+    "address": "2F, 19 Myeongdong 7-gil, Jung-gu (Myeongdong)",
+    "michelin": "None",
+    "notes": "VisitKorea: dakgalbi (spicy stir-fried chicken), with cheese and garlic-soy versions; rice cakes, sweet potato, noodles and fried rice can be added. Also budae jjigae, makguksu and samgyetang. ☎ +82-2-778-1988",
+    "hours": "11:00–22:00. Closed for the Seollal holidays.",
+    "phone": "+82-2-778-1988",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=58138"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Ttosuni Sundae (또순이원조순대)",
+    "nameEn": "Ttosuni Sundae",
+    "nameKo": "또순이원조순대",
+    "address": "14 Sillim-ro 59-gil, Gwanak-gu (Sillim-dong Sundae Town)",
+    "michelin": "None",
+    "notes": "VisitKorea: started as a street stand in 1976 and became the biggest sundae (blood sausage) restaurant in Sundae Town. White sundae, sundae guk, and sundae gopchang bokkeum. Sillim-dong is south of the centre (near Sillim Station) — a destination stop, not a Myeongdong walk. ☎ +82-2-884-7565",
+    "hours": "Open 24 hours. Open all year.",
+    "phone": "+82-2-884-7565",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=99580"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "OPPADAK Myeongdong (오븐에빠진닭 명동)",
+    "nameEn": "OPPADAK Myeongdong",
+    "nameKo": "오븐에빠진닭 명동",
+    "address": "1F, Myeongdong Art Nouveau Centum, 21 Myeongdong 7-gil, Jung-gu (Myeongdong)",
+    "michelin": "None",
+    "notes": "VisitKorea: baked (oven-roasted) chicken — the house dish is crispy baked chicken. OPPADAK is a chain; this page is the Myeongdong branch only, so these hours are for this shop. One of the few Myeongdong options open past midnight. ☎ +82-2-3789-5892",
+    "hours": "11:30–03:00 (next day). Last order 02:30.",
+    "phone": "+82-2-3789-5892",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=58021"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Classic Korean & Specialty",
+    "name": "Insadong Garlic Bossam (인사동마늘보쌈)",
+    "nameEn": "Insadong Garlic Bossam",
+    "nameKo": "인사동마늘보쌈",
+    "address": "12-5 Insadong 8-gil, Jongno-gu (Insadong)",
+    "michelin": "None",
+    "notes": "VisitKorea: maneul bossam (pork wraps with garlic), kimchijjim, nakji bokkeum, buchujeon and ttukbaegi dubu kimchi, also as a set menu; the page says free makgeolli on weekdays 11:00–14:00. No parking. ☎ +82-2-735-7885 · insadonggarlicbossam.com",
+    "hours": "11:00–22:00. Break 15:00–17:00. Open all year.",
+    "phone": "+82-2-735-7885",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=1564731"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Noodles, Dumplings & Soups",
+    "name": "Gomgukshijip Myeongdong Branch (곰국시집 명동)",
+    "nameEn": "Gomgukshijip Myeongdong Branch",
+    "nameKo": "곰국시집 명동",
+    "address": "19-3 Myeongdong 10-gil, Jung-gu (Myeongdong), 2F",
+    "michelin": "None",
+    "notes": "VisitKorea: open since 1976; guksu jeongol (noodle hot pot) and gomkuksi (beef-bone noodle soup), plus mandu jeongol and grilled hanu / Wagyu. Between Myeongdong and Euljiro 1-ga stations. ☎ +82-2-756-3449",
+    "hours": "11:00–22:00. Open all year.",
+    "phone": "+82-2-756-3449",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=76255"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Hanttukbaegi (한뚝배기)",
+    "nameEn": "Hanttukbaegi",
+    "nameKo": "한뚝배기",
+    "address": "45-4 Jungang-daero 692beon-gil, Busanjin-gu (Seomyeon)",
+    "michelin": "None",
+    "notes": "VisitKorea: a Korean restaurant in Seomyeon where you can order for one; boiled pork slices (suyuk) is the famous menu, bulgogi hot pot the other. ☎ +82-51-807-0955",
+    "hours": "Open 24 hours. (No closing day printed on the listing.)",
+    "phone": "+82-51-807-0955",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=54000"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Milmyeon & Noodles",
+    "name": "Daom (다옴)",
+    "nameEn": "Daom",
+    "nameKo": "다옴",
+    "address": "5F, Samjeong Tower, 672 Jungang-daero, Busanjin-gu (Seomyeon)",
+    "michelin": "None",
+    "notes": "Visit Busan: casual Korean dining; chadolbagi bibimguksu (brisket mixed noodles), kalguksu and bibimbap are the signatures; broth from southern-coast anchovies and a fruit-aged marinade. ☎ +82-507-1370-3778",
+    "hours": "Mon–Thu & Sun 11:00–22:00 (last order 21:00) / Fri–Sat 11:00–22:30 (last order 21:30). Open 365 days.",
+    "phone": "+82-507-1370-3778",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1107"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "Haeundae Ilpum Hanwoo (해운대일품한우)",
+    "nameEn": "Haeundae Ilpum Hanwoo",
+    "nameKo": "해운대일품한우",
+    "address": "1-2F, 49 Haeundae-ro 570beon-gil, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: high-end Korean beef; the portal notes the patented \"Sanggang Kkotgalbi\" and fresh yukhoe. (The BTS V / Bong Joon-ho framing is the portal's own and is not independently checked.) ☎ +82-507-1385-9909",
+    "hours": "Daily 11:30–22:00 (last order 21:00). Break 15:00–17:00.",
+    "phone": "+82-507-1385-9909",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=2195&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Grilled Meat & Jokbal",
+    "name": "Chopilsal Dwaejigui",
+    "nameEn": "Chopilsal Dwaejigui",
+    "nameKo": "",
+    "address": "#107, Building A, Byeoksan E Orange Plaza, 23 Marine City 3-ro, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: pork grill (pilsal rind and various cuts) grilled by the staff; famous enough for a permanent wait — reserve via Catch Table. The official English page prints no Korean name, so search the address on Naver Map. ☎ +82-507-1417-5516",
+    "hours": "17:00–24:00. Open all year.",
+    "phone": "+82-507-1417-5516",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1850&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Sogonggan",
+    "nameEn": "Sogonggan",
+    "nameKo": "",
+    "address": "4F, 47 Haeundaehaebyeon-ro 298beon-gil, Haeundae-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: 1++-rated Korean beef course restaurant; the name means both \"small space\" and skill at cooking beef. Fixed lunch and dinner courses (portal prices not copied). No Korean name printed on the page. ☎ 010-5191-9002",
+    "hours": "12:00–15:00 / 18:00–21:30. Closed Tuesdays.",
+    "phone": "010-5191-9002",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1846&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Woobong Shabu",
+    "nameEn": "Woobong Shabu",
+    "nameKo": "",
+    "address": "127 Cheongsapo-ro, Haeundae-gu (Cheongsapo)",
+    "michelin": "None",
+    "notes": "Visit Busan: premium shabu shabu with 1++-rated beef cooked in a paper pot. Cheongsapo is a coastal village east of Haeundae beach. No Korean name printed on the page. ☎ +82-507-1349-9256",
+    "hours": "11:00–15:00 / 17:00–21:00. Closed Mondays.",
+    "phone": "+82-507-1349-9256",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1849&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Snacks & Cafes",
+    "name": "bibibidang",
+    "nameEn": "bibibidang",
+    "nameKo": "",
+    "address": "4F, 239-16 Dalmaji-gil, Haeundae-gu (Dalmaji)",
+    "michelin": "None",
+    "notes": "Visit Busan: traditional Korean teahouse using antique Goryeo celadon and Joseon white-porcelain teapots; matcha and pumpkin shaved ice are listed. No Korean name printed on the page. ☎ 051-746-0705",
+    "hours": "10:30–21:30. Open every day.",
+    "phone": "051-746-0705",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1845&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Seoul Samgyetang (서울삼계탕)",
+    "nameEn": "Seoul Samgyetang",
+    "nameKo": "서울삼계탕",
+    "address": "36 Nampo-gil, Jung-gu (Nampo)",
+    "michelin": "None",
+    "notes": "VisitKorea (halal-friendly listing): samgyetang, red-ginseng samgyetang and rotisserie chicken. Marked pork-free; no prayer room. Despite the \"Seoul\" name this is a Nampo, Busan restaurant — not the same shop as Nampo Samgyetang (남포삼계탕) at 16 Nampo-gil. ☎ +82-51-245-3696",
+    "hours": "10:00–22:30. Closed Seollal & Chuseok.",
+    "phone": "+82-51-245-3696",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138397"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Gwangangukbap (광안국밥)",
+    "nameEn": "Gwangangukbap",
+    "nameKo": "광안국밥",
+    "address": "1F, Daewoo I Ville, 39 Gwangan-ro 62beon-gil, Suyeong-gu (Gwangalli)",
+    "michelin": "None",
+    "notes": "Visit Busan: dwaeji gukbap in front of Gwangalli Beach, known for thick broth and soft meat; also spicy soup and rice, steamed pork and sundae jeongol. ☎ +82-51-757-0720",
+    "hours": "Open 24 hours. Open 365 days.",
+    "phone": "+82-51-757-0720",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301002001000&uc_seq=1123&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Classic Korean & Specialty",
+    "name": "Subok Dwaejigukbap (수복돼지국밥)",
+    "nameEn": "Subok Dwaejigukbap",
+    "nameKo": "수복돼지국밥",
+    "address": "2F, 41-1 Gobun-ro, Yeonje-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: dwaeji gukbap and suyuk baekban; sundae, kimchi and kkakdugi made in-house; parking available. ☎ 051-866-3349",
+    "hours": "08:00–21:50 (last order 21:20). Open 365 days.",
+    "phone": "051-866-3349",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301002001000&uc_seq=1515"
+      }
+    ]
+  },
+  {
+    "city": "Suwon",
+    "category": "Suwon city — other verified entries",
+    "name": "Tongyoung oyster&octopus love (통영굴사랑&낙지사랑)",
+    "nameEn": "Tongyoung oyster&octopus love",
+    "nameKo": "통영굴사랑&낙지사랑",
+    "address": "53 Haenggung-ro, Paldal-gu (near Hwaseong Haenggung Palace)",
+    "michelin": "None",
+    "notes": "VisitKorea (halal-friendly listing): Tongyeong oyster rice and stir-fried octopus with rice; halal menu and pork-free, but no prayer room. 40 seats. VisitKorea prints the street as \"Haenggung-rom\" (a typo for Haenggung-ro). ☎ +82-31-252-1253",
+    "hours": "10:00–21:00. (No closing day printed on the listing.)",
+    "phone": "+82-31-252-1253",
+    "sources": [
+      {
+        "label": "VisitKorea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138555"
+      }
+    ]
   }
 ]
