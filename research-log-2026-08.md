@@ -496,3 +496,40 @@ Same brief, same standard: **every address and hours line below was read off the
 * **알밤에 반한 한우** (Chungnam `rstNo=5`) — fully documented, but it is in **Gongju**, not Cheonan.
 * Hanttukbaegi 54000, Pyeongsanok 184975, Sanggukine 74347, Imo Yanggopchang 45617, Rainbow Korean Restaurant 85828, Visit Busan `uc_seq=1515` — pages returned an empty body or HTTP 400 on every attempt this pass. Queued, not guessed.
 * **ggtour.or.kr** (Gyeonggi Tourism) was tested as a Suwon source: its restaurant detail pages render **no text at all** to a fetcher, so it could not be used even though the data exists behind the JavaScript.
+
+---
+
+## Thirteenth expansion pass — 19 August 2026
+
+**Result: 189 → 211 (+22).** Seoul 93 → 100 · Busan 53 → 66 · Suwon 12 → 13 · Daejeon 20 (unchanged) · Cheonan 11 → 12.
+
+**Method.** Same standard as every previous pass: an entry is admitted only when **both** its address and its opening hours are read in-session off the restaurant's own site, a government tourism portal (VisitKorea, Visit Seoul, Visit Busan, Chungnam Tourism), or the MICHELIN Guide. No search-engine snippet, aggregator or blog was used as a source. Two channels carried this pass: VisitKorea's halal / Muslim-friendly `infoHtmlView` listings (which print an explicit **Operating Hours** field) and a sweep of unused Visit Busan `uc_seq` IDs in the 1500–1527 block.
+
+**Added — Seoul (7)**
+* Seoul Wonjo Agujjim 138540 (Jongno, 10:00–01:00) · Sejong Village Chicken 138476 (Seochon, opens 14:00) · Pooja 2 138539 (Euljiro, split service) · Itaewon Kitchen 138546 (Malaysian, Usadan-ro) · Zaffran 138548 (closed Wednesdays) · AANGAN 138322 (Ewha, prayer room) · Ezindia 138547 (Sinchon).
+* Six of the seven print **no closing day**; the rows say so rather than inventing one. The halal/pork-free/prayer-room flags are copied exactly as the listing states them — including where a page is marked "muslim friendly" but then says there is no halal menu and no prayer room (Seoul Wonjo Agujjim), which is flagged in-row rather than smoothed over.
+
+**Added — Busan (13)**
+* Noodles: Busak Yakkong Milmyeon `uc_seq=1508` · Ha Gi-yeon Jinju Naengmyeon 1524 · Haemul Wangchang Kalguksu 1518 · Jungang Momil 1503 (since 1956) · Lee Family's Kalguksu 1526 · Yasumaru 1502 (closed Sundays **and** the 2nd/4th Mondays).
+* Classic: Uri Dwaejigukbap 1513 (24 h, 365 days, by Busan Station) · Bugwang Dwaejigukbap 1516 · Halmae Jaecheopguk 1519 (opens 06:00) · Wonjo Kkorigomjip 1522 (opens 08:30) · Park Hae-yun Tongyeong Bapsang 1521 · Janganjip 1525 (Gijang duck).
+* Snacks: Lee Family's Tteokbokki 1527 (Bupyeong, closes 17:00).
+* Menu prices printed by Visit Busan were **not** copied into the guide, per the no-prices rule.
+
+**Added — Suwon (1)**
+* Ori Daega 138544 — duck house north of Paldalmun, pork-free with a prayer room. The first verified Suwon entry that is neither galbi nor an Indian halal listing.
+
+**Added — Cheonan (1)**
+* A-Gate Cafe `rstNo=483` — bakery café at Mokcheon, near the Independence Hall. The portal leaves the closing-day field blank; the row says so and tells the reader to phone.
+
+**Checked and rejected**
+* **VALUE HIGHEND Hotel room service** (138537, Suwon) — verified address and "24hrs", but it is a hotel **room-service** listing, not a restaurant you can walk into. Off-brief.
+* **Bombay Brau Ulsan** (138545) and **Bombay Brau Songdo** (138535) — verified, but out of area (Ulsan, Incheon); Songdo's page also prints its address only in Korean.
+* **Swoyambhu Gwangju Branch** (138542) — Gwangju-si, Gyeonggi-do, not Suwon; also a branch page of an entry we already list.
+* **Lovinghut Jeju** (138477), **Bitgaram vegan buffet** (138474, Chungju), **도연정** (Chungnam `rstNo=6`, Gongju) — all verified, all outside the five cities.
+* **Tonshou PNU Branch** (`uc_seq=1506`) — franchise branch page; excluded under the standing franchise rule.
+* **Sushi Sim Takai** (1501), **King Kong Sushi** (1504), **Taiga Tempura** (1505) — verified Japanese restaurants; left out as off-brief for a Korean food guide. Sushi Sim Takai additionally prints seating **slots** (12:00 / 14:00 / 18:00 / 20:00) rather than opening hours.
+* **Chungnam `rstNo=480`** returned HTTP 500 on this attempt (the entry it holds, Jeongsang Galbi, is already in the guide from the eleventh pass).
+* Duplicates skipped after fetching: Daeyeon Milmyeon 1510, Hapcheon Gukbapjip 1511, Yeongjin Sikdang 1514, Samseong Milmyeon 1507, Jangkalguksu `rstNo=3`.
+* Empty-body Visit Busan IDs this pass: `uc_seq=1517`, 1520, 1523. Queued from earlier passes and still unresolved: VisitKorea 45617, 54000, 54585, 57664, 46783, 48192, 85275, 85828, 184975, 74347, 47258.
+
+**Still open.** Daejeon gained nothing again — the Daejeon 190xxx VisitKorea IDs remain the weak channel. Suwon still has no verified Chicken Street shop (the contradictory-hours blocker stands) and no second galbi house. The 85 entries added across passes ten to thirteen are still not sequenced into `cities/walking-food-routes.md`.

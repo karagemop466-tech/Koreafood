@@ -24,11 +24,11 @@ Every restaurant named below survived the August 2026 verification pass: address
 
 ## 🛠️ How to use this guide
 
-* **189 verified restaurants.** Seoul 93 · Busan 53 · Suwon 12 · Daejeon 20 · Cheonan 11. (Tenth pass +22, eleventh pass +21, twelfth pass +20 — the twelfth finally opened Suwon, which went 7 → 12.)
-* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 189 restaurants, the sourcing rules, and the leads worth chasing.
+* **211 verified restaurants.** Seoul 100 · Busan 66 · Suwon 13 · Daejeon 20 · Cheonan 12. (Tenth pass +22, eleventh +21, twelfth +20, thirteenth +22 — the thirteenth was Busan-heavy, adding 13 there.)
+* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 211 restaurants, the sourcing rules, and the leads worth chasing.
 * **Neighborhood walks:** **[cities/walking-food-routes.md](cities/walking-food-routes.md)** sequences verified entries into routes where the opening hours actually line up.
 * **Navigation & booking:** **[booking-and-tech-guide.md](booking-and-tech-guide.md)** — set up Naver Map and CatchTable Global before you depart.
-* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 189 rows, each with an official source URL.
+* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 211 rows, each with an official source URL.
 
 ---
 
