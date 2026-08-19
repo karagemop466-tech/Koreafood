@@ -1190,3 +1190,86 @@ Suwon: not re-worked. The constraint is unchanged (no city portal publishing res
 | **Total** | **376** | **+21 / −3** |
 
 Do not re-add Gaehwa, Wan Chai, Samwon Garden, Paul & Paulina, Bobae, PAIK's, You are here Cafe or C27 unless one of the conflicting official pages is withdrawn.
+
+---
+
+## Ten further passes — 19 August 2026 (94–103): jajangmyeon, KBBQ, galbijim & cafes in Myeong-dong, Gangnam, Hongdae, Dongdaemun and Busan
+
+**Result: +24 added, −1 removed.** Seoul +17 (jajangmyeon 2 · KBBQ 10 · galbijim 1 · cafes 4). Busan +7 (jajangmyeon 1 · KBBQ 3 · cafes 3), and **Haeundae Ilpum Hanwoo removed** for a two-source hours/phone conflict. Every row below was read off the linked official page on 19 August 2026 — address and hours both printed there. Aggregator-only candidates were not added.
+
+### Pass 94 — jajangmyeon, Myeong-dong / Dongdaemun / Hongdae candidates
+
+Kept: **Dongbangmyeongju Chungmuro Main Store** (동방명주 충무로점) `192789` (186 Toegye-ro, Jung-gu; **11:00–21:30, break 15:00–17:00, open all year**; jjajangmyeon is the printed flagship; tangsuyuk / sacheontangmyeon / gunmandu listed; near Namsangol Hanok Village, one stop from Myeongdong; ☎ +82-2-2267-7285).
+
+Rejected: **Andongjang** `ENP012838` — oldest-Chinese-house fame is real (Visit Seoul edited 26 Jun 2026; 124 Eulji-ro; weekdays 11:30–21:00 / weekends 11:30–20:00; closed Seollal & Chuseok), but the page prints **oyster jjamppong** as the signature and never mentions jajangmyeon. Off-brief, Geumhong precedent. **Kkongsi Myeongwan** `ENP013036` — printed focus is xiaolongbao / pork ribs. **Fuyoungak** (Mapo) and **Ipum** (Hongdae) — no official page.
+
+### Pass 95 — jajangmyeon, Gangnam / Busan
+
+Kept: **Sinrakwon** `ENP1rnlut` (edited **24 Jul 2026**; 2 Jeonnong-ro 20-gil, Dongdaemun-gu, Cheongnyangni Station Exit 3 1.1 km; **Tue–Sat 11:30–22:00 / Sun 11:30–21:00, break 15:00–17:00, closed Mondays**; printed signatures sinrakmyeon and unijajangmyeon; jjampong and tangsuyuk listed; body text spells the renamed house "Sillakwon"; no Korean name; ☎ +82-2-2244-0008). **Beijing Bicycle** (북경의 자전거) Visit Busan `uc_seq=949` (14 Yongdang-ro 5beon-gil, Buk-gu; **11:30–22:30, last order 21:30, open 365 days**; best menu jjajangmyeon + sweet-and-sour pork; hand-pulled noodles; Buk-gu is north of the tourist core; ☎ +82-51-902-8282).
+
+Rejected: **Cheongdam Banjeom Dosan Park** — aggregator-only. **Gangnam Myeonok** Seoul main / Myeongdong branch — no official page (aggregators only; retried in pass 98, same result). **Ton Kiang** `ENP010764` — Visit Seoul HTTP 500.
+
+### Pass 96 — KBBQ, Myeong-dong / Dongdaemun
+
+Kept: **Wangbijip** (왕비집) `83635` (26 Myeongdong 8ga-gil; **11:30–22:00, open all year**; staff grill; yangnyeom wanggalbi main, hanu galbisal / sogalbi jeongsik / chadolbagi jeongsik listed; ☎ +82-2-3789-1945). **Dalmaji Gwangjang Barbecue** `ENPjdhubv` (published & edited **26 Jun 2026**; 1F, 112-1 Eulji-ro, Jung-gu; **Sun–Thu 16:00–01:00 / Fri–Sat 16:00–02:00, daily**; the page is explicit this is **charcoal chicken** barbecue, so it is labelled as such; ☎ +82-507-1498-6715). **BBQ YUL Gangnam Branch** `ENPg70qkk` (31 Oct 2025; 2F, 48 Seocho-daero 78-gil, Seocho-gu; **Mon–Fri 14:00–22:20 / Sat 13:00–21:20, closed Sundays**; aged pork grilled by staff; chain — this address only; printed fee band not copied; ☎ +82-10-9257-1762). **Blue Roof Town Hongdae Branch** `ENPn88gm7` (edited 24 Jun 2026; 1F, 128 Yanghwa-ro, Mapo-gu; **11:15–22:00, daily, open year-round**; Suwon wang galbi + LA galbi; ☎ +82-2-3144-0462).
+
+Rejected: **Oeyang-Gan** `ENPkujjd3` — HTTP 500.
+
+### Pass 97 — KBBQ, Gangnam / Hongdae
+
+Kept: **Original Jobak House** `ENPon4w77` (edited 22 Jul 2026; 313-1 Tojeong-ro, Mapo-gu; **11:30–22:00, break 15:00–17:00, closed Sundays, Mon–Sat**; pork ribs since 1979; ☎ +82-2-712-7462). **Chungsoojang** `ENP042377` (edited 29 May 2026; 237-2 Jeongneung-ro, Seongbuk-gu; **11:30–21:30**; chungsoo grilled pork galbi, unmarinated, black-sauce dip; ☎ +82-507-1323-6176). **Yeontabal Jongro** (연타발 종로) `57647` (19 Samil-daero 15-gil, Jongno-gu; **weekdays 11:30–23:00 LO 22:30 / weekends & holidays 11:30–23:00 LO 21:30**; printed main grilled Korean-beef rib-eye steak; ☎ +82-2-720-9263). **Chosun Hwaro Gui** (조선화로구이) `214996` (5 World Cup buk-ro, Mapo-gu, Seogyo-dong; **11:30–24:00, break 15:00–17:00, LO 23:30, closed Sundays**; 1++ hanu / domestic pork charcoal; ☎ +82-2-3143-1300).
+
+Rejected: **Joseon Choga Hankki Mapo** `ENPds3v1e` — hanjeongsik, galbi one dish among many. **Ssaligol** `ENP042367` — real hours (Eunpyeong-gu) but outside the first-focus list; parked. **Saebyeokjip Cheongdam** `52533` — 24-hour Gangnam listing, but the printed signature is beef tartare bibimbap (rib-eye also listed); off-brief for the KBBQ table.
+
+### Pass 98 — galbijim, Seoul (+ KBBQ found on the same pass)
+
+Kept: **Songlimga** (송림가) `KOP006631` (Visit Seoul KO, edited **4 Jun 2026**; 398 Gyeongin-ro, Guro-gu; **daily 11:30–15:00 / 17:00–21:30, closed the Seollal & Chuseok holidays**; galbijjim + hanjeongsik, charcoal yangnyeom galbi, hanu kkotdeungsim; English site has no page — KO cited; ☎ +82-507-1492-6020 · songlimga.com). **Gyeongsong** `ENPgotwff` (edited 30 Jun 2026; 1F, 22 Cheonho-daero 159-gil, Gangdong-gu; **Mon–Fri 15:00–23:00 LO 22:30 / Sat–Sun 12:00–23:00 LO 22:30**; charcoal-grilled marinated short ribs, garlic-marinated galbi signature; prices not copied; ☎ +82-507-1436-9588). **Seocho Galbi** (서초갈비) `ENP006638` (edited 6 Jun 2026; 12 Banpo-daero, Seocho-gu; **daily 10:00–22:00, open year-round**; chargrilled wanggalbi + sirloin; ☎ +82-507-1322-7157).
+
+Rejected: **Ondaljip**, **Hansikgonggan** — no official page. **Gangnam Myeonok** (Seoul) — retried, still aggregator-only. **Keungiwajip** — see pass 103.
+
+### Pass 99 — cafes, Myeong-dong / Dongdaemun
+
+Kept: **Gonggangab** `ENPy7d39v` (edited 11 May 2026; 1-2F, 48-8 Supyo-ro, Jung-gu; **daily 11:45–21:50, LO 21:20**; pudding bingsu / Space Milk Coffee; no laptops; ☎ +82-507-1362-4569). **Jilsiru - Rice Cake Cafe** (떡카페 질시루) `91797` (71 Donhwamun-ro, Jongno-gu; **Mon–Sat 08:00–20:00 / Sun 08:00–19:00, closed the day of Seollal & Chuseok**; tteok + hangwa cafe; ☎ +82-2-741-0258, 5411).
+
+Rejected: **Pink Pool Cafe / Stylenanda**, **Bizeun** — no official portal page. **Cheong Su Dang Bakery** (Ikseon) — zero results on Visit Seoul site search.
+
+### Pass 100 — cafes, Gangnam / Hongdae
+
+Kept: **Parole & Langue** `ENP0p4bkd` (10 Nov 2025; 8 Seongmisan-ro 29an-gil, Mapo-gu, Yeonnam; **13:00–21:00, closed Mondays**; square pie cafe, reservations in EN/CN/JA; ☎ +82-2-332-2527). **Antique Coffee Yeonnam Branch** `ENPfru4mc` (30 May 2025; 1F, 25-1 Yeonhui-ro, Mapo-gu; **daily 10:00–22:00**; Dirty & Cream coffee; chain — this branch only; ☎ +82-507-1401-0508).
+
+Rejected: **Dinga Cake House** — no official page and closure reports in aggregators. Not added.
+
+### Pass 101 — Busan jajangmyeon + KBBQ
+
+Kept: **Apgujeong Hanu Galbi** (압구정한우갈비) `192530` (61 Cheongnyong-ro, Geumjeong-gu; **11:30–21:30, open all year**; galbisal gui main, ribeye / marinated galbi / thin skirt / whole galbi listed; terrace; ☎ +82-51-512-0025). **Matchandeul Wangsogeumgui Haeundae** (맛찬들왕소금구이 해운대) `45590` (46 Haeun-daero 608beon-gil, Haeundae-gu; **16:00–01:00**; 14-day-aged pork belly; national chain — this address only; holiday field "Open 24/7" read as no closing day; ☎ +82-51-742-0106). **Ilpum Hanwoo** `75368` — see pass 103: **conflict found, not added**.
+
+Rejected: **Haeundae Sonumnam Amso Galbijip** — aggregator-only (the VisitKorea `73814` page is the different, already-held Haeundae Amso Galbijip at the same street but with its own phone).
+
+### Pass 102 — Busan galbijim + cafes
+
+Kept: **Cafe off.o** Visit Busan `uc_seq=2093` (860 Gijanghaean-ro, Gijang-eup; **every day 10:00–21:00, LO 20:30**; ocean-view bakery cafe; ☎ +82-51-723-8886). **Sea & Tree** `uc_seq=1966` (808 Ilgwang-ro, Ilgwang-eup, Gijang-gun; **Mon & Tue 12:00–20:00 / Wed–Sun 11:00–22:00**; kids-pool cafe; pool dates/fees seasonal, not copied; ☎ +82-507-1495-6970). **P. Ark Cafe & Bakery** `uc_seq=1445` (4F, 180 Haeyang-ro 195beon-gil, Yeongdo-gu; **Mon–Sun 10:00–23:00, open 365 days**; harbor-view bakery cafe; ☎ 051-404-9204).
+
+Rejected: **Waveon Coffee**, **Sohyang Galbijjim**, **Café EL 16.52** (page renders empty) — no usable official page. No Busan galbijim house with a clean official listing was found in any of the ten passes; the galbijim rows stay with Seoul (NOBIZIB, Ijo, Sinsin, Jingogae, Jihwaja, Dokkaebi, Songlimga).
+
+### Pass 103 — gap-fill and audit
+
+Kept: **Jayeon Chogalbi** (자연초갈비) `55136` (14-1 Daehak-ro, Busanjin-gu; **11:00–22:00, closed the day of Seollal & Chuseok**; handmade herb-aged extra-large pork spareribs; ☎ +82-51-891-7692).
+
+**Removed — Haeundae Ilpum Hanwoo.** The VisitKorea page for "Ilpum Hanwoo" `75368` is the same restaurant already held from Visit Busan `uc_seq=2195` (49 Haeundae-ro 570beon-gil, Haeundae-gu). The two official pages disagree on hours **and** phone: Visit Busan prints 11:30–22:00 (LO 21:00) with a 15:00–17:00 break and ☎ +82-507-1385-9909; VisitKorea prints 11:30–23:00 (LO 22:00), no break, ☎ +82-51-747-9900. Same test that removed Shinbalwon, Dongbaekseom Hoejip, Gaehwa, Wan Chai and Samwon Garden — **removed, not flagged**.
+
+Rejected: **Keungiwajip** — VisitKorea `80675` (62 Bukchon-ro 5-gil; 12:00–21:30) vs Visit Seoul `ENP005504` (22 Bukchon-ro; 11:30–21:00, LO 20:00) disagree on address **and** hours, and its printed signature is ganjang gejang, not galbijim. **Ssaligol** parked, not added.
+
+Line-by-line audit of all 24 keepers: every address and every hour in this round was re-read from the fetched page text above. No two official sources conflicted on any keeper. Prices printed on official pages (BBQ YUL fee band, Gyeongsong menu prices, Sea & Tree pool fee) were **not copied**.
+
+## Where the roster stands
+
+| City | Entries | Change |
+| :--- | ---: | :--- |
+| Seoul | 218 | +17 |
+| Busan | 134 | +7 / −1 |
+| Suwon | 14 | — |
+| Daejeon | 20 | — |
+| Cheonan | 13 | — |
+| **Total** | **399** | **+24 / −1** |
+
+Do not re-add Haeundae Ilpum Hanwoo unless one of the two conflicting official pages (Visit Busan `uc_seq=2195`, VisitKorea `75368`) is withdrawn or corrected. Do not re-add Gaehwa, Wan Chai, Samwon Garden, Paul & Paulina, Bobae, PAIK's, You are here Cafe or C27 unless one of the conflicting official pages is withdrawn.
