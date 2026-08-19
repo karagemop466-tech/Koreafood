@@ -24,11 +24,11 @@ Every restaurant named below survived the August 2026 verification pass: address
 
 ## 🛠️ How to use this guide
 
-* **255 verified restaurants.** Seoul 126 · Busan 83 · Suwon 14 · Daejeon 20 · Cheonan 12. (Twenty-fourth to thirty-third passes +23 on 19 August 2026 — Seoul +16, Busan +7. No new Suwon entry was sourceable; see the log.)
-* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 255 restaurants, the sourcing rules, and the leads worth chasing.
+* **279 verified restaurants.** Seoul 132 · Busan 101 · Suwon 14 · Daejeon 20 · Cheonan 12. (Thirty-fourth to forty-third passes +24 on 19 August 2026 — Seoul +6, Busan +18, largely from Visit Busan's Blue Ribbon "100 Great Places to Eat" index. Suwon remains source-limited; see the log.)
+* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 279 restaurants, the sourcing rules, and the leads worth chasing.
 * **Neighborhood walks:** **[cities/walking-food-routes.md](cities/walking-food-routes.md)** sequences verified entries into routes where the opening hours actually line up.
 * **Navigation & booking:** **[booking-and-tech-guide.md](booking-and-tech-guide.md)** — set up Naver Map and CatchTable Global before you depart.
-* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 255 rows, each with an official source URL.
+* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 279 rows, each with an official source URL.
 
 ---
 

@@ -2,7 +2,9 @@
 
 **Read this first.** The earlier version of this file advertised "535 verified spots," "40 Core Neighborhood Base Routes" and "over 1,000+ unique daily food walks." **None of those numbers were real.** The routes were padded with placeholder names that did not correspond to any restaurant (`Seoul Local Cafe 5`, `Busan Harbour Ramen 2`, `Cheonan Hub Jajangmyeon 2`, and so on), with prices that had no source, and with a permutation count that multiplied fabricated options together. Routes S11–S20 and B6–B15 were referenced but never written.
 
-This file has been rebuilt from the ground up. It now contains **only restaurants that survived verification** against an official source — VisitKorea, Visit Seoul, Visit Busan, MICHELIN, or the restaurant's own site. The full verified set is **126 entries**: 66 in Seoul, 33 in Busan, 7 in Suwon, 15 in Daejeon, 5 in Cheonan.
+This file has been rebuilt from the ground up. It now contains **only restaurants that survived verification** against an official source — VisitKorea, Visit Seoul, Visit Busan, MICHELIN, or the restaurant's own site.
+
+**Read the numbers here carefully.** The routes below were sequenced when the guide held **126 entries** (66 Seoul, 33 Busan, 7 Suwon, 15 Daejeon, 5 Cheonan). The roster has since grown to **279** across expansion passes ten to forty-three, and **those later entries have not been sequenced into the walks** — they are verified and listed in the city guides, but the routes have not been rebuilt around them. The honest totals table at the foot of this file gives the current per-city counts.
 
 **No prices appear anywhere in this repo.** Where the old file quoted a figure like "₩8,000," it was invented. To add sourced prices later, see [prices-review.md](../prices-review.md).
 
@@ -187,13 +189,13 @@ Byeongcheon sundae uses **small intestine** rather than large, so it is far less
 
 | City | Verified entries | Routes built |
 | :--- | ---: | ---: |
-| Seoul | 126 | 5 |
-| Busan | 83 | 4 |
+| Seoul | 132 | 5 |
+| Busan | 101 | 4 |
 | Suwon | 14 | 1 |
 | Daejeon | 20 | 2 |
 | Cheonan | 12 | 1 |
-| **Total** | **255** | **13** |
+| **Total** | **279** | **13** |
 
-The 129 entries added in the tenth to thirty-third expansion passes (18–19 August 2026) are **not yet sequenced into the routes above** — they are verified and listed in the city guides, but the walks have not been rebuilt around them.
+The 153 entries added in the tenth to forty-third expansion passes (18–19 August 2026) are **not yet sequenced into the routes above** — they are verified and listed in the city guides, but the walks have not been rebuilt around them.
 
 **Check hours the morning you go** — official portals lag, and Korean restaurants close on holidays this file cannot predict.

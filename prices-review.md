@@ -42,11 +42,11 @@ If no source publishes a price, **leave the row blank**. A blank row is the corr
 
 ---
 
-## The 255 verified restaurants
+## The 279 verified restaurants
 
 Roster generated from `restaurants-bookmarks.csv`. If an entry is added or removed there, update this file to match.
 
-### Seoul (126)
+### Seoul (132)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -176,9 +176,15 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 124 | Onion (Seongsu) |  | |
 | 125 | Kervan Cafe | 케르반 카페 | |
 | 126 | Samarkandcity | 사마르칸트시티 | |
+| 127 | Mugyo-dong Bugeo-guk |  | |
+| 128 | Jihwaja |  | |
+| 129 | Mongmyeok Sanbang |  | |
+| 130 | Eulji Dabang |  | |
+| 131 | Omiga (Sinsa Branch) |  | |
+| 132 | Maple Tree House Itaewon Branch |  | |
 
 
-### Busan (83)
+### Busan (101)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -265,6 +271,24 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 81 | Donghwa Banjeom |  | |
 | 82 | Myeonok Hyangcheon |  | |
 | 83 | Jinmi Eonyang Bulgogi |  | |
+| 84 | Noneun Bada | 노는바다 | |
+| 85 | Kyoto Donburi Main Branch | 교토돈부리본점 | |
+| 86 | Chowonbokguk |  | |
+| 87 | Ton shou |  | |
+| 88 | Jyugajeonghyo |  | |
+| 89 | HAREMA |  | |
+| 90 | palate |  | |
+| 91 | Gaegeum Milmyeon |  | |
+| 92 | HYTTE ROASTERY |  | |
+| 93 | BLACKUP COFFEE |  | |
+| 94 | Werk Roasters |  | |
+| 95 | Momos |  | |
+| 96 | Ops |  | |
+| 97 | Brilliant |  | |
+| 98 | bread365 |  | |
+| 99 | Bonheur Pâtisserie |  | |
+| 100 | MONSIEUR VINCENT |  | |
+| 101 | MUG Dessert LAB |  | |
 
 
 ### Suwon (14)
