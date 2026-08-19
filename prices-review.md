@@ -42,11 +42,11 @@ If no source publishes a price, **leave the row blank**. A blank row is the corr
 
 ---
 
-## The 314 verified restaurants
+## The 358 verified restaurants
 
 Roster generated from `restaurants-bookmarks.csv`. If an entry is added or removed there, update this file to match.
 
-### Seoul (142)
+### Seoul (184)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -192,9 +192,51 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 140 | Byeokje Galbi Tower Palace |  | |
 | 141 | Café Rosso |  | |
 | 142 | Taegeukdang |  | |
+| 143 | Gaehwa | 개화 | |
+| 144 | Jjamppong Zizon Jongno | 짬뽕지존 종로 | |
+| 145 | Masichaina | 맛이차이나 | |
+| 146 | Jungguk |  | |
+| 147 | Busanjib Hongdae |  | |
+| 148 | MGM Hongdae Branch |  | |
+| 149 | Eongteori Saenggogi Hongdae | 엉터리생고기 홍대 | |
+| 150 | YANG IN HWAN DAE Hongdae |  | |
+| 151 | Mapo Sutbulgalbi (Gangnam) |  | |
+| 152 | Mapo Sutbul Galbi (Yeongdeungpo) | 마포숯불갈비 | |
+| 153 | Janggun Galbi |  | |
+| 154 | Galbi Myeongga Yisang |  | |
+| 155 | Jingogae Dongdaemun |  | |
+| 156 | Sinsin Maeun galbijjim | 신신매운갈비찜 | |
+| 157 | Avelop Hongdae Flagship |  | |
+| 158 | Imi Coffee |  | |
+| 159 | Café Layered Yeonnam |  | |
+| 160 | EPI |  | |
+| 161 | Jayondo Salt Bread in Seongsu |  | |
+| 162 | Ops Bakery (Jung-gu) |  | |
+| 163 | Samsong Bakery |  | |
+| 164 | Gayaseong | 가야성 | |
+| 165 | Ogu Banjeom | 오구반점 | |
+| 166 | Manboseong | 만보성 | |
+| 167 | Wan Chai |  | |
+| 168 | Songjugjang |  | |
+| 169 | Donghunkwan |  | |
+| 170 | Janggagu |  | |
+| 171 | Gabongnu |  | |
+| 172 | Hongneung Galbijip |  | |
+| 173 | Hyeongje Galbi |  | |
+| 174 | Moguchon Sutbulgalbi | 목우촌숯불갈비 | |
+| 175 | Hanu Samgyeop | 한우삼겹 | |
+| 176 | Gwangyang Bulgogi Bonga | 광양불고기본가 | |
+| 177 | Ijo | 이조 | |
+| 178 | Cafe aA |  | |
+| 179 | Colline |  | |
+| 180 | FLAN |  | |
+| 181 | B-hind |  | |
+| 182 | Homilbat |  | |
+| 183 | Scene |  | |
+| 184 | CaféCité |  | |
 
 
-### Busan (126)
+### Busan (127)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -324,6 +366,7 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 124 | Saechong Hoetjip |  | |
 | 125 | Ssangdungi Dwaejigukbap |  | |
 | 126 | Eunha Galbi |  | |
+| 127 | Sinheunggwan |  | |
 
 
 ### Suwon (14)
@@ -371,7 +414,7 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 19 | Pungnyeon Samgyetang | 풍년삼계탕 | |
 | 20 | Gugu Jeonbok Samgyetang | 구구전복삼계탕 | |
 
-### Cheonan (12)
+### Cheonan (13)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -399,4 +442,5 @@ Restaurant sites were largely a dead end: `mdkj.co.kr` is behind a CAPTCHA, `bud
 | 10 | Kkachi Bokjip | 까치복집 | |
 | 11 | Dongmin Mokjang | 동민목장 | |
 | 12 | A-Gate Cafe | 에이게이트카페 | |
+| 13 | Girin the Maeun Galbijjim | 기린더매운갈비찜 | |
 

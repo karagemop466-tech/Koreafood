@@ -31,7 +31,7 @@ Welcome! This guide is for **two travelers from the United States** visiting Kor
 
 ## What made it into this guide
 
-**314 restaurants.** Seoul 142 · Busan 126 · Suwon 14 · Daejeon 20 · Cheonan 12.
+**358 restaurants.** Seoul 184 · Busan 127 · Suwon 14 · Daejeon 20 · Cheonan 13.
 
 That is a small number on purpose. Every entry's address and opening hours come from an **official source** — the restaurant's own site, a government tourism portal (VisitKorea, Visit Seoul, Visit Busan), or the MICHELIN Guide. If hours could not be confirmed that way, the entry was **removed entirely** rather than kept with a guess. Each city guide ends with a table explaining what was dropped and why.
 
@@ -50,13 +50,14 @@ Earlier versions of this repo listed hundreds of restaurants. Most were not real
 
 The earlier "rough planning frame" budget ranges have also been removed. They were our own guesswork, not sourced from anywhere, and a made-up number in a guide that otherwise cites its sources is exactly the kind of thing that gets trusted by mistake.
 
-**Prices are not gone for good — they are parked.** `prices-review.md` lists all 314 restaurants with a blank price field, the source rules, and instructions for filling it in. Prices can be added there whenever a real source is found, without disturbing the verified entries in the city guides.
+**Prices are not gone for good — they are parked.** `prices-review.md` lists all 358 restaurants with a blank price field, the source rules, and instructions for filling it in. Prices can be added there whenever a real source is found, without disturbing the verified entries in the city guides.
 
 ## Travel tools & Bookmarks
 
+* **[By location](cities/by-location.md)** — jajangmyeon, KBBQ, galbijim and cafes, restaurants and cafes in separate tables, grouped by neighbourhood.
 * **[Walking Food Routes](cities/walking-food-routes.md)** — neighborhood walks sequenced so the opening hours line up.
 * **[Tech & Booking Guide](booking-and-tech-guide.md)** — essential mobile apps, on-site queue instructions, and payment/cash strategy in Korea.
-* **[Bookmarks CSV](restaurants-bookmarks.csv)** — all **314 verified restaurants** with English/Korean names, neighborhood, Michelin status, and an official source URL for each. Import or copy the Korean names straight into Naver Map.
+* **[Bookmarks CSV](restaurants-bookmarks.csv)** — all **358 verified restaurants** with English/Korean names, neighborhood, Michelin status, and an official source URL for each. Import or copy the Korean names straight into Naver Map.
 
 ## Research status
 

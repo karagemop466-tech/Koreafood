@@ -977,3 +977,139 @@ No new Suwon search channel was found this round, and none was invented. The Blu
 All 20 new rows print no Korean name on their official page; those fields are left empty rather than transliterated.
 
 **Blue Ribbon index coverage:** roughly 65 of 100 entries read across the two rounds. The unread remainder is mostly "Busan's Classics", which is precisely where overlap with this guide's existing dwaeji-gukbap and milmyeon entries is densest — so the next pass over it should again be run as an audit first and a search second.
+
+---
+
+# Expansion passes 64–73 — 19 August 2026 (jajangmyeon, KBBQ, galbijim, cafes)
+
+Ten passes, official sources only. Brief: expand restaurants for black-bean noodles, Korean barbecue and galbijim; expand cafes; keep restaurants and cafes in separate tables organised by location; focus Seoul (Myeong-dong, Gangnam, Hongdae, Dongdaemun) then Busan. **+23 added.** Roster 314 → **337** (Seoul 163 · Busan 127 · Suwon 14 · Daejeon 20 · Cheonan 13).
+
+The organised view is a new file, [cities/by-location.md](cities/by-location.md): one restaurant table and one cafe table, each grouped by neighbourhood. Existing verified jajang / KBBQ / galbijim / cafe rows are indexed there alongside the new ones. Nothing was added from a search snippet.
+
+## Pass 64 — Visit Seoul Hongdae / Mapo
+
+Kept: **Busanjib Hongdae** `ENPwpiwpw` (edited 30 Jun 2026; 11:30–22:00 LO 21:00; jajangmyeon + LA galbi; no alcohol, no Muslim cooks — unlike the Myeongdong shops); **MGM Hongdae Branch** `ENPtojamy` (edited 24 Jun 2026; daily 12:00–00:00 LO 23:30); **YANG IN HWAN DAE Hongdae** `ENPxuebom` (edited 30 Jun 2026; Mon–Fri 16:00–22:00 LO 21:00; weekend hours not printed).
+
+**Ilpyeon Sirlon Hongdae Main** `ENPa2r20q` — 404. Dropped.
+
+## Pass 65 — VisitKorea jajangmyeon
+
+Kept: **Masichaina** `66922` (68 Dongmak-ro / 독막로 68, Mapo-gu; 11:30–22:00, break 16:00–17:00, year-round); **Gaehwa** `98044` (52-5 Namdaemun-ro, Myeongdong 2-ga; 11:00–21:30, **closed Saturdays**); **Jjamppong Zizon Jongno** `56369` (25 Samil-daero 15-gil; weekday/weekend split, year-round). **PAIK's NOODLE / Hong Kong Banjeom 0410 Myeongdong** — franchise, standing rule.
+
+## Pass 66 — galbijim
+
+Kept: **Sinsin Maeun galbijjim** `49616` (Yeongdeungpo; 11:00–01:00; holiday “Open 24/7” recorded as no closing day); **Jingogae Dongdaemun** `ENPfbg5iy` (edited 23 Jul 2026; 301-1 Jong-ro; Tue–Fri 11:00–21:30 / Sat–Sun 11:00–21:00, closed Mondays). **Neobijip** `ENP003422` is the existing NOBIZIB row. **Girin the Maeun Galbijjim** `57303` (Cheonan Buldang) kept as the one Cheonan add. **Myeong-dong Mountain Chicken Galbi** `138497` is in **Chuncheon**, not Seoul Myeong-dong — rejected.
+
+## Pass 67 — Visit Seoul Chinese / Seochon
+
+Kept: **Jungguk** `ENP014508` (edited 25 Jun 2026; 2 Jahamun-ro 33-gil; **11:00–13:00**, closed Sundays). The two-hour lunch window is what the official page prints; it is recorded as lunch-only, not stretched.
+
+## Pass 68 — Hongdae KBBQ on VisitKorea
+
+Kept: **Eongteori Saenggogi Hongdae** `56862` (118 Eoulmadang-ro; 11:00–23:00, year-round; this Hongdae branch only).
+
+**Paul & Paulina** — **rejected.** Two official pages, same phone, different address and hours: VisitKorea `47911` (9 Wausan-ro 23-gil, Mapo-gu, 12:00–19:00, closed national holidays) vs Visit Seoul `ENP006661` (56 Yeonhui-ro 11-gil, Seodaemun-gu, daily 11:00–18:00, closed Tuesday / Seollal / Chuseok). Same defect that removed Duru and Gurkha.
+
+## Pass 69 — Gangnam / other Seoul KBBQ
+
+Kept: **Mapo Sutbulgalbi** `ENP005757` (232 Dosan-daero, **Gangnam-gu**, not Mapo; daily 11:00–06:00, year-round; edited 3 Jun 2026); **Mapo Sutbul Galbi** `49728` (9-1 Dosin-ro 53-gil, Yeongdeungpo-gu; 11:00–22:00 — a **different** restaurant); **Janggun Galbi** `ENP042254` (11 Yongmasan-ro, Gwangjin-gu; 11:00–21:00, year-round; edited 29 May 2026); **Galbi Myeongga Yisang** (364 Jeongneung-ro, Seongbuk-gu; daily 11:30–22:00, year-round; edited 4 Jun 2026). **Nogwon Galbi** `80900` is in Yangyang — out of area.
+
+## Pass 70 — Hongdae / Yeonnam cafes
+
+Kept: **Avelop Hongdae Flagship** `ENP22oa3h` (Mon–Fri 08:00–20:00 / Sat–Sun 11:00–21:00); **Café Layered Yeonnam** (daily 10:00–22:00; this Yeonnam location only); **Imi Coffee** (12:00–21:00 LO 20:30, closed Tuesdays; edited 12 May 2026; no phone on the listing). **Hongdae Cafe** (the eight-floor complex) prints no street number — rejected.
+
+## Pass 71 — Gangnam / Seongsu / Dongdaemun cafes
+
+Kept: **EPI** `ENP9vr5hz` (1F, 518 Seolleung-ro; 07:00–21:00; no closing day); **Jayondo Salt Bread in Seongsu** `ENPxtexu0` (daily 09:00–22:00; take-out only; bake times printed). **Grandpa Factory Cafe** 404; **Bricksand Seongsu** HTTP 500.
+
+## Pass 72 — Visit Seoul bakeries feature (edited 6 Dec 2025)
+
+Kept, with the source flagged as a feature page rather than a dedicated listing: **Ops Bakery (Jung-gu)** (81 Namdaemun-ro; weekdays 10:30–20:00 / weekends 10:30–20:30; this address only — Ops is already in the Busan guide); **Samsong Bakery** (20 Jangchungdan-ro 13-gil, Hyundai City Outlet B2F; daily 11:00–22:30). Taegeukdang on the same page is already held.
+
+## Pass 73 — Busan jajang + audit
+
+Kept: **Sinheunggwan** `uc_seq=1619` (31-1 Jungdong 1-ro, Haeundae-gu; 11:30–21:00, closed Mondays). The item page rendered with address, hours and closing day, so it is cited directly rather than via the Blue Ribbon index.
+
+Suwon: not re-worked this round. The constraint is unchanged (no city portal publishing restaurant hours).
+
+## Where the roster stands
+
+| City | Entries | Change |
+| :--- | ---: | :--- |
+| Seoul | 163 | +21 |
+| Busan | 127 | +1 |
+| Suwon | 14 | — |
+| Daejeon | 20 | — |
+| Cheonan | 13 | +1 |
+| **Total** | **337** | **+23** |
+
+Hongdae is no longer a hole. Jajangmyeon, KBBQ and galbijim now have verified options in Myeong-dong, Hongdae, Gangnam, Dongdaemun and Haeundae, with cafes listed separately in [cities/by-location.md](cities/by-location.md).
+
+---
+
+# Expansion passes 74–83 — 19 August 2026 (jajangmyeon, KBBQ, galbijim, cafes)
+
+Ten further official-source passes after 64–73. Same brief: black-bean noodles, Korean barbecue, galbijim, and cafes; restaurants and cafes in separate tables organised by location; focus Seoul (Myeong-dong, Gangnam, Hongdae, Dongdaemun) then Busan. **Every address and hours line below was read off the official page itself.** Search engines were used only to find page IDs. **+21 added**, all Seoul. Roster 337 → **358** (Seoul 184 · Busan 127 · Suwon 14 · Daejeon 20 · Cheonan 13).
+
+## Pass 74 — VisitKorea jajangmyeon, Jung-gu / Jongno
+
+Kept: **Gayaseong** `47952` (6 Eulji-ro 9-gil; 11:00–21:30 LO 20:00; no closing day printed); **Ogu Banjeom** `46034` (60 Supyo-ro; since 1953; 11:00–21:30, closed every Sunday); **Manboseong** `48309` (53 Seosulla-gil; 09:00–21:00, closed every Sunday).
+
+Rejected: Incheon Chinatown names on VisitKorea `221247` (out of area).
+
+## Pass 75 — Visit Seoul KBBQ near Dongdaemun / Sinchon
+
+Kept: **Hongneung Galbijip** `ENP005598` (edited 3 Jun 2026; 85 Jegi-ro, Dongdaemun-gu; 11:30–21:30, year-round); **Hyeongje Galbi** `ENP011643` (edited 3 Jun 2026; 2 Myeongmul 1-gil, Seodaemun-gu; daily 11:00–22:00, closed Seollal & Chuseok).
+
+## Pass 76 — VisitKorea galbijim
+
+Kept: **Ijo** `47788` (8 Insadong 3-gil; 11:00–22:00; closed national holidays).
+
+Rejected: **Neobijip** `ENP003422` already held as NOBIZIB.
+
+## Pass 77 — Visit Seoul Hongdae / Sangsu cafes
+
+Kept: **Cafe aA** `ENP000997` (daily 12:00–23:30, year-round; last official edit **1 Feb 2021**, flagged in-row); **Colline** `ENP040675` (edited 9 May 2026; Sun–Thu 10:30–23:00 / Fri–Sat 10:30–24:00); **FLAN** `ENPjns5q9` (edited **12 Aug 2026**; 11:00–21:00, closed 1st Monday); **B-hind** `ENP011936` (edited 9 May 2026; Mon–Fri 11:30–22:00 / Sat–Sun 13:00–22:00, closed Seollal & Chuseok; no phone).
+
+## Pass 78 — Visit Seoul Seongsu cafes
+
+Kept: **Scene** `ENPut7t7t` (edited 17 Jun 2025; daily 08:30–22:00); **CaféCité** `ENPcsfluy` (edited 11 Nov 2025; 10:00–22:00 daily; card only).
+
+## Pass 79 — VisitKorea KBBQ, Myeongdong / Gangnam / Jongno
+
+Kept: **Moguchon Sutbulgalbi** `59612` (49-1 Seonggyungwan-ro; 11:00–22:00, break 15:00–16:00, LO 20:30; no closing day); **Hanu Samgyeop** `51582` (31 Myeongdong 4-gil; 11:30–22:00 LO 21:00; no closing day); **Gwangyang Bulgogi Bonga** `99426` (16 Dogok-ro 99-gil, Gangnam; 11:30–22:00, break 15:00–17:00, LO 21:00, year-round).
+
+Rejected: **PALSAIK Samgyeopsal Myeongdong** `57921` (franchise); **James Cheese Deunggalbi Myeongdong** `58261` (HTTP 400 on both VisitKorea paths).
+
+## Pass 80 — Visit Seoul Korean-Chinese
+
+Kept: **Wan Chai** `ENP012577` (edited 26 Jun 2026; 50-7 Myeongmul-gil, Sinchon; 11:00–21:00, weekday break 15:00–16:30, closed Mondays). A second Visit Seoul URL (`Wan-Chai_/12578`) prints the **same** address, phone and hours — not a conflict. **Songjugjang** (edited 29 May 2026; 203 Mullae-ro; daily 11:00–21:30, Mon–Fri break 15:30–17:00). **Donghunkwan** (edited 1 Jun 2026; 20 Siheung-daero 63-gil, Geumcheon-gu; 11:00–21:30 every day).
+
+Rejected: **Bobae Banjeum Myeongdong** (franchise).
+
+## Pass 81 — more Korean-Chinese
+
+Kept: **Janggagu** `ENPsknabd` (edited 22 Jul 2026; 19 Yeonseo-ro 4-gil, Eunpyeong-gu; 11:00–21:30, closed Sundays — live page, not the stale search snippet that said 22:00 / open daily); **Gabongnu** (edited 22 Jul 2026; 5-27 Saemunan-ro 5-gil; Mon–Sat 11:30–21:00, closed Sundays).
+
+## Pass 82 — Sinchon cafe + reject sweep
+
+Kept: **Homilbat** `ENPpteyc2` (edited 6 Aug 2026; 43 Sinchonnyeok-ro; Mon–Sun 12:00–22:00 LO 21:30).
+
+Rejected: **The Chinese Restaurant** (Hyatt hotel); **Yoojung Restaurant** `199571` (off-brief); **Eongteori Saenggogi Myeongdong** (franchise).
+
+## Pass 83 — verification
+
+Re-read every keeper page used in this round. Wan Chai’s two official URLs agree. Janggagu and Songjugjang hours were taken from the live official pages, not from search snippets that disagreed with them. No two official sources conflicted on any keeper.
+
+Suwon: not re-worked. The constraint is unchanged.
+
+## Where the roster stands
+
+| City | Entries | Change |
+| :--- | ---: | :--- |
+| Seoul | 184 | +21 |
+| Busan | 127 | — |
+| Suwon | 14 | — |
+| Daejeon | 20 | — |
+| Cheonan | 13 | — |
+| **Total** | **358** | **+21** |
