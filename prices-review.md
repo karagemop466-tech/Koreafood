@@ -42,11 +42,11 @@ If no source publishes a price, **leave the row blank**. A blank row is the corr
 
 ---
 
-## The 126 verified restaurants
+## The 169 verified restaurants
 
 Roster generated from `restaurants-bookmarks.csv`. If an entry is added or removed there, update this file to match.
 
-### Seoul (66)
+### Seoul (87)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -116,8 +116,29 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 64 | Jaembaeok | 잼배옥 | |
 | 65 | Gangseo Myeonok | 강서면옥 | |
 | 66 | Mirakjeong | 미락정 | |
+| 67 | Deogwon Kkorigomtang Bangchitang | 덕원꼬리곰탕방치탕 | |
+| 68 | Hamheung Naengmyeon | 함흥냉면 | |
+| 69 | Haeju Naengmyeon | 해주냉면 | |
+| 70 | Neungrado Myeongdong Branch | 능라도 명동점 | |
+| 71 | Samwon Garden | 삼원가든 | |
+| 72 | Joseonok | 조선옥 | |
+| 73 | Daepyeong Galbi | 대평갈비 | |
+| 74 | Gwanghwamun Gukbap | 광화문국밥 | |
+| 75 | Tongdwaeji Duruchigi | 통돼지두루치기 | |
+| 76 | Myeongdong Busanjib | 명동부산집 | |
+| 77 | Myeongdong Chaeum Hanjongshik | 명동채움 한정식 | |
+| 78 | Ojang-dong Hamheung Naengmyeon | 오장동 함흥냉면 | |
+| 79 | Gaeseong Mandu Koong | 개성만두 궁 | |
+| 80 | Jongro Seolleongtang | 종로설렁탕 | |
+| 81 | Oegojip Seolleongtang | 외고집설렁탕 | |
+| 82 | Jinmi Pyeongyang Naengmyeon | 진미평양냉면 | |
+| 83 | Won Gopchang | 원곱창 | |
+| 84 | Samgyeopsal Jeonmunjeom Daetongnyeong | 삼겹살전문점대통령 | |
+| 85 | Vegan Kitchen | — | |
+| 86 | KAMPUNGKU | — | |
+| 87 | MaeHwa Lamb Skewers Myeongdong | — | |
 
-### Busan (33)
+### Busan (47)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -154,6 +175,20 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 31 | Samihun | 사미헌 | |
 | 32 | Yeongjin Sikdang | 영진식당 | |
 | 33 | Cor Pasta Bar | 코르 파스타바 | |
+| 34 | Haeundae Gaya Milmyeon | 해운대 가야밀면 | |
+| 35 | 1969 Buwondong Kalguksu Busan Main Branch | 1969부원동칼국수 부산본점 | |
+| 36 | Pyeongan-do Jokbal | 평안도족발 | |
+| 37 | Gwangalli Eonyang Bulgogi Busanjip | — | |
+| 38 | Hapcheon Gukbapjip | 합천국밥집 | |
+| 39 | Sinchang Gukbap | 신창국밥 | |
+| 40 | Gayapocha Seonjigukbap Main Branch | 가야포차선지국밥 본점 | |
+| 41 | Pohang Dwaeji Gukbap | 포항돼지국밥 | |
+| 42 | Geumsubokguk Haeundae Branch | 금수복국 | |
+| 43 | Jeju Bokguk | 제주복국 | |
+| 44 | 100.1.pyeongnaeng | 백일평냉 | |
+| 45 | Halmaejip Hoeguksu | 할매집회국수 | |
+| 46 | Hongseongbang | 홍성방 | |
+| 47 | Marine Buffet | 마린뷔페 | |
 
 ### Suwon (7)
 
@@ -167,7 +202,7 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 6 | Nostalgic Dalgona | 추억의달고나 | |
 | 7 | Suwon Yeongdong Market | 수원 영동시장 | |
 
-### Daejeon (15)
+### Daejeon (20)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -186,8 +221,13 @@ Roster generated from `restaurants-bookmarks.csv`. If an entry is added or remov
 | 13 | Hanbat Sikdang | 한밭식당 | |
 | 14 | Sindo Kalguksu Main Store | 신도칼국수 본점 | |
 | 15 | Buchu Haemul Kalguksu Sikdang | 부추해물칼국수식당 | |
+| 16 | Hanmaeum Naengmyeon | 한마음냉면 | |
+| 17 | Gyeryong Samgyetang | 계룡삼계탕 | |
+| 18 | Hanbang Samgyetang | 한방삼계탕 | |
+| 19 | Pungnyeon Samgyetang | 풍년삼계탕 | |
+| 20 | Gugu Jeonbok Samgyetang | 구구전복삼계탕 | |
 
-### Cheonan (5)
+### Cheonan (8)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -208,4 +248,6 @@ Two concrete starting points, both noted during verification:
 * **VisitKorea detail pages list 대표메뉴 (signature dish) but generally not prices.** The Korean print view — `korean.visitkorea.or.kr/detail/ms_detail_print.do?cotid=<uuid>` — is the richest version of those pages and is worth a look per entry, but expect dish names rather than amounts.
 
 Restaurant sites were largely a dead end: `mdkj.co.kr` is behind a CAPTCHA, `budnamujip.com` returns 406, and several others publish menus as images with no text.
-
+| 6 | Jangkalguksu | 장칼국수 | |
+| 7 | Jeongsang Galbi | 정상갈비 | |
+| 8 | Galjae Sanjang | 갈재산장 | |

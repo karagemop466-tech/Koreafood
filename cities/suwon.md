@@ -43,5 +43,8 @@
 
 | Entry | Reason |
 | :--- | :--- |
-| Individual Chicken Street shops (Maehyang, Yongseong, Jinmi) | Named on the street page; **no official hours per shop**. |
+| Individual Chicken Street shops (Maehyang, Yongseong, Jinmi) | Named on the street page; **no official hours per shop**. Rechecked 18 Aug 2026: the Suwon city tourism page that once printed per-shop addresses and hours (`suwon.go.kr/web/visitsuwon/tour05/pages.do?seqNo=147`) now returns **404** on the rebuilt VISIT SUWON site, and the current site has no restaurant directory. Search-engine copies of the dead page were **not** treated as a source. |
+| Cheongchun Haejangguk (청춘해장국, Jangan-gu) | Real VisitKorea listing, but `contentsView.do?vcontsId=54585` returned **HTTP 400** on every attempt this pass, so the hours could not be read at source. Retry next pass. |
+| Chicken Street shops, second attempt (19 Aug 2026) | KTO's Korean site does publish per-shop hours in two travel articles — Jinmi 12:00–24:00 closed Mon, Jangan 13:00–01:00 year-round, Yongseong 11:30–00:30 closed Tue, Maehyang 11:30–01:00, Nammun 12:00–until sold out — but the Suwon city page printed **different** hours for the same shops (Jinmi/Jangan/Maehyang all 12:00–01:00), and KTO's own structured listing for Jinmi Tongdak (`ms_detail`, cotid de406e05…) prints no hours at all. **Two official sources disagree, so none of the shops was added.** |
+| Hwacheong Galbi · Sambuja Galbi Woncheon | Named in VisitKorea's Suwon wanggalbi feature (`vcontsId=221253`) with address, phone and menu prices — but that feature prints **no opening hours** for any restaurant, so neither clears the bar. |
 | Sobok Galbi / Gowon Galbi | VisitKorea listings exist, but this pass did not confirm they are in **Suwon** before adding. |
