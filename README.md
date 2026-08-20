@@ -24,17 +24,17 @@ Every restaurant named below survived the August 2026 verification pass: address
 
 ## 🛠️ How to use this guide
 
-* **376 verified restaurants.** Seoul 201 · Busan 128 · Suwon 14 · Daejeon 20 · Cheonan 13. (Passes 84–93 on 19 August 2026: **+21** jajangmyeon, KBBQ and cafes, focused on Myeong-dong, Gangnam, Hongdae, Dongdaemun and Busan; **Gaehwa, Wan Chai and Samwon Garden removed** because two official pages disagree on hours. Location-organised tables: [cities/by-location.md](cities/by-location.md).)
-* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 376 restaurants, the sourcing rules, and the leads worth chasing.
+* **448 verified restaurants.** Seoul 257 · Busan 144 · Suwon 14 · Daejeon 20 · Cheonan 13. (Passes 114–123 on 19 August 2026: **+25** — spicy bibim-naengmyeon, KBBQ, local Korean food and cafes, focused on Myeong-dong/Euljiro, Gangnam, Hongdae/Mapo, Dongdaemun/Jongno and Busan. Every keeper's address and hours were read from its official page; invalid-hour, HTTP-error and empty-body candidates were rejected. Location-organised tables: [cities/by-location.md](cities/by-location.md).)
+* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 448 restaurants, the sourcing rules, and the leads worth chasing.
 * **Neighborhood walks:** **[cities/walking-food-routes.md](cities/walking-food-routes.md)** sequences verified entries into routes where the opening hours actually line up.
 * **Navigation & booking:** **[booking-and-tech-guide.md](booking-and-tech-guide.md)** — set up Naver Map and CatchTable Global before you depart.
-* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 376 rows, each with an official source URL.
+* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 448 rows, each with an official source URL.
 
 ---
 
 ## 🌆 City guides
 
-* **[By location](cities/by-location.md)** — jajangmyeon, KBBQ, galbijim and cafes; restaurants and cafes in separate tables, grouped by neighbourhood
+* **[By location](cities/by-location.md)** — jajangmyeon, KBBQ, galbijim, tonkatsu, spicy cold noodles, steak, local Korean food and cafes; restaurants and cafes in separate tables, grouped by neighbourhood
 * **[Seoul Guide](cities/seoul.md)** — Myeongdong, Jongno/Insadong/Bukchon, Hongdae/Mapo, Gangnam, Dongdaemun, Gwangjang Market, Yaksu/Sindang, Seocho
 * **[Busan Guide](cities/busan.md)** — Nampo, Seomyeon, Dongnae, Nam-gu, Yeonje, Haeundae, Yeongdo
 * **[Suwon Guide](cities/suwon.md)** — Paldal-gu galbi and Chicken Street (Hwaseong)
