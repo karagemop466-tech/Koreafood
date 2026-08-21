@@ -1,6 +1,6 @@
 const CITY_ORDER = ["Seoul", "Busan", "Suwon", "Daejeon", "Cheonan"];
 
-const state = { city: "all", q: "", sort: "name", data: [] };
+const state = { city: "all", q: "", sort: "location", type: "restaurants", data: [], restaurants: [], cafes: [] };
 
 function esc(s) {
   return String(s ?? "")
@@ -58,7 +58,9 @@ function filtered() {
     });
   }
   const key = state.sort;
-  rows = rows.slice().sort((a, b) => String(a[key] || a.name).localeCompare(String(b[key] || b.name), "en"));
+  rows = rows.slice().sort((a, b) => key === "location"
+    ? `${a.city} ${a.address} ${a.name}`.localeCompare(`${b.city} ${b.address} ${b.name}`, "en")
+    : String(a[key] || a.name).localeCompare(String(b[key] || b.name), "en"));
   return rows;
 }
 
@@ -86,8 +88,8 @@ function renderTable() {
 }
 
 async function init() {
-  const res = await fetch("data.json");
-  state.data = await res.json();
+  const [restaurants, cafes] = await Promise.all([fetch("data.json").then(r => r.json()), fetch("cafes.json").then(r => r.json())]);
+  state.restaurants = restaurants; state.cafes = cafes; state.data = restaurants;
   renderChart(state.data);
   renderFilters();
   renderTable();
@@ -95,10 +97,13 @@ async function init() {
     state.q = e.target.value;
     renderTable();
   });
-  document.getElementById("sort").addEventListener("change", (e) => {
-    state.sort = e.target.value;
-    renderTable();
-  });
+  document.getElementById("sort").addEventListener("change", (e) => { state.sort = e.target.value; renderTable(); });
+  document.querySelectorAll(".tab").forEach((b) => b.addEventListener("click", () => {
+    state.type = b.dataset.type; state.data = state.type === "cafes" ? state.cafes : state.restaurants;
+    document.querySelectorAll(".tab").forEach(x => x.classList.toggle("active", x === b));
+    document.getElementById("place-heading").textContent = state.type === "cafes" ? "Cafe" : "Restaurant";
+    renderChart(state.data); renderFilters(); renderTable();
+  }));
 }
 
 init();
