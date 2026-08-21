@@ -42,11 +42,11 @@ If no source publishes a price, **leave the row blank**. A blank row is the corr
 
 ---
 
-## The 448 verified restaurants
+## The 469 verified restaurants and cafes
 
 Roster generated from `docs/data.json`. If an entry is added or removed there, update this file to match.
 
-### Seoul (257)
+### Seoul (272)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -307,8 +307,23 @@ Roster generated from `docs/data.json`. If an entry is added or removed there, u
 | 255 | Rain Report Rainbow |  | |
 | 256 | Moowee Nakwon |  | |
 | 257 | Seoul Coffee Ikseon Branch |  | |
+| 258 | Jincheongyujeom |  | |
+| 259 | Gangnam Gyoja |  | |
+| 260 | Eulmildae Pyeongyang Naengmyeon | 을밀대평양냉면 | |
+| 261 | MBRO Donkkaseu | 엠브로돈까스 | |
+| 262 | Haengun Donkkaseu | 행운돈까스 | |
+| 263 | Heukwoojeong Gangnam |  | |
+| 264 | Donga Naengmyeon |  | |
+| 265 | Oriental Roast Chicken |  | |
+| 266 | Seongsan Wanggalbi |  | |
+| 267 | Busan Galbi |  | |
+| 268 | Wolfgang's Steakhouse |  | |
+| 269 | Changgo 43 |  | |
+| 270 | Coffee Hanyakbang Hyehwa Branch |  | |
+| 271 | Cafe Highwaist Ikseon Branch |  | |
+| 272 | 1in1jan |  | |
 
-### Busan (144)
+### Busan (150)
 
 | # | Restaurant | Korean | Price (dish — amount — source — date checked) |
 | :--- | :--- | :--- | :--- |
@@ -528,3 +543,4 @@ Two concrete starting points, both noted during verification:
 * **VisitKorea detail pages list 대표메뉴 (signature dish) but generally not prices.** The Korean print view — `korean.visitkorea.or.kr/detail/ms_detail_print.do?cotid=<uuid>` — is the richest version of those pages and is worth a look per entry, but expect dish names rather than amounts.
 
 Restaurant sites were largely a dead end: `mdkj.co.kr` is behind a CAPTCHA, `budnamujip.com` returns 406, and several others publish menus as images with no text.
+urant sites were largely a dead end: `mdkj.co.kr` is behind a CAPTCHA, `budnamujip.com` returns 406, and several others publish menus as images with no text.

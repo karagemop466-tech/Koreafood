@@ -24,11 +24,11 @@ Every restaurant named below survived the August 2026 verification pass: address
 
 ## 🛠️ How to use this guide
 
-* **448 verified restaurants.** Seoul 257 · Busan 144 · Suwon 14 · Daejeon 20 · Cheonan 13. (Passes 114–123 on 19 August 2026: **+25** — spicy bibim-naengmyeon, KBBQ, local Korean food and cafes, focused on Myeong-dong/Euljiro, Gangnam, Hongdae/Mapo, Dongdaemun/Jongno and Busan. Every keeper's address and hours were read from its official page; invalid-hour, HTTP-error and empty-body candidates were rejected. Location-organised tables: [cities/by-location.md](cities/by-location.md).)
-* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 448 restaurants, the sourcing rules, and the leads worth chasing.
+* **469 verified restaurants and cafes.** Seoul 272 · Busan 150 · Suwon 14 · Daejeon 20 · Cheonan 13. (Passes 124–133 on 21 August 2026: **+21** — black-bean noodles, KBBQ, galbijim, tonkatsu, spicy cold noodles, fancy steak, Korea-only dishes and cafes, focused on Myeong-dong, Gangnam, Hongdae, Dongdaemun and Busan. Every keeper's address and hours were read from its official page. Location-organised tables: [cities/by-location.md](cities/by-location.md).)
+* **No prices.** Prices previously shown here were not sourced from the restaurants. Only MICHELIN's own ₩/₩₩ bands appear, where MICHELIN publishes them. Prices are parked rather than abandoned — **[prices-review.md](prices-review.md)** holds a blank row for all 469 restaurants and cafes, the sourcing rules, and the leads worth chasing.
 * **Neighborhood walks:** **[cities/walking-food-routes.md](cities/walking-food-routes.md)** sequences verified entries into routes where the opening hours actually line up.
 * **Navigation & booking:** **[booking-and-tech-guide.md](booking-and-tech-guide.md)** — set up Naver Map and CatchTable Global before you depart.
-* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 448 rows, each with an official source URL.
+* **Bookmarks:** **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** — 469 rows, each with an official source URL.
 
 ---
 
