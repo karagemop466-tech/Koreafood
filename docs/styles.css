@@ -27,6 +27,9 @@ h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 600; margin: 0 0 0.6rem
 h2 { font-size: 1rem; font-weight: 600; margin: 0 0 0.75rem; color: var(--muted); }
 .lede { max-width: 42rem; color: var(--muted); margin: 0 0 1rem; }
 .links { display: flex; gap: 1rem; flex-wrap: wrap; }
+.tabs { display: flex; gap: .5rem; margin-top: 1rem; }
+.tab { border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 8px; padding: .55rem 1rem; font: inherit; cursor: pointer; }
+.tab.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 .links a, td a { color: var(--accent); }
 .stats { padding-bottom: 1rem; }
 .chart { display: grid; gap: 0.45rem; }

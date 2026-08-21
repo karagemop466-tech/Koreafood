@@ -3,16 +3,17 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Korea 2026 Food Guide — Verified restaurants</title>
-  <meta name="description" content="448 officially verified restaurants for Seoul, Busan, Suwon, Daejeon, and Cheonan. Hours and addresses from VisitKorea, Visit Seoul, Visit Busan, or MICHELIN." />
+  <title>Korea 2026 Food Guide — Verified restaurants & cafes</title>
+  <meta name="description" content="372 officially verified restaurants and 76 cafes for Seoul, Busan, Suwon, Daejeon, and Cheonan. Hours and addresses from VisitKorea, Visit Seoul, Visit Busan, or MICHELIN." />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <header class="hero">
     <p class="eyebrow">Korea · 31 Oct – 22 Nov 2026</p>
     <h1>Verified food map</h1>
+    <nav class="tabs" aria-label="Place type"><button class="tab active" data-type="restaurants">Restaurants</button><button class="tab" data-type="cafes">Cafes</button></nav>
     <p class="lede">
-      Only restaurants whose <strong>address and hours</strong> appear on an official page
+      Only places whose <strong>address and hours</strong> appear on an official page
       (VisitKorea, Visit Seoul, Visit Busan, MICHELIN, or the restaurant’s own site).
       Recheck every listing in October 2026 before you go.
     </p>
@@ -37,6 +38,7 @@
       <label>
         <span>Sort</span>
         <select id="sort">
+          <option value="location" selected>Location</option>
           <option value="name">Name A–Z</option>
           <option value="hours">Hours</option>
           <option value="category">Category</option>
@@ -52,7 +54,7 @@
       <table>
         <thead>
           <tr>
-            <th>Restaurant</th>
+            <th id="place-heading">Restaurant</th>
             <th>City / area</th>
             <th>Hours</th>
             <th>What they serve</th>
