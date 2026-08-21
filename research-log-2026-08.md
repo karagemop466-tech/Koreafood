@@ -1400,3 +1400,28 @@ No facts were copied from search snippets, no printed prices were copied, and no
 | Daejeon | 20 | — |
 | Cheonan | 13 | — |
 | **Total** | **448** | **+25** |
+
+
+---
+
+# Expansion passes 124–133 — 21 August 2026 (jajangmyeon, KBBQ, galbijim, tonkatsu, spicy cold noodles, steak, local Korean food, cafes)
+
+Ten official-source passes after 114–123. Same standard: **address and hours both read off the official page in this session.** Search engines were used only to find page IDs. Focus: Seoul (Myeong-dong, Gangnam, Hongdae, Dongdaemun) then Busan. Restaurants and cafes kept in separate location tables.
+
+**Result: +21 added** to the CSV / city guides. Roster **448 → 469** (Seoul 257→272 · Busan 144→150). No removals.
+
+## What each pass did
+
+- **124 — jajangmyeon / Korean-Chinese:** Visit Seoul and VisitKorea jajangmyeon results were already held, franchise-rejected (Bobae, PAIK's) or previously barred (Gaehwa, Wan Chai). **No add.**
+- **125 — local Korean, Hongdae / Yeonnam:** kept **Jincheongyujeom** from Visit Seoul `ENPtgef38` (edited 7 Jul 2026).
+- **126 — noodles / Gangnam + Mapo:** kept **Gangnam Gyoja** `ENP004447` and **Eulmildae Pyeongyang Naengmyeon** VisitKorea `47854`.
+- **127 — tonkatsu:** kept **MBRO Donkkaseu** `59341` and **Haengun Donkkaseu** `47663`. Rejected Yubin Wang Donkkaseu (HTTP 400), Wang Donkkaseu Wang Naengmyeon (empty), Eungam-dong Donkkaseu (HTTP 400).
+- **128 — KBBQ / steak, Gangnam and Mapo:** kept **Heukwoojeong Gangnam** `ENPkfb1he`, **Seongsan Wanggalbi** `ENP014893`, **Wolfgang's Steakhouse** `ENP000441` (hours filled from the live page; it had been a JSON stub only).
+- **129 — Dongdaemun / Itaewon / Yeouido:** kept **Busan Galbi** `ENP013929`, **Donga Naengmyeon** `_/6510`, **Oriental Roast Chicken** `ENP022996`, **Changgo 43** `ENP006157`.
+- **130 — Seoul cafes:** kept **Coffee Hanyakbang Hyehwa Branch** `ENPscbjew`, **Cafe Highwaist Ikseon Branch** `ENP038783`, **1in1jan** `ENP042103`. Rejected HANS (HTTP 500), A. by BOM (salon), Hongdae Cafe (no street number).
+- **131 — Busan cafes:** kept **Piedra** `uc_seq=2614`, **M543 Cafe. Gallery** `2163`, **Café 385** `2099`.
+- **132 — Busan cafes, retry:** kept **ORRD** `2146`, **Café EL 16.52** `1967` (previously empty; now prints hours), **Casa De Lux** `2087`.
+- **133 — audit:** names checked against CSV and JSON. No duplicate spelling. No second official source with conflicting hours on any keeper. Choegojip Sutbul Dakgalbi, Hongs Jjukkumi Hongdae, Samarkand `ENPqqfcs5` remain rejected.
+
+The GitHub Pages viewer was rebuilt so restaurants and cafes stay on separate tabs, grouped by city and neighbourhood, with dish filters and official-source links.
+

@@ -1694,5 +1694,167 @@
         "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=281&lang_cd=en"
       }
     ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Coffee Hanyakbang Hyehwa Branch",
+    "nameEn": "Coffee Hanyakbang Hyehwa Branch",
+    "nameKo": "",
+    "address": "9 Dongsung 2-gil, Jongno-gu (Hyehwa)",
+    "michelin": "None",
+    "notes": "Visit Seoul (published 19 Nov 2024, edited 12 May 2026): Hyehwa branch of the Euljiro coffee house; hand-drip filter coffee, milk teas and ades; desserts and bread from Hyemindang. This Hyehwa address only. Hyehwa Station Exit 2, 297 m. Official English page prints no Korean name. ☎ +82-70-4200-4242",
+    "hours": "Sun–Thu 12:00–21:00 / Fri–Sat 12:00–22:00 (last order 30 minutes before closing). Daily.",
+    "phone": "+82-70-4200-4242",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/dongdaemunarea/2024-coffehanyakbang/ENPscbjew"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "Cafe Highwaist Ikseon Branch",
+    "nameEn": "Cafe Highwaist Ikseon Branch",
+    "nameKo": "",
+    "address": "18 Donhwamun-ro 11da-gil, Jongno-gu (Ikseon-dong)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 9 May 2026): Ikseon-dong dessert cafe in a hanok; scones and cakes. This Ikseon address only. Jongno 3-ga Station Exit 6, 119 m. Official English page prints no Korean name or phone. Menu prices are not copied.",
+    "hours": "Daily 09:00–22:00. Open as usual on public holidays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/CafeHighwaistIkseon/ENP038783"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "category": "Cafe",
+    "name": "1in1jan",
+    "nameEn": "1in1jan",
+    "nameKo": "",
+    "address": "534 Yeonseo-ro, Eunpyeong-gu (Eunpyeong Hanok Village)",
+    "michelin": "None",
+    "notes": "Visit Seoul (edited 29 May 2026): multi-floor cafe at Eunpyeong Hanok Village; drinks and desserts with Korean flavour. Hours differ by floor. Far north-west of the tourist core. Official English page prints no Korean name. ☎ +82-507-1487-1270",
+    "hours": "1F–2F 10:00–20:30 / 3F 10:00–19:00 (weekends 20:00) / 4F–6F 11:00–19:30. Closed Mondays (open as usual if Monday is a public holiday). Tue–Sun.",
+    "phone": "+82-507-1487-1270",
+    "sources": [
+      {
+        "label": "Visit Seoul",
+        "url": "https://english.visitseoul.net/restaurants/1in1jan/ENP042103"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Cafe",
+    "name": "Piedra",
+    "nameEn": "Piedra",
+    "nameKo": "",
+    "address": "2F, Baeksan Mansion, 51 Gwangnam-ro, Suyeong-gu (Gwangalli)",
+    "michelin": "None",
+    "notes": "Visit Busan: Gwangalli dessert cafe; potato cake and orange shortcake are the printed signatures; tea by aroma; pets welcome. Geumnyeonsan Station Exit 5, 5-minute walk. Official English page prints no Korean name or phone.",
+    "hours": "Tue–Sun 11:00–20:00. Closed Mondays.",
+    "phone": "",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000201001001000&uc_seq=2614"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Cafe",
+    "name": "M543 Cafe. Gallery",
+    "nameEn": "M543 Cafe. Gallery",
+    "nameKo": "",
+    "address": "42-10 Gumandeok-ro 59beon-gil, Buk-gu (Mandeok)",
+    "michelin": "None",
+    "notes": "Visit Busan: gallery cafe in Mandeok-dong; cafe and gallery on 2F, rooftop terrace on 3F; pets on the rooftop only. Official English page prints no Korean name. ☎ +82-70-4225-5430",
+    "hours": "Tue–Sun 10:00–22:00 (last order 21:30). Closed every Monday.",
+    "phone": "+82-70-4225-5430",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=2163&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Cafe",
+    "name": "Café 385",
+    "nameEn": "Café 385",
+    "nameKo": "",
+    "address": "539 Taejong-ro, Yeongdo-gu",
+    "michelin": "None",
+    "notes": "Visit Busan: four-floor ocean-view bakery cafe on Yeongdo; views of Oryukdo and Busandaegyo Bridge. Official English page prints no Korean name. ☎ +82-507-1431-0492",
+    "hours": "Every day 10:00–22:00 (last order 21:30).",
+    "phone": "+82-507-1431-0492",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=2099&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Cafe",
+    "name": "ORRD",
+    "nameEn": "ORRD",
+    "nameKo": "",
+    "address": "17 Daedong-ro 107beon-gil, Sasang-gu (Hakjang-dong)",
+    "michelin": "None",
+    "notes": "Visit Busan: four-floor garden cafe in Hakjang-dong with homemade sweets; dog-friendly ground floor and outdoor tables. Sasang-gu, west of the tourist core. Official English page prints no Korean name. ☎ +82-507-1374-8669",
+    "hours": "Everyday 11:00–23:00. Open 365 days.",
+    "phone": "+82-507-1374-8669",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=2146&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Cafe",
+    "name": "Café EL 16.52",
+    "nameEn": "Café EL 16.52",
+    "nameKo": "",
+    "address": "177 Amnamgongwon-ro, Seo-gu (Songdo)",
+    "michelin": "None",
+    "notes": "Visit Busan: seven-floor ocean-view bakery cafe in Songdo; wave-shaped architecture; roasting cafe on 3F; pets allowed on the rooftop. Official English page prints no Korean name. ☎ +82-507-1409-8881",
+    "hours": "Everyday 10:00–21:30 (last order 21:00).",
+    "phone": "+82-507-1409-8881",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=1967&lang_cd=en"
+      }
+    ]
+  },
+  {
+    "city": "Busan",
+    "category": "Cafe",
+    "name": "Casa De Lux",
+    "nameEn": "Casa De Lux",
+    "nameKo": "",
+    "address": "Store #201, 2F, 114 Seojeon-ro 58beon-gil, Busanjin-gu (Jeonpo / Seomyeon)",
+    "michelin": "None",
+    "notes": "Visit Busan: media-art gallery cafe on Jeonpo Cafe Street; the body also spells it Casa De Luk. Jeonpo Station Exit 4, 1-minute walk. Official English page prints no Korean name. ☎ +82-507-1469-0598",
+    "hours": "Everyday 11:10–20:00 (last order 19:30).",
+    "phone": "+82-507-1469-0598",
+    "sources": [
+      {
+        "label": "Visit Busan",
+        "url": "https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302003001000&uc_seq=2087&lang_cd=en"
+      }
+    ]
   }
 ]
